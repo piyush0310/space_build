@@ -1,0 +1,59 @@
+import type { Metadata } from "next";
+import Banner from "./Banner";
+import Content from "./Content";
+
+import Portfolio from "@/components/Portfolio";
+import Testimonials from "@/components/Testimonials";
+import Services from "@/components/Services";
+import Blog from "@/components/Blog";
+
+export const metadata: Metadata = {
+  title: "Vastu Modular Kitchen Designer CR Park",
+  description:
+    "Vastu Modular Kitchen Designer CR Park, with Price | Vasteior. Looking for a Vastu modular kitchen designer in CR Park with price details? Vasterior delivers functional, stylish & Vastu-aligned kitchen interiors.",
+  keywords:
+    "vastu modular kitchen designer cr park, vastu interior designer cr park, residential interiors cr park",
+  alternates: {
+    canonical:
+      "https://www.vasterior.com/city/vastu-modular-kitchen-designer-cr-park",
+  },
+  openGraph: {
+    type: "website",
+    url: "https://www.vasterior.com/city/vastu-modular-kitchen-designer-cr-park",
+    title: "Vastu Modular Kitchen Designer CR Park",
+    description:
+      "Vastu Modular Kitchen Designer CR Park, with Price | Vasteior. Looking for a Vastu modular kitchen designer in CR Park with price details? Vasterior delivers functional, stylish & Vastu-aligned kitchen interiors.",
+    images: [
+      {
+        url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
+        width: 1200,
+        height: 630,
+        alt: "Vastu Modular Kitchen Designer CR Park",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@vasterior",
+    title: "Vastu Modular Kitchen Designer CR Park",
+    description:
+      "Vastu Modular Kitchen Designer CR Park, with Price | Vasteior. Looking for a Vastu modular kitchen designer in CR Park with price details? Vasterior delivers functional, stylish & Vastu-aligned kitchen interiors.",
+    images: [
+      "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
+    ],
+  },
+  icons: { icon: "/favicon.ico" },
+};
+
+export default function VastuModularKitchenDesignerCRPark() {
+  return (
+    <div className="min-h-screen bg-[#FFF1E0]">
+      <Banner />
+      <Content />
+      <Services />
+      <Portfolio />
+      <Blog />
+      <Testimonials />
+    </div>
+  );
+}
