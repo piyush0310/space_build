@@ -221,7 +221,7 @@ onMouseLeave={() => {
                     className="text-white hover:text-white font-medium text-[10px] lg:text-[11px] xl:text-sm tracking-normal xl:tracking-wide transition-colors duration-200 whitespace-nowrap flex items-center"
                   >
                     {item.name === "HOME" ? (
-  <Home size={18} strokeWidth={2} className="text-gray-900" />
+  <Home size={18} strokeWidth={2} color= "White" />
 ) : item.name === "CERTIFICATES" ? (
   <span className="font-bold">{item.name}</span>
 ) : (
@@ -364,7 +364,7 @@ onMouseLeave={() => {
                       className="text-white hover:text-purple-600 font-medium text-sm tracking-wide transition-colors duration-200 px-4 py-2 flex items-center gap-2"
                     >
                       {item.name === "HOME" ? (
-                        <Home size={16} strokeWidth={2} className="text-gray-900" />
+                        <Home size={16} strokeWidth={2} className="white" />
                       ) : (
                         item.name
                       )}
