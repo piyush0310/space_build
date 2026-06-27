@@ -550,7 +550,7 @@ const Portfolio: React.FC = () => {
     <section 
       id="portfolio" 
       ref={portfolioRef}
-      className="relative pt-10 bg-[#FFF2EB] overflow-hidden min-h-screen"
+      className="relative pt-10 bg-[#edf4f8] overflow-hidden min-h-screen"
     >
       <div className="relative z-10 container mx-auto px-4 sm:px-6 pb-10 text-center">
         <div className="mb-8">
@@ -568,8 +568,8 @@ const Portfolio: React.FC = () => {
                 className={cn(
                   "shrink-0 px-3 py-1 sm:px-5 sm:py-2 rounded-xl text-black text-sm sm:text-base font-medium border transition-all duration-300",
                   activeFilter === category.key
-                    ? "bg-[#FFF2EB] shadow-md"
-                    : "bg-[#FFF2EB] hover:border-orange-500"
+                    ? "bg-[#edf4f8] shadow-md"
+                    : "bg-[#edf4f8] hover:border-orange-500"
                 )}
               >
                 {category.label}

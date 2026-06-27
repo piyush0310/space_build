@@ -54,9 +54,9 @@ const Header: React.FC = () => {
     { name: "HOME", href: "/" },
     { name: "ABOUT US", href: "/about", hasDropdown: true, dropdownType: "about" },
     { name: "SERVICES", href: "/services", hasDropdown: true, dropdownType: "services" },
-    { name: "PORTFOLIO", href: "#portfolio" },
+    { name: "PORTFOLIO", href: "/portfolio" },
     
-    { name: "TESTIMONIALS", href: "#testimonials" },
+    { name: "TESTIMONIALS", href: "/testimonials" },
     { name: "CONTACT", href: "/contact" },
   ];
 
@@ -180,7 +180,7 @@ onMouseLeave={() => {
                     <Link
                       href={item.href}
                       onClick={(e) => handleNavClick(item.href, e)}
-                      className="text-white hover:text-black font-medium text-[10px] lg:text-[11px] xl:text-sm tracking-normal xl:tracking-wide transition-colors duration-200 flex items-center whitespace-nowrap"
+                      className="text-white hover:text-white font-medium text-[10px] lg:text-[11px] xl:text-sm tracking-normal xl:tracking-wide transition-colors duration-200 flex items-center whitespace-nowrap"
                     >
                       {item.name}
                       <svg
@@ -218,7 +218,7 @@ onMouseLeave={() => {
                   <Link
                     href={item.href}
                     onClick={(e) => handleNavClick(item.href, e)}
-                    className="text-white hover:text-black font-medium text-[10px] lg:text-[11px] xl:text-sm tracking-normal xl:tracking-wide transition-colors duration-200 whitespace-nowrap flex items-center"
+                    className="text-white hover:text-white font-medium text-[10px] lg:text-[11px] xl:text-sm tracking-normal xl:tracking-wide transition-colors duration-200 whitespace-nowrap flex items-center"
                   >
                     {item.name === "HOME" ? (
   <Home size={18} strokeWidth={2} className="text-gray-900" />
@@ -248,7 +248,7 @@ onMouseLeave={() => {
           <div className="md:hidden">
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="text-white hover:text-black focus:outline-none"
+              className="text-white hover:text- focus:outline-none"
               aria-label="Toggle mobile menu"
             >
               <svg
