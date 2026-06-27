@@ -178,51 +178,51 @@ const PortfolioCarousel: React.FC = () => {
 
   // Grid images with layout information
   const gridImages: ImageData[] = [
-  { id: 1, src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D", alt: "Portfolio 1", layout: "horizontal" },
+  { id: 1, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554123/WhatsApp_Image_2026-06-25_at_15.18.38_1_nr4izn.jpg", alt: "Portfolio 1", layout: "horizontal" },
 
-  { id: 5, src: "https://plus.unsplash.com/premium_photo-1722034552807-6c8ede1aefca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGludGVyaW9yJTIwZGVzaWdufGVufDB8MXwwfHx8MA%3D%3D", alt: "Portfolio 5", layout: "vertical" },
+  { id: 5, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554110/IMG_20260627_142001.jpg_enwafd.jpg", alt: "Portfolio 5", layout: "vertical" },
 
-  { id: 6, src: "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", alt: "Portfolio 6", layout: "horizontal" },
+  { id: 6, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554113/IMG_20260627_135810.jpg_kwr2uf.jpg", alt: "Portfolio 6", layout: "horizontal" },
 
-  { id: 7, src: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D", alt: "Portfolio 7", layout: "vertical" },
+  { id: 7, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554828/9027_ptgvkb.png", alt: "Portfolio 7", layout: "vertical" },
 
-  { id: 8, src: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww", alt: "Portfolio 8", layout: "horizontal" },
+  { id: 8, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554132/IMG_20260627_144906.jpg_bad042.jpg", alt: "Portfolio 8", layout: "horizontal" },
 
-  { id: 9, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411924/8_s2kxgm.jpg", alt: "Portfolio 9", layout: "horizontal" },
+  { id: 9, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg", alt: "Portfolio 9", layout: "horizontal" },
 
-  { id: 11, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763231888/p16_pscidc_t18bdk.png", alt: "Portfolio 11", layout: "horizontal" },
+  { id: 11, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554122/IMG_20260627_144949.jpg_jurisr.jpg", alt: "Portfolio 11", layout: "horizontal" },
 
-  { id: 13, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763233202/Furniture_lmhbq3_j4u6fs.png", alt: "Portfolio 13", layout: "horizontal" },
+  { id: 13, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554117/IMG_20260627_141804.jpg_ohx2i8.jpg", alt: "Portfolio 13", layout: "horizontal" },
 
-  { id: 14, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232534/p18_b2412l_f8sx6b.png", alt: "Portfolio 14", layout: "vertical" },
+  { id: 14, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554121/IMG_20260627_135108.jpg_dbjz8c.jpg", alt: "Portfolio 14", layout: "vertical" },
 
-  { id: 15, src: "https://plus.unsplash.com/premium_photo-1684348962314-64fa628992f0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww", alt: "Portfolio 15", layout: "horizontal" },
+  { id: 15, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_135213.jpg_x8i1yq.jpg", alt: "Portfolio 15", layout: "horizontal" },
 
-  { id: 16, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232541/p20_bxpldi_fx0zhz.png", alt: "Portfolio 16", layout: "vertical" },
+  { id: 16, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554125/WhatsApp_Image_2026-06-25_at_15.18.54_eckxg1.jpg", alt: "Portfolio 16", layout: "vertical" },
 
-  { id: 17, src: "https://images.unsplash.com/photo-1606744888344-493238951221?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww", alt: "Portfolio 17", layout: "horizontal" },
+  { id: 17, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554124/WhatsApp_Image_2026-06-25_at_15.18.50_jbmgbo.jpg", alt: "Portfolio 17", layout: "horizontal" },
 
-  { id: 18, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232543/p15_h9wfha_mkpkc6.png", alt: "Portfolio 18", layout: "vertical" },
+  { id: 18, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554120/IMG_20260627_144648.jpg_ob7mt9.jpg", alt: "Portfolio 18", layout: "vertical" },
 
-  { id: 19, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232536/p14_yfwpa2_aj2si3.png", alt: "Portfolio 19", layout: "horizontal" },
+  { id: 19, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554116/IMG_20260627_135332.jpg_jqt2mj.jpg", alt: "Portfolio 19", layout: "horizontal" },
 
-  { id: 20, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232541/p21_rlpio9_bvaerk.png", alt: "Portfolio 20", layout: "vertical" },
+  { id: 20, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554124/WhatsApp_Image_2026-06-25_at_15.18.46_m69b0v.jpg", alt: "Portfolio 20", layout: "vertical" },
 
-  { id: 21, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763232410/p17_huccy0_pt1hh1.png", alt: "Portfolio 21", layout: "horizontal" },
+  { id: 21, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554116/IMG_20260627_144555.jpg_sgzkt4.jpg", alt: "Portfolio 21", layout: "horizontal" },
 
-  { id: 23, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411851/1_hmntm4.jpg", alt: "Portfolio 23", layout: "horizontal" },
+  { id: 23, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_134825.jpg_eutjrs.jpg", alt: "Portfolio 23", layout: "horizontal" },
 
-  { id: 25, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411923/7_ypfu6o.jpg", alt: "Portfolio 26", layout: "horizontal" },
+  { id: 25, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554116/IMG_20260627_144452.jpg_bky7dx.jpg", alt: "Portfolio 25", layout: "horizontal" },
 
-  { id: 26, src: "https://res.cloudinary.com/dkpejqlby/image/upload/f_auto,q_auto,w_auto/v1763231881/p3_kpidjw_ejuac8.png", alt: "Portfolio 5", layout: "vertical" },
+  { id: 26, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_135002.jpg_vjd69s.jpg", alt: "Portfolio 26", layout: "vertical" },
 
-  { id: 27, src: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww", alt: "Portfolio 25", layout: "horizontal" },
+  { id: 27, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554123/WhatsApp_Image_2026-06-25_at_15.18.44_blf1ic.jpg", alt: "Portfolio 27", layout: "horizontal" },
 
-  { id: 29, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411911/7_nb8vvs.jpg", alt: "Portfolio 29", layout: "vertical" },
+  { id: 29, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554124/WhatsApp_Image_2026-06-25_at_15.18.46_m69b0v.jpg", alt: "Portfolio 29", layout: "vertical" },
 
-  { id: 32, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411913/2_tqt1cd.jpg", alt: "Portfolio 32", layout: "vertical" },
+  { id: 32, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554131/IMG_20260627_145628.jpg_bpjne1.jpg", alt: "Portfolio 32", layout: "vertical" },
 
-  { id: 33, src: "https://res.cloudinary.com/da12wzxoq/image/upload/f_auto,q_auto,w_auto/v1764411912/6_cu3jiq.jpg", alt: "Portfolio 33", layout: "vertical" },
+  { id: 33, src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554124/WhatsApp_Image_2026-06-25_at_15.18.51_rdx8ly.jpg", alt: "Portfolio 33", layout: "vertical" },
 ];
 
   
