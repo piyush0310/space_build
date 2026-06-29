@@ -35,9 +35,9 @@ const Content = () => {
               Every recommendation we offer is practical, precise, and tailored to your lifestyle - ensuring your home supports your emotional well-being, financial growth, and family harmony.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Home Delhi
+             SPACE BUILD as Your Vastu Consultant For Home Delhi
             </h2>
             <p>
               Your home deserves more than generic advice - it deserves the expertise of Delhi&apos;s most trusted Vastu specialists. Here&apos;s what makes Vasterior your best choice:

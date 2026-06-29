@@ -38,9 +38,9 @@ const Content = () => {
               At Vasterior, we understand that educational design requires structure, serenity, and stimulation &ndash; and Vastu provides the perfect blueprint for achieving that. We analyze directions, layouts, and energy flow to create environments that encourage focus, creativity, and positive discipline &ndash; essential pillars for both academic and emotional growth.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Expert For Schools &amp; Colleges Delhi
+             SPACE BUILD as Your Vastu Expert For Schools &amp; Colleges Delhi
             </h2>
             <p>
               Here&rsquo;s why leading schools and institutions across Delhi NCR trust Vasterior for energy-aligned educational design:

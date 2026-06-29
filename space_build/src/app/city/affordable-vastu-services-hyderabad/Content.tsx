@@ -17,7 +17,7 @@ const Content = () => {
             {/* Intro */}
             <div>
               <p>
-                Vasterior brings together the precision of interior design and the power of MahaVastu principles to create spaces that are not only beautiful but energetically aligned for success. 
+                Space Build brings together the precision of interior design and the power of MahaVastu principles to create spaces that are not only beautiful but energetically aligned for success. 
               </p>
               <p>
                 If you've been searching for <strong>Affordable Vastu Services in Hyderabad</strong> without compromising on quality, you just found the right place.
@@ -74,7 +74,7 @@ const Content = () => {
                 <li>Interior-based remedies</li>
               </ul>
               <p className="mt-4">
-                At Vasterior, we combine: Scientific MahaVastu analysis, Professional interior design intelligence, Practical correction methods, Budget-conscious implementation.
+                At Space Build, we combine: Scientific MahaVastu analysis, Professional interior design intelligence, Practical correction methods, Budget-conscious implementation.
               </p>
               <p className="font-semibold">No fear tactics. No superstition. No unnecessary structural changes. Just precision.</p>
             </div>
@@ -119,10 +119,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-4">
-                Why Choose Vasterior as Your Vastu Consultant in Hyderabad
+               SPACE BUILD as Your Vastu Consultant in Hyderabad
               </h3>
               <p>Because alignment without design is incomplete. And design without alignment is superficial.</p>
               <p>What sets us apart:</p>
@@ -277,7 +277,7 @@ const Content = () => {
                 When your space aligns, your efforts amplify.
               </p>
               <p className="font-bold text-xl text-gray-900">
-                Vasterior is ready when you are.
+                Space Build is ready when you are.
               </p>
             </div>
           </div>

@@ -18,15 +18,15 @@ const Content = () => {
               Stylish & Budget-Friendly Interiors Tailored for You
             </h3>
             <p>
-              Everyone dreams of a beautifully designed home or office, but many believe that interior designing is expensive. At Vasterior – Affordable Interior Designer in Moradabad, UP, we break this myth by delivering premium quality interiors at pocket-friendly costs. Whether you want to renovate your home, set up a modern office, or design a retail showroom in Moradabad, our team ensures that style and functionality come together without exceeding your budget.
+              Everyone dreams of a beautifully designed home or office, but many believe that interior designing is expensive. At Space Build – Affordable Interior Designer in Moradabad, UP, we break this myth by delivering premium quality interiors at pocket-friendly costs. Whether you want to renovate your home, set up a modern office, or design a retail showroom in Moradabad, our team ensures that style and functionality come together without exceeding your budget.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Most Affordable Interior Designer in Moradabad?
+             SPACE BUILD as the Most Affordable Interior Designer in Moradabad?
             </h2>
             <p>
-              Moradabad is a city of art, culture, and evolving modern lifestyles. Families and businesses here are seeking interiors that are functional, elegant, and cost-effective. Vasterior is trusted because:
+              Moradabad is a city of art, culture, and evolving modern lifestyles. Families and businesses here are seeking interiors that are functional, elegant, and cost-effective. Space Build is trusted because:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Budget-Friendly Packages</strong> – Transparent pricing with customized plans for every client.</li>
@@ -40,7 +40,7 @@ const Content = () => {
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Affordable Interior Design Services in Moradabad
             </h2>
-            <p>At Vasterior, affordability doesn&apos;t mean compromise. We offer complete interior solutions at reasonable costs:</p>
+            <p>At Space Build, affordability doesn&apos;t mean compromise. We offer complete interior solutions at reasonable costs:</p>
             
             <div className="space-y-4">
               <div>
@@ -86,7 +86,7 @@ const Content = () => {
 
             {/* Benefits */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Choosing Vasterior for Affordable Interiors
+              Benefits of Choosing Space Build for Affordable Interiors
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Get premium designs at competitive prices.</li>
@@ -96,9 +96,9 @@ const Content = () => {
               <li>Personalized attention for every project.</li>
             </ul>
 
-            {/* Why Moradabad Prefers Vasterior */}
+            {/* Why Moradabad Prefers Space Build */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Moradabad Prefers Vasterior for Budget-Friendly Interiors?
+              Why Moradabad Prefers Space Build for Budget-Friendly Interiors?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Strong reputation as an affordable yet high-quality interior designer.</li>
@@ -113,10 +113,10 @@ const Content = () => {
             </h2>
             <div className="space-y-4">
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;We thought interior designing would be out of budget, but Vasterior delivered a stunning living room makeover at an affordable cost. Highly recommended!&quot; – Nitin Sharma, Moradabad
+                &quot;We thought interior designing would be out of budget, but Space Build delivered a stunning living room makeover at an affordable cost. Highly recommended!&quot; – Nitin Sharma, Moradabad
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;Our office renovation was handled by Vasterior, and they gave us a modern design within our budget. Professional and reliable team.&quot; – Kavita Jain, Moradabad
+                &quot;Our office renovation was handled by Space Build, and they gave us a modern design within our budget. Professional and reliable team.&quot; – Kavita Jain, Moradabad
               </blockquote>
             </div>
 
@@ -128,7 +128,7 @@ const Content = () => {
             <div className="space-y-6 mt-6">
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q1: Can interiors really be affordable in Moradabad?</h3>
-                <p>A: Yes, Vasterior offers cost-effective interior packages without compromising on quality.</p>
+                <p>A: Yes, Space Build offers cost-effective interior packages without compromising on quality.</p>
               </div>
 
               <div>
@@ -154,17 +154,17 @@ const Content = () => {
 
             {/* Contact Info */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              📞 Contact Vasterior – Affordable Interior Designer in Moradabad
+              📞 Contact Space Build – Affordable Interior Designer in Moradabad
             </h2>
             <div className="space-y-2">
               <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
               <p><strong>📧 Email:</strong> info@spacebuild.com</p>
-              <p><strong>🌐 Website:</strong> www.vasterior.com</p>
+              <p><strong>🌐 Website:</strong> www.Space Build.com</p>
             </div>
             
             <p className="mt-4 font-semibold text-gray-900">
-              Vasterior – Designing Affordable Interiors in Moradabad with Style, Comfort, and Value.
+              Space Build – Designing Affordable Interiors in Moradabad with Style, Comfort, and Value.
             </p>
           </div>
 

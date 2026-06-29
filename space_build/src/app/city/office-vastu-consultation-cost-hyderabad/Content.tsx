@@ -89,7 +89,7 @@ const Content = () => {
             <p>This is Corporate Vastu done with discipline, not drama.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Office Vastu Consultant in Hyderabad
+             SPACE BUILD as Your Office Vastu Consultant in Hyderabad
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Expertise in MahaVastu principles</li>
@@ -198,7 +198,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-2">
-                  10. Why choose Vasterior over other Vastu consultants in Hyderabad?
+                  10.SPACE BUILD over other Vastu consultants in Hyderabad?
                 </h3>
                 <p>Because Vasterior combines spatial science, corporate logic, and premium interior design to deliver structured, business-focused results rather than generic advice.</p>
               </div>

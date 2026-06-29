@@ -47,7 +47,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Designer in Delhi NCR?
+             SPACE BUILD as Your Interior Designer in Delhi NCR?
             </h2>
             <p>
               Hiring an interior designer is more than choosing colors and

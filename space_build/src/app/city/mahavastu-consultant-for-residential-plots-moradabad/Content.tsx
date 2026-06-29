@@ -75,7 +75,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Mahavastu Consultant for Residential Plots in Moradabad?
+             SPACE BUILD as Mahavastu Consultant for Residential Plots in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Certified Mahavastu Expertise &ndash; Skilled in advanced 16-direction mapping.</li>

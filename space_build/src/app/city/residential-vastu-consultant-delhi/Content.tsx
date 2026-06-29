@@ -38,9 +38,9 @@ const Content = () => {
               From plot selection and layout evaluation to detailed room-by-room consultation, we bring harmony into every design - where aesthetics and energy flow as one.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Residential Vastu Consultant Delhi
+             SPACE BUILD as Your Residential Vastu Consultant Delhi
             </h2>
             <p>
               When it comes to creating a perfect living space, Vasterior stands apart for its integrity, precision, and design sophistication. Here&apos;s why homeowners across Delhi NCR choose us as their trusted Residential Vastu Consultant:

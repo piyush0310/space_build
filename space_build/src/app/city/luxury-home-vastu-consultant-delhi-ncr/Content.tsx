@@ -41,9 +41,9 @@ const Content = () => {
               At Vasterior, we go beyond just Vastu corrections - we design environments that empower business growth and create lasting prosperity.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Industrial Vastu Consultant West Delhi
+             SPACE BUILD as Your Industrial Vastu Consultant West Delhi
             </h2>
             <p>
               When precision, energy, and performance matter, Vasterior is the partner businesses trust. Here&apos;s why industries across West Delhi choose us:

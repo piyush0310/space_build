@@ -88,7 +88,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Mahavastu Consultant in Moradabad?
+             SPACE BUILD as Mahavastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Certified Mahavastu Expertise &ndash; Years of experience applying advanced principles.</li>

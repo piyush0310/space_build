@@ -21,9 +21,9 @@ const Content = () => {
               Not every home aspires to just be functional—many aim to be statements of taste, comfort, and refinement. As your Premium Residential Interior Designer in Moradabad, UP, Vasterior transforms your residence into a bespoke, elegant, and deeply personalized sanctuary. Whether it&apos;s a luxury flat, a villa, or a heritage home, our designs reflect your unique identity while delivering premium quality at every turn.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Premium Residential Interior Designer
+             SPACE BUILD as Your Premium Residential Interior Designer
             </h2>
             <p>
               Moradabad is growing fast, and homeowners are demanding interiors that match global standards. Here&apos;s why clients trust Vasterior:

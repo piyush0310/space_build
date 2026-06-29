@@ -12,19 +12,19 @@ import Blog from "@/components/Blog";
 
 
 export const metadata: Metadata = {
-  title: "Affordable Interior Designer East Delhi | Vasterior",
-  description: "Looking for an Affordable Interior Designer East Delhi? Vasterior delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Vasterior.",
-  keywords: "affordable interior designer east delhi, budget interior designer east delhi, vasterior interior design east delhi",
+  title: "Affordable Interior Designer East Delhi | Space Build",
+  description: "Looking for an Affordable Interior Designer East Delhi? Space Build delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Space Build.",
+  keywords: "affordable interior designer east delhi, budget interior designer east delhi, Space Build interior design east delhi",
   alternates: {
-    canonical: "https://www.vasterior.com/city/affordable-interior-designer-east-delhi",
+    canonical: "https://www.Space Build.com/city/affordable-interior-designer-east-delhi",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-interior-designer-east-delhi",
-    title: "Affordable Interior Designer East Delhi | Vasterior",
-    description: "Looking for an Affordable Interior Designer East Delhi? Vasterior delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Vasterior.",
+    url: "https://www.Space Build.com/city/affordable-interior-designer-east-delhi",
+    title: "Affordable Interior Designer East Delhi | Space Build",
+    description: "Looking for an Affordable Interior Designer East Delhi? Space Build delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Space Build.",
     images: [{
-      url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+      url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
       width: 1200,
       height: 630,
       alt: "Affordable Interior Designer East Delhi",
@@ -32,10 +32,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Interior Designer East Delhi | Vasterior",
-    description: "Looking for an Affordable Interior Designer East Delhi? Vasterior delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Vasterior.",
-    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png"],
+    site: "@Space Build",
+    title: "Affordable Interior Designer East Delhi | Space Build",
+    description: "Looking for an Affordable Interior Designer East Delhi? Space Build delivers stylish, budget-friendly designs without compromise. Choose the Affordable Interior Designer East Delhi — choose Space Build.",
+    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png"],
   },
   icons: { icon: "/favicon.ico" },
 };

@@ -41,9 +41,9 @@ const Content = () => {
               At Vasterior, we turn architecture into an experience - where every space breathes life, balance, and prosperity.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Farmhouses Delhi NCR
+             SPACE BUILD as Your Vastu Consultant For Farmhouses Delhi NCR
             </h2>
             <p>
               Farmhouses demand a unique blend of natural connection, spatial openness, and energetic flow. Here&apos;s why Vasterior is the preferred choice of discerning property owners and developers in Delhi NCR:

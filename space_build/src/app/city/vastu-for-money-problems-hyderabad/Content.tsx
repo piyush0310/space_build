@@ -192,7 +192,7 @@ const Content = () => {
             <p>Patterns shift when energy shifts.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior
+             SPACE BUILD
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Specialised in MahaVastu principles</li>

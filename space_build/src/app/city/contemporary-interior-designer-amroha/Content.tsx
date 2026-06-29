@@ -93,7 +93,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Contemporary Interior Designer in Amroha
+             SPACE BUILD as Your Contemporary Interior Designer in Amroha
             </h3>
             <p>In a market where many designers focus only on finishes and décor, Vasterior operates at a deeper level.</p>
             <ul className="list-disc list-inside space-y-1 ml-4">

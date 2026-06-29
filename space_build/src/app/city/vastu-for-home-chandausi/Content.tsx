@@ -99,7 +99,7 @@ const Content = () => {
               <p>All corrections are customised, subtle, and aligned with your existing home, no chaos, no confusion.</p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
                 Why Homeowners in Chandausi Choose Vasterior

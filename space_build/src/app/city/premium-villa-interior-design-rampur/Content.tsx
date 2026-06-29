@@ -46,9 +46,9 @@ const Content = () => {
             </ul>
             <p>Your villa becomes more than beautiful—it becomes aligned with your identity and future direction.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Interior Designer in Rampur
+             SPACE BUILD as the Best Interior Designer in Rampur
             </h2>
             <p>Choosing Vasterior means choosing a partner who understands both luxury architecture and Vastu-conscious living. Here’s why Rampur villa owners trust us:</p>
             <ul className="list-disc list-inside space-y-2 ml-4">

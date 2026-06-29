@@ -156,10 +156,10 @@ const Content = () => {
             </p>
 
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process
+              The Space Build Design Process
             </h3>
             <p>
-              Vasterior follows a calm, structured approach that respects both time and budget:
+              Space Build follows a calm, structured approach that respects both time and budget:
             </p>
             <ol className="list-decimal list-inside space-y-1 ml-4">
               <li>

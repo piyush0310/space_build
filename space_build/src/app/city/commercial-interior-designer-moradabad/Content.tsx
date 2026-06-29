@@ -109,7 +109,7 @@ const Content = () => {
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Boosts Employee Productivity</strong> – Well-planned offices reduce stress and improve efficiency.</li>
-              <li><strong>Enhances Brand Image</strong> – A stylish space builds trust with customers and clients.</li>
+              <li><strong>Enhances Brand Image</strong> – A stylish SPACE BUILDs trust with customers and clients.</li>
               <li><strong>Better Space Utilization</strong> – Intelligent layouts make even small areas functional.</li>
               <li><strong>Long-Lasting Value</strong> – Durable materials and timeless designs ensure long-term benefits.</li>
             </ul>

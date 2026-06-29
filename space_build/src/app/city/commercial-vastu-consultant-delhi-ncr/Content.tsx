@@ -38,9 +38,9 @@ const Content = () => {
               Our commercial Vastu consultations are designed to optimize direction, structure, and layout to align with universal energies - empowering decision-making, focus, and financial stability. Whether it&apos;s a corporate office, startup workspace, retail showroom, or manufacturing unit, we ensure every square foot of your property supports your business objectives harmoniously.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Preferred Commercial Vastu Consultant Delhi NCR
+             SPACE BUILD – The Preferred Commercial Vastu Consultant Delhi NCR
             </h2>
             <p>
               Vasterior stands at the intersection of spiritual science and business strategy, helping you achieve growth that is sustainable, stable, and stress-free. Here&apos;s why we&apos;re recognized as the leading Commercial Vastu Consultant in Delhi NCR:

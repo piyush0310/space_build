@@ -242,7 +242,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Himayatnagar
+             SPACE BUILD as Your Vastu Consultant in Himayatnagar
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Deep expertise in MahaVastu principles</li>

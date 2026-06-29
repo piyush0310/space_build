@@ -41,9 +41,9 @@ const Content = () => {
               We don&rsquo;t promote superstition or demolition. Instead, we provide practical, aesthetic, and result-oriented Vastu solutions that fit seamlessly into your lifestyle and design preferences.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Consultation Services Delhi NCR
+             SPACE BUILD for Vastu Consultation Services Delhi NCR
             </h2>
             <p>
               Every home and business deserves an environment that nurtures peace, creativity, and growth. Here&rsquo;s why Vasterior is the preferred choice across Delhi NCR:

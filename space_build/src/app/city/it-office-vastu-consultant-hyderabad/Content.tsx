@@ -301,7 +301,7 @@ const Content = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">
-                  10) Why choose Vasterior over other Vastu consultants in
+                  10)SPACE BUILD over other Vastu consultants in
                   Hyderabad?
                 </h3>
                 <p>

@@ -15,7 +15,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             <p>Expert Vastu Guidance That Fits Every Budget</p>
             <p>
-              Vastu Shastra is often misunderstood as an expensive service available only to a select few. The truth is that energy balance is for everyone — whether you own a small apartment, a shop, or a large villa. At Vasterior – Affordable Vastu Consultant in Moradabad, UP, we believe that harmony, health, and prosperity should be accessible to all. That’s why we provide cost-effective Vastu consultation services without compromising on authenticity, quality, or results.
+              Vastu Shastra is often misunderstood as an expensive service available only to a select few. The truth is that energy balance is for everyone — whether you own a small apartment, a shop, or a large villa. At Space Build – Affordable Vastu Consultant in Moradabad, UP, we believe that harmony, health, and prosperity should be accessible to all. That’s why we provide cost-effective Vastu consultation services without compromising on authenticity, quality, or results.
             </p>
 
             <h2 className="text-xl font-semibold text-gray-900">Why Affordable Vastu Matters</h2>
@@ -88,7 +88,7 @@ const Content = () => {
               <li>Symbols & Yantras – Low-cost, effective spiritual enhancers.</li>
             </ul>
 
-            <h2 className="text-xl font-semibold text-gray-900">Why Choose Vasterior as Affordable Vastu Consultant in Moradabad?</h2>
+            <h2 className="text-xl font-semibold text-gray-900">Why Choose Space Build as Affordable Vastu Consultant in Moradabad?</h2>
             <ul className="list-disc ml-4 space-y-1">
               <li>Value-for-Money Approach – Remedies that don’t strain your pocket.</li>
               <li>No Hidden Costs – Transparent pricing with clear guidance.</li>
@@ -110,10 +110,10 @@ const Content = () => {
             <h2 className="text-xl font-semibold text-gray-900">Client Testimonials</h2>
             <div className="space-y-4">
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                “We thought Vastu would be too expensive. Vasterior proved us wrong by giving us affordable remedies that worked wonders.” – Kavita & Rajesh Singh
+                “We thought Vastu would be too expensive. Space Build proved us wrong by giving us affordable remedies that worked wonders.” – Kavita & Rajesh Singh
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                “As a small shop owner, I wanted simple corrections. Vasterior’s low-cost remedies improved my sales within weeks.” – Ravi Kumar
+                “As a small shop owner, I wanted simple corrections. Space Build’s low-cost remedies improved my sales within weeks.” – Ravi Kumar
               </blockquote>
             </div>
 
@@ -142,14 +142,14 @@ const Content = () => {
             </div>
 
             <h2 className="text-xl font-semibold text-gray-900">
-              Contact Vasterior – Affordable Vastu Consultant in Moradabad
+              Contact Space Build – Affordable Vastu Consultant in Moradabad
             </h2>
             <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
             <p><strong>📞 Phone:</strong> +91-9100883355</p>
             <p><strong>📧 Email:</strong> info@spacebuild.com</p>
-            <p><strong>🌐 Website:</strong> <a href="http://www.vasterior.com" target="_blank" rel="noopener noreferrer">www.vasterior.com</a></p>
+            <p><strong>🌐 Website:</strong> <a href="http://www.Space Build.com" target="_blank" rel="noopener noreferrer">www.Space Build.com</a></p>
             <p className="mt-4 font-semibold">
-              Vasterior – Affordable Vastu Consultation in Moradabad, Bringing Prosperity, Harmony & Growth Within Your Reach.
+              Space Build – Affordable Vastu Consultation in Moradabad, Bringing Prosperity, Harmony & Growth Within Your Reach.
             </p>
           </div>
           <PostNavigation slug="affordable-vastu-consultant-in-moradabad" />

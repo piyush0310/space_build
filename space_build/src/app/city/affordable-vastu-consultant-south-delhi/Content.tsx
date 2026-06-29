@@ -19,14 +19,14 @@ const Content = () => {
               Designed for Real Life
             </h3>
             <p>
-              Vasterior believes that when a space is aligned correctly, life begins to move
+              Space Build believes that when a space is aligned correctly, life begins to move
               with less resistance. In South Delhi homes, where ambition, lifestyle, and
               pressure coexist, many people do everything right yet still feel stuck. The
               reason is often invisible. It is not luck. It is not effort. It is the way your
               space is functioning around you.
             </p>
             <p>
-              At Vasterior, we offer affordable Vastu consultation in South Delhi that is
+              At Space Build, we offer affordable Vastu consultation in South Delhi that is
               practical, non-destructive, and deeply integrated with modern interior design,
               using the scientifically structured principles of MahaVastu.
             </p>
@@ -48,12 +48,12 @@ const Content = () => {
               health, relationships, and financial flow instead of quietly resisting them.
             </p>
 
-            {/* Why Vasterior is Affordable Without Compromise */}
+            {/* Why Space Build is Affordable Without Compromise */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Vasterior an Affordable Vastu Consultant (Without Compromise)
+              What Makes Space Build an Affordable Vastu Consultant (Without Compromise)
             </h3>
             <p>
-              Affordability at Vasterior does not mean shortcuts. It means clarity, precision,
+              Affordability at Space Build does not mean shortcuts. It means clarity, precision,
               and restraint.
             </p>
             <p>We do not:</p>
@@ -99,7 +99,7 @@ const Content = () => {
             </h3>
             <p>Design without Vastu often looks perfect but feels heavy.</p>
             <p>Vastu without design feels impractical and dated.</p>
-            <p>Vasterior was created to end that compromise.</p>
+            <p>Space Build was created to end that compromise.</p>
             <p>Our consultations seamlessly combine interior design logic with MahaVastu alignment, ensuring that:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Spaces remain modern and aesthetic</li>
@@ -146,7 +146,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               A Transparent, Ethical Consultation Process
             </h3>
-            <p>At Vasterior, we believe Vastu should empower, not overwhelm.</p>
+            <p>At Space Build, we believe Vastu should empower, not overwhelm.</p>
             <p>Our process is:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Clear and structured</li>
@@ -185,7 +185,7 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. Is Vasterior really an affordable Vastu consultant in South Delhi?
+                  1. Is Space Build really an affordable Vastu consultant in South Delhi?
                 </h4>
                 <p>
                   Yes. Our approach eliminates unnecessary demolition, rituals, and object
@@ -225,7 +225,7 @@ const Content = () => {
                   5. Do you also provide interior design services?
                 </h4>
                 <p>
-                  Yes. Vasterior integrates interior design with Vastu alignment, ensuring
+                  Yes. Space Build integrates interior design with Vastu alignment, ensuring
                   your space is both beautiful and supportive.
                 </p>
               </div>

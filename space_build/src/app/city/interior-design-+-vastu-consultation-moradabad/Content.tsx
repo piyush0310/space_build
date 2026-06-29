@@ -21,9 +21,9 @@ const Content = () => {
               A home or office is not just about stylish interiors – it&apos;s also about harmony, energy, and well-being. That&apos;s why Vasterior – Interior Design + Vastu Consultation Moradabad, UP brings together the best of modern design and traditional Vastu principles. Our team creates interiors that are elegant, functional, and energy-balanced, ensuring your spaces promote positivity and success.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Interior Design + Vastu Consultation in Moradabad?
+             SPACE BUILD for Interior Design + Vastu Consultation in Moradabad?
             </h2>
             <p>
               Moradabad, the Brass City of India, is a mix of tradition and modern lifestyle. Families here prefer interiors that are beautiful, functional, and aligned with Vastu Shastra. Vasterior is trusted because:

@@ -20,10 +20,10 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that a bathroom is not just a functional corner of your home, it is a deeply personal space where your day begins and ends. In homes across Chandausi, bathrooms are evolving from basic utility areas into calm, hygienic sanctuaries that reflect comfort, elegance, and intelligent planning. Our approach to bathroom interior remodeling focuses on creating spaces that feel effortless to use, easy to maintain, and visually timeless, without unnecessary demolition or disruption.
+              Space Build believes that a bathroom is not just a functional corner of your home, it is a deeply personal space where your day begins and ends. In homes across Chandausi, bathrooms are evolving from basic utility areas into calm, hygienic sanctuaries that reflect comfort, elegance, and intelligent planning. Our approach to bathroom interior remodeling focuses on creating spaces that feel effortless to use, easy to maintain, and visually timeless, without unnecessary demolition or disruption.
             </p>
             <p>
-              Whether you are upgrading an old bathroom, correcting layout issues, or planning a complete transformation, Vasterior brings together design expertise, material intelligence, and spatial balance to deliver bathrooms that truly work for modern Indian living.
+              Whether you are upgrading an old bathroom, correcting layout issues, or planning a complete transformation, Space Build brings together design expertise, material intelligence, and spatial balance to deliver bathrooms that truly work for modern Indian living.
             </p>
 
             {/* Why Bathroom Remodeling Matters */}
@@ -45,12 +45,12 @@ const Content = () => {
               For homeowners in Chandausi, bathroom interior remodeling is increasingly about smart upgrades, spaces that look refined, perform efficiently, and age gracefully with time.
             </p>
 
-            {/* Vasterior's Philosophy */}
+            {/* Space Build's Philosophy */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vasterior's Philosophy: Intelligent, Non-Destructive Remodeling
+              Space Build's Philosophy: Intelligent, Non-Destructive Remodeling
             </h2>
             <p className="mb-4">
-              At Vasterior, we don't believe in breaking spaces unnecessarily. Our bathroom remodeling philosophy is rooted in design-first thinking, where every decision, layout, material, lighting, and storage, is carefully considered before execution.
+              At Space Build, we don't believe in breaking spaces unnecessarily. Our bathroom remodeling philosophy is rooted in design-first thinking, where every decision, layout, material, lighting, and storage, is carefully considered before execution.
             </p>
             <p>We focus on:</p>
             <ul className="list-disc list-inside space-y-2 ml-4">
@@ -96,12 +96,12 @@ const Content = () => {
               </div>
             </div>
 
-            {/* What Makes Vasterior Different */}
+            {/* What Makes Space Build Different */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Vasterior Different
+              What Makes Space Build Different
             </h2>
             <p className="mb-4">
-              In a market full of standard designs and contractor-driven decisions, Vasterior stands apart.
+              In a market full of standard designs and contractor-driven decisions, Space Build stands apart.
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>No template designs: Every bathroom is custom-planned</li>
@@ -133,7 +133,7 @@ const Content = () => {
               If you are considering bathroom interior remodeling in Chandausi and want a space that feels refined, functional, and thoughtfully designed, a conversation is the best place to start.
             </p>
             <p>
-              You can speak directly with the Vasterior team by calling <strong>+917906086899</strong> to discuss your bathroom remodeling requirements, or write to us at{" "}
+              You can speak directly with the Space Build team by calling <strong>+917906086899</strong> to discuss your bathroom remodeling requirements, or write to us at{" "}
               <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
                 info@spacebuild.com
               </a>{" "}
@@ -156,7 +156,7 @@ const Content = () => {
                 <h3 className="font-semibold text-gray-900 mb-3">
                   2. Can you remodel a bathroom without major demolition?
                 </h3>
-                <p>Yes. Vasterior specializes in non-destructive, intelligent remodeling wherever possible, using layout optimization, material changes, and design corrections instead of unnecessary breaking.</p>
+                <p>Yes. Space Build specializes in non-destructive, intelligent remodeling wherever possible, using layout optimization, material changes, and design corrections instead of unnecessary breaking.</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">
@@ -172,7 +172,7 @@ const Content = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">
-                  5. How do I get started with Vasterior?
+                  5. How do I get started with Space Build?
                 </h3>
                 <p>
                   Simply call <strong>+917906086899</strong> or email{" "}

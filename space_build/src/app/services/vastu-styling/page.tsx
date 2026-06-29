@@ -4,30 +4,30 @@ import  Content  from "./content"
 
 // ✅ SEO Meta Tags
 export const metadata: Metadata = {
-  title: "Vastu Styling Services | Non-Destructive Vastu Corrections – Vasterior",
+  title: "Vastu Styling Services | Non-Destructive Vastu Corrections – Space Build",
   description:
-    "Enhance your space with Vasterior’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
+    "Enhance your space with Space Build’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
   keywords: [
     "Vastu styling, Vastu remedies home, Non-destructive Vastu, Object placement Vastu, Modern Vastu remedies, Vastu décor",
   ],
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.vasterior.com/services/vastu-styling",
+    canonical: "https://www.Space Build.com/services/vastu-styling",
   },
 
   openGraph: {
-    title: "Vastu Styling Services | Non-Destructive Vastu Corrections – Vasterior",
+    title: "Vastu Styling Services | Non-Destructive Vastu Corrections – Space Build",
     description:
-      "Enhance your space with Vasterior’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
-    url: "https://www.vasterior.com/services/vastu-styling",
-    siteName: "Vasterior",
+      "Enhance your space with Space Build’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
+    url: "https://www.Space Build.com/services/vastu-styling",
+    siteName: "Space Build",
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
         width: 1200,
         height: 630,
-        alt: "Vasterior – Wedding Designing Services | Luxury Event & Décor Solutions",
+        alt: "Space Build – Wedding Designing Services | Luxury Event & Décor Solutions",
       },
     ],
     locale: "en_US",
@@ -36,11 +36,11 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Vasterior – Wedding Designing Services | Luxury Event & Décor Solutions",
+    title: "Space Build – Wedding Designing Services | Luxury Event & Décor Solutions",
     description:
-      "Enhance your space with Vasterior’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
+      "Enhance your space with Space Build’s Vastu Styling, modern, aesthetic object placements and remedies without renovation.",
     images: [
-      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
     ],
   },
 

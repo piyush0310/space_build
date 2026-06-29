@@ -84,7 +84,7 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Vasterior is the Right Industrial Vastu Consultant in Noida Extension
             </h2>

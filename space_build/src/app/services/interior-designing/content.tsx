@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function InteriorDesignPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[50vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677934/Interior-Design_i2guum.jpg"
-          alt="Interior Designing by Vasterior"
+          alt="Interior Designing by Space Build"
           fill
           className="object-full"
           priority
@@ -41,7 +41,7 @@ export default function InteriorDesignPage() {
           <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">Interior Designing</h2>
 
           <p className="text-lg text-gray-700 leading-relaxed">
-            Luxury interior design for apartments, kothis, factories, and companies in India requires a perfect blend of style, functionality, and smart planning. At Vasterior, we deliver premium and customized interior design solutions that transform spaces into modern, elegant, and highly functional environments. With 15+ years of experience and MahaVastu-certified expertise, we focus on creating interiors that enhance both aesthetics and overall positivity.
+            Luxury interior design for apartments, kothis, factories, and companies in India requires a perfect blend of style, functionality, and smart planning. At Space Build, we deliver premium and customized interior design solutions that transform spaces into modern, elegant, and highly functional environments. With 15+ years of experience and MahaVastu-certified expertise, we focus on creating interiors that enhance both aesthetics and overall positivity.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Our luxury interior design for apartments is designed to maximize space while maintaining a sophisticated and modern look. From stylish living areas to smart bedrooms and customized furniture, we ensure every apartment reflects comfort and premium design. For kothis, we offer the best luxury interior design solutions with grand layouts, high-end materials, and elegant finishes that create a royal and timeless living experience.
@@ -55,7 +55,7 @@ export default function InteriorDesignPage() {
           <div className="relative w-full h-[320px] md:h-[460px] rounded-2xl overflow-hidden shadow-lg my-8">
             <Image
               src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056343/1_pgb9me_h83glj.jpg"
-              alt="Luxury interior by Vasterior"
+              alt="Luxury interior by Space Build"
               fill
               className="object-cover"
             />
@@ -65,16 +65,16 @@ export default function InteriorDesignPage() {
           </div>
 
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, we follow a structured design process that includes consultation, planning, 3D design, and execution to ensure high-quality results. Our focus on customization, detail, and premium materials makes us a trusted choice for luxury interior design services across India.
+            At Space Build, we follow a structured design process that includes consultation, planning, 3D design, and execution to ensure high-quality results. Our focus on customization, detail, and premium materials makes us a trusted choice for luxury interior design services across India.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            If you are looking to transform your space with expert interior design, connect with Vasterior today. Fill out the enquiry form or contact our team to get started with your luxury interior project.
+            If you are looking to transform your space with expert interior design, connect with Space Build today. Fill out the enquiry form or contact our team to get started with your luxury interior project.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Thoughtfully designed, emotionally grounded, and energetically aligned spaces, crafted to reflect who you are and what your life is becoming.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, interior design goes far beyond colours, furniture, and décor. We design experiences, energies, and emotional atmospheres.
+            At Space Build, interior design goes far beyond colours, furniture, and décor. We design experiences, energies, and emotional atmospheres.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             A space should look beautiful, but more importantly, it should feel right. It should support your growth, mirror your story, and elevate the everyday moments that shape your life.
@@ -95,15 +95,15 @@ export default function InteriorDesignPage() {
             Together, we create spaces that are luxurious yet warm, modern yet rooted, visually stunning yet deeply functional, and always aligned with the energetic blueprint of the inhabitants.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed italic">
-            Whether it is a home, office, boutique studio, or commercial space, Vasterior crafts environments that inspire comfort, confidence, productivity, prosperity, and emotional connection.
+            Whether it is a home, office, boutique studio, or commercial space, Space Build crafts environments that inspire comfort, confidence, productivity, prosperity, and emotional connection.
           </p>
         </div>
 
          {/* Replace src with a site visit, planning session, or design-in-progress photo */}
             <div className="relative w-full h-[420px] md:h-[700px] rounded-2xl overflow-hidden shadow-lg my-8">
   <Image
-    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulyVasteriorTSInfomatic20A.jpg_rbnpzo.jpg"
-    alt="Vasterior design process — planning in progress"
+    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic20A.jpg_rbnpzo.jpg"
+    alt="Space Build design process — planning in progress"
     fill
     className="object-contain object-center"
   />
@@ -121,9 +121,9 @@ export default function InteriorDesignPage() {
       
 
       {/* What Interior Designing Includes */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT INTERIOR DESIGNING AT VASTERIOR INCLUDES</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT INTERIOR DESIGNING AT SPACE BUILD INCLUDES</h3>
 
           <div className="space-y-6">
             <div className="bg-white rounded-lg p-6 shadow-md">
@@ -259,32 +259,32 @@ export default function InteriorDesignPage() {
       <div className="grid grid-cols-2 w-full h-[220px] md:h-[440px]">
         <div className="relative overflow-hidden">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulyVasteriorTSInfomatic08A.jpg_fdabrj.jpg"
-            alt="Luxury custom furniture by Vasterior"
+            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic08A.jpg_fdabrj.jpg"
+            alt="Luxury custom furniture by Space Build"
             fill
             className="object-cover"
           />
         </div>
         <div className="relative overflow-hidden">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulyVasteriorTSInfomatic35A.jpg_pmipv3.jpg"
-            alt="Layered lighting design by Vasterior"
+            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic35A.jpg_pmipv3.jpg"
+            alt="Layered lighting design by Space Build"
             fill
             className="object-cover"
           />
         </div>
       </div>
 
-      {/* Why Choose Vasterior */}
+      {/*SPACE BUILD */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY CLIENTS CHOOSE VASTERIOR FOR INTERIOR DESIGN</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY CLIENTS CHOOSE Space Build FOR INTERIOR DESIGN</h3>
 
         {/* IMAGE 5 — Completed project showcase */}
         {/* Replace src with your most impressive completed project image */}
         <div className="relative w-full h-[300px] md:h-[420px] rounded-2xl overflow-hidden shadow-lg mb-8">
           <Image
             src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/2_u9qi2w_doimrl.jpg"
-            alt="Completed luxury interior project by Vasterior"
+            alt="Completed luxury interior project by Space Build"
             fill
             className="object-cover"
           />
@@ -311,13 +311,13 @@ export default function InteriorDesignPage() {
             </ul>
           </div>
           <p className="text-lg text-gray-700 leading-relaxed italic">
-            Every design at Vasterior is a journey; collaborative, meaningful, and deeply conscious.
+            Every design at Space Build is a journey; collaborative, meaningful, and deeply conscious.
           </p>
         </div>
       </section>
 
       {/* What You Experience */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHAT YOU EXPERIENCE</h3>
 
@@ -326,7 +326,7 @@ export default function InteriorDesignPage() {
           <div className="relative w-full h-[320px] md:h-[460px] rounded-2xl overflow-hidden shadow-lg my-8">
             <Image
               src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/3_idjfpl_z1iwxx.jpg"
-              alt="A calm and elegant home interior by Vasterior"
+              alt="A calm and elegant home interior by Space Build"
               fill
               className="object-cover"
             />
@@ -356,7 +356,7 @@ export default function InteriorDesignPage() {
         {/* Replace src with floor plans, material sheets, or design documentation photo */}
         <div className="relative w-full h-[320px] md:h-[560px] rounded-2xl overflow-hidden shadow-lg my-8">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulyVasteriorTSInfomatic13A.jpg_szqqld.jpg"
+            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic13A.jpg_szqqld.jpg"
             alt="Interior design technical drawings and documentation"
             fill
             className="object-cover"
@@ -384,9 +384,9 @@ export default function InteriorDesignPage() {
       </section>
 
       {/* The Process */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-6">THE VASTERIOR DESIGN PROCESS</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-6">THE SPACE BUILD DESIGN PROCESS</h3>
           <div className="space-y-4">
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Discovery & Vision Alignment</h4>
@@ -405,8 +405,8 @@ export default function InteriorDesignPage() {
             {/* Replace src with a site visit, planning session, or design-in-progress photo */}
             <div className="relative w-full h-[420px] md:h-[700px] rounded-2xl overflow-hidden shadow-lg my-8">
   <Image
-    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulyVasteriorTSInfomatic31A.jpg_xmupub.jpg"
-    alt="Vasterior design process — planning in progress"
+    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulySpace BuildTSInfomatic31A.jpg_xmupub.jpg"
+    alt="Space Build design process — planning in progress"
     fill
     className="object-contain object-center"
   />
@@ -451,7 +451,7 @@ export default function InteriorDesignPage() {
             <p className="text-gray-700">Yes. Material and finish selection is a core part of the process.</p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">4. Can I hire Vasterior only for design and not execution?</h4>
+            <h4 className="font-semibold text-gray-800 mb-2">4. Can I hire Space Build only for design and not execution?</h4>
             <p className="text-gray-700">Yes. We offer design-only packages too.</p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -466,15 +466,15 @@ export default function InteriorDesignPage() {
       </section>
 
       {/* Closing CTA */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           {/* IMAGE 10 — Full bleed room as CTA backdrop */}
           {/* Replace src with your most aspirational completed interior image */}
           <div className="relative rounded-2xl overflow-hidden shadow-xl">
             <div className="relative w-full h-[420px] md:h-[500px]">
               <Image
-                src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulyVasteriorTSInfomatic27A.jpg_qxnrzk.jpg"
-                alt="A luxurious interior designed by Vasterior, perfect for a consultation CTA"
+                src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulySpace BuildTSInfomatic27A.jpg_qxnrzk.jpg"
+                alt="A luxurious interior designed by Space Build, perfect for a consultation CTA"
                 fill
                 className="object-cover"
               />
@@ -485,7 +485,7 @@ export default function InteriorDesignPage() {
                     Design a Space That Reflects Your Story, Vision & Energy
                   </h3>
                   <p className="text-lg text-white/90 mb-6">
-                    Let Vasterior craft an interior that feels luxurious, aligned, timeless and unmistakably yours.
+                    Let Space Build craft an interior that feels luxurious, aligned, timeless and unmistakably yours.
                   </p>
                   <div className="bg-white/10 backdrop-blur-sm border border-white/30 rounded-xl px-2 py-2 space-y-2">
                     <p className="text-white text-xl font-semibold">Request an Interior Design Consultation</p>

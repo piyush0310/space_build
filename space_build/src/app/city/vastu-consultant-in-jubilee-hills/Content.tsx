@@ -123,7 +123,7 @@ const Content = () => {
               This is not decorative spirituality. This is performance-based space optimization.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Jubilee Hills Clients Choose Vasterior
             </h2>

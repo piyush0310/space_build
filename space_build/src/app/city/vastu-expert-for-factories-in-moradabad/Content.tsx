@@ -94,9 +94,9 @@ const Content = () => {
               <li><strong>Ongoing Support</strong> – Follow-up visits for long-term improvements.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Expert for Factories in Moradabad?
+             SPACE BUILD as Vastu Expert for Factories in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Industry Knowledge</strong> – Experience in brass, handicrafts, textile, and modern industries.</li>

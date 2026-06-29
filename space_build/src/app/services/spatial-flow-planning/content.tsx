@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function SpatialFlowPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677934/Spatial-Flow-Planning_vxbctu.jpg"
-          alt="Spatial Flow Planning by Vasterior"
+          alt="Spatial Flow Planning by Space Build"
           fill
           className="object-full"
           priority
@@ -49,7 +49,7 @@ export default function SpatialFlowPage() {
             This invisible difference is the result of spatial flow, how people, air, light, objects, and energy travel through the environment.
           </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <p className="text-gray-800 font-semibold mb-3">At Vasterior, Spatial Flow Planning combines:</p>
+            <p className="text-gray-800 font-semibold mb-3">At Space Build, Spatial Flow Planning combines:</p>
             <ul className="space-y-2 text-gray-700">
               <li>• The science of MahaVastu</li>
               <li>• The precision of interior architecture</li>
@@ -70,7 +70,7 @@ export default function SpatialFlowPage() {
       </section>
 
       {/* What Spatial Flow Planning Includes */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT SPATIAL FLOW PLANNING INCLUDES</h3>
           
@@ -187,7 +187,7 @@ export default function SpatialFlowPage() {
       </section>
 
       {/* Who Should Take This Service */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHO SHOULD TAKE THIS SERVICE?</h3>
           <p className="text-gray-700 mb-4">Ideal for:</p>
@@ -229,7 +229,7 @@ export default function SpatialFlowPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -253,7 +253,7 @@ export default function SpatialFlowPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE VASTERIOR PROCESS</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE Space Build PROCESS</h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Understanding Your Lifestyle</h4>
@@ -283,7 +283,7 @@ export default function SpatialFlowPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
@@ -318,7 +318,7 @@ export default function SpatialFlowPage() {
             Create a Space That Feels Effortless and Alive
           </h3>
           <p className="text-lg text-gray-700 mb-6">
-            Let Vasterior transform your home or office into an environment that supports clarity, flow, and everyday harmony.
+            Let Space Build transform your home or office into an environment that supports clarity, flow, and everyday harmony.
           </p>
           <div className="space-y-2">
             <p className="text-xl font-semibold text-gray-800">Book Your Spatial Flow Planning Session</p>

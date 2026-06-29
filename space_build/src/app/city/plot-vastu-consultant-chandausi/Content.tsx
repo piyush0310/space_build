@@ -112,10 +112,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior in Chandausi?
+               SPACE BUILD in Chandausi?
               </h3>
               <p className="mt-4">
                 What sets Vasterior apart is not just Vastu knowledge, it is clarity.

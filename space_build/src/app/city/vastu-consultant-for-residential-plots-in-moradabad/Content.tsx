@@ -135,9 +135,9 @@ const Content = () => {
               <li><strong>Remedies for Imbalances</strong> – Correcting plot limitations with Vastu cures.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Residential Plot Vastu Consultant in Moradabad?
+             SPACE BUILD as Your Residential Plot Vastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Expertise in Plot Selection</strong> – Helping clients invest in the right land.</li>

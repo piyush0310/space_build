@@ -28,7 +28,7 @@ const Content = () => {
               Our team comprises certified Vastu consultants, architects, and interior stylists with over a decade of experience serving clients across Delhi NCR.
             </p>
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Best Vastu Expert in Delhi
+             SPACE BUILD – The Best Vastu Expert in Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li>Certified Expertise: Led by highly qualified Vastu professionals with years of real-world application and results.</li>

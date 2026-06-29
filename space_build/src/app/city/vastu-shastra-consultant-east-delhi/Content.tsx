@@ -41,9 +41,9 @@ const Content = () => {
               Serving across East Delhi, including areas like Preet Vihar, Laxmi Nagar, Mayur Vihar, and Anand Vihar, we&apos;ve helped countless homeowners and businesses create spaces that look elegant and feel energetically aligned.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Shastra Consultant East Delhi
+             SPACE BUILD as Your Vastu Shastra Consultant East Delhi
             </h2>
             <p>
               When precision, aesthetics, and authenticity matter, Vasterior stands as your ideal partner. Here&apos;s why clients across East Delhi trust us:

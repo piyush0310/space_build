@@ -41,9 +41,9 @@ const Content = () => {
               Through virtual consultations, Vasterior has empowered hundreds of clients across India and abroad to transform their spaces into zones of prosperity, peace, and purpose - without geographical boundaries.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Online Vastu Consultant Delhi
+             SPACE BUILD as Your Online Vastu Consultant Delhi
             </h2>
             <p>
               Choosing the right Vastu consultant can redefine your home and lifestyle. Here&apos;s why Vasterior stands out as a trusted name for Online Vastu Consultation in Delhi NCR:

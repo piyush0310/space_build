@@ -206,7 +206,7 @@ const Content = () => {
             {/* Why Choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Your Home in Amroha
+               SPACE BUILD for Your Home in Amroha
               </h3>
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li>Luxury interiors with emotional depth</li>

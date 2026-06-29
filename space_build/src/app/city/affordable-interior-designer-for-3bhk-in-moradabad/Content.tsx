@@ -18,15 +18,15 @@ const Content = () => {
               Smart & Stylish Interiors for Your 3BHK at the Best Price
             </h3>
             <p>
-              Owning a 3BHK home in Moradabad is a dream for many families. However, designing it beautifully within budget often feels challenging. At Vasterior – Affordable Interior Designer for 3BHK in Moradabad, UP, we make it possible to have modern, functional, and stylish interiors at a cost that suits your pocket. With our expertise, every corner of your 3BHK apartment or villa is optimized for comfort, aesthetics, and durability—without overspending.
+              Owning a 3BHK home in Moradabad is a dream for many families. However, designing it beautifully within budget often feels challenging. At Space Build – Affordable Interior Designer for 3BHK in Moradabad, UP, we make it possible to have modern, functional, and stylish interiors at a cost that suits your pocket. With our expertise, every corner of your 3BHK apartment or villa is optimized for comfort, aesthetics, and durability—without overspending.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for 3BHK Interior Designing in Moradabad?
+             SPACE BUILD for 3BHK Interior Designing in Moradabad?
             </h2>
             <p>
-              Moradabad families are increasingly choosing 3BHK apartments and homes for spacious living. These homes require well-planned interiors to balance functionality with design. Here&apos;s why Vasterior is trusted by homeowners across the city:
+              Moradabad families are increasingly choosing 3BHK apartments and homes for spacious living. These homes require well-planned interiors to balance functionality with design. Here&apos;s why Space Build is trusted by homeowners across the city:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Affordable Packages</strong> – Transparent pricing and budget-friendly options.</li>
@@ -98,9 +98,9 @@ const Content = () => {
               </div>
             </div>
 
-            {/* How Vasterior Makes 3BHK Interiors Affordable */}
+            {/* How Space Build Makes 3BHK Interiors Affordable */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Vasterior Makes 3BHK Interiors Affordable
+              How Space Build Makes 3BHK Interiors Affordable
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Smart Design Planning</strong> – Avoiding wastage and unnecessary costs.</li>
@@ -112,7 +112,7 @@ const Content = () => {
 
             {/* Benefits */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Choosing Vasterior for 3BHK Interior Design
+              Benefits of Choosing Space Build for 3BHK Interior Design
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Get premium-quality 3BHK interiors at affordable prices.</li>
@@ -122,9 +122,9 @@ const Content = () => {
               <li>Stress-free execution – everything managed under one roof.</li>
             </ul>
 
-            {/* Why Moradabad Families Trust Vasterior */}
+            {/* Why Moradabad Families Trust Space Build */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Moradabad Families Trust Vasterior?
+              Why Moradabad Families Trust Space Build?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Proven expertise in 3BHK apartments, villas, and flats.</li>
@@ -139,10 +139,10 @@ const Content = () => {
             </h2>
             <div className="space-y-4">
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;Vasterior designed our 3BHK apartment interiors within budget. The modular kitchen and living room look luxurious yet affordable.&quot; – Anjali Sharma, Moradabad
+                &quot;Space Build designed our 3BHK apartment interiors within budget. The modular kitchen and living room look luxurious yet affordable.&quot; – Anjali Sharma, Moradabad
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;Our 3BHK villa was renovated by Vasterior. The designs were modern, and the cost was surprisingly reasonable. Great team!&quot; – Sanjay Verma, Moradabad
+                &quot;Our 3BHK villa was renovated by Space Build. The designs were modern, and the cost was surprisingly reasonable. Great team!&quot; – Sanjay Verma, Moradabad
               </blockquote>
             </div>
 
@@ -154,7 +154,7 @@ const Content = () => {
             <div className="space-y-6 mt-6">
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q1: How much does 3BHK interior design cost in Moradabad?</h3>
-                <p>A: The cost depends on size and materials, but Vasterior offers affordable packages starting from budget-friendly rates.</p>
+                <p>A: The cost depends on size and materials, but Space Build offers affordable packages starting from budget-friendly rates.</p>
               </div>
 
               <div>
@@ -180,17 +180,17 @@ const Content = () => {
 
             {/* Contact Info */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              📞 Contact Vasterior – Affordable Interior Designer for 3BHK in Moradabad
+              📞 Contact Space Build – Affordable Interior Designer for 3BHK in Moradabad
             </h2>
             <div className="space-y-2">
               <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
               <p><strong>📧 Email:</strong> info@spacebuild.com</p>
-              <p><strong>🌐 Website:</strong> www.vasterior.com</p>
+              <p><strong>🌐 Website:</strong> www.Space Build.com</p>
             </div>
             
             <p className="mt-4 font-semibold text-gray-900">
-              Vasterior – Designing Affordable 3BHK Interiors in Moradabad with Style, Comfort, and Functionality.
+              Space Build – Designing Affordable 3BHK Interiors in Moradabad with Style, Comfort, and Functionality.
             </p>
           </div>
 

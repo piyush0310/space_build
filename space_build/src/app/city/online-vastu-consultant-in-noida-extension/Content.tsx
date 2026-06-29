@@ -116,7 +116,7 @@ const Content = () => {
               <li><strong>Follow-Up Support</strong> – Continued assistance until results are visible.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Vasterior is the Preferred Online Vastu Consultant
             </h2>

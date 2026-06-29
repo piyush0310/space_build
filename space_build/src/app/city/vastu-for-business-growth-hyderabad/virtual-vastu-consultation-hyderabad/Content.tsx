@@ -139,7 +139,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Virtual Vastu Consultation in Hyderabad
+             SPACE BUILD for Virtual Vastu Consultation in Hyderabad
             </h2>
             <p>This is where the difference becomes undeniable.</p>
             <p>

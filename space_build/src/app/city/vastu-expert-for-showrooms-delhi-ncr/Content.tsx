@@ -38,9 +38,9 @@ const Content = () => {
               Our Vastu experts use a data-backed, directional analysis model &ndash; ensuring every element of your showroom supports your business objectives. Whether you&rsquo;re opening a fashion studio, a furniture showroom, or a real estate sales gallery, Vasterior helps you create an environment where energy supports enterprise.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Expert For Showrooms Delhi NCR
+             SPACE BUILD as Your Vastu Expert For Showrooms Delhi NCR
             </h2>
             <p>
               Every successful business needs more than just a good product &ndash; it needs the right space to thrive. Here&rsquo;s why top business owners and brands in Delhi NCR choose Vasterior:

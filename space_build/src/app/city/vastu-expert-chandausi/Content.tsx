@@ -68,7 +68,7 @@ const Content = () => {
             {/* Why Vasterior */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Vastu Expert in Chandausi
+               SPACE BUILD as Your Vastu Expert in Chandausi
               </h3>
               <p className="mt-4">
                 Let's be honest, most Vastu consultants don't understand interiors, and most interior designers ignore energy flow. Vasterior bridges that gap.

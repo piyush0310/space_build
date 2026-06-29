@@ -111,9 +111,9 @@ const Content = () => {
               <li><strong>Follow-Up Guidance</strong> – Long-term support for consistent growth.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Office Vastu Consultant in Moradabad?
+             SPACE BUILD as Office Vastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Dual Expertise</strong> – Vastu consultancy + premium interior design.</li>

@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Most Trusted Interior Design Firm For Farmhouses In East Delhi
+             SPACE BUILD – The Most Trusted Interior Design Firm For Farmhouses In East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Tailored Design Approach</strong> - We craft every farmhouse interior design around your vision, ensuring each space feels exclusive and aligned with your taste.</li>

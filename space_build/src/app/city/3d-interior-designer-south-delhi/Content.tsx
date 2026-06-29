@@ -16,11 +16,11 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that a space should do more than look beautiful, it should support
+              Space Build believes that a space should do more than look beautiful, it should support
               you, your clarity, your momentum, and your peace.
             </p>
             <p>
-              As a leading 3D interior designer in South Delhi, Vasterior designs spaces that are
+              As a leading 3D interior designer in South Delhi, Space Build designs spaces that are
               visually refined, spatially intelligent, and energetically aligned using the
               principles of MahaVastu, without fear, without demolition, and without disruption.
             </p>
@@ -36,7 +36,7 @@ const Content = () => {
             </h3>
             <p>Design decisions are no longer made on imagination alone.</p>
             <p>3D interior design allows you to experience your space before it exists.</p>
-            <p>At Vasterior, 3D visualisation is not just about realistic renders. It is about:</p>
+            <p>At Space Build, 3D visualisation is not just about realistic renders. It is about:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Understanding spatial flow</li>
               <li>Seeing how light behaves throughout the day</li>
@@ -48,12 +48,12 @@ const Content = () => {
               clarity, and clarity is the foundation of good design.
             </p>
 
-            {/* Vasterior approach */}
+            {/* Space Build approach */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vasterior&apos;s Approach to 3D Interior Design
+              Space Build&apos;s Approach to 3D Interior Design
             </h3>
             <p>
-              Vasterior approaches 3D interior design as a thinking process, not a software output.
+              Space Build approaches 3D interior design as a thinking process, not a software output.
             </p>
             <p>Every project begins with understanding:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
@@ -77,12 +77,12 @@ const Content = () => {
               Where MahaVastu Becomes a Design Advantage
             </h3>
             <p>
-              What sets Vasterior apart as a 3D interior designer in South Delhi is the seamless
+              What sets Space Build apart as a 3D interior designer in South Delhi is the seamless
               integration of MahaVastu into design itself.
             </p>
             <p>MahaVastu is not about remedies or superstition. It is about alignment.</p>
             <p>Alignment of activities, directions, elements, and objects.</p>
-            <p>At Vasterior:</p>
+            <p>At Space Build:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Vastu is addressed at the layout level</li>
               <li>No demolition is suggested unless absolutely necessary</li>
@@ -107,7 +107,7 @@ const Content = () => {
               <li>Energy imbalance despite luxury finishes</li>
             </ul>
             <p>
-              Vasterior understands these nuances. Our experience with South Delhi residences allows
+              Space Build understands these nuances. Our experience with South Delhi residences allows
               us to design spaces that respect architecture while enhancing functionality, flow, and
               comfort.
             </p>
@@ -116,7 +116,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Who This Service Is Ideal For
             </h3>
-            <p>Vasterior&apos;s 3D interior design and MahaVastu integration is ideal for:</p>
+            <p>Space Build&apos;s 3D interior design and MahaVastu integration is ideal for:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Homeowners planning a new house or renovation</li>
               <li>Professionals who want their home to support focus and rest</li>
@@ -130,7 +130,7 @@ const Content = () => {
 
             {/* Client experience */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Clients Experience With Vasterior
+              What Clients Experience With Space Build
             </h3>
             <p>
               Clients often describe the outcome not just as a better home, but as a better feeling.
@@ -154,7 +154,7 @@ const Content = () => {
               design intelligence and spatial energy, a conversation is the right place to begin.
             </p>
             <p>
-              You can speak directly with the Vasterior team by calling{" "}
+              You can speak directly with the Space Build team by calling{" "}
               <strong>+917906086899</strong> for a consultation, or, if you prefer to share
               details at your own pace, write to{" "}
               <a
@@ -173,9 +173,9 @@ const Content = () => {
             <ol className="list-decimal list-inside space-y-2 ml-4">
               <li>
                 <span className="font-semibold">
-                  What makes Vasterior different from other interior designers in South Delhi?
+                  What makes Space Build different from other interior designers in South Delhi?
                 </span>{" "}
-                Vasterior integrates high-end 3D interior design with MahaVastu principles, focusing
+                Space Build integrates high-end 3D interior design with MahaVastu principles, focusing
                 on spatial flow, emotional comfort, and long-term alignment, not just aesthetics.
               </li>
               <li>
@@ -192,23 +192,23 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Will Vastu changes require demolition?</span> In most
-                cases, no. Vasterior follows non-demolition MahaVastu principles, solving issues
+                cases, no. Space Build follows non-demolition MahaVastu principles, solving issues
                 through planning and intelligent design adjustments.
               </li>
               <li>
                 <span className="font-semibold">Do you only work in South Delhi?</span> While
-                Vasterior has strong expertise in South Delhi homes, projects are undertaken across
+                Space Build has strong expertise in South Delhi homes, projects are undertaken across
                 Delhi NCR and beyond based on scope and alignment.
               </li>
               <li>
                 <span className="font-semibold">
-                  Can I consult Vasterior for design without execution?
+                  Can I consult Space Build for design without execution?
                 </span>{" "}
-                Yes. Vasterior offers design-focused consultations, including 3D planning and
+                Yes. Space Build offers design-focused consultations, including 3D planning and
                 MahaVastu guidance, even if execution is managed separately.
               </li>
               <li>
-                <span className="font-semibold">How do I start working with Vasterior?</span> You can
+                <span className="font-semibold">How do I start working with Space Build?</span> You can
                 begin by calling <strong>+917906086899</strong> or emailing{" "}
                 <a
                   href="mailto:info@spacebuild.com"

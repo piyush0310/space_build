@@ -2,14 +2,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 
-export default function VasteriorServicesPage() {
+export default function SpaceBuildServicesPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#EDF4F8]">
       {/* Hero Section */}
       <section className="relative w-full h-[60vh] md:h-[50vh] overflow-hidden">
         <Image
           src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1920&auto=format&fit=crop&q=100"
-          alt="Vasterior Services"
+          alt="SPACE BUILD SERVICES"
           fill
           className="object-cover"
           priority
@@ -17,7 +17,7 @@ export default function VasteriorServicesPage() {
         <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
           <div className="text-center px-4">
             <h1 className="text-4xl md:text-6xl font-serif text-white mb-4">
-              VASTERIOR SERVICES
+              SPACE BUILD SERVICES
             </h1>
             <p className="text-xl md:text-2xl text-white/90 font-light italic">
               Where Energy, Aesthetics & Purpose Converge
@@ -36,21 +36,21 @@ export default function VasteriorServicesPage() {
       {/* Introduction */}
       <section className="max-w-5xl mx-auto px-6 py-6">
         <div className="space-y-6">
-          <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">Vasterior Services</h2>
+          <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">SPACE BUILD SERVICES</h2>
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, we believe a space is more than architecture; it is a living organism, constantly interacting with its occupants. Every corner carries intention, every material holds memory, and every layout shapes how energy moves through life.
+            At SPACE BUILD, we believe a space is more than architecture; it is a living organism, constantly interacting with its occupants. Every corner carries intention, every material holds memory, and every layout shapes how energy moves through life.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Our services unite MahaVastu science, spatial psychology, and luxury interior design to create environments that feel grounded, beautiful, and profoundly aligned with your goals.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed italic">
-            Whether you seek clarity, better flow, wellness, harmony, or a complete transformation, Vasterior offers a structured, holistic approach that honours both your vision and your energy.
+            Whether you seek clarity, better flow, wellness, harmony, or a complete transformation, SPACE BUILD offers a structured, holistic approach that honours both your vision and your energy.
           </p>
         </div>
       </section>
 
       {/* Our Core Offerings */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8 text-center">OUR CORE OFFERINGS</h3>
           
@@ -67,7 +67,7 @@ export default function VasteriorServicesPage() {
               <p className="text-gray-700 mb-3">
                 This free service is designed for individuals facing challenges related to career, finances, relationships, stability, or emotional well-being.
               </p>
-              <div className="bg-[#FFF2EB] rounded p-4 mb-3">
+              <div className="bg-[#EDF4F8] rounded p-4 mb-3">
                 <p className="text-gray-800 font-semibold text-center mb-2">Guided by the motto:</p>
                 <p className="text-gray-700 text-center italic">
                   "Har Ghar Hoga MahaVastu; Dhan, Sukh, Sehat Tathastu."
@@ -98,7 +98,7 @@ export default function VasteriorServicesPage() {
               </Link>
               <p className="text-gray-700 mb-3 italic">Luxury interiors rooted in energy, culture & timeless aesthetics.</p>
               <p className="text-gray-700 mb-3">
-                Vasterior designs homes, offices, boutique spaces, and commercial environments that blend architectural clarity, material warmth, spatial psychology, MahaVastu principles, and personal storytelling.
+                SPACE BUILD designs homes, offices, boutique spaces, and commercial environments that blend architectural clarity, material warmth, spatial psychology, MahaVastu principles, and personal storytelling.
               </p>
               <p className="text-gray-700 mb-2">Our design process includes:</p>
               <ul className="space-y-2 text-gray-700 mb-3">
@@ -194,7 +194,7 @@ export default function VasteriorServicesPage() {
                 <li>• Three-month check-ins</li>
                 <li>• One site visit (for offline consultation)</li>
               </ul>
-              <div className="bg-[#FFF2EB] rounded p-4 mb-3">
+              <div className="bg-[#EDF4F8] rounded p-4 mb-3">
                 <p className="text-gray-800 font-semibold mb-2">Pricing:</p>
                 <p className="text-gray-700">• ₹25,000 — Online Consultation</p>
                 <p className="text-gray-700">• ₹51,000 — Offline Consultation (includes 1 site visit)</p>
@@ -301,9 +301,9 @@ export default function VasteriorServicesPage() {
         </div>
       </section>
 
-      {/* Why Choose Vasterior */}
+      {/*SPACE BUILD */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY CHOOSE VASTERIOR?</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY CHOOSE SPACE BUILD?</h3>
         <div className="bg-white rounded-lg p-6 shadow-md">
           <ul className="space-y-2 text-gray-700">
             <li>• A rare blend of luxury design + MahaVastu expertise</li>
@@ -318,19 +318,19 @@ export default function VasteriorServicesPage() {
           Your space should not only look extraordinary — it should feel like it belongs to you.
         </p>
         <p className="text-lg text-gray-700 leading-relaxed mt-4 text-center">
-          At Vasterior, we design for your story, your goals, and your energetic blueprint.
+          At SPACE BUILD, we design for your story, your goals, and your energetic blueprint.
         </p>
       </section>
 
       {/* Closing CTA */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <div className="text-center bg-white rounded-2xl shadow-md p-8">
             <h3 className="text-2xl font-serif text-gray-800 mb-4">
               Ready to Transform Your Space?
             </h3>
             <p className="text-lg text-gray-700 mb-6">
-              Explore our services and discover how Vasterior can help you create a space that truly supports your life.
+              Explore our services and discover how SPACE BUILD can help you create a space that truly supports your life.
             </p>
             <div className="space-y-2">
               <p className="text-xl font-semibold text-gray-800">Get in Touch Today</p>

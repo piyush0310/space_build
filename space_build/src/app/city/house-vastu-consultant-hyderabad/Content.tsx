@@ -166,7 +166,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Hyderabad?
+             SPACE BUILD in Hyderabad?
             </h2>
             <p>
               Choosing the right Vastu Consultant in Hyderabad determines whether

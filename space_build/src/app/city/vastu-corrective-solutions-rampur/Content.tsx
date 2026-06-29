@@ -145,10 +145,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu in Rampur
+               SPACE BUILD for Vastu in Rampur
               </h3>
               <p>
                 Rampur is a city where tradition meets enterprise—homes built

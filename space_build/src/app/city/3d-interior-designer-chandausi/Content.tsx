@@ -54,7 +54,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior
+             SPACE BUILD
             </h3>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Design with purpose - every decision has reason</li>

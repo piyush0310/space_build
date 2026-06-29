@@ -34,7 +34,7 @@ const Careers = () => {
           </h1>          
           <div className="max-w-7xl mx-auto">
             <p className="text-gray-700 text-lg leading-relaxed font-light">
-              At Vasterior, we believe that great design comes from passionate people. Our team is built on creativity, collaboration, and innovation, and we are always looking for talented individuals who share our vision of redefining spaces with elegance and functionality. Whether you&apos;re a designer, planner, or creative thinker, we offer opportunities to grow, learn, and work on inspiring projects that make a real impact. If you&apos;re ready to be part of a dynamic and forward-thinking design studio, we&apos;d love to hear from you.
+              At Space Build, we believe that great design comes from passionate people. Our team is built on creativity, collaboration, and innovation, and we are always looking for talented individuals who share our vision of redefining spaces with elegance and functionality. Whether you&apos;re a designer, planner, or creative thinker, we offer opportunities to grow, learn, and work on inspiring projects that make a real impact. If you&apos;re ready to be part of a dynamic and forward-thinking design studio, we&apos;d love to hear from you.
             </p>
           </div>
         </section>

@@ -27,7 +27,7 @@ const Content = () => {
               Our philosophy is simple: design should make everyday living more beautiful and comfortable. Every project begins with understanding your lifestyle and ends with delivering a space that exceeds your expectations. From consultation to final installation, Vasterior ensures quality and perfection at every step.
             </p>
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior - The Best Interior Designer in East Delhi
+             SPACE BUILD - The Best Interior Designer in East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Personalized Designs</strong> – Every home is unique. We tailor each concept to match your taste, lifestyle, and vision.</li>

@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Trusted Interior Designer For Farmhouses In East Delhi
+             SPACE BUILD – The Trusted Interior Designer For Farmhouses In East Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Tailored Design Approach</strong> – We design every farmhouse based on your vision, blending rustic warmth with contemporary sophistication.</li>

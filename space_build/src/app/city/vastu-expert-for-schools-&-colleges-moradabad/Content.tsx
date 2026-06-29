@@ -101,9 +101,9 @@ const Content = () => {
               <li>Metal Remedies – Use of copper, brass, or iron objects for balance.</li>
               <li>Furniture Arrangement – Positioning desks and chairs for smooth energy flow.</li>
             </ul>
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Expert for Schools & Colleges in Moradabad?
+             SPACE BUILD as Vastu Expert for Schools & Colleges in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Education-Specific Expertise – Focused experience in institutional Vastu.</li>

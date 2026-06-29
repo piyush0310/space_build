@@ -16,10 +16,10 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that a home is not something you simply decorate, it is something you align. 
+              Space Build believes that a home is not something you simply decorate, it is something you align. 
               It is where aesthetics meet intention, where form follows feeling, and where every space quietly 
               supports the life being lived within it. In Chandausi, where homes are evolving from functional 
-              structures into refined personal sanctuaries, Vasterior brings a distinctive approach to high-end 
+              structures into refined personal sanctuaries, Space Build brings a distinctive approach to high-end 
               interior design, one that blends timeless luxury, spatial intelligence, and energy-aligned 
               planning into spaces that feel effortless yet deeply considered.
             </p>
@@ -34,7 +34,7 @@ const Content = () => {
               support your ambitions, comfort, and well-being.
             </p>
             <p>
-              At Vasterior, we approach every Chandausi home with one fundamental belief:
+              At Space Build, we approach every Chandausi home with one fundamental belief:
             </p>
             <p className="font-semibold text-gray-900">
               Luxury is not loud. It is intentional.
@@ -65,7 +65,7 @@ const Content = () => {
               Our Philosophy: Design That Flows, Spaces That Support You
             </h3>
             <p>
-              What sets Vasterior apart is not just how spaces look, but how they work and how they feel.
+              What sets Space Build apart is not just how spaces look, but how they work and how they feel.
             </p>
             <ol className="list-decimal list-inside space-y-1 ml-4">
               <li>
@@ -115,7 +115,7 @@ const Content = () => {
 
             {/* Process */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process: Calm, Clear, and Collaborative
+              The Space Build Design Process: Calm, Clear, and Collaborative
             </h3>
             <ol className="list-decimal list-inside space-y-1 ml-4">
               <li><strong>Discovery & Alignment</strong> - Understanding your lifestyle, needs, and expectations.</li>
@@ -160,10 +160,10 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. What makes Vasterior different from other interior designers in Chandausi?
+                  1. What makes Space Build different from other interior designers in Chandausi?
                 </h4>
                 <p>
-                  Vasterior focuses on spatial flow, timeless aesthetics, and energy alignment, not just 
+                  Space Build focuses on spatial flow, timeless aesthetics, and energy alignment, not just 
                   surface-level décor. Our approach is design-led, intentional, and deeply personalised.
                 </p>
               </div>

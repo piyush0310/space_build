@@ -97,7 +97,7 @@ const Content = () => {
               intuitive, almost inevitable, as if it couldn&apos;t have been designed any other way.
             </p>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why South Delhi Homeowners Choose Vasterior
             </h3>

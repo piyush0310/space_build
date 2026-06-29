@@ -108,7 +108,7 @@ const Content = () => {
             </ul>
             <p>Each category has different customer behaviour patterns, and we design accordingly. No copy-paste layouts. No generic formulas.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Businesses in Chandausi Choose Vasterior
             </h2>

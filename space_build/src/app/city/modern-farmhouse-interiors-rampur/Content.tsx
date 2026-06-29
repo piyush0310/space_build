@@ -45,7 +45,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Interior Designer in Rampur
+             SPACE BUILD as the Best Interior Designer in Rampur
             </h2>
             <p>
               Choosing the right designer is not just about style - it&apos;s about trust, intention, and the ability to translate your lifestyle into a home that feels like you. Here&apos;s why families in Rampur prefer Vasterior:

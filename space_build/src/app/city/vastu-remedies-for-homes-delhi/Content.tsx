@@ -41,9 +41,9 @@ const Content = () => {
               With hundreds of successful transformations across Delhi, Vasterior has become synonymous with authentic, effective, and luxurious Vastu consultancy.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Remedies For Homes Delhi
+             SPACE BUILD for Vastu Remedies For Homes Delhi
             </h2>
             <p>
               Choosing Vasterior means choosing a partner who understands both the science of space and the art of living. Here&apos;s what makes us Delhi&apos;s preferred Vastu consultancy:

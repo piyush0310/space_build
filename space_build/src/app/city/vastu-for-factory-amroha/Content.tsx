@@ -83,9 +83,9 @@ const Content = () => {
             </ul>
             <p>Whether you are setting up from scratch or correcting an existing layout, early alignment saves long-term cost and effort.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior?
+             SPACE BUILD?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Expertise in industrial Vastu and spatial planning</li>

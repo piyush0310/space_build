@@ -103,7 +103,7 @@ const Content = () => {
               <li>Layout adjustments without demolition</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Clients in Amroha Trust Vasterior
             </h2>

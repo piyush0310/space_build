@@ -58,7 +58,7 @@ const Content = () => {
             <p>When you consult a MahaVastu Expert online, you’re not guessing. You’re aligning.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior Over Other Vastu Consultants?
+             SPACE BUILD Over Other Vastu Consultants?
             </h2>
             <p>Anyone can claim to be the Best Vastu Consultant in Hyderabad. Very few can prove it.</p>
             <p>Here’s what makes Vasterior different:</p>

@@ -131,9 +131,9 @@ const Content = () => {
             </ul>
             <p>Our role is not just to design, but to protect you from expensive mistakes.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Living Room Interior Designer in Chandausi?
+             SPACE BUILD as Your Living Room Interior Designer in Chandausi?
             </h2>
             <p className="mb-4">
               What sets Vasterior apart is not just design skill, it's clarity and intention.

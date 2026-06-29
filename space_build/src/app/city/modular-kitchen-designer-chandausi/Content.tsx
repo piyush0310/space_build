@@ -26,9 +26,9 @@ const Content = () => {
               Whether you are building a new home or upgrading your existing kitchen, our approach focuses on efficiency, longevity, and elegance, so your kitchen works beautifully today and continues to support your lifestyle for years to come.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Modular Kitchen Designer in Chandausi?
+             SPACE BUILD as Your Modular Kitchen Designer in Chandausi?
             </h2>
             <p className="mb-4">
               In a market filled with catalog-based kitchens and one-size-fits-all solutions, Vasterior stands apart by designing custom kitchens, not factory templates.

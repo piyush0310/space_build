@@ -109,9 +109,9 @@ const Content = () => {
             <p>Good Vastu does not make life perfect.</p>
             <p>It makes life less resistant. That is the difference clients feel.</p>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Consultation in Madangir
+             SPACE BUILD for Vastu Consultation in Madangir
             </h3>
             <p>Because we do not sell fear.</p>
             <p>Because we do not prescribe one-size-fits-all fixes.</p>

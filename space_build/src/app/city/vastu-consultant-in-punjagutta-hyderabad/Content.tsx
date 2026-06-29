@@ -163,7 +163,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Punjagutta, Hyderabad
+             SPACE BUILD in Punjagutta, Hyderabad
             </h2>
             <p>
               Choosing a Vastu consultant is about trust, expertise, and

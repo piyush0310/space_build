@@ -120,7 +120,7 @@ const Content = () => {
             {/* Why Choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Vastu Specialist in Amroha
+               SPACE BUILD as Your Vastu Specialist in Amroha
               </h3>
               <p>What sets Vasterior apart is not just knowledge, but intent and integrity.</p>
               <ul className="list-disc list-inside space-y-2 ml-4 mt-4 mb-4">

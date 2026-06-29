@@ -38,9 +38,9 @@ const Content = () => {
               At Vasterior, every consultation is based on authentic Vastu knowledge combined with strategic design insight - ensuring that your office not only looks exceptional but also feels energetically empowering.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Most Trusted Vastu Consultant For Office Delhi
+             SPACE BUILD – The Most Trusted Vastu Consultant For Office Delhi
             </h2>
             <p>
               When it comes to business success, your environment plays a silent yet powerful role. Here&apos;s why Vasterior is the preferred choice for professionals and corporates across Delhi NCR:

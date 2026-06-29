@@ -10,18 +10,18 @@ import Blog from "@/components/Blog";
 export const metadata: Metadata = {
   title: "Affordable Vastu Interior Designer Malviya Nagar",
   description:
-    "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Vasterior delivers stylish, budget-friendly & Vastu-compliant interiors.",
+    "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Space Build delivers stylish, budget-friendly & Vastu-compliant interiors.",
   keywords:
     "affordable vastu interior designer malviya nagar, vastu interior consultant malviya nagar, residential interior designer malviya nagar",
   alternates: {
-    canonical: "https://www.vasterior.com/city/affordable-vastu-interior-designer-malviya-nagar",
+    canonical: "https://www.Space Build.com/city/affordable-vastu-interior-designer-malviya-nagar",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-vastu-interior-designer-malviya-nagar",
+    url: "https://www.Space Build.com/city/affordable-vastu-interior-designer-malviya-nagar",
     title: "Affordable Vastu Interior Designer Malviya Nagar",
     description:
-      "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Vasterior delivers stylish, budget-friendly & Vastu-compliant interiors.",
+      "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Space Build delivers stylish, budget-friendly & Vastu-compliant interiors.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
+    site: "@Space Build",
     title: "Affordable Vastu Interior Designer Malviya Nagar",
     description:
-      "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Vasterior delivers stylish, budget-friendly & Vastu-compliant interiors.",
+      "Affordable Vastu Interior Designer Malviya Nagar, with Price | Vasteior. Looking for an affordable Vastu interior designer in Malviya Nagar with price details? Space Build delivers stylish, budget-friendly & Vastu-compliant interiors.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

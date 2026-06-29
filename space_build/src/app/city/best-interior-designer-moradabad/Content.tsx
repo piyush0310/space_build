@@ -21,9 +21,9 @@ const Content = () => {
               When it comes to redefining living and working spaces, Vasterior – Best Interior Designer in Moradabad, UP stands as a trusted name. Our expertise lies in blending modern aesthetics with timeless designs to create interiors that are both beautiful and practical. Whether you are building a new home, renovating your office, or setting up a commercial space in Moradabad, we bring a personalized touch to every project.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Designer in Moradabad?
+             SPACE BUILD as Your Interior Designer in Moradabad?
             </h2>
             <p>
               Moradabad is a vibrant city known for its brass handicrafts, cultural heritage, and modern lifestyle. As families and businesses grow, the demand for premium interior design services has also increased. Here&apos;s why Vasterior is the first choice for clients across Moradabad and surrounding areas:

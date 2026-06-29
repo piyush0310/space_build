@@ -124,7 +124,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Showroom Vastu Consultant in
+             SPACE BUILD as Your Showroom Vastu Consultant in
               Hyderabad
             </h2>
             <p>

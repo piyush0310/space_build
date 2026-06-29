@@ -112,7 +112,7 @@ const Content = () => {
             {/* Why Choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Shop Vastu in Amroha
+               SPACE BUILD for Shop Vastu in Amroha
               </h3>
               <p>
                 Vasterior is not positioned as a local contractor or quick-fix consultant. We operate as a premium advisory studio, working with clients who value clarity, ethics, and long-term alignment.

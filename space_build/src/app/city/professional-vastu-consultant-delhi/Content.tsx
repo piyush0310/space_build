@@ -44,9 +44,9 @@ const Content = () => {
               At Vasterior, our mission is simple: to help every client live and work in spaces that support happiness, prosperity, and growth.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Professional Vastu Consultant Delhi
+             SPACE BUILD as Your Professional Vastu Consultant Delhi
             </h2>
             <p>
               Choosing the right Vastu consultant can redefine the way you experience your home or workspace. Here&apos;s why Vasterior is the preferred name in Delhi NCR:

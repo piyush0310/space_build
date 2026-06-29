@@ -51,7 +51,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best & Most Affordable Interior Designer in Rampur?
+             SPACE BUILD as the Best & Most Affordable Interior Designer in Rampur?
             </h2>
             <p>
               When homeowners in Rampur search for Affordable Interior Designer Rampur, they want someone who understands design, budget, and the cultural nuances of their homes.

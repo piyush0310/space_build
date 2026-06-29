@@ -8,18 +8,18 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Affordable Vastu Services Hyderabad | Vasterior",
+  title: "Affordable Vastu Services Hyderabad | Space Build",
   description:
     "Affordable Vastu Services Hyderabad providing cost-effective solutions without compromising quality.",
   keywords:
     "affordable vastu services hyderabad, low cost vastu hyderabad, professional budget solutions",
   alternates: {
-    canonical: "https://www.vasterior.com/city/affordable-vastu-services-hyderabad",
+    canonical: "https://www.Space Build.com/city/affordable-vastu-services-hyderabad",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-vastu-services-hyderabad",
-    title: "Affordable Vastu Services Hyderabad | Vasterior",
+    url: "https://www.Space Build.com/city/affordable-vastu-services-hyderabad",
+    title: "Affordable Vastu Services Hyderabad | Space Build",
     description:
       "Affordable Vastu Services Hyderabad providing cost-effective solutions without compromising quality.",
     images: [
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Vastu Services Hyderabad | Vasterior",
+    site: "@Space Build",
+    title: "Affordable Vastu Services Hyderabad | Space Build",
     description:
       "Affordable Vastu Services Hyderabad providing cost-effective solutions without compromising quality.",
     images: [

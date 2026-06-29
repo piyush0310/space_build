@@ -298,7 +298,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Services in Hyderabad?
+             SPACE BUILD for Vastu Services in Hyderabad?
             </h2>
             <p>Because we are not here to give you a hundred rules.</p>
             <p>We are here to give you results.</p>

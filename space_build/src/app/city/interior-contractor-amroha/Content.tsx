@@ -10,26 +10,26 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-12 order-1 lg:order-1">
           {/* Main Heading */}
           <h2 className="text-2xl sm:text-3xl md:text-3xl font-bold mb-8 text-gray-900">
-            Interior Contractor Amroha — Vasterior Studio
+            Interior Contractor Amroha — Space Build Studio
           </h2>
 
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <div>
               <p>
-                Vasterior Studio brings architectural finesse, luxury
+                Space Build Studio brings architectural finesse, luxury
                 craftsmanship and energy-aligned spatial design to Amroha&apos;s
                 most discerning homes and workplaces.
               </p>
               <p>
-                As a premium interior contractor in Amroha, Vasterior transforms
+                As a premium interior contractor in Amroha, Space Build transforms
                 raw structures into refined, high-performance spaces, blending
                 modern functionality with timeless aesthetics and meticulous
                 on-site execution guided by a boutique design sensibility.
               </p>
               <p>
                 Whether you are building your dream home, redefining a family
-                property or crafting a statement office, Vasterior turns your
+                property or crafting a statement office, Space Build turns your
                 vision into a beautifully executed reality, with zero chaos and
                 complete accountability.
               </p>
@@ -41,7 +41,7 @@ const Content = () => {
                 Where Luxury Meets Precision, Where Design Meets Discipline
               </h3>
               <p>
-                Unlike traditional contracting, Vasterior approaches every
+                Unlike traditional contracting, Space Build approaches every
                 project as a designed experience, not just a checklist of tasks.
               </p>
               <p>
@@ -49,7 +49,7 @@ const Content = () => {
                 energy-aligned layouts, ensures that the space does not just
                 look beautiful, it works for you for years to come.
               </p>
-              <p>Clients choose Vasterior because the studio offers:</p>
+              <p>Clients choose Space Build because the studio offers:</p>
               <ul className="list-disc list-inside space-y-1 ml-4">
                 <li>Editorial-grade design sensibility</li>
                 <li>Architect-level precision in drawings</li>
@@ -122,16 +122,16 @@ const Content = () => {
               </ol>
             </div>
 
-            {/* Why Amroha chooses Vasterior */}
+            {/* Why Amroha chooses Space Build */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Amroha Chooses Vasterior for Luxury Interior Contracting
+                Why Amroha Chooses Space Build for Luxury Interior Contracting
               </h3>
               <p>
                 Amroha is evolving, with families investing in more refined
                 homes, better workspaces and thoughtfully curated environments.
               </p>
-              <p>Vasterior stands out by offering:</p>
+              <p>Space Build stands out by offering:</p>
               <ul className="list-disc list-inside space-y-1 ml-4">
                 <li>Luxury detailing usually seen in top metro studios</li>
                 <li>End-to-end execution with zero misalignment</li>
@@ -150,10 +150,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Vasterior Difference */}
+            {/* Space Build Difference */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                The Vasterior Difference
+                The Space Build Difference
               </h3>
               <h4 className="text-lg sm:text-xl font-semibold text-gray-900 mt-2">
                 Editorial Design Sensibility
@@ -204,7 +204,7 @@ const Content = () => {
                 client journey.
               </p>
               <p>
-                Contact Vasterior Studio today at{" "}
+                Contact Space Build Studio today at{" "}
                 <strong>+917906086899</strong> or{" "}
                 <a
                   href="mailto:info@spacebuild.com"

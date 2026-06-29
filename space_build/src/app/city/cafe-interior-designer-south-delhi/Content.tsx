@@ -126,9 +126,9 @@ const Content = () => {
               markets, where even a small edge makes a big difference.
             </p>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Café Interior Designer in South Delhi
+             SPACE BUILD as Your Café Interior Designer in South Delhi
             </h3>
             <p>
               South Delhi has a very specific café audience, design-aware,

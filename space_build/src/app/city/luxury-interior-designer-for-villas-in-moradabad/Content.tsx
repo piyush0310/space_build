@@ -21,9 +21,9 @@ const Content = () => {
               Villas represent space, status, and comfort. To design a villa&apos;s interior is to create an immersive, layered environment that balances grandeur with livability. At Vasterior – Luxury Interior Designer for Villas in Moradabad, UP, we specialize in turning your villa into a masterpiece through bespoke design, luxury finishes, and seamless execution.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Villa Interiors in Moradabad
+             SPACE BUILD for Villa Interiors in Moradabad
             </h2>
             <div className="space-y-4">
               <div>

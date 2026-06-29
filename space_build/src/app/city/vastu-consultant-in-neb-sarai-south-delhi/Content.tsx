@@ -114,7 +114,7 @@ const Content = () => {
 
             {/* Why choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in South Delhi
+             SPACE BUILD as Your Vastu Consultant in South Delhi
             </h3>
             <p>
               What sets Vasterior apart is restraint. No exaggerated claims, no scare tactics, just

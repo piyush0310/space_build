@@ -142,9 +142,9 @@ const Content = () => {
               and long-term growth, not quick fixes.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Dosh Remedies in Amroha?
+             SPACE BUILD for Vastu Dosh Remedies in Amroha?
             </h2>
             <p>What sets Vasterior apart is not just knowledge, but intent and refinement.</p>
             <ul className="list-disc list-inside space-y-2 ml-4">

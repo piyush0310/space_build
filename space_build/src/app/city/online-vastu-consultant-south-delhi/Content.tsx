@@ -117,9 +117,9 @@ const Content = () => {
               is for you.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Online Vastu Consultant in South Delhi
+             SPACE BUILD as Your Online Vastu Consultant in South Delhi
             </h3>
             <p>
               Vasterior is a Spatial Flow and MahaVastu consultancy, blending interior design

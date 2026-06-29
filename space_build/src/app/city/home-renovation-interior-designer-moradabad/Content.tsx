@@ -21,9 +21,9 @@ const Content = () => {
               Your home is more than just four walls – it&apos;s a reflection of your lifestyle, emotions, and aspirations. Over time, homes lose their charm and functionality, but with the right renovation expert, they can be transformed into stunning, modern, and highly functional living spaces. As the leading Home Renovation Interior Designer in Moradabad, UP, Vasterior specializes in turning outdated homes into contemporary masterpieces while keeping comfort, elegance, and Vastu in mind.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Home Renovation in Moradabad?
+             SPACE BUILD for Home Renovation in Moradabad?
             </h2>
             <p>
               Moradabad, famous for its brass handicrafts and cultural heritage, is also witnessing a growing demand for modern, stylish, and functional homes. Renovation is not just about repairing old spaces – it&apos;s about reinventing interiors for the future. Here&apos;s why homeowners in Moradabad trust Vasterior:

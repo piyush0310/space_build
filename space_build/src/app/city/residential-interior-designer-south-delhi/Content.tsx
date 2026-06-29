@@ -114,7 +114,7 @@ const Content = () => {
               <p>Good design is visible. Great design is felt. That’s the difference Vasterior creates.</p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
                 Why Homeowners Choose Vasterior in South Delhi

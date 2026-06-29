@@ -16,7 +16,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that beautiful interiors are not about excess, they are about
+              Space Build believes that beautiful interiors are not about excess, they are about
               intelligence, balance, and intention. As an affordable interior designer in
               Chandausi, we help homeowners and business owners create thoughtfully planned
               spaces that feel refined, functional, and emotionally aligned, without unnecessary
@@ -31,7 +31,7 @@ const Content = () => {
             </h3>
             <p>
               Affordability in interior design is often misunderstood. Many assume it means
-              compromising on quality, aesthetics, or longevity. At Vasterior, affordability
+              compromising on quality, aesthetics, or longevity. At Space Build, affordability
               means smart decisions, where every layout, material, and detail is planned with
               clarity and purpose. We focus on optimising space, reducing wastage, and designing
               interiors that age gracefully over time.
@@ -43,13 +43,13 @@ const Content = () => {
               temporary.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Chandausi
+             SPACE BUILD in Chandausi
             </h3>
             <p>
               Chandausi homes are evolving, families want modern functionality while retaining
-              warmth and cultural grounding. Vasterior understands this balance deeply. Our team
+              warmth and cultural grounding. Space Build understands this balance deeply. Our team
               approaches every project with sensitivity toward lifestyle, budget, and energy
               flow.
             </p>
@@ -102,7 +102,7 @@ const Content = () => {
               MahaVastu-Aligned Interiors (Without Demolition)
             </h3>
             <p>
-              One of Vasterior&apos;s strongest differentiators is our integration of modern
+              One of Space Build&apos;s strongest differentiators is our integration of modern
               MahaVastu with interior design. Unlike common myths, Vastu does not always mean
               demolition or reconstruction.
             </p>
@@ -143,7 +143,7 @@ const Content = () => {
               Designed for Real Life, Not Just Photos
             </h3>
             <p>
-              Good interiors are felt every day, not just admired once. At Vasterior, we design
+              Good interiors are felt every day, not just admired once. At Space Build, we design
               for real routines, morning movement, family gatherings, focused work, and moments
               of rest.
             </p>
@@ -174,7 +174,7 @@ const Content = () => {
             <p>
               If you are looking for an affordable interior designer in Chandausi who brings
               clarity, structure, and thoughtful design, not confusion or pressure, you can start
-              with a simple conversation. You can speak directly with the Vasterior team by
+              with a simple conversation. You can speak directly with the Space Build team by
               calling <strong>+917906086899</strong>, or share your requirements over email at{" "}
               <a
                 href="mailto:info@spacebuild.com"
@@ -192,10 +192,10 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. What makes Vasterior an affordable interior designer in Chandausi?
+                  1. What makes Space Build an affordable interior designer in Chandausi?
                 </h4>
                 <p>
-                  Vasterior focuses on smart planning, value-driven design, and avoiding
+                  Space Build focuses on smart planning, value-driven design, and avoiding
                   unnecessary expenses. Our affordability comes from clarity and efficiency, not
                   compromise in quality.
                 </p>
@@ -238,7 +238,7 @@ const Content = () => {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  6. How do I get started with Vasterior in Chandausi?
+                  6. How do I get started with Space Build in Chandausi?
                 </h4>
                 <p>
                   You can begin by calling <strong>+917906086899</strong> for an initial

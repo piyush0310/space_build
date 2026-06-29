@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Trusted Name for Luxury Home Interiors in East Delhi
+             SPACE BUILD – The Trusted Name for Luxury Home Interiors in East Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Tailored Luxury Designs</strong> – Every home we design reflects your taste, lifestyle, and personality. Our customized design solutions ensure exclusivity in every detail.</li>

@@ -61,18 +61,18 @@ const Header: React.FC = () => {
   ];
 
   const servicesList = [
-    { name: "MAHAVASTU YOGDAN", href: "/" },
-    { name: "INTERIOR DESIGNING", href: "/" },
-    { name: "VASTU GRIDDING SURVEY", href: "/" },
-    { name: "SPATIAL FLOW PLANNING", href: "/" },
-    { name: "MAHAVASTU CONSULTATION", href: "/" },
-    { name: "VASTU STYLING", href: "/" },
-    { name: "VASTU RENOVATION", href: "/" },
-    { name: "PROJECT MANAGEMENT CONSULTATION (PMC)", href: "/" },
+    { name: "MAHAVASTU YOGDAN", href: "/services/mahavastu-yogdan" },
+    { name: "INTERIOR DESIGNING", href: "/services/interior-designing" },
+    { name: "VASTU GRIDDING SURVEY", href: "/services/vastu-gridding-survey" },
+    { name: "SPATIAL FLOW PLANNING", href: "/services/spatial-flow-planning" },
+    { name: "MAHAVASTU CONSULTATION", href: "/services/mahavastu-consultation" },
+    { name: "VASTU STYLING", href: "/services/vastu-styling" },
+    { name: "VASTU RENOVATION", href: "/services/vastu-renovation" },
+    { name: "PROJECT MANAGEMENT CONSULTATION (PMC)", href: "/services/project-management-consultation" },
   ];
 
   const aboutList = [
-    { name: "TEAM", href: "#about" },
+    { name: "TEAM", href: "/team " },
   ];
 
   const handleServiceClick = () => {
@@ -109,7 +109,7 @@ const Header: React.FC = () => {
 >
   <div className="leading-none">
     <h1 className="text-2xl lg:text-3xl xl:text-4xl font-serif font-medium tracking-tight text-white">
-      Space Build
+      SPACE BUILD
     </h1>
   </div>
 </Link>

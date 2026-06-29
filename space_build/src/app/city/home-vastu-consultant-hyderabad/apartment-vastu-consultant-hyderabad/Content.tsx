@@ -139,7 +139,7 @@ const Content = () => {
 
             {/* Why Vasterior */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Apartment Vastu Consultant in Hyderabad
+             SPACE BUILD as Your Apartment Vastu Consultant in Hyderabad
             </h2>
             <p>Choosing the right consultant is critical. Vasterior stands apart because of:</p>
             <ul className="list-disc list-inside space-y-2 ml-4">

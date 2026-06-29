@@ -47,7 +47,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Farmhouse Interior Designer in Rampur
+             SPACE BUILD as the Best Farmhouse Interior Designer in Rampur
             </h2>
             <p>
               Rampur has many designers - but very few understand the unique DNA of farmhouse living. At Vasterior, every project is guided by four core principles:

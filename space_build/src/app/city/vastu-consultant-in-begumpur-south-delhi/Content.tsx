@@ -146,7 +146,7 @@ const Content = () => {
 
             {/* Why Vasterior */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Begumpur
+             SPACE BUILD in Begumpur
             </h3>
             <p>
               What clients appreciate most about Vasterior is honesty. If

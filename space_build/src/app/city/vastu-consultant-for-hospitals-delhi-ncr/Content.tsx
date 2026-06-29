@@ -44,9 +44,9 @@ const Content = () => {
               Our process blends Vastu Shastra, design aesthetics, and scientific layout planning to ensure that every hospital becomes a place of rejuvenation and trust.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Hospitals Delhi NCR
+             SPACE BUILD as Your Vastu Consultant For Hospitals Delhi NCR
             </h2>
             <p>
               Designing a hospital is a responsibility that demands both precision and sensitivity. Here&apos;s why Vasterior is trusted by leading healthcare professionals and developers across Delhi NCR:

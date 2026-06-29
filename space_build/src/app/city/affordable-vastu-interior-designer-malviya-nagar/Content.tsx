@@ -16,11 +16,11 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that a well-designed home should not only look good but also
+              Space Build believes that a well-designed home should not only look good but also
               quietly support the life being lived inside it. In a neighborhood like Malviya Nagar,
               where homes are layered with memories, routines, and aspirations, interior design
               cannot be superficial. It needs thought, sensitivity, and alignment. That is where
-              Vasterior steps in: offering affordable Vastu‑integrated interior design solutions
+              Space Build steps in: offering affordable Vastu‑integrated interior design solutions
               that are practical, modern, and deeply human.
             </p>
 
@@ -53,7 +53,7 @@ const Content = () => {
               Vastu for Modern Living – The MahaVastu Way
             </h3>
             <p>
-              At Vasterior, we work with the principles of MahaVastu, a modern, scientific approach
+              At Space Build, we work with the principles of MahaVastu, a modern, scientific approach
               to Vastu that focuses on direction, activity, layout, and behavior rather than
               demolition or decorative fixes.
             </p>
@@ -83,7 +83,7 @@ const Content = () => {
               Affordability in interior design is often misunderstood. It is not about cutting
               corners; it is about making informed decisions.
             </p>
-            <p>Vasterior is frequently chosen by Malviya Nagar homeowners because we:</p>
+            <p>Space Build is frequently chosen by Malviya Nagar homeowners because we:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Work with existing layouts wherever possible.</li>
               <li>Offer consultation‑only services for budget‑sensitive clients.</li>
@@ -96,13 +96,13 @@ const Content = () => {
               justified—design‑wise and Vastu‑wise.
             </p>
 
-            {/* What Makes Vasterior Different */}
+            {/* What Makes Space Build Different */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Vasterior Different
+              What Makes Space Build Different
             </h3>
             <p>
               Most studios treat Vastu as an afterthought. Some treat it as a separate service.
-              Others reduce it to superstition. Vasterior integrates Vastu into the design process
+              Others reduce it to superstition. Space Build integrates Vastu into the design process
               itself.
             </p>
             <p>We do not decorate spaces. We structure them.</p>
@@ -174,7 +174,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Who This Is Meant For
             </h3>
-            <p>Vasterior’s approach resonates most with people who:</p>
+            <p>Space Build’s approach resonates most with people who:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Feel their home is not supporting their peace or progress.</li>
               <li>Want Vastu without fear or blind belief.</li>
@@ -196,7 +196,7 @@ const Content = () => {
             </p>
             <p>
               If you would like to understand how your space can be improved, without pressure or
-              unnecessary changes, you can speak directly with the Vasterior team by calling{" "}
+              unnecessary changes, you can speak directly with the Space Build team by calling{" "}
               <strong>+917906086899</strong>. For those who prefer a written conversation, sharing
               your concerns at{" "}
               <a
@@ -219,7 +219,7 @@ const Content = () => {
               Progress feels natural.
             </p>
             <p>
-              That is the work Vasterior does, one thoughtfully aligned space at a time.
+              That is the work Space Build does, one thoughtfully aligned space at a time.
             </p>
 
             {/* FAQs */}
@@ -229,7 +229,7 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. Is Vasterior suitable for small or budget‑friendly homes in Malviya Nagar?
+                  1. Is Space Build suitable for small or budget‑friendly homes in Malviya Nagar?
                 </h4>
                 <p>
                   Yes. Many of our clients live in compact apartments or builder floors. Our
@@ -288,7 +288,7 @@ const Content = () => {
                   7. Are your services limited to Malviya Nagar?
                 </h4>
                 <p>
-                  While this page focuses on Malviya Nagar, Vasterior works across Delhi NCR and
+                  While this page focuses on Malviya Nagar, Space Build works across Delhi NCR and
                   nearby regions.
                 </p>
               </div>

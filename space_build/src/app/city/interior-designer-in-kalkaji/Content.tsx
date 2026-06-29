@@ -178,7 +178,7 @@ const Content = () => {
             <p>Every project begins with understanding, not assumptions.</p>
 
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Designer in Kalkaji
+             SPACE BUILD as Your Interior Designer in Kalkaji
             </h3>
             <p>
               Clients often come to Vasterior when something feels off but cannot be named. What

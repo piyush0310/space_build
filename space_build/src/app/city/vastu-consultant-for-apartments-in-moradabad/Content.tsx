@@ -77,7 +77,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Apartment Vastu Consultant in Moradabad?
+             SPACE BUILD as Apartment Vastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Apartment-Specific Expertise &ndash; Specialized in compact, shared-wall living.</li>

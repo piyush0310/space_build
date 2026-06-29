@@ -16,7 +16,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior brings refined, world-class 3D interior design expertise
+              Space Build brings refined, world-class 3D interior design expertise
               to Amroha, helping homeowners, builders, and commercial clients
               visualize their spaces with absolute clarity before a single brick
               is moved or a single material is ordered. Our 3D interior design
@@ -26,7 +26,7 @@ const Content = () => {
             <p>
               In a time where homes and workplaces are deeply personal
               investments, 3D interior visualization is no longer a luxury; it
-              is a necessity. At Vasterior, architectural precision, luxury
+              is a necessity. At Space Build, architectural precision, luxury
               material sensibility, and MahaVastu-aligned spatial flow are
               combined to deliver interiors that feel balanced, intentional, and
               beautifully resolved.
@@ -75,14 +75,14 @@ const Content = () => {
               <li>The final execution mirrors the approved design</li>
             </ul>
             <p>
-              At Vasterior, every 3D render is rooted in feasibility,
+              At Space Build, every 3D render is rooted in feasibility,
               proportion, and real-world execution knowledge, not decorative
               guesswork.
             </p>
 
             {/* Process */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vasterior&apos;s Signature 3D Interior Design Process
+              Space Build&apos;s Signature 3D Interior Design Process
             </h3>
             <p>
               Our approach to 3D interior design is methodical, creative, and
@@ -113,7 +113,7 @@ const Content = () => {
               </li>
             </ol>
             <p>
-              Vasterior&apos;s 3D interior design services in Amroha ensure that
+              Space Build&apos;s 3D interior design services in Amroha ensure that
               what you see on screen is what you receive on site.
             </p>
 
@@ -122,7 +122,7 @@ const Content = () => {
               MahaVastu-Aligned 3D Visualization
             </h3>
             <p>
-              What truly sets Vasterior apart is the subtle integration of
+              What truly sets Space Build apart is the subtle integration of
               MahaVastu principles into 3D interior design, without superstition
               or fear-based narratives. [web:14][web:8]
             </p>
@@ -183,12 +183,12 @@ const Content = () => {
               layouts, elevations, lighting concepts, and spatial flow.
             </p>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vasterior Stands Apart
+              Why Space Build Stands Apart
             </h3>
             <p>
-              Choosing Vasterior as your 3D interior designer in Amroha means
+              Choosing Space Build as your 3D interior designer in Amroha means
               partnering with a studio that values clarity as much as
               creativity. [web:2][web:14]
             </p>
@@ -219,18 +219,18 @@ const Content = () => {
               <li>Stronger confidence in design decisions</li>
             </ul>
             <p>
-              With Vasterior&apos;s 3D interior design services in Amroha, your
+              With Space Build&apos;s 3D interior design services in Amroha, your
               project moves forward with certainty, not assumptions.
             </p>
 
             {/* CTA */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Begin Your 3D Interior Design Journey with Vasterior
+              Begin Your 3D Interior Design Journey with Space Build
             </h3>
             <p>
               If you are planning a new home, renovating an existing space, or
               designing a commercial project, 3D interior visualization is the
-              most intelligent first step. Vasterior invites you to experience
+              most intelligent first step. Space Build invites you to experience
               your space before it is built, to walk through it, understand it,
               and refine it until it feels undeniably yours.
             </p>

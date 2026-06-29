@@ -95,9 +95,9 @@ const Content = () => {
               <li><strong>Follow-Up Guidance</strong> – Continued support until results are experienced.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant Near Me in Moradabad?
+             SPACE BUILD as Your Vastu Consultant Near Me in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Local Presence</strong> – Easily accessible for site visits and quick solutions.</li>

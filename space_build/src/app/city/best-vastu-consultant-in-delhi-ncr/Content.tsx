@@ -38,9 +38,9 @@ const Content = () => {
               We have successfully guided hundreds of families, entrepreneurs, and corporates to transform their spaces into zones of prosperity and peace.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Delhi NCR
+             SPACE BUILD as Your Vastu Consultant in Delhi NCR
             </h2>
             <p>
               Choosing the right Vastu consultant in Delhi NCR can make a world of difference in how your space feels and functions. Here&apos;s why clients across the region trust Vasterior:

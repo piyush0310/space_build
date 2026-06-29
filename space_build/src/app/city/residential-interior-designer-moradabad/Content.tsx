@@ -21,9 +21,9 @@ const Content = () => {
               Your home is where your story begins. It reflects your lifestyle, emotions, and personality. Designing a residence is not only about beauty but also about comfort, functionality, and harmony. As the leading Residential Interior Designer in Moradabad, UP, Vasterior specializes in designing homes that are modern, luxurious, and Vastu-compliant. Whether you own an apartment, villa, or bungalow, we create personalized interiors that match your dreams.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Residential Interior Design in Moradabad?
+             SPACE BUILD for Residential Interior Design in Moradabad?
             </h2>
             <p>
               Moradabad, also called the Brass City of India, is known for its artistic culture and fast-growing modern lifestyle. Families today want homes that balance traditional values with modern elegance. This is where Vasterior comes in:

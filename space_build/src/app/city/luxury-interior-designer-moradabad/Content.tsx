@@ -21,9 +21,9 @@ const Content = () => {
               Luxury is not about extravagance alone — it&apos;s about comfort, elegance, and timeless design. At Vasterior – Luxury Interior Designer in Moradabad, UP, we specialize in creating bespoke interiors that reflect sophistication, personality, and class. Whether you live in a villa, bungalow, flat, or kothi, our designs blend modern trends with opulent detailing to bring unmatched grandeur into your living or working space.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Luxury Interior Designer in Moradabad?
+             SPACE BUILD as Your Luxury Interior Designer in Moradabad?
             </h2>
             <p>
               Moradabad, famous for its brass craftsmanship and heritage, is now also home to a modern lifestyle where families and businesses seek luxury interiors that reflect status and functionality. Here&apos;s why Vasterior is trusted across Moradabad and nearby cities:

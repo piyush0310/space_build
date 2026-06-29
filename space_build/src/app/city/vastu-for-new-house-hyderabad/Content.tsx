@@ -228,7 +228,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu for New House Hyderabad?
+             SPACE BUILD for Vastu for New House Hyderabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Integrated Vastu and interior design</li>

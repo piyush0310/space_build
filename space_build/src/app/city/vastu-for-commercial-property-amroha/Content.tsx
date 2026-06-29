@@ -92,7 +92,7 @@ const Content = () => {
               Each property type carries a different energetic demand. A factory does not function like a clinic. A showroom does not operate like a corporate office. Our recommendations are always customised to the business model, not generic templates.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Business Owners in Amroha Choose Vasterior
             </h2>

@@ -8,20 +8,20 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Bathroom Interior Remodeling Amroha | Vasterior Studios",
+  title: "Bathroom Interior Remodeling Amroha | Space Build Studios",
   description:
-    "Bathroom Interior Remodeling Amroha – Vasterior Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
+    "Bathroom Interior Remodeling Amroha – Space Build Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
   keywords:
     "bathroom remodeling amroha, bathroom interior design amroha, bathroom renovation amroha",
   alternates: {
-    canonical: "https://www.vasterior.com/city/bathroom-interior-remodeling-amroha",
+    canonical: "https://www.Space Build.com/city/bathroom-interior-remodeling-amroha",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/bathroom-interior-remodeling-amroha",
-    title: "Bathroom Interior Remodeling Amroha | Vasterior Studios",
+    url: "https://www.Space Build.com/city/bathroom-interior-remodeling-amroha",
+    title: "Bathroom Interior Remodeling Amroha | Space Build Studios",
     description:
-      "Bathroom Interior Remodeling Amroha – Vasterior Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
+      "Bathroom Interior Remodeling Amroha – Space Build Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Bathroom Interior Remodeling Amroha | Vasterior Studios",
+    site: "@Space Build",
+    title: "Bathroom Interior Remodeling Amroha | Space Build Studios",
     description:
-      "Bathroom Interior Remodeling Amroha – Vasterior Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
+      "Bathroom Interior Remodeling Amroha – Space Build Studios upgrades bathrooms with modern fittings, space optimization & premium remodeling.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

@@ -100,9 +100,9 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Correction Services?
+             SPACE BUILD for Vastu Correction Services?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Local Expertise</strong> – Years of work across Noida Extension projects.</li>

@@ -16,7 +16,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that Vastu should feel supportive, intelligent, and accessible,
+              Space Build believes that Vastu should feel supportive, intelligent, and accessible,
               not intimidating, expensive, or rooted in fear. Our affordable Vastu services in
               South Delhi are designed for modern homes and modern lives, where alignment matters
               more than superstition and clarity matters more than rituals.
@@ -31,7 +31,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Affordable Vastu – Without Compromising Depth or Integrity
             </h3>
-            <p>At Vasterior, affordability does not mean shortcuts.</p>
+            <p>At Space Build, affordability does not mean shortcuts.</p>
             <p>
               It means precision over excess, logic over demolition, and practical corrections that
               respect your existing home. Our approach is rooted in MahaVastu principles, spatial
@@ -63,10 +63,10 @@ const Content = () => {
 
             {/* What makes services different */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Vasterior&apos;s Vastu Services Different
+              What Makes Space Build&apos;s Vastu Services Different
             </h3>
             <p>Most Vastu advice fails because it focuses on objects, not structure.</p>
-            <p>At Vasterior, we work with:</p>
+            <p>At Space Build, we work with:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Layout logic</li>
               <li>Activity placement</li>
@@ -88,9 +88,9 @@ const Content = () => {
 
             {/* What affordable means */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What “Affordable Vastu Services” Actually Mean at Vasterior
+              What “Affordable Vastu Services” Actually Mean at Space Build
             </h3>
-            <p>Affordable Vastu at Vasterior means:</p>
+            <p>Affordable Vastu at Space Build means:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Clear diagnosis without overwhelming jargon</li>
               <li>Smart corrections instead of unnecessary renovations</li>
@@ -162,9 +162,9 @@ const Content = () => {
             <ol className="list-decimal list-inside space-y-2 ml-4">
               <li>
                 <span className="font-semibold">
-                  What makes Vasterior&apos;s Vastu services affordable?
+                  What makes Space Build&apos;s Vastu services affordable?
                 </span>{" "}
-                Affordability at Vasterior comes from precision, not dilution. We focus on key
+                Affordability at Space Build comes from precision, not dilution. We focus on key
                 corrections that bring maximum impact instead of suggesting expensive or unnecessary
                 changes.
               </li>

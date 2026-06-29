@@ -125,7 +125,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Virtual Vastu Consultation in Hyderabad
+             SPACE BUILD for Virtual Vastu Consultation in Hyderabad
             </h2>
             <p>
               Vasterior is not just a Vastu consultancy; we are experts in

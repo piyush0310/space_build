@@ -64,7 +64,7 @@ const Content = () => {
             <p>Now, this expertise is available right here in Rampur.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Interior Designer in Rampur
+             SPACE BUILD as the Best Interior Designer in Rampur
             </h2>
             <p>When searching for the best interior designer in Rampur, homeowners often seek three things:</p>
             <ol className="list-decimal list-inside space-y-2 ml-4">

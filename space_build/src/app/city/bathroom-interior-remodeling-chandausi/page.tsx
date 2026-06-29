@@ -8,17 +8,17 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Bathroom Interior Remodeling Chandausi, UP | Vasterior",
-  description: "Bathroom Interior Remodeling in Chandausi, UP | Vasterior delivers modern, functional bathroom upgrades with premium fittings.",
+  title: "Bathroom Interior Remodeling Chandausi, UP | Space Build",
+  description: "Bathroom Interior Remodeling in Chandausi, UP | Space Build delivers modern, functional bathroom upgrades with premium fittings.",
   keywords: "bathroom interior remodeling chandausi, modern bathroom interiors chandausi, bathroom renovation chandausi",
   alternates: {
-    canonical: "https://www.vasterior.com/city/bathroom-interior-remodeling-chandausi",
+    canonical: "https://www.Space Build.com/city/bathroom-interior-remodeling-chandausi",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/bathroom-interior-remodeling-chandausi",
-    title: "Bathroom Interior Remodeling Chandausi, UP | Vasterior",
-    description: "Bathroom Interior Remodeling in Chandausi, UP | Vasterior delivers modern, functional bathroom upgrades with premium fittings.",
+    url: "https://www.Space Build.com/city/bathroom-interior-remodeling-chandausi",
+    title: "Bathroom Interior Remodeling Chandausi, UP | Space Build",
+    description: "Bathroom Interior Remodeling in Chandausi, UP | Space Build delivers modern, functional bathroom upgrades with premium fittings.",
     images: [{
       url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
       width: 1200,
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Bathroom Interior Remodeling Chandausi, UP | Vasterior",
-    description: "Bathroom Interior Remodeling in Chandausi, UP | Vasterior delivers modern, functional bathroom upgrades with premium fittings.",
+    site: "@Space Build",
+    title: "Bathroom Interior Remodeling Chandausi, UP | Space Build",
+    description: "Bathroom Interior Remodeling in Chandausi, UP | Space Build delivers modern, functional bathroom upgrades with premium fittings.",
     images: ["https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png"],
   },
   icons: { icon: "/favicon.ico" },

@@ -66,7 +66,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Kompally
+             SPACE BUILD in Kompally
             </h2>
             <p>
               Not all Vastu consultations are the same. Vasterior integrates

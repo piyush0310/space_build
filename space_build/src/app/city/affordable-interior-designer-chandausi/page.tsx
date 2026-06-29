@@ -8,21 +8,21 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Affordable Interior Designer Chandausi, UP | Vasterior",
+  title: "Affordable Interior Designer Chandausi, UP | Space Build",
   description:
-    "Affordable Interior Designer in Chandausi, UP | Vasterior provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
+    "Affordable Interior Designer in Chandausi, UP | Space Build provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
   keywords:
     "affordable interior designer chandausi, low budget interior designer chandausi, budget home interior chandausi",
   alternates: {
     canonical:
-      "https://www.vasterior.com/city/affordable-interior-designer-chandausi",
+      "https://www.Space Build.com/city/affordable-interior-designer-chandausi",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-interior-designer-chandausi",
-    title: "Affordable Interior Designer Chandausi, UP | Vasterior",
+    url: "https://www.Space Build.com/city/affordable-interior-designer-chandausi",
+    title: "Affordable Interior Designer Chandausi, UP | Space Build",
     description:
-      "Affordable Interior Designer in Chandausi, UP | Vasterior provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
+      "Affordable Interior Designer in Chandausi, UP | Space Build provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Interior Designer Chandausi, UP | Vasterior",
+    site: "@Space Build",
+    title: "Affordable Interior Designer Chandausi, UP | Space Build",
     description:
-      "Affordable Interior Designer in Chandausi, UP | Vasterior provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
+      "Affordable Interior Designer in Chandausi, UP | Space Build provides budget-friendly home interiors, smart designs, and quality turnkey solutions.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

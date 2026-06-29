@@ -138,7 +138,7 @@ const Content = () => {
             {/* Why Vasterior */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior in Chandausi
+               SPACE BUILD in Chandausi
               </h3>
               <p className="mt-4">
                 Vasterior isn’t just a Vastu consultancy. It’s a design-led,

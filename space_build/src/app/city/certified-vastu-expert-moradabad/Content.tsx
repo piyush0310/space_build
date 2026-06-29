@@ -100,7 +100,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-semibold text-gray-900">
-              Why Choose Vasterior – Certified Vastu Expert in Moradabad?
+             SPACE BUILD – Certified Vastu Expert in Moradabad?
             </h2>
             <ul className="list-disc ml-4 space-y-1">
               <li>Certified Knowledge – Professional training and authentic certification.</li>

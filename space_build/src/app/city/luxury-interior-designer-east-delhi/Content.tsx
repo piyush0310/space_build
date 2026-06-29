@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior - The Premier Luxury Interior Designer in East Delhi
+             SPACE BUILD - The Premier Luxury Interior Designer in East Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Tailored Design Concepts</strong> - We design each space to suit your personality, taste, and lifestyle. No two homes we create are ever the same.</li>

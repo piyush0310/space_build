@@ -72,7 +72,7 @@ const Content = () => {
             {/* Why Vasterior */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu Map Consultation in Chandausi?
+               SPACE BUILD for Vastu Map Consultation in Chandausi?
               </h3>
               <p className="mt-4">
                 Because this isn't a generic consultation pulled from a template.

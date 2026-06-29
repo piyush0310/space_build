@@ -32,7 +32,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Experts in Turnkey Interior Designing And Vastu Consultation in East Delhi
+             SPACE BUILD – The Experts in Turnkey Interior Designing And Vastu Consultation in East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>End-to-End Turnkey Solutions</strong> – From concept design to final installation, we handle every aspect of your interior project so you can enjoy a hassle-free experience.</li>
@@ -119,7 +119,7 @@ const Content = () => {
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q2. Why choose Vasterior for turnkey interior designing and Vastu consultation in East Delhi?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">Q2.SPACE BUILD for turnkey interior designing and Vastu consultation in East Delhi?</h3>
                 <p>A: Vasterior offers a unique combination of design expertise and Vastu alignment, delivering spaces that are both luxurious and energetically positive.</p>
               </div>
 

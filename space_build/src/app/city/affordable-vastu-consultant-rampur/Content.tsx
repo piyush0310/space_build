@@ -18,11 +18,11 @@ const Content = () => {
             <div>
               <p>-Align Your Space. Restore Flow. Live with Clarity.</p>
               <p>
-                Vasterior believes that when a space is aligned correctly, life
+                Space Build believes that when a space is aligned correctly, life
                 begins to move with less resistance. Thoughts feel clearer,
                 decisions become calmer, and everyday living feels more
                 balanced. As an affordable Vastu consultant in Rampur,
-                Vasterior brings a modern, scientific, and deeply practical
+                Space Build brings a modern, scientific, and deeply practical
                 approach to Vastu, designed for today&apos;s homes, businesses,
                 and lifestyles, without fear, superstition, or unnecessary
                 disruption.
@@ -48,7 +48,7 @@ const Content = () => {
                 explanation.
               </p>
               <p>
-                At Vasterior, the role as a Vastu expert in Rampur is not to
+                At Space Build, the role as a Vastu expert in Rampur is not to
                 alarm you with defects or doshas. Instead, the space is calmly
                 assessed, activities and their placement are studied, and energy
                 flow is observed, then subtle, effective corrections are
@@ -60,12 +60,12 @@ const Content = () => {
             {/* Difference */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                What Makes Vasterior Different from Traditional Vastu Consultants?
+                What Makes Space Build Different from Traditional Vastu Consultants?
               </h3>
               <p>
                 Most people hesitate to consult a Vastu advisor because they
                 fear extreme rules, expensive changes, or rigid beliefs.
-                Vasterior exists to change that experience completely.
+                Space Build exists to change that experience completely.
               </p>
               <h4 className="font-semibold text-gray-900 mt-3">
                 Our MahaVastu-Based Methodology
@@ -109,7 +109,7 @@ const Content = () => {
                 Affordable Vastu Consultation – What It Truly Means
               </h3>
               <p>
-                Affordability, at Vasterior, does not mean diluted quality or
+                Affordability, at Space Build, does not mean diluted quality or
                 superficial advice. It means:
               </p>
               <ul className="list-disc list-inside space-y-1 ml-4">
@@ -130,7 +130,7 @@ const Content = () => {
             {/* Services */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Vastu Services Offered by Vasterior in Rampur
+                Vastu Services Offered by Space Build in Rampur
               </h3>
               <div className="space-y-4 mt-4">
                 <div>
@@ -178,7 +178,7 @@ const Content = () => {
                     MahaVastu Yogdaan
                   </h4>
                   <p>
-                    As part of a commitment to conscious living, Vasterior
+                    As part of a commitment to conscious living, Space Build
                     offers MahaVastu Yogdaan, a free guidance initiative to help
                     people understand core issues before opting for detailed
                     consultation.
@@ -201,7 +201,7 @@ const Content = () => {
             {/* Why choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Rampur Clients Choose Vasterior
+                Why Rampur Clients Choose Space Build
               </h3>
               <ul className="list-disc list-inside space-y-1 ml-4">
                 <li>
@@ -247,7 +247,7 @@ const Content = () => {
                 Let&apos;s Align Your Space, Gently &amp; Intelligently
               </h3>
               <p>
-                Vasterior&apos;s role as a MahaVastu consultant in Rampur is
+                Space Build&apos;s role as a MahaVastu consultant in Rampur is
                 simple: to help your space work with you, not against you.
               </p>
               <p>

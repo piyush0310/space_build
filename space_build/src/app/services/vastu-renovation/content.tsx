@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function VastuRenovationPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677934/Vastu-Renovation_yywmwi.jpg"
-          alt="Vastu Renovation by Vasterior"
+          alt="Vastu Renovation by Space Build"
           fill
           className="object-full"
           priority
@@ -43,13 +43,13 @@ export default function VastuRenovationPage() {
             A guided renovation service that ensures every change - big or small - aligns with the flow of energy, purpose, and prosperity.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed font-semibold text-center italic">
-            Renovate with intention. Renovate with alignment. Renovate with Vasterior.
+            Renovate with intention. Renovate with alignment. Renovate with Space Build.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Renovation is not just about upgrading materials, finishes, or layouts - it is about upgrading the energy of a space.
           </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <p className="text-gray-800 font-semibold mb-3">At Vasterior, Vastu Renovation integrates:</p>
+            <p className="text-gray-800 font-semibold mb-3">At Space Build, Vastu Renovation integrates:</p>
             <ul className="space-y-2 text-gray-700">
               <li>• MahaVastu science</li>
               <li>• Architectural sensitivity</li>
@@ -71,7 +71,7 @@ export default function VastuRenovationPage() {
       </section>
 
       {/* When Do You Need */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHEN DO YOU NEED VASTU RENOVATION?</h3>
           <p className="text-gray-700 mb-4">Vastu Renovation is essential when:</p>
@@ -179,10 +179,10 @@ export default function VastuRenovationPage() {
         </div>
       </section>
 
-      {/* Why Vasterior */}
-      <section className="bg-[#f7d9bc] py-12">
+      {/* Why Space Build */}
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY VASTERIOR FOR VASTU RENOVATION?</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY Space Build FOR VASTU RENOVATION?</h3>
           <div className="space-y-4">
             <p className="text-gray-700 leading-relaxed">
               Because we understand both:
@@ -198,7 +198,7 @@ export default function VastuRenovationPage() {
               Most designers focus only on aesthetics. Most Vastu practitioners overlook materiality, circulation, luxury finishes, and modern design needs.
             </p>
             <p className="text-gray-700 font-semibold">
-              Vasterior integrates both worlds seamlessly.
+              Space Build integrates both worlds seamlessly.
             </p>
             <div className="bg-white rounded-lg p-6 shadow-md mt-4">
               <p className="text-gray-800 font-semibold mb-3">You get:</p>
@@ -240,7 +240,7 @@ export default function VastuRenovationPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES YOU RECEIVE</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -264,7 +264,7 @@ export default function VastuRenovationPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE VASTERIOR PROCESS</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE Space Build PROCESS</h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Initial Consultation & Problem Mapping</h4>
@@ -290,7 +290,7 @@ export default function VastuRenovationPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
@@ -308,7 +308,7 @@ export default function VastuRenovationPage() {
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">4. Is a gridded layout required?</h4>
-              <p className="text-gray-700">Yes. If you don't have one, Vasterior will create it through our Gridding & Survey service.</p>
+              <p className="text-gray-700">Yes. If you don't have one, Space Build will create it through our Gridding & Survey service.</p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">5. How long does the process take?</h4>
@@ -322,7 +322,7 @@ export default function VastuRenovationPage() {
       <section className="max-w-5xl mx-auto px-6 py-12">
         <div className="text-center bg-white rounded-2xl shadow-md p-8">
           <h3 className="text-2xl font-serif text-gray-800 mb-4">
-            Renovate With Intention. Renovate With Alignment. Renovate With Vasterior.
+            Renovate With Intention. Renovate With Alignment. Renovate With Space Build.
           </h3>
           <p className="text-lg text-gray-700 mb-6">
             Transform your existing space into a sanctuary of harmony, prosperity, and beauty.

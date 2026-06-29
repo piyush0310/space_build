@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Trusted Expert for Custom Luxury Interiors For Villas in East Delhi
+             SPACE BUILD – The Trusted Expert for Custom Luxury Interiors For Villas in East Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Tailored Design Concepts</strong> – Every villa has a unique personality. Our design approach is customized to reflect your individuality and lifestyle preferences.</li>

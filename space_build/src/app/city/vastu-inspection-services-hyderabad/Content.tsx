@@ -161,7 +161,7 @@ const Content = () => {
             <p>Business stagnation is rarely random. It's often directional.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior
+             SPACE BUILD
             </h2>
             <p>There are many claiming to be a Vastu Expert in Hyderabad. Here's why clients choose us:</p>
             <ul className="list-disc list-inside space-y-2 ml-4">

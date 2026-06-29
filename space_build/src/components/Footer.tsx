@@ -306,7 +306,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="text-center sm:text-left">
               <p className="text-sm sm:text-base">
-                © {new Date().getFullYear()} Space Build. All rights reserved.
+                © {new Date().getFullYear()} SPACE BUILD. All rights reserved.
               </p>
             </div>
             

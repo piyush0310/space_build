@@ -226,7 +226,7 @@ const Content = () => {
             {/* Why Vasterior */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu Consultation in Rampur
+               SPACE BUILD for Vastu Consultation in Rampur
               </h3>
               <p>
                 Vasterior works at the intersection of design intelligence and

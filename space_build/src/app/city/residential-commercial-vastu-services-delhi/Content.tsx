@@ -44,9 +44,9 @@ const Content = () => {
               At Vasterior, our mission is simple &ndash; to create spaces that look good, feel right, and vibrate with positivity.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Residential &amp; Commercial Vastu Services Delhi
+             SPACE BUILD for Residential &amp; Commercial Vastu Services Delhi
             </h2>
             <p>
               Here&rsquo;s why hundreds of homeowners, developers, and businesses across Delhi NCR choose Vasterior:

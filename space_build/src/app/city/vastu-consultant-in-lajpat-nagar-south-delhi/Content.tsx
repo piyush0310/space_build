@@ -99,7 +99,7 @@ const Content = () => {
 
             {/* Why choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in South Delhi
+             SPACE BUILD in South Delhi
             </h3>
             <p>Vasterior does not treat Vastu as a checklist. We treat it as spatial psychology.</p>
             <p>Clients choose us because:</p>

@@ -8,20 +8,20 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Affordable Interior Designer Amroha | Vasterior Studios",
+  title: "Affordable Interior Designer Amroha | Space Build Studios",
   description:
-    "Affordable Interior Designer Amroha – Vasterior Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
+    "Affordable Interior Designer Amroha – Space Build Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
   keywords:
     "affordable interior designer amroha, low budget interiors amroha, budget home design amroha",
   alternates: {
-    canonical: "https://www.vasterior.com/city/affordable-interior-designer-amroha",
+    canonical: "https://www.Space Build.com/city/affordable-interior-designer-amroha",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-interior-designer-amroha",
-    title: "Affordable Interior Designer Amroha | Vasterior Studios",
+    url: "https://www.Space Build.com/city/affordable-interior-designer-amroha",
+    title: "Affordable Interior Designer Amroha | Space Build Studios",
     description:
-      "Affordable Interior Designer Amroha – Vasterior Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
+      "Affordable Interior Designer Amroha – Space Build Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Interior Designer Amroha | Vasterior Studios",
+    site: "@Space Build",
+    title: "Affordable Interior Designer Amroha | Space Build Studios",
     description:
-      "Affordable Interior Designer Amroha – Vasterior Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
+      "Affordable Interior Designer Amroha – Space Build Studios provides stylish, budget-friendly home interiors with smart designs, durable materials & expert planning.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

@@ -45,9 +45,9 @@ const Content = () => {
               This is where a qualified MahaVastu expert makes all the difference.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Madhapur
+             SPACE BUILD as Your Vastu Consultant in Madhapur
             </h2>
             <p>
               Most consultants either focus purely on traditional Vastu or purely on interior design. Vasterior integrates both. Here’s what sets us apart:

@@ -161,7 +161,7 @@ const Content = () => {
               persistent issues, the consultation is structured to deliver clarity and direction.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why South Delhi Businesses Choose Vasterior
             </h3>

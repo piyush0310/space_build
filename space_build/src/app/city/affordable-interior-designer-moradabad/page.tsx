@@ -8,19 +8,19 @@ import Testimonials from "@/components/Testimonials";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Affordable Interior Designer Moradabad, UP| Vasterior",
-  description: "Want an Affordable Interior Designer Moradabad? Vasterior, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
+  title: "Affordable Interior Designer Moradabad, UP| Space Build",
+  description: "Want an Affordable Interior Designer Moradabad? Space Build, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
   keywords: "affordable interior designer in Moradabad, budget interior designer Moradabad",
   alternates: {
-    canonical: "https://www.vasterior.com/city/affordable-interior-designer-moradabad",
+    canonical: "https://www.Space Build.com/city/affordable-interior-designer-moradabad",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-interior-designer-moradabad",
-    title: "Affordable Interior Designer Moradabad, UP| Vasterior",
-    description: "Want an Affordable Interior Designer Moradabad? Vasterior, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
+    url: "https://www.Space Build.com/city/affordable-interior-designer-moradabad",
+    title: "Affordable Interior Designer Moradabad, UP| Space Build",
+    description: "Want an Affordable Interior Designer Moradabad? Space Build, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
     images: [{
-      url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+      url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
       width: 1200,
       height: 630,
       alt: "Affordable Interior Designer Moradabad",
@@ -28,10 +28,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Interior Designer Moradabad, UP| Vasterior",
-    description: "Want an Affordable Interior Designer Moradabad? Vasterior, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
-    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png"],
+    site: "@Space Build",
+    title: "Affordable Interior Designer Moradabad, UP| Space Build",
+    description: "Want an Affordable Interior Designer Moradabad? Space Build, the trusted Affordable Interior Designer Moradabad, provides budget-friendly interiors without compromising on style.",
+    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png"],
   },
   icons: { icon: "/favicon.ico" },
 };

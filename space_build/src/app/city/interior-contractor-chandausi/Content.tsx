@@ -100,7 +100,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Contractor in Chandausi?
+             SPACE BUILD as Your Interior Contractor in Chandausi?
             </h2>
             <p className="mb-4">
               Because you don't want a cookie-cutter interior. You want a space that understands you.

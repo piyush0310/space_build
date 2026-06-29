@@ -16,13 +16,13 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior Studio brings an entirely new vision of luxury bedroom design to Amroha; a
+              Space Build Studio brings an entirely new vision of luxury bedroom design to Amroha; a
               vision where aesthetics meet energy, where design meets intention, and where every
               square foot feels like it has finally found its purpose.
             </p>
             <p>
               In our philosophy, a bedroom is not just a room. It is where your mind dissolves, your
-              energy resets, your emotions settle, and your story continues in silence. At Vasterior,
+              energy resets, your emotions settle, and your story continues in silence. At Space Build,
               bedrooms are designed to look beautiful, feel peaceful, and function effortlessly, all
               while being aligned with the timeless principles of MahaVastu.
             </p>
@@ -50,19 +50,19 @@ const Content = () => {
             </ul>
             <p className="mt-2">
               When design and Vastu work together, the room begins supporting your life instead of
-              interrupting it. This is the foundation of every bedroom Vasterior creates.
+              interrupting it. This is the foundation of every bedroom Space Build creates.
             </p>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vasterior Is the Most Trusted Bedroom Interior Designer in Amroha
+              Why Space Build Is the Most Trusted Bedroom Interior Designer in Amroha
             </h3>
             <p>
               Amroha&apos;s homeowners increasingly look for design studios that deliver more than
               pretty visuals. They want depth, logic, energy alignment, and spaces that tell their
               story with honesty and refinement.
             </p>
-            <p>Vasterior Studio stands apart because it offers:</p>
+            <p>Space Build Studio stands apart because it offers:</p>
 
             <div className="space-y-6">
               <div>
@@ -114,7 +114,7 @@ const Content = () => {
                 </h4>
                 <p>
                   Trusted vendors, carpenters, and craftsmen execute with immaculate finishing that
-                  aligns with Vasterior&apos;s design philosophy and attention to detail.
+                  aligns with Space Build&apos;s design philosophy and attention to detail.
                 </p>
               </div>
 
@@ -123,7 +123,7 @@ const Content = () => {
                   6. A Boutique Experience for Every Homeowner
                 </h4>
                 <p>
-                  Vasterior does not mass-produce interiors; it crafts them. Every bedroom designed
+                  Space Build does not mass-produce interiors; it crafts them. Every bedroom designed
                   in Amroha feels like it belongs only to the people who sleep in it.
                 </p>
               </div>
@@ -131,10 +131,10 @@ const Content = () => {
 
             {/* Framework */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Bedroom Transformation Framework
+              The Space Build Bedroom Transformation Framework
             </h3>
             <p>
-              The signature Vasterior process blends luxury design thinking with authentic Vastu
+              The signature Space Build process blends luxury design thinking with authentic Vastu
               alignment, ensuring bedrooms that are as soulful as they are sophisticated.
             </p>
 
@@ -215,7 +215,7 @@ const Content = () => {
 
             <h4 className="font-semibold text-gray-900 mt-4">7. Execution and Handover</h4>
             <p>
-              From drawings to on-site supervision, Vasterior manages the journey from imagination
+              From drawings to on-site supervision, Space Build manages the journey from imagination
               to completion, ensuring a smooth, guided experience.
             </p>
 
@@ -223,7 +223,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               What We Offer — Bedroom Interior Design Services in Amroha
             </h3>
-            <p>Vasterior&apos;s full-service bedroom design offering includes:</p>
+            <p>Space Build&apos;s full-service bedroom design offering includes:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Full Bedroom Interior Design</li>
               <li>Vastu for Bedroom (Energy Mapping and Recommendations)</li>
@@ -240,7 +240,7 @@ const Content = () => {
               <li>Project Budgeting and BOQ</li>
             </ul>
             <p className="mt-2">
-              Whether upgrading a single room or designing an entire home, Vasterior ensures the
+              Whether upgrading a single room or designing an entire home, Space Build ensures the
               bedroom becomes a true sanctuary.
             </p>
 
@@ -254,7 +254,7 @@ const Content = () => {
               residential clusters and farmhouses.
             </p>
             <p>
-              No matter where your home is located, Vasterior brings luxury, editorial-quality
+              No matter where your home is located, Space Build brings luxury, editorial-quality
               bedroom design right to your doorstep.
             </p>
 
@@ -265,10 +265,10 @@ const Content = () => {
             <p>
               If your bedroom deserves more than a basic makeover, if you want a space that aligns
               with peace, intention, and quiet luxury, and if you want design that truly reflects
-              you, it is time to speak with Vasterior Studio.
+              you, it is time to speak with Space Build Studio.
             </p>
             <p>
-              Speak to the Vasterior Design Team at{" "}
+              Speak to the Space Build Design Team at{" "}
               <strong>+917906086899</strong> or{" "}
               <a
                 href="mailto:info@spacebuild.com"

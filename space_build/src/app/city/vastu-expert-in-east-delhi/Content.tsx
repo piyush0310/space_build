@@ -21,9 +21,9 @@ const Content = () => {
               Vastu Expert in East Delhi is the trusted choice for homeowners, business owners, and real estate investors who want balanced, positive, and growth-oriented spaces. At Vasterior, we believe that a well-aligned home or workplace can directly influence health, peace of mind, relationships, and financial stability. Our Vastu solutions are practical, result-oriented, and designed to suit modern lifestyles without unnecessary demolition or disruption.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Expert in East Delhi?
+             SPACE BUILD as Your Vastu Expert in East Delhi?
             </h2>
             <p>
               East Delhi is a rapidly developing zone with a mix of residential societies, independent houses, commercial complexes, and retail spaces. Every property has a unique layout, and applying generic Vastu tips rarely delivers results. Vasterior provides customized Vastu consultation in East Delhi, based on precise site analysis, energy flow assessment, and individual objectives.

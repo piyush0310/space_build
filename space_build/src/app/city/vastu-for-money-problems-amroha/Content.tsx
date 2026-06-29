@@ -77,9 +77,9 @@ const Content = () => {
             </ul>
             <p>This is not generic advice. Every solution is designed specifically for your home or business.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu in Amroha
+             SPACE BUILD for Vastu in Amroha
             </h2>
             <p>Amroha has a unique mix of traditional homes, commercial setups, factories, and family-run businesses. Vasterior understands this context deeply.</p>
             <p>Clients choose Vasterior because we offer:</p>

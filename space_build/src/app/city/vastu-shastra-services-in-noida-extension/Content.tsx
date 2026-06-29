@@ -93,9 +93,9 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Shastra in Noida Extension?
+             SPACE BUILD for Vastu Shastra in Noida Extension?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Certified Knowledge</strong> – Authentic expertise in Vastu Shastra principles.</li>

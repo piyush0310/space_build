@@ -117,10 +117,10 @@ const Content = () => {
               </ul>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Vastu Consultant in Chandausi?
+               SPACE BUILD as Your Vastu Consultant in Chandausi?
               </h3>
               <ul className="list-disc list-inside space-y-2 ml-4 mt-4">
                 <li>Deep expertise in MahaVastu principles</li>

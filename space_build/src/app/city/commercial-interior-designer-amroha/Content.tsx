@@ -31,9 +31,9 @@ const Content = () => {
               purpose.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Commercial Interior Designer in Amroha?
+             SPACE BUILD as Your Commercial Interior Designer in Amroha?
             </h3>
             <p>
               Because we do not just design spaces, we design experiences, behaviours,

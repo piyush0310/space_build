@@ -22,7 +22,7 @@ export const featuredTestimonials: Testimonial[] = [
     name: "Mr. Rakesh & Mrs. Reena Jain",
     location: "Studio Apartment, Noida Extension",
     rating: 4,
-    text: "space build perfectly blended aesthetics and Vastu, transforming our space into a harmonious, positive environment. It feels balanced, beautiful, and filled with positive energy. Their expertise and creativity exceeded expectations. Truly exceptional!",
+    text: "SPACE BUILD perfectly blended aesthetics and Vastu, transforming our space into a harmonious, positive environment. It feels balanced, beautiful, and filled with positive energy. Their expertise and creativity exceeded expectations. Truly exceptional!",
     image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
   },
   {

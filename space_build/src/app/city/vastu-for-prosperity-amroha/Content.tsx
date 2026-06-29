@@ -119,7 +119,7 @@ const Content = () => {
             {/* Why Choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu in Amroha
+               SPACE BUILD for Vastu in Amroha
               </h3>
               <p>
                 Vasterior is not just a Vastu consultancy, it is a spatial alignment studio that bridges Vastu, design, and modern living.

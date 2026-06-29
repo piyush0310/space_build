@@ -35,9 +35,9 @@ const Content = () => {
               By identifying energy imbalances in the four directions—North, South, East, and West—MahaVastu consultants provide practical remedies that bring long-lasting transformation. Whether you are facing financial challenges, health concerns, relationship issues, or professional stagnation, MahaVastu provides clear solutions for holistic growth.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for MahaVastu in East Delhi?
+             SPACE BUILD for MahaVastu in East Delhi?
             </h2>
             <p>
               At Vasterior, we go beyond generic advice. Our consultation process involves a thorough analysis of your property&apos;s layout, orientation, and energy fields. Here&apos;s why clients across East Delhi trust us:

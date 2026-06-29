@@ -48,7 +48,7 @@ const Content = () => {
 
             {/* Why Vasterior */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Consultation in Amroha
+             SPACE BUILD for Vastu Consultation in Amroha
             </h2>
             <p>
               Vasterior is not a conventional Vastu consultancy. Our approach is

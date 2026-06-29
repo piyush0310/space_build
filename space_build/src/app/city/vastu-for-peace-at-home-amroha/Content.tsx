@@ -150,7 +150,7 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
                 Why Families in Amroha Choose Vasterior

@@ -41,9 +41,9 @@ const Content = () => {
               Our philosophy is simple - effective Vastu doesn&apos;t need to be expensive, but it must be expertly executed.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Affordable Vastu Consultant Delhi
+             SPACE BUILD as Your Affordable Vastu Consultant Delhi
             </h2>
             <p>
               If you&apos;re seeking trusted and affordable Vastu guidance, here&apos;s why Vasterior is the right choice:

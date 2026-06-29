@@ -33,9 +33,9 @@ const Content = () => {
               The Acharya helps identify hidden imbalances in the environment, addresses challenges related to finances, career, health, or relationships, and provides remedies that align with the natural energy flow. Their role is to empower people with actionable solutions that create harmony between individuals and their surroundings.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior&apos;s MahaVastu Acharya in East Delhi?
+             SPACE BUILD&apos;s MahaVastu Acharya in East Delhi?
             </h2>
             <p>
               At Vasterior, we believe every client deserves authentic guidance. Our MahaVastu Acharyas stand out because of their:

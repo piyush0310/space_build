@@ -85,9 +85,9 @@ const Content = () => {
             </ul>
             <p>Each space demands a different ceiling strategy, and we design accordingly.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your False Ceiling Designer in Chandausi
+             SPACE BUILD as Your False Ceiling Designer in Chandausi
             </h2>
             <p className="mb-4">
               Vasterior stands apart because we don't design in isolation. Our ceiling designs are part of a larger design narrative, one that respects proportion, material harmony, and spatial comfort.

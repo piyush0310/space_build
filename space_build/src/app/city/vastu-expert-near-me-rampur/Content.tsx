@@ -190,7 +190,7 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
                 Why Rampur Clients Choose Vasterior

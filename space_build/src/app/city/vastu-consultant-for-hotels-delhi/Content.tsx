@@ -39,9 +39,9 @@ const Content = () => {
             <p>
               With years of experience in luxury residences, offices, and hospitality spaces, Vasterior is synonymous with precision, trust, and transformation.
             </p>
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Hotels Delhi
+             SPACE BUILD as Your Vastu Consultant For Hotels Delhi
             </h2>
             <p>
               Choosing the right energy consultant for your hotel can directly influence guest experience, operational harmony, and business growth. Here&rsquo;s why Vasterior stands above the rest:

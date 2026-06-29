@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function VastuStylingPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/da12wzxoq/image/upload/v1769506557/Vastu-Styling_1_busrqm.jpg"
-          alt="Vastu Styling by Vasterior"
+          alt="Vastu Styling by Space Build"
           fill
           className="object-full"
           priority
@@ -46,7 +46,7 @@ export default function VastuStylingPage() {
             Styling is the final layer of design, the part that shapes how a space feels the moment you enter it.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            But at Vasterior, styling is more than décor. It is the art of placing objects, colours, elements, and features in a way that enhances both aesthetic beauty and energy alignment.
+            But at Space Build, styling is more than décor. It is the art of placing objects, colours, elements, and features in a way that enhances both aesthetic beauty and energy alignment.
           </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
             <p className="text-gray-800 font-semibold mb-3">Vastu Styling blends:</p>
@@ -70,7 +70,7 @@ export default function VastuStylingPage() {
       </section>
 
       {/* What Vastu Styling Includes */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT VASTU STYLING INCLUDES</h3>
           
@@ -156,7 +156,7 @@ export default function VastuStylingPage() {
 
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 text-xl mb-3">6. Modern Vastu Remedies (Aesthetic & Non-Intrusive)</h4>
-              <p className="text-gray-700 mb-3">Unlike traditional remedies, Vasterior uses modern, subtle, and luxury-aligned solutions, such as:</p>
+              <p className="text-gray-700 mb-3">Unlike traditional remedies, Space Build uses modern, subtle, and luxury-aligned solutions, such as:</p>
               <ul className="space-y-2 text-gray-700">
                 <li>• Metal artefacts</li>
                 <li>• Artistic bowls</li>
@@ -204,7 +204,7 @@ export default function VastuStylingPage() {
       </section>
 
       {/* Who Is This Service For */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHO IS THIS SERVICE FOR?</h3>
           <p className="text-gray-700 mb-4">Vastu Styling is perfect for:</p>
@@ -247,7 +247,7 @@ export default function VastuStylingPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES YOU RECEIVE</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -270,7 +270,7 @@ export default function VastuStylingPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE VASTERIOR STYLING PROCESS</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE Space Build STYLING PROCESS</h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Space Study</h4>
@@ -296,7 +296,7 @@ export default function VastuStylingPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
@@ -331,7 +331,7 @@ export default function VastuStylingPage() {
             Transform Your Space With Beauty, Intention & Alignment
           </h3>
           <p className="text-lg text-gray-700 mb-6">
-            Let Vasterior style your environment into a sanctuary of luxury and harmony, without renovation.
+            Let Space Build style your environment into a sanctuary of luxury and harmony, without renovation.
           </p>
           <div className="space-y-2">
             <p className="text-xl font-semibold text-gray-800">Book Your Vastu Styling Session</p>

@@ -49,10 +49,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior Studio for Home Renovation in Amroha
+               SPACE BUILD Studio for Home Renovation in Amroha
               </h3>
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li><strong>Luxury + Functionality, Balanced Perfectly</strong> – We blend premium design with practical execution, ensuring your renovated home looks editorial yet works in real life.</li>

@@ -40,9 +40,9 @@ const Content = () => {
               From analyzing directions and layouts to recommending aesthetic corrections and décor enhancements, we ensure that every detail contributes to harmony and visual excellence. Vasterior&apos;s foundation lies in authentic expertise, modern methodology, and absolute client trust.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant Near Me Delhi
+             SPACE BUILD as Your Vastu Consultant Near Me Delhi
             </h2>
             <p>
               When you seek perfection, you need a partner who understands both energy and elegance. Here&apos;s why discerning homeowners and businesses across Delhi NCR choose Vasterior:

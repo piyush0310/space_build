@@ -44,9 +44,9 @@ const Content = () => {
               At Vasterior, we merge technical knowledge with creative intuition to help apartment owners live in spaces that are not only beautiful but energetically balanced.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Apartments Delhi NCR
+             SPACE BUILD as Your Vastu Consultant For Apartments Delhi NCR
             </h2>
             <p>
               Every apartment is unique - and so is its energy pattern. Here&apos;s why Vasterior is the most trusted choice among discerning homeowners and architects in Delhi NCR:

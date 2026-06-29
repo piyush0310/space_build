@@ -92,7 +92,7 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Vasterior is Trusted for Vastu Services in Noida Extension
             </h2>

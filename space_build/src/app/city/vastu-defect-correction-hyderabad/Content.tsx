@@ -273,7 +273,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-2">
-                  10. Why choose Vasterior over other Vastu consultants in Hyderabad?
+                  10.SPACE BUILD over other Vastu consultants in Hyderabad?
                 </h3>
                 <p>
                   Because we integrate MahaVastu with interior design precision, ensuring aesthetic excellence and energetic alignment simultaneously.

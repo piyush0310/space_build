@@ -10,16 +10,16 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-12 order-1 lg:order-1">
           {/* Main Heading */}
           <h2 className="text-2xl sm:text-3xl md:text-3xl font-bold mb-8 text-gray-900">
-            Affordable Interior Designer in Amroha — Vasterior Studio
+            Affordable Interior Designer in Amroha — Space Build Studio
           </h2>
 
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior Studio brings its signature blend of luxury design, MahaVastu intelligence, and refined spatial storytelling to Amroha, making high-quality interiors truly accessible. As a studio that believes every home deserves intention, harmony, and beauty, Vasterior approaches affordability not as a compromise, but as an opportunity to craft meaningful spaces with clarity and elegance. Our philosophy is simple: even a modest budget deserves world-class design thinking, thoughtful material selection, and an atmosphere that nurtures the people living within it.
+              Space Build Studio brings its signature blend of luxury design, MahaVastu intelligence, and refined spatial storytelling to Amroha, making high-quality interiors truly accessible. As a studio that believes every home deserves intention, harmony, and beauty, Space Build approaches affordability not as a compromise, but as an opportunity to craft meaningful spaces with clarity and elegance. Our philosophy is simple: even a modest budget deserves world-class design thinking, thoughtful material selection, and an atmosphere that nurtures the people living within it.
             </p>
             <p>
-              With this conviction, Vasterior Studio positions itself as the most trusted and affordable interior designer in Amroha for homeowners who desire timeless aesthetics without overwhelming costs.
+              With this conviction, Space Build Studio positions itself as the most trusted and affordable interior designer in Amroha for homeowners who desire timeless aesthetics without overwhelming costs.
             </p>
 
             {/* New Section */}
@@ -27,15 +27,15 @@ const Content = () => {
               Affordable Interiors With a Luxury Heart
             </h3>
             <p>
-              Affordability in interior design is often misunderstood. It is not about cutting corners; it is about making smart, intentional choices. At Vasterior, every decision, whether related to material palettes, spatial planning, lighting, or furniture, is inspired by the client&rsquo;s lifestyle and the natural energy of the space.
+              Affordability in interior design is often misunderstood. It is not about cutting corners; it is about making smart, intentional choices. At Space Build, every decision, whether related to material palettes, spatial planning, lighting, or furniture, is inspired by the client&rsquo;s lifestyle and the natural energy of the space.
             </p>
             <p>
               For Amroha&rsquo;s evolving residential landscape, we bring design solutions that respect regional sensibilities, modern needs, and practical comfort. We specialize in elevating compact homes, renovating heritage houses, and transforming new apartments with thoughtful detailing. The goal is always the same: create a home that looks luxurious, feels balanced, and fits the budget beautifully.
             </p>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vasterior is Amroha&rsquo;s Most Trusted Affordable Interior Design Partner
+              Why Space Build is Amroha&rsquo;s Most Trusted Affordable Interior Design Partner
             </h3>
             <div className="space-y-6">
               <div>
@@ -70,7 +70,7 @@ const Content = () => {
 
               <div>
                 <h4 className="font-semibold text-gray-900 mb-3">4. Transparent Pricing with No Hidden Surprises</h4>
-                <p>Vasterior believes affordability must come with transparency.</p>
+                <p>Space Build believes affordability must come with transparency.</p>
                 <p>Our pricing structure is simple:</p>
                 <ul className="list-disc list-inside space-y-1 ml-4 mt-2">
                   <li>Clear design fee</li>
@@ -102,9 +102,9 @@ const Content = () => {
 
             {/* Method */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Vasterior Keeps Design Affordable Without Losing Luxury
+              How Space Build Keeps Design Affordable Without Losing Luxury
             </h3>
-            <p>The Vasterior Method&trade; – A three-layered approach that blends design excellence with practical efficiencies:</p>
+            <p>The Space Build Method&trade; – A three-layered approach that blends design excellence with practical efficiencies:</p>
             <ol className="list-decimal list-inside space-y-2 ml-4 mt-4">
               <li><strong>Spatial Flow Mapping</strong> – Ensures every room supports its intended activity.</li>
               <li><strong>Material Intelligence</strong> – Focuses on tasteful selections that balance elegance and economy.</li>
@@ -117,7 +117,7 @@ const Content = () => {
               A Design Experience Built on Trust
             </h3>
             <p>
-              Our founders, trained in MahaVastu, architectural photography, spatial flow design, and material curation, bring their deep expertise into every project. With projects across Delhi NCR, Noida, Moradabad, Rampur, and now expanding to Amroha, Vasterior Studio stands as a brand defined by craftsmanship, clarity, and quiet luxury.
+              Our founders, trained in MahaVastu, architectural photography, spatial flow design, and material curation, bring their deep expertise into every project. With projects across Delhi NCR, Noida, Moradabad, Rampur, and now expanding to Amroha, Space Build Studio stands as a brand defined by craftsmanship, clarity, and quiet luxury.
             </p>
             <p>
               Our clients appreciate that we listen deeply, design intelligently, and execute with intention.
@@ -125,10 +125,10 @@ const Content = () => {
 
             {/* Contact */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Connect With Vasterior Studio Today
+              Connect With Space Build Studio Today
             </h3>
             <div className="space-y-2">
-              <p>To design a home that feels aligned, intentional, visually luxurious, and comfortably within budget, connect with Vasterior Studio, your trusted affordable interior designer in Amroha.</p>
+              <p>To design a home that feels aligned, intentional, visually luxurious, and comfortably within budget, connect with Space Build Studio, your trusted affordable interior designer in Amroha.</p>
               <p>Connect with our experts today at <strong>+917906086899</strong> or <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>.</p>
             </div>
           </div>

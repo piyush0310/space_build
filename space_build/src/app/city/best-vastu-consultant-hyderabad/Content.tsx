@@ -32,7 +32,7 @@ const Content = () => {
               At Vasterior, we combine the power of MahaVastu with practical interior design to create spaces that look premium and feel aligned. No fear-based Vastu. No random remedies. Just a structured, modern approach that actually makes sense.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Vasterior is Considered the Best Vastu Consultant in Hyderabad
             </h2>

@@ -41,9 +41,9 @@ const Content = () => {
               At Vasterior, every villa we consult on becomes a living masterpiece of direction, proportion, and purpose, perfectly attuned to the lifestyle of South Delhi&apos;s most refined residents.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu For Villa Construction South Delhi
+             SPACE BUILD for Vastu For Villa Construction South Delhi
             </h2>
             <p>
               When building a luxury villa in South Delhi, you need more than just an architect - you need an energy architect who understands both design and destiny. Here&apos;s why Vasterior is trusted by homeowners, builders, and developers across Delhi NCR:

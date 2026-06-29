@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Preferred Interior Design Firm For Villas In East Delhi
+             SPACE BUILD – The Preferred Interior Design Firm For Villas In East Delhi
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Personalized Design Philosophy</strong> - Each villa is designed exclusively to match your taste and personality. We focus on custom layouts, materials, and colors that make your space truly yours.</li>

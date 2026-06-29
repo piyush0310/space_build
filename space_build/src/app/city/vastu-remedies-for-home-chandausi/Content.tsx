@@ -133,10 +133,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu Remedies in Chandausi
+               SPACE BUILD for Vastu Remedies in Chandausi
               </h3>
               <p className="mt-4 font-semibold">Because Vastu deserves expertise, not guesswork.</p>
               <ul className="list-disc list-inside space-y-2 ml-4 mt-4">

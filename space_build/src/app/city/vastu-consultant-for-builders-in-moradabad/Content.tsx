@@ -114,9 +114,9 @@ const Content = () => {
               <li>Green Remedies – Adding parks, plants, and water bodies in balance with elements.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Consultant for Builders in Moradabad?
+             SPACE BUILD as Vastu Consultant for Builders in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Developer-Focused Expertise – Specialized in township, high-rise, and villa projects.</li>

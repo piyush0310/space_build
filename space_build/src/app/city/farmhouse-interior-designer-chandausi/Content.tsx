@@ -103,7 +103,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Farmhouse Interior Designer in Chandausi
+             SPACE BUILD as Your Farmhouse Interior Designer in Chandausi
             </h3>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Luxury interior expertise with rural sensitivity</li>

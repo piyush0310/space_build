@@ -117,7 +117,7 @@ const Content = () => {
             <p>Post-correction review and performance tracking. Corporate Vastu for Offices in Hyderabad is not guesswork. It is structured intervention.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Hyderabad
+             SPACE BUILD in Hyderabad
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Deep expertise in MahaVastu principles</li>

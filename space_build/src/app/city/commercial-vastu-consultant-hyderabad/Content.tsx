@@ -130,7 +130,7 @@ const Content = () => {
             <p>Correcting these imbalances often leads to measurable business improvements.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior Over Generic Vastu Consultants
+             SPACE BUILD Over Generic Vastu Consultants
             </h2>
             <p>
               We do not operate on superstition or symbolic quick fixes. Our methodology is analytical, data-oriented, and aligned with architectural feasibility. Vasterior combines:

@@ -8,20 +8,20 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "3D Interior Designer Amroha | Vasterior Studios",
+  title: "3D Interior Designer Amroha | Space Build Studios",
   description:
-    "3D Interior Designer Amroha – Vasterior Studios provides realistic 3D interior designs to visualize your complete home before execution.",
+    "3D Interior Designer Amroha – Space Build Studios provides realistic 3D interior designs to visualize your complete home before execution.",
   keywords:
     "3d interior designer amroha, 3d interior design amroha, interior visualization amroha",
   alternates: {
-    canonical: "https://www.vasterior.com/city/3d-interior-designer-amroha",
+    canonical: "https://www.Space Build.com/city/3d-interior-designer-amroha",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/3d-interior-designer-amroha",
-    title: "3D Interior Designer Amroha | Vasterior Studios",
+    url: "https://www.Space Build.com/city/3d-interior-designer-amroha",
+    title: "3D Interior Designer Amroha | Space Build Studios",
     description:
-      "3D Interior Designer Amroha – Vasterior Studios provides realistic 3D interior designs to visualize your complete home before execution.",
+      "3D Interior Designer Amroha – Space Build Studios provides realistic 3D interior designs to visualize your complete home before execution.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "3D Interior Designer Amroha | Vasterior Studios",
+    site: "@Space Build",
+    title: "3D Interior Designer Amroha | Space Build Studios",
     description:
-      "3D Interior Designer Amroha – Vasterior Studios provides realistic 3D interior designs to visualize your complete home before execution.",
+      "3D Interior Designer Amroha – Space Build Studios provides realistic 3D interior designs to visualize your complete home before execution.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

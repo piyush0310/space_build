@@ -38,9 +38,9 @@ const Content = () => {
             <p>
               From South Delhi&rsquo;s lavish kothis to North Delhi&rsquo;s heritage residences, our consultancy has redefined how modern homeowners experience balance and prosperity through energy-conscious design.
             </p>
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant For Kothi Delhi
+             SPACE BUILD as Your Vastu Consultant For Kothi Delhi
             </h2>
             <p>
               When you&rsquo;re investing in your dream home, every detail matters &ndash; and so does its energy. Here&rsquo;s why Vasterior is Delhi&rsquo;s most trusted partner for Vastu-aligned luxury residences:

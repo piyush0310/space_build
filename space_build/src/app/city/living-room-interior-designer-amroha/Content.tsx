@@ -10,20 +10,20 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-12 order-1 lg:order-1">
           {/* Main Heading */}
           <h2 className="text-2xl sm:text-3xl md:text-3xl font-bold mb-8 text-gray-900">
-            Living Room Interior Designer Amroha — Vasterior Studio
+            Living Room Interior Designer Amroha — Space Build Studio
           </h2>
 
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior Studio begins every living room transformation in Amroha with a simple
+              Space Build Studio begins every living room transformation in Amroha with a simple
               belief: your living space should feel like home, look like art, and flow like energy.
               As a luxury interior and Vastu-aligned design studio, living rooms are crafted to
               blend cultural warmth with contemporary elegance, creating spaces that host memories,
               elevate mood, and support the life you aspire to live.
             </p>
             <p>
-              For discerning homeowners in Amroha who want more than just good interiors, Vasterior
+              For discerning homeowners in Amroha who want more than just good interiors, Space Build
               brings a boutique, founder-led design practice rooted in MahaVastu science, European
               aesthetic clarity, and modern Indian living.
             </p>
@@ -40,7 +40,7 @@ const Content = () => {
               A living room is not merely a room; it is your first impression, your family&apos;s
               comfort zone, and the emotional centre of your home.
             </p>
-            <p>Most homeowners in Amroha come to Vasterior because they want:</p>
+            <p>Most homeowners in Amroha come to Space Build because they want:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>A luxurious, elegant space that feels guest-ready every day</li>
               <li>A living room that is harmonious and Vastu-aligned, without superstition</li>
@@ -53,12 +53,12 @@ const Content = () => {
               <li>A space that feels emotionally peaceful and visually stunning</li>
             </ul>
             <p className="mt-2">
-              If this sounds like what you want, Vasterior Studio was designed for you.
+              If this sounds like what you want, Space Build Studio was designed for you.
             </p>
 
             {/* Method */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Signature Method: Where Spatial Flow Meets Design Intelligence
+              The Space Build Signature Method: Where Spatial Flow Meets Design Intelligence
             </h3>
             <p>
               Every living room designed in Amroha follows a highly curated, founder-led process
@@ -70,7 +70,7 @@ const Content = () => {
               1. Spatial Flow Planning — The Heart of Your Home&apos;s Energy
             </h4>
             <p>
-              Vasterior does not simply place furniture; it shapes movement, conversation, comfort,
+              Space Build does not simply place furniture; it shapes movement, conversation, comfort,
               and clarity. Many Amroha homes face layout limitations, narrow spaces, awkward beams,
               challenging natural light, or misaligned seating positions.
             </p>
@@ -83,7 +83,7 @@ const Content = () => {
               <li>A room that feels calm and complete, even before materials are added</li>
             </ul>
             <p className="mt-2">
-              This is where most designers stop thinking, and where Vasterior begins.
+              This is where most designers stop thinking, and where Space Build begins.
             </p>
 
             {/* Step 2 */}
@@ -91,7 +91,7 @@ const Content = () => {
               2. Vastu-Aligned Living Room Design — Zero Fear, Full Science
             </h4>
             <p>
-              Vasterior integrates Vastu subtly, as energy understanding rather than superstition.
+              Space Build integrates Vastu subtly, as energy understanding rather than superstition.
               The living room is refined according to directional intelligence and elemental
               balance.
             </p>
@@ -124,7 +124,7 @@ const Content = () => {
               3. Material and Colour Curation — Luxury You Can Feel
             </h4>
             <p>
-              The living room must feel warm the moment you enter. Vasterior carefully curates
+              The living room must feel warm the moment you enter. Space Build carefully curates
               materials and colours to create a tactile, emotionally rich environment.
             </p>
             <p>Common elements include:</p>
@@ -160,7 +160,7 @@ const Content = () => {
               <li>Multipurpose furniture for flexible layouts</li>
             </ul>
             <p className="mt-2">
-              Everything is crafted with precision through Vasterior&apos;s trusted vendor network.
+              Everything is crafted with precision through Space Build&apos;s trusted vendor network.
             </p>
 
             {/* Step 5 */}
@@ -184,7 +184,7 @@ const Content = () => {
               6. Lighting Architecture — The Element Most Designers Ignore
             </h4>
             <p>
-              Lighting can elevate or diminish even the most beautiful living room. Vasterior
+              Lighting can elevate or diminish even the most beautiful living room. Space Build
               treats lighting as a core design layer.
             </p>
             <ul className="list-disc list-inside space-y-1 ml-4">
@@ -205,7 +205,7 @@ const Content = () => {
               Services Offered for Living Room Interior Design in Amroha
             </h3>
             <p>
-              Vasterior Studio offers a full suite of living room design services for a complete,
+              Space Build Studio offers a full suite of living room design services for a complete,
               premium experience:
             </p>
             <ol className="list-decimal list-inside space-y-1 ml-4">
@@ -243,12 +243,12 @@ const Content = () => {
               </li>
             </ol>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Amroha Chooses Vasterior Studio
+              Why Amroha Chooses Space Build Studio
             </h3>
             <p>
-              Homeowners in Amroha trust Vasterior because the design philosophy goes beyond
+              Homeowners in Amroha trust Space Build because the design philosophy goes beyond
               surface-level styling and into emotional, energetic, and functional depth.
             </p>
             <ul className="list-disc list-inside space-y-1 ml-4">
@@ -317,7 +317,7 @@ const Content = () => {
 
             {/* Contact */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Book Your Consultation with Vasterior Studio
+              Book Your Consultation with Space Build Studio
             </h3>
             <p>
               If you are looking for the finest Living Room Interior Designer in Amroha, you are in
@@ -325,7 +325,7 @@ const Content = () => {
               deeply you.
             </p>
             <p>
-              Contact Vasterior Studio today at <strong>+917906086899</strong> or{" "}
+              Contact Space Build Studio today at <strong>+917906086899</strong> or{" "}
               <a
                 href="mailto:info@spacebuild.com"
                 className="text-blue-600 hover:underline"

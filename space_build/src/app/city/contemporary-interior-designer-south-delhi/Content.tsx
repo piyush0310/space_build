@@ -19,7 +19,7 @@ const Content = () => {
               Spaces That Look Modern. Feel Aligned. Live Better.
             </h3>
             <p>
-              Vasterior designs contemporary interiors for South Delhi homes that are meant to be
+              Space Build designs contemporary interiors for South Delhi homes that are meant to be
               lived in, not staged, not copied, not rushed. Every space we create balances modern
               design sensibility with MahaVastu principles, ensuring your home doesn&apos;t just
               look refined, but feels calm, supportive, and intuitively right from the moment you
@@ -28,7 +28,7 @@ const Content = () => {
             <p>
               In a city where homes are getting smarter and lifestyles more intentional, design can
               no longer be only about finishes and furniture. It has to work with energy, movement,
-              light, and human behavior. That&apos;s where Vasterior stands apart.
+              light, and human behavior. That&apos;s where Space Build stands apart.
             </p>
 
             {/* Contemporary Design */}
@@ -39,7 +39,7 @@ const Content = () => {
               Contemporary interior design today isn&apos;t about trends, it&apos;s about clarity.
               Clean lines. Intelligent layouts. Materials that age gracefully. Spaces that breathe.
             </p>
-            <p>At Vasterior, contemporary design means:</p>
+            <p>At Space Build, contemporary design means:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Thoughtful spatial flow, not visual clutter</li>
               <li>Neutral palettes layered with depth and texture</li>
@@ -67,7 +67,7 @@ const Content = () => {
               <li>Renovated repeatedly, yet never fully settled</li>
             </ul>
             <p>
-              Vasterior designs with context. Your home&apos;s orientation, natural light, family
+              Space Build designs with context. Your home&apos;s orientation, natural light, family
               dynamics, lifestyle rhythms, and emotional needs are all part of the blueprint. That&apos;s
               how spaces start to feel grounded instead of overwhelming.
             </p>
@@ -78,7 +78,7 @@ const Content = () => {
             </h3>
             <p>Vastu doesn&apos;t need to feel rigid or religious. And it definitely doesn&apos;t need demolition.</p>
             <p>
-              Vasterior integrates MahaVastu principles seamlessly into contemporary interior
+              Space Build integrates MahaVastu principles seamlessly into contemporary interior
               design, quietly, scientifically, and practically.
             </p>
             <p>This includes:</p>
@@ -98,7 +98,7 @@ const Content = () => {
               Where Design Meets Energy Intelligence
             </h3>
             <p>Most interior designers focus on how a space looks.</p>
-            <p>Vasterior focuses on how a space behaves.</p>
+            <p>Space Build focuses on how a space behaves.</p>
             <p>We ask questions others don&apos;t:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Why does this room feel restless?</li>
@@ -117,9 +117,9 @@ const Content = () => {
               This is design that works quietly in the background, every single day.
             </p>
 
-            {/* What Makes Vasterior Different */}
+            {/* What Makes Space Build Different */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Vasterior Different
+              What Makes Space Build Different
             </h3>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Soul-led design, not trend replication. Your home isn&apos;t a mood board, it&apos;s personal.</li>
@@ -130,7 +130,7 @@ const Content = () => {
 
             {/* Process */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process
+              The Space Build Design Process
             </h3>
             <ol className="list-decimal list-inside space-y-1 ml-4">
               <li>Spatial understanding – studying layout, energy flow, and intent.</li>
@@ -168,7 +168,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Design That Supports the Life You&apos;re Building
             </h3>
-            <p>Vasterior doesn&apos;t design for applause.</p>
+            <p>Space Build doesn&apos;t design for applause.</p>
             <p>
               We design for mornings that feel calm, evenings that feel settled, and homes that
               quietly support growth, balance, and well-being.
@@ -182,10 +182,10 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. Is Vasterior only a contemporary interior designer?
+                  1. Is Space Build only a contemporary interior designer?
                 </h4>
                 <p>
-                  Vasterior specializes in contemporary interior design but adapts it to your
+                  Space Build specializes in contemporary interior design but adapts it to your
                   lifestyle and home context. The aesthetic is modern, but the approach is deeply
                   personalized and rooted in MahaVastu alignment.
                 </p>
@@ -206,7 +206,7 @@ const Content = () => {
                 </h4>
                 <p>
                   Absolutely. MahaVastu works effectively across apartments, builder floors, villas,
-                  and farmhouses, especially when integrated during the design phase as Vasterior
+                  and farmhouses, especially when integrated during the design phase as Space Build
                   does.
                 </p>
               </div>
@@ -215,7 +215,7 @@ const Content = () => {
                   4. Will Vastu compromise modern aesthetics?
                 </h4>
                 <p>
-                  Not at all. Vasterior ensures that Vastu alignment enhances the space subtly. The
+                  Not at all. Space Build ensures that Vastu alignment enhances the space subtly. The
                   result remains contemporary, refined, and visually clean.
                 </p>
               </div>
@@ -224,7 +224,7 @@ const Content = () => {
                   5. Do you handle turnkey interior projects in South Delhi?
                 </h4>
                 <p>
-                  Yes. Vasterior offers end-to-end interior design solutions, from concept and
+                  Yes. Space Build offers end-to-end interior design solutions, from concept and
                   alignment to execution, tailored specifically for South Delhi homes.
                 </p>
               </div>

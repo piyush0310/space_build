@@ -113,7 +113,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior
+             SPACE BUILD
             </h2>
             <p>
               Choosing the right Vastu consultant is about results, not rituals. Vasterior focuses on measurable lifestyle improvement through intelligent corrections.

@@ -8,19 +8,19 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Vasterior",
+  title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Space Build",
   description:
     "Affordable Vastu consultant Rampur - Budget-friendly Vastu consultation in Rampur with practical remedies and effective home solutions.",
   keywords:
     "Budget Vastu services Rampur, Cheap Vastu expert Rampur, Low cost Vastu consultant Rampur",
   alternates: {
     canonical:
-      "https://www.vasterior.com/city/affordable-vastu-consultant-rampur",
+      "https://www.Space Build.com/city/affordable-vastu-consultant-rampur",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/affordable-vastu-consultant-rampur",
-    title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Vasterior",
+    url: "https://www.Space Build.com/city/affordable-vastu-consultant-rampur",
+    title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Space Build",
     description:
       "Affordable Vastu consultant Rampur - Budget-friendly Vastu consultation in Rampur with practical remedies and effective home solutions.",
     images: [
@@ -34,8 +34,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Vasterior",
+    site: "@Space Build",
+    title: "Affordable Vastu consultant Rampur, Uttar Pradesh | Space Build",
     description:
       "Affordable Vastu consultant Rampur - Budget-friendly Vastu consultation in Rampur with practical remedies and effective home solutions.",
     images: [

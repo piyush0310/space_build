@@ -230,10 +230,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Your Amroha Home
+               SPACE BUILD for Your Amroha Home
               </h3>
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li>Boutique, founder-led design studio</li>

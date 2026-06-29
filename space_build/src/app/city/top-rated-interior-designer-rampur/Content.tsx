@@ -47,9 +47,9 @@ const Content = () => {
               Whether it&apos;s a builder-floor in Civil Lines, a bungalow near Bilaspur Road, or a heritage home in the old Rampur quarters — Vasterior designs environments that are refined, meaningful, and effortlessly harmonious.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Top Rated Interior Designer in Rampur
+             SPACE BUILD as the Top Rated Interior Designer in Rampur
             </h2>
             <p>
               Choosing the right interior designer is more than aesthetics — it&apos;s a partnership of trust, clarity, and vision. Vasterior is recognized by homeowners across North India not only for refined style but for our deeply aligned methodology, which brings life, energy, and character to a home.

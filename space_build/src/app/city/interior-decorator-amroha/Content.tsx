@@ -55,10 +55,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Interior Decorator in Amroha?
+               SPACE BUILD as Your Interior Decorator in Amroha?
               </h3>
 
               <h4 className="font-semibold text-gray-900 mt-4">

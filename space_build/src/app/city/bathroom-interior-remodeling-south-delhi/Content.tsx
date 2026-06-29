@@ -16,7 +16,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior believes that a bathroom is not just a functional corner of your home, it is
+              Space Build believes that a bathroom is not just a functional corner of your home, it is
               the most intimate space where your day begins and ends. In South Delhi homes, where
               refinement, legacy, and modern living intersect, bathroom interior remodeling deserves
               more than surface-level design; it deserves intention, alignment, and intelligence.
@@ -24,7 +24,7 @@ const Content = () => {
             <p>
               A well-designed bathroom does not announce itself loudly. It supports you quietly,
               through better flow, calmer mornings, improved hygiene, and a sense of ease you may
-              not consciously notice but deeply feel. This is where Vasterior steps in.
+              not consciously notice but deeply feel. This is where Space Build steps in.
             </p>
 
             {/* Why Bathroom Remodeling Needs a Different Approach */}
@@ -54,10 +54,10 @@ const Content = () => {
 
             {/* Philosophy */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vasterior&apos;s Philosophy: Beyond Renovation, Into Realignment
+              Space Build&apos;s Philosophy: Beyond Renovation, Into Realignment
             </h3>
             <p>
-              Bathroom interior remodeling at Vasterior is never about replacement alone. It is
+              Bathroom interior remodeling at Space Build is never about replacement alone. It is
               about restructuring how the space supports your body, mind, and daily rhythm.
             </p>
             <p>Our work integrates:</p>
@@ -68,7 +68,7 @@ const Content = () => {
               <li>MahaVastu alignment without demolition or superstition</li>
             </ul>
             <p>
-              MahaVastu, as practiced by Vasterior, is not about fear or rigid rules. It is a
+              MahaVastu, as practiced by Space Build, is not about fear or rigid rules. It is a
               scientific, observational system that looks at how direction, elements, activities,
               and objects interact within a space. In bathrooms, this becomes especially critical.
             </p>
@@ -88,7 +88,7 @@ const Content = () => {
               <li>Materials feel grounding, not cold or overwhelming</li>
             </ul>
             <p>
-              This shift from visual design to spatial intelligence defines Vasterior&apos;s
+              This shift from visual design to spatial intelligence defines Space Build&apos;s
               bathroom remodeling projects in South Delhi.
             </p>
 
@@ -156,7 +156,7 @@ const Content = () => {
               South Delhi homes require sensitivity. Many are lived in, not just showcased.
               Renovation needs to be precise, respectful, and minimally disruptive.
             </p>
-            <p>Vasterior works extensively with:</p>
+            <p>Space Build works extensively with:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Independent builder floors</li>
               <li>Premium apartments</li>
@@ -170,7 +170,7 @@ const Content = () => {
 
             {/* Trust */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Homeowners Trust Vasterior
+              Why Homeowners Trust Space Build
             </h3>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Deep understanding of spatial behaviour</li>
@@ -191,7 +191,7 @@ const Content = () => {
               a cosmetic upgrade, a thoughtful conversation is the right place to start.
             </p>
             <p>
-              You can speak directly with the Vasterior team by calling{" "}
+              You can speak directly with the Space Build team by calling{" "}
               <strong>+917906086899</strong>, or share your requirements over email at{" "}
               <a
                 href="mailto:info@spacebuild.com"
@@ -212,7 +212,7 @@ const Content = () => {
                 <span className="font-semibold">
                   Do you handle complete bathroom renovations in South Delhi?
                 </span>{" "}
-                Yes. Vasterior undertakes complete bathroom interior remodeling projects, including
+                Yes. Space Build undertakes complete bathroom interior remodeling projects, including
                 layout correction, material selection, lighting design, storage planning, and
                 execution support where applicable.
               </li>
@@ -258,7 +258,7 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">
-                  How do I get started with Vasterior?
+                  How do I get started with Space Build?
                 </span>{" "}
                 You can begin by calling <strong>+917906086899</strong> or emailing{" "}
                 <a

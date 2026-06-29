@@ -41,9 +41,9 @@ const Content = () => {
               At Vasterior, every consultation is backed by years of research, real-world success stories, and a commitment to creating luxury spaces that feel as good as they look.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Mahavastu Consultant Delhi
+             SPACE BUILD as Your Mahavastu Consultant Delhi
             </h2>
             <p>
               When balance and excellence are your priorities, you need a consultancy that understands both energy and elegance. Here&apos;s why Vasterior is the preferred choice across Delhi NCR:

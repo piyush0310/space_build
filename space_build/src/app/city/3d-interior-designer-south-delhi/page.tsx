@@ -10,19 +10,19 @@ import Blog from "@/components/Blog";
 export const metadata: Metadata = {
   title: "3D Interior Designer South Delhi",
   description:
-    "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Vasterior offers detailed, realistic & Vastu-compliant interior visualizations.",
+    "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Space Build offers detailed, realistic & Vastu-compliant interior visualizations.",
   keywords:
     "3d interior designer south delhi, 3d home interiors south delhi, modern interior designer south delhi",
   alternates: {
     canonical:
-      "https://www.vasterior.com/city/3d-interior-designer-south-delhi",
+      "https://www.Space Build.com/city/3d-interior-designer-south-delhi",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/3d-interior-designer-south-delhi",
+    url: "https://www.Space Build.com/city/3d-interior-designer-south-delhi",
     title: "3D Interior Designer South Delhi",
     description:
-      "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Vasterior offers detailed, realistic & Vastu-compliant interior visualizations.",
+      "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Space Build offers detailed, realistic & Vastu-compliant interior visualizations.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
+    site: "@Space Build",
     title: "3D Interior Designer South Delhi",
     description:
-      "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Vasterior offers detailed, realistic & Vastu-compliant interior visualizations.",
+      "3D Interior Designer South Delhi, with Price | Vasteior. Looking for a 3D interior designer in South Delhi with price details? Space Build offers detailed, realistic & Vastu-compliant interior visualizations.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

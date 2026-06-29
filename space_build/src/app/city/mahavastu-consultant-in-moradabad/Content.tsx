@@ -112,9 +112,9 @@ const Content = () => {
               <li><strong>Monitoring & Guidance</strong> – Supporting clients till results are experienced.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as MahaVastu Consultant in Moradabad?
+             SPACE BUILD as MahaVastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Certified MahaVastu Knowledge</strong> – Expertise in scientific Vastu methodology.</li>

@@ -133,9 +133,9 @@ const Content = () => {
               workstations, movement paths, and financial areas, without disrupting operations.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Correction in South Delhi?
+             SPACE BUILD for Vastu Correction in South Delhi?
             </h3>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Deep expertise in MahaVastu systems</li>

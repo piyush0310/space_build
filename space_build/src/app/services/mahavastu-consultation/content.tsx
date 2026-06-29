@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function PaidMahaVastuPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
   <Image
     src="https://res.cloudinary.com/dkpejqlby/image/upload/v1766997015/1_j979l8.jpg"
-    alt="MahaVastu Consultation by Vasterior"
+    alt="MahaVastu Consultation by Space Build"
     fill
     priority
     className="object-full"
@@ -55,7 +55,7 @@ export default function PaidMahaVastuPage() {
             A space has a language. It expresses your desires, reflects your challenges, and silently shapes your experiences.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            The MahaVastu Consultation at Vasterior is a structured, scientific, and deeply personalized process that studies this language; helping you correct misalignments, manifest specific goals, and create a life filled with clarity, stability, growth, and harmony.
+            The MahaVastu Consultation at Space Build is a structured, scientific, and deeply personalized process that studies this language; helping you correct misalignments, manifest specific goals, and create a life filled with clarity, stability, growth, and harmony.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Unlike the free Yogdan session, this consultation is immersive. It involves layered analysis, expert diagnosis, strategic remedies, and ongoing support designed for individuals who want meaningful, measurable results.
@@ -78,7 +78,7 @@ export default function PaidMahaVastuPage() {
       </section>
 
       {/* What This Consultation Offers */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT THIS CONSULTATION OFFERS</h3>
           
@@ -197,7 +197,7 @@ export default function PaidMahaVastuPage() {
       </section>
 
       {/* When Should You Book */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHEN SHOULD YOU BOOK A MAHAVASTU CONSULTATION?</h3>
           <p className="text-gray-700 mb-4">This service is perfect for you if:</p>
@@ -242,7 +242,7 @@ export default function PaidMahaVastuPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHAT YOU RECEIVE (DELIVERABLES)</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -265,7 +265,7 @@ export default function PaidMahaVastuPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE VASTERIOR CONSULTATION PROCESS</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE Space Build CONSULTATION PROCESS</h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Intake & Goal Setting</h4>
@@ -295,7 +295,7 @@ export default function PaidMahaVastuPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
@@ -309,7 +309,7 @@ export default function PaidMahaVastuPage() {
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">3. Do you need a gridded layout?</h4>
-              <p className="text-gray-700">Yes. If you don't have one, Vasterior can do the gridding & surveying for you (paid separately).</p>
+              <p className="text-gray-700">Yes. If you don't have one, Space Build can do the gridding & surveying for you (paid separately).</p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">4. Is demolition required?</h4>

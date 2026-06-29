@@ -38,7 +38,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Commercial Interior Designer in Rampur?
+             SPACE BUILD as the Best Commercial Interior Designer in Rampur?
             </h2>
             <p>
               Choosing Vasterior means selecting a partner who understands the emotional, functional, and operational layers of commercial spaces.

@@ -44,9 +44,9 @@ const Content = () => {
               Every project begins with a detailed analysis of your farmhouse&apos;s location, layout, directions, and elemental zones, ensuring that every interior decision enhances both aesthetics and energy flow.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Compliant Interiors For Farmhouses Delhi
+             SPACE BUILD for Vastu Compliant Interiors For Farmhouses Delhi
             </h2>
             <p>
               Designing a luxury farmhouse demands more than creativity — it requires energetic intelligence. Here&apos;s why homeowners and developers across Delhi trust Vasterior:

@@ -138,7 +138,7 @@ const Content = () => {
             {/* Why Choose */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior for Vastu Services in Amroha?
+               SPACE BUILD for Vastu Services in Amroha?
               </h3>
               <p>Clients choose Vasterior because we offer:</p>
               <ul className="list-disc list-inside space-y-2 ml-4 mt-4 mb-4">

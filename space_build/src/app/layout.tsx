@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vasterior",
-  description: "Vasterior",
+  title: "Space Build",
+  description: "Space Build",
   verification: {
     google: "MTAIpla5lhgnwzPxbFWQlK7QJ8iieD8CfaO7UEi6Kik",
   },

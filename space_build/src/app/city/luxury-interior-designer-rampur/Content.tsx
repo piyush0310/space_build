@@ -43,7 +43,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as the Best Interior Designer in Rampur?
+             SPACE BUILD as the Best Interior Designer in Rampur?
             </h2>
             <p>
               Rampur homes come in different forms - heritage bungalows, newly built builder floors, apartments, and renovated family properties. Vasterior understands the architectural rhythm of Rampur and customizes design solutions that feel natural, elevated, and future-ready.

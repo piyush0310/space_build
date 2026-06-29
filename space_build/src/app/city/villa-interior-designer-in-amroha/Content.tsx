@@ -92,7 +92,7 @@ const Content = () => {
               </ul>
             </div>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
                 What Makes Vasterior the Best Villa Interior Designer in Amroha

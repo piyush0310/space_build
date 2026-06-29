@@ -9,7 +9,7 @@ export default function AstroVastuPage() {
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/da12wzxoq/image/upload/v1765186695/5_wuf5ek.jpg"
-          alt="AstroVastu by Vasterior"
+          alt="AstroVastu by Space Build"
           fill
           className="object-full"
           priority
@@ -52,7 +52,7 @@ export default function AstroVastuPage() {
             Traditional Vastu studies a space. Astrology studies the person. <strong>AstroVastu brings the two together, harmonising the inhabitant with the habitat.</strong>
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, our AstroVastu service maps your birth chart onto your home or workspace, ensuring every zone supports your natural rhythm, prakriti, potential, and planetary energies.
+            At Space Build, our AstroVastu service maps your birth chart onto your home or workspace, ensuring every zone supports your natural rhythm, prakriti, potential, and planetary energies.
           </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
             <p className="text-lg text-gray-800 font-semibold mb-3">This creates a life where:</p>
@@ -71,7 +71,7 @@ export default function AstroVastuPage() {
       </section>
 
       {/* What AstroVastu Includes */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#28344B] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT ASTROVASTU INCLUDES</h3>
           
@@ -186,7 +186,7 @@ export default function AstroVastuPage() {
       </section>
 
       {/* Who Should Take AstroVastu */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#28344B] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHO SHOULD TAKE ASTROVASTU?</h3>
           <p className="text-gray-700 mb-4">This service is ideal for:</p>
@@ -230,7 +230,7 @@ export default function AstroVastuPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#28344B] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES (WHAT YOU RECEIVE)</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -284,13 +284,13 @@ export default function AstroVastuPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#28344B] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">1. Do I need a gridded layout for AstroVastu?</h4>
-              <p className="text-gray-700">Yes, a precise layout is essential. If you don't have one, Vasterior can do it through the Gridding & Survey service.</p>
+              <p className="text-gray-700">Yes, a precise layout is essential. If you don't have one, Space Build can do it through the Gridding & Survey service.</p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h4 className="font-semibold text-gray-800 mb-2">2. Is this the same as religious astrology?</h4>

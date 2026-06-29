@@ -10,16 +10,16 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-12 order-1 lg:order-1">
           {/* Main Heading */}
           <h2 className="text-2xl sm:text-3xl md:text-3xl font-bold mb-8 text-gray-900">
-            Best Interior Designer in Amroha — Luxury Interiors by Vasterior Studio
+            Best Interior Designer in Amroha — Luxury Interiors by Space Build Studio
           </h2>
 
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior Studio stands at the crossroads of luxury interior design and soulful spatial alignment, bringing a rare blend of refinement, MahaVastu wisdom, and modern craftsmanship to homes across Amroha. Known for transforming ordinary layouts into emotionally resonant, high-performance environments, Vasterior creates spaces that feel lived-in, intentional, and profoundly personal. Every project is approached like a timeless editorial composition, curated, balanced, and designed to elevate everyday living into an art form.
+              Space Build stands at the crossroads of luxury interior design and soulful spatial alignment, bringing a rare blend of refinement, MahaVastu wisdom, and modern craftsmanship to homes across Amroha. Known for transforming ordinary layouts into emotionally resonant, high-performance environments, Space Build creates spaces that feel lived-in, intentional, and profoundly personal. Every project is approached like a timeless editorial composition, curated, balanced, and designed to elevate everyday living into an art form.
             </p>
             <p>
-              As Amroha's demand for meaningfully crafted interiors grows, Vasterior has become the name synonymous with elegance, cultural depth, and spatial intelligence.
+              As Amroha's demand for meaningfully crafted interiors grows, Space Build has become the name synonymous with elegance, cultural depth, and spatial intelligence.
             </p>
 
             {/* New Language of Luxury */}
@@ -30,12 +30,12 @@ const Content = () => {
               Amroha's architectural landscape is evolving. Families are seeking more than furniture and finishes, they are seeking experience, emotion, and energy within their homes.
             </p>
             <p>
-              Vasterior brings to Amroha a design ethos shaped by modern luxury wrapped in understated beauty, materials that feel as good as they look, spatial flow that supports productivity, harmony, and wellness, and MahaVastu-aligned layouts that enhance clarity, mood, and comfort. Each home becomes a signature masterpiece, where every element; the light, the palette, the textures — works together like a symphony.
+              Space Build brings to Amroha a design ethos shaped by modern luxury wrapped in understated beauty, materials that feel as good as they look, spatial flow that supports productivity, harmony, and wellness, and MahaVastu-aligned layouts that enhance clarity, mood, and comfort. Each home becomes a signature masterpiece, where every element; the light, the palette, the textures — works together like a symphony.
             </p>
 
-            {/* Why Vasterior Is Best */}
+            {/* Why Space Build Is Best */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vasterior Is Considered the Best Interior Designer in Amroha
+              Why Space Build Is Considered the Best Interior Designer in Amroha
             </h3>
             <div className="space-y-6">
               <div>
@@ -52,7 +52,7 @@ const Content = () => {
 
               <div>
                 <h4 className="font-semibold text-gray-900 mb-3">2. MahaVastu Integration for Modern Living</h4>
-                <p>While many designs "look" good, Vasterior ensures they also feel good.</p>
+                <p>While many designs "look" good, Space Build ensures they also feel good.</p>
                 <ul className="list-disc list-inside space-y-1 ml-4 mt-2">
                   <li>directional zones</li>
                   <li>five-element balance</li>
@@ -75,7 +75,7 @@ const Content = () => {
               Premium Interior Design Services in Amroha
             </h3>
             <p>
-              Vasterior brings its flagship studio experience to Amroha, offering end-to-end interior design solutions for apartments, bungalows, farmhouses, villas, and commercial spaces wishing to embody refined elegance.
+              Space Build brings its flagship studio experience to Amroha, offering end-to-end interior design solutions for apartments, bungalows, farmhouses, villas, and commercial spaces wishing to embody refined elegance.
             </p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Complete space planning & furniture layout</li>
@@ -91,7 +91,7 @@ const Content = () => {
 
             {/* Signature Vision */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Where Vasterior Excels: The Signature Vision
+              Where Space Build Excels: The Signature Vision
             </h3>
             <div className="space-y-4">
               <div>
@@ -100,7 +100,7 @@ const Content = () => {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">2. Lighting as an Architectural Language</h4>
-                <p>From cove lights to hidden task lighting, Vasterior understands that light builds mood. Warm glows in the South-West foster stability. Soft diffused tones in the North-East encourage clarity and beginnings.</p>
+                <p>From cove lights to hidden task lighting, Space Build understands that light builds mood. Warm glows in the South-West foster stability. Soft diffused tones in the North-East encourage clarity and beginnings.</p>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">3. Materials with Luxury DNA</h4>
@@ -120,7 +120,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               MahaVastu-Aligned Homes in Amroha: Elegant, Not Esoteric
             </h3>
-            <p>Vasterior brings MahaVastu into design without overwhelming the client or compromising aesthetics.</p>
+            <p>Space Build brings MahaVastu into design without overwhelming the client or compromising aesthetics.</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>No demolition, no drastic remedies</li>
               <li>Purely design-led, object-led, energy-led corrections</li>
@@ -132,7 +132,7 @@ const Content = () => {
 
             {/* Design Process */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process for Amroha Homes
+              The Space Build Design Process for Amroha Homes
             </h3>
             <ol className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Step 1 — Discovery and Intention Setting</strong> – A detailed consultation to understand how you live, what you value, and how you want your home to feel.</li>
@@ -145,18 +145,18 @@ const Content = () => {
 
             {/* Who We Are */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Who We Are: The Vasterior Identity
+              Who We Are: The Space Build Identity
             </h3>
             <p>
-              Co-founded by Chitresh Jain and Charu Shukla, Vasterior represents the fusion of luxury interior design, refined spatial intuition, and contemporary MahaVastu interpretation. Their combined expertise shapes Vasterior into a brand trusted by HNIs, entrepreneurs, boutique business owners, and families looking to elevate their home as a personal sanctuary.
+              Co-founded by Chitresh Jain and Charu Shukla, Space Build represents the fusion of luxury interior design, refined spatial intuition, and contemporary MahaVastu interpretation. Their combined expertise shapes Space Build into a brand trusted by HNIs, entrepreneurs, boutique business owners, and families looking to elevate their home as a personal sanctuary.
             </p>
 
             {/* Contact */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Connect With Vasterior Studio Today
+              Connect With Space Build Studio Today
             </h3>
             <div className="space-y-2">
-              <p>To design a home that feels aligned, intentional, and beautifully yours, connect with Vasterior Studio, the trusted choice for luxury interior design in Amroha.</p>
+              <p>To design a home that feels aligned, intentional, and beautifully yours, connect with Space Build Studio, the trusted choice for luxury interior design in Amroha.</p>
               <p>Connect with our experts today at <strong>+917906086899</strong> or <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>.</p>
             </div>
 
@@ -166,27 +166,27 @@ const Content = () => {
             </h3>
             <div className="space-y-4">
               <div>
-                <h4 className="font-semibold text-gray-900">1. Why is Vasterior considered the best interior designer in Amroha?</h4>
-                <p>Because Vasterior combines luxury interior design with modern MahaVastu principles, creating spaces that feel both aesthetically elevated and energetically aligned.</p>
+                <h4 className="font-semibold text-gray-900">1. Why is Space Build considered the best interior designer in Amroha?</h4>
+                <p>Because Space Build combines luxury interior design with modern MahaVastu principles, creating spaces that feel both aesthetically elevated and energetically aligned.</p>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">2. Do you offer full end-to-end interior design services in Amroha?</h4>
-                <p>Yes. From layout planning, materials, lighting, furniture, 3D visuals, to execution and styling — Vasterior manages everything seamlessly.</p>
+                <p>Yes. From layout planning, materials, lighting, furniture, 3D visuals, to execution and styling — Space Build manages everything seamlessly.</p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-900">3. How does Vasterior use MahaVastu in interior design?</h4>
+                <h4 className="font-semibold text-gray-900">3. How does Space Build use MahaVastu in interior design?</h4>
                 <p>We analyse zones, elements, and spatial activities to create supportive environments. All corrections are non-destructive, design-led, and aligned with modern living.</p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-900">4. What types of projects does Vasterior take in Amroha?</h4>
+                <h4 className="font-semibold text-gray-900">4. What types of projects does Space Build take in Amroha?</h4>
                 <p>Apartments, villas, bungalows, farmhouses, boutique offices, and renovation projects seeking premium finishes and refined aesthetics.</p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-900">5. Is Vasterior suitable for small homes in Amroha?</h4>
+                <h4 className="font-semibold text-gray-900">5. Is Space Build suitable for small homes in Amroha?</h4>
                 <p>Absolutely. Our space optimization expertise ensures even compact homes feel spacious, balanced, and luxurious.</p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-900">6. How do I book a consultation with Vasterior?</h4>
+                <h4 className="font-semibold text-gray-900">6. How do I book a consultation with Space Build?</h4>
                 <p>You can contact us via phone, WhatsApp, or website to schedule an initial consultation for your Amroha property.</p>
               </div>
             </div>

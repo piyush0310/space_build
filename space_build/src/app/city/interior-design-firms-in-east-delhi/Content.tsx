@@ -32,7 +32,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – Among the Top Interior Design Firms in East Delhi
+             SPACE BUILD – Among the Top Interior Design Firms in East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Personalized Design Approach</strong> – We understand that every client is unique. Our team creates designs that reflect your lifestyle, preferences, and budget.</li>

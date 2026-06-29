@@ -85,7 +85,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Villa Construction Vastu in Moradabad?
+             SPACE BUILD for Villa Construction Vastu in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Dual Expertise &ndash; Vastu knowledge + luxury villa interiors.</li>

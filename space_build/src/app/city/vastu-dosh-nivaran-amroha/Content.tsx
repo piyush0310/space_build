@@ -142,9 +142,9 @@ const Content = () => {
               merge business logic with spatial intelligence.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Dosh Nivaran in Amroha
+             SPACE BUILD for Vastu Dosh Nivaran in Amroha
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>

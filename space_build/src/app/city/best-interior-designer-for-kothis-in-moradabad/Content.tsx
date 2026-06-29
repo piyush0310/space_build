@@ -21,9 +21,9 @@ const Content = () => {
               Flats and apartments are becoming the preferred choice for families and professionals in Moradabad due to their convenience, security, and modern layouts. However, designing a flat requires a thoughtful approach to space optimization, functionality, and aesthetics. At Vasterior – Best Interior Designer for Flats in Moradabad, UP, we specialize in creating stylish, practical, and Vastu-compliant interiors that transform compact apartments into luxurious living spaces.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Flat Interiors in Moradabad?
+             SPACE BUILD for Flat Interiors in Moradabad?
             </h2>
             <p>
               Moradabad, known for its rich culture and evolving lifestyle, is witnessing rapid growth in apartment living. Families want interiors that maximize comfort within limited square footage. Vasterior is the preferred choice because:

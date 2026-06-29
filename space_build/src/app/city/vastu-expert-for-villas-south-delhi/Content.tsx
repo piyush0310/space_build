@@ -41,9 +41,9 @@ const Content = () => {
               For villa owners in South Delhi - areas like Greater Kailash, Vasant Vihar, Defence Colony, and Chattarpur - Vasterior is the preferred choice for creating homes that feel opulent yet energetically balanced.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Expert For Villas South Delhi
+             SPACE BUILD as Your Vastu Expert For Villas South Delhi
             </h2>
             <p>
               When excellence meets energy alignment, transformation becomes inevitable. Here&apos;s why homeowners across South Delhi trust Vasterior:

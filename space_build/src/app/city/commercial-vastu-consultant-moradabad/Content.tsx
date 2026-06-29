@@ -89,7 +89,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Commercial Vastu Consultant in Moradabad?
+             SPACE BUILD as Commercial Vastu Consultant in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Specialized in Business Spaces &ndash; Focused expertise for commercial properties.</li>

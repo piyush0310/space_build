@@ -202,7 +202,7 @@ const Content = () => {
 
             {/* Why choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Nehru Place
+             SPACE BUILD as Your Vastu Consultant in Nehru Place
             </h3>
             <p>
               Choosing a Vastu consultant is not just about fixing problems, it

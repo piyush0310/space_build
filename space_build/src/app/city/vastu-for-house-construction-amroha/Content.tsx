@@ -104,9 +104,9 @@ const Content = () => {
             </ul>
             <p>This ensures your home is Vastu-correct by design, not by afterthought.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu in Amroha
+             SPACE BUILD for Vastu in Amroha
             </h2>
             <p>Choosing a Vastu consultant is not just about technical knowledge, it's about trust, sensitivity, and long-term vision.</p>
             <p>Homeowners in Amroha choose Vasterior because:</p>

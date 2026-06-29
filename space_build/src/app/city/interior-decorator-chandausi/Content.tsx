@@ -38,7 +38,7 @@ const Content = () => {
 
             {/* Why Choose */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Decorator in Chandausi?
+             SPACE BUILD as Your Interior Decorator in Chandausi?
             </h3>
             <ol className="list-decimal list-inside space-y-1 ml-4">
               <li><strong>Design That's Beautiful and Balanced</strong> - Visually refined and energetically aligned</li>

@@ -35,9 +35,9 @@ const Content = () => {
               Every recommendation from Vasterior is backed by real-world expertise, precise directional analysis, and design integrity - ensuring your space doesn&apos;t just look extraordinary but also feels powerfully aligned.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – Certified Vastu Expert Delhi NCR
+             SPACE BUILD – Certified Vastu Expert Delhi NCR
             </h2>
             <p>
               When you seek perfection, trust only those who understand both the science of space and the art of balance. Here&apos;s why Vasterior stands as the preferred Certified Vastu Expert in Delhi NCR:

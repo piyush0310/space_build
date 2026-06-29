@@ -94,9 +94,9 @@ const Content = () => {
               <li><strong>Implementation & Support</strong> – Practical corrections and follow-up guidance.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Consultant for Kothis in Moradabad?
+             SPACE BUILD as Vastu Consultant for Kothis in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Heritage Experience</strong> – Expertise in handling traditional and modern kothis.</li>

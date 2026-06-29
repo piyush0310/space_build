@@ -60,9 +60,9 @@ const Content = () => {
             </ul>
             <p>Vasterior doesn't "add Vastu later." The space is planned from the ground up with MahaVastu logic subtly embedded into the layout, circulation, and zoning, so the restaurant feels effortless, aligned, and naturally inviting.</p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Restaurant Interior Designer in Chandausi
+             SPACE BUILD as Your Restaurant Interior Designer in Chandausi
             </h2>
             <p className="mb-6">
               Choosing the right interior designer can directly impact your restaurant's success. Vasterior brings together design expertise, business understanding, and Vastu alignment, making them a trusted choice for restaurant owners across the region.

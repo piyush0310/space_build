@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function MahaVastuYogdanPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[25vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677935/Mahavastu-Yogdyaan_ezo4yu.jpg"
-          alt="MahaVastu Yogdan by Vasterior"
+          alt="MahaVastu Yogdan by SPACE BUILD"
           fill
           className="object-full"
           priority
@@ -43,14 +43,14 @@ export default function MahaVastuYogdanPage() {
             A sacred offering of guidance, clarity, and energetic support - absolutely free.
           </p>
           <p className="text-lg text-center text-[#D4935D] font-semibold">
-            Every Wednesday at Vasterior.
+            Every Wednesday at SPACE BUILD.
           </p>
         </div>
         
         <div className="space-y-6">
           <h3 className="text-3xl font-serif text-gray-800">INTRODUCTION</h3>
           <p className="text-lg text-gray-700 leading-relaxed">
-            MahaVastu Yogdan is one of the most meaningful services we offer at Vasterior.
+            MahaVastu Yogdan is one of the most meaningful services we offer at Space Build.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             It is not a consultation. It is not a commercial service.
@@ -74,7 +74,7 @@ export default function MahaVastuYogdanPage() {
       </section>
 
       {/* What is MahaVastu Yogdan */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHAT IS MAHAVASTU YOGDAN?</h3>
           <div className="bg-white rounded-lg p-6 shadow-md space-y-4">
@@ -138,7 +138,7 @@ export default function MahaVastuYogdanPage() {
       </section>
 
       {/* Prerequisites */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">PREREQUISITES</h3>
           <div className="bg-white rounded-lg p-6 shadow-md space-y-4">
@@ -179,7 +179,7 @@ export default function MahaVastuYogdanPage() {
       </section>
 
       {/* Who Should Come */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHO SHOULD COME FOR MAHAVASTU YOGDAN?</h3>
           <p className="text-gray-700 mb-4">This service is ideal for those who:</p>
@@ -220,7 +220,7 @@ export default function MahaVastuYogdanPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">

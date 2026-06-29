@@ -67,7 +67,7 @@ const Services: React.FC = () => {
   title: "PROJECT MANAGEMENT CONSULTATION (PMC)",
   image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997027/2_rgmivl.jpg",
   alt: "Professional project management consultation services",
-  description: "Professional project management consultation by space build for efficient planning, execution, and delivery.",
+  description: "Professional project management consultation by SPACE BUILD for efficient planning, execution, and delivery.",
   link: "#",
 },
 
@@ -85,7 +85,7 @@ const Services: React.FC = () => {
             SERVICES
           </h2>
           <p className="text-lg text-gray-600 max-w-7xl mx-auto leading-relaxed">
-            At space build, we deliver a complete range of design solutions, spanning architecture, interiors, furniture, lighting, product design, and landscaping—offering clients a seamless and integrated experience. Led by space build’s refined vision, our team blends innovation, precision, and functionality to craft spaces that feel timeless, elegant, and personal. From material selection to colors, textures, and lighting, every detail is thoughtfully curated to create environments—be it homes, commercial spaces, or bespoke furniture—that inspire, engage, and leave a lasting impression.
+            At SPACE BUILD, we deliver a complete range of design solutions, spanning architecture, interiors, furniture, lighting, product design, and landscaping—offering clients a seamless and integrated experience. Led by SPACE BUILD’s refined vision, our team blends innovation, precision, and functionality to craft spaces that feel timeless, elegant, and personal. From material selection to colors, textures, and lighting, every detail is thoughtfully curated to create environments—be it homes, commercial spaces, or bespoke furniture—that inspire, engage, and leave a lasting impression.
 
           </p>
         </div>

@@ -116,7 +116,7 @@ const Content = () => {
 
             {/* Why Vasterior */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Consultation in South Delhi?
+             SPACE BUILD for Vastu Consultation in South Delhi?
             </h3>
             <p>Vasterior is known for:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">

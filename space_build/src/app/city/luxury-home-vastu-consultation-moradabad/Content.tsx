@@ -103,7 +103,7 @@ const Content = () => {
             <hr className="my-6" />
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Luxury Home Vastu in Moradabad?
+             SPACE BUILD for Luxury Home Vastu in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Dual Expertise &ndash; Luxury interiors + authentic Vastu knowledge.</li>

@@ -113,9 +113,9 @@ const Content = () => {
               <li><strong>Final Styling & Remedies</strong> – Using mirrors, plants, lights, or structural adjustments for complete harmony.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Expert for Farmhouses in Moradabad
+             SPACE BUILD as Vastu Expert for Farmhouses in Moradabad
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Dual Expertise</strong> – Certified Vastu consultants + interior design specialists.</li>

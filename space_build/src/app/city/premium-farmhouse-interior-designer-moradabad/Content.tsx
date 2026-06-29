@@ -111,9 +111,9 @@ const Content = () => {
               <li><strong>Handover & Styling</strong> – Final touches with furniture, lighting, and outdoor integration.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Premium Farmhouse Interior Designer in Moradabad
+             SPACE BUILD as Premium Farmhouse Interior Designer in Moradabad
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Specialized in Large Residences</strong> – Experience in villas, kothis, and farmhouses.</li>

@@ -119,9 +119,9 @@ const Content = () => {
               <li><strong>Styling & Handover</strong> – Adding art, décor, and final touches.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Modern Luxury Home Design in Moradabad?
+             SPACE BUILD for Modern Luxury Home Design in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Trend Awareness</strong> – We follow global design movements but adapt them locally.</li>

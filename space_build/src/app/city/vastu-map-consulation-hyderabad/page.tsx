@@ -139,7 +139,7 @@ const Content = () => {
             <p>Whether it is a 2BHK apartment or a 10,000 sq. ft. commercial office, the principles remain powerful.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu Consultation in Hyderabad?
+             SPACE BUILD for Vastu Consultation in Hyderabad?
             </h2>
             <p>Because we do not sell superstition.</p>
             <p>We deliver spatial strategy.</p>

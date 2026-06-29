@@ -38,9 +38,9 @@ const Content = () => {
               We don&rsquo;t just analyze spaces; we reimagine how energy, architecture, and interiors work together to enhance your lifestyle and productivity. At Vasterior, every consultation is built on deep expertise, precision, and an unwavering focus on creating balance without disrupting beauty.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior &ndash; The Most Experienced Vastu Consultant South Delhi
+             SPACE BUILD &ndash; The Most Experienced Vastu Consultant South Delhi
             </h2>
             <p>
               Here&rsquo;s why property owners, architects, and developers across Delhi NCR choose Vasterior for Vastu excellence:

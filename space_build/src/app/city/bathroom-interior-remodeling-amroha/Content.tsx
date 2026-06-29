@@ -17,10 +17,10 @@ const Content = () => {
             {/* Intro */}
             <div>
               <p>
-                Vasterior Studio brings a new meaning to Bathroom Interior Remodeling in Amroha, blending luxury design, conscious spatial flow, and meticulous craftsmanship into spaces where daily rituals feel elevated, intentional, and deeply personal. In a city where homes are evolving into expressions of modern lifestyle, your bathroom is no longer just a utility zone. It is a sanctuary; a space of silence, steam, softness, and renewal. And when redesigned with purpose, it transforms the way the entire home feels.
+                Space Build Studio brings a new meaning to Bathroom Interior Remodeling in Amroha, blending luxury design, conscious spatial flow, and meticulous craftsmanship into spaces where daily rituals feel elevated, intentional, and deeply personal. In a city where homes are evolving into expressions of modern lifestyle, your bathroom is no longer just a utility zone. It is a sanctuary; a space of silence, steam, softness, and renewal. And when redesigned with purpose, it transforms the way the entire home feels.
               </p>
               <p>
-                Bathroom interior remodeling is one of the most intimate forms of design, because it touches your everyday life, the first light you see in the morning, the warmth under your feet after a long day, the quiet moment of reflection before you step back into the world. At Vasterior, we craft bathrooms that honour these rituals while introducing global-standard materials, spa-like experiences, and subtle Vastu-aligned coherence that enhances harmony without superstition.
+                Bathroom interior remodeling is one of the most intimate forms of design, because it touches your everyday life, the first light you see in the morning, the warmth under your feet after a long day, the quiet moment of reflection before you step back into the world. At Space Build, we craft bathrooms that honour these rituals while introducing global-standard materials, spa-like experiences, and subtle Vastu-aligned coherence that enhances harmony without superstition.
               </p>
             </div>
 
@@ -38,15 +38,15 @@ const Content = () => {
                 <p><strong>5. Modern minimalism with hotel-like luxury</strong><br/>Clean lines, balanced textures, muted palettes, and elegant geometry.</p>
                 <p><strong>6. Vastu-aligned placements</strong><br/>Subtle, practical alignment of water, fire, and movement zones without breaking any structure.</p>
               </div>
-              <p className="mt-4">Homeowners in Amroha want bathrooms that feel luxurious yet low-maintenance — a perfect blend of beauty and function. Vasterior specializes in delivering exactly this balance.</p>
+              <p className="mt-4">Homeowners in Amroha want bathrooms that feel luxurious yet low-maintenance — a perfect blend of beauty and function. Space Build specializes in delivering exactly this balance.</p>
             </div>
 
-            {/* Vasterior Approach */}
+            {/* Space Build Approach */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                The Vasterior Approach to Bathroom Interior Remodeling in Amroha
+                The Space Build Approach to Bathroom Interior Remodeling in Amroha
               </h3>
-              <p>Every Vasterior bathroom is designed through a meticulous, multi-layered process that respects both aesthetics and engineering. Our signature style is intentional, calming, and editorial, inspired by global boutique hotels and guided by energy-aware design logic.</p>
+              <p>Every Space Build bathroom is designed through a meticulous, multi-layered process that respects both aesthetics and engineering. Our signature style is intentional, calming, and editorial, inspired by global boutique hotels and guided by energy-aware design logic.</p>
 
               <div className="space-y-6 mt-6">
                 <div>
@@ -149,10 +149,10 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Vasterior Is the Preferred Choice for Bathroom Remodeling in Amroha
+                Why Space Build Is the Preferred Choice for Bathroom Remodeling in Amroha
               </h3>
               <ul className="space-y-2 ml-4">
                 <li><strong>Editorial Aesthetic</strong> – Your bathroom will look like it belongs in a global lifestyle magazine.</li>
@@ -179,7 +179,7 @@ const Content = () => {
                 Ready to Transform Your Bathroom?
               </h3>
               <div className="space-y-2">
-                <p>If you&rsquo;re planning a Bathroom Interior Remodeling in Amroha, Vasterior Studio will help you create a space that feels luxurious, modern, and energetically balanced.</p>
+                <p>If you&rsquo;re planning a Bathroom Interior Remodeling in Amroha, Space Build Studio will help you create a space that feels luxurious, modern, and energetically balanced.</p>
                 <p>Book a design consultation today. Get in touch with our experts today at <strong>+917906086899</strong> or <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>.</p>
                 <p>Let&rsquo;s redesign your everyday rituals; beautifully, intentionally, and with heart.</p>
               </div>

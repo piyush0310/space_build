@@ -21,9 +21,9 @@ const Content = () => {
               When you search for &quot;Interior Designer Near Me in Moradabad District, UP&quot;, you want a company that is reliable, local, and affordable while delivering premium design. That&apos;s where Vasterior comes in. We specialize in residential, commercial, and renovation interiors across the entire Moradabad District — from the city center to nearby towns, villages, and industrial areas.
             </p>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Interiors in Moradabad District?
+             SPACE BUILD for Interiors in Moradabad District?
             </h2>
             <p>
               Moradabad District is a blend of rich heritage, fast-growing industries, and modern lifestyles. Families, businesses, and professionals here want interiors that reflect style, functionality, and cultural balance. Vasterior is trusted because:

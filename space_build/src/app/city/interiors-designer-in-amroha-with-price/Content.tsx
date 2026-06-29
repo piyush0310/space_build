@@ -51,7 +51,7 @@ const Content = () => {
 
             {/* Why Vasterior */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Interior Designer in Amroha?
+             SPACE BUILD as Your Interior Designer in Amroha?
             </h3>
 
             <h4 className="text-lg sm:text-xl font-semibold text-gray-900">

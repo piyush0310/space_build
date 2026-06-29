@@ -109,9 +109,9 @@ const Content = () => {
               <li><strong>Final Styling & Handover</strong> – Delivery of polished, premium interiors.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Premium Villa Interior Designer in Moradabad?
+             SPACE BUILD as Premium Villa Interior Designer in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Villa-Specific Expertise</strong> – Proven experience in large, premium residences.</li>

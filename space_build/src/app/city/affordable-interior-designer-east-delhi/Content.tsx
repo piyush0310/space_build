@@ -18,19 +18,19 @@ const Content = () => {
               Transform Your Home with the Most Affordable Interior Designer in East Delhi
             </h3>
             <p>
-              Creating a beautiful home does not have to be expensive. At Vasterior, we bring luxury and functionality together at a price that fits your budget. As the affordable interior designer in East Delhi, we design modern, elegant, and practical spaces that reflect your personality and lifestyle. Whether you are furnishing a new apartment or remodeling your existing home, Vasterior delivers stunning interiors that are stylish and affordable.
+              Creating a beautiful home does not have to be expensive. At Space Build, we bring luxury and functionality together at a price that fits your budget. As the affordable interior designer in East Delhi, we design modern, elegant, and practical spaces that reflect your personality and lifestyle. Whether you are furnishing a new apartment or remodeling your existing home, Space Build delivers stunning interiors that are stylish and affordable.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              About Vasterior
+              About Space Build
             </h2>
             <p>
-              Vasterior is one of Delhi NCR&apos;s most trusted names in interior design. With years of experience, we specialize in transforming homes and offices into spaces that are both comfortable and visually appealing. Our mission is simple: to make premium interior design accessible and affordable for everyone.
-              Our team of skilled designers, architects, and craftsmen combines creativity with functionality. We focus on understanding your needs, preferences, and budget to deliver designs that are practical and long-lasting. Every Vasterior project reflects attention to detail, quality materials, and expert craftsmanship.
+              Space Build is one of Delhi NCR&apos;s most trusted names in interior design. With years of experience, we specialize in transforming homes and offices into spaces that are both comfortable and visually appealing. Our mission is simple: to make premium interior design accessible and affordable for everyone.
+              Our team of skilled designers, architects, and craftsmen combines creativity with functionality. We focus on understanding your needs, preferences, and budget to deliver designs that are practical and long-lasting. Every Space Build project reflects attention to detail, quality materials, and expert craftsmanship.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior - The Affordable Interior Designer in East Delhi
+             SPACE BUILD - The Affordable Interior Designer in East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Budget-Friendly Designs</strong> - We offer creative interior design solutions that maximize style and minimize cost.</li>
@@ -41,14 +41,14 @@ const Content = () => {
               <li><strong>On-Time Completion</strong> - We ensure every project is completed within schedule without compromising quality.</li>
             </ul>
             <p>
-              At Vasterior, we prove that affordable interior design does not mean compromising on style or standards.
+              At Space Build, we prove that affordable interior design does not mean compromising on style or standards.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Our Interior Design Services in East Delhi
             </h2>
             <p>
-              As the affordable interior designer in East Delhi, Vasterior provides a wide range of services for every space and budget.
+              As the affordable interior designer in East Delhi, Space Build provides a wide range of services for every space and budget.
             </p>
 
             <h3 className="font-semibold text-gray-900 mb-2">Residential Interior Design</h3>
@@ -85,7 +85,7 @@ const Content = () => {
               Our Portfolio and Work Quality
             </h2>
             <p>
-              Every project by Vasterior represents creativity, craftsmanship, and care. From compact apartments to large homes, we design spaces that combine style with practicality. Our designers are skilled at creating luxury looks at affordable prices by sourcing quality materials efficiently and planning every detail carefully.
+              Every project by Space Build represents creativity, craftsmanship, and care. From compact apartments to large homes, we design spaces that combine style with practicality. Our designers are skilled at creating luxury looks at affordable prices by sourcing quality materials efficiently and planning every detail carefully.
               We partner with trusted suppliers for furniture, lighting, and décor items to ensure durability and quality. Each project is executed under strict supervision to maintain standards and achieve flawless results.
             </p>
 
@@ -94,10 +94,10 @@ const Content = () => {
             </h2>
             <div className="space-y-4">
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;Vasterior designed our 2BHK flat beautifully within our budget. Their team is professional and truly understands client needs.&quot; - Ritu Sharma
+                &quot;Space Build designed our 2BHK flat beautifully within our budget. Their team is professional and truly understands client needs.&quot; - Ritu Sharma
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;I was looking for an affordable interior designer in East Delhi and found Vasterior. The designs were amazing and completed on time.&quot; - Ankur Jain
+                &quot;I was looking for an affordable interior designer in East Delhi and found Space Build. The designs were amazing and completed on time.&quot; - Ankur Jain
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
                 &quot;They transformed our kitchen and living room perfectly. Affordable, reliable, and very professional.&quot; - Meena and Rajeev Bhatia
@@ -112,12 +112,12 @@ const Content = () => {
             <div className="space-y-6 mt-6">
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q1. Who is the most affordable interior designer in East Delhi?</h3>
-                <p>A: Vasterior is widely known as the affordable interior designer in East Delhi, offering stylish and budget-friendly home interiors without compromising quality.</p>
+                <p>A: Space Build is widely known as the affordable interior designer in East Delhi, offering stylish and budget-friendly home interiors without compromising quality.</p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q2. What is the cost of home interior design in East Delhi?</h3>
-                <p>A: The cost depends on the size of your space, materials, and design preferences. Vasterior provides customized pricing and affordable packages for every client.</p>
+                <p>A: The cost depends on the size of your space, materials, and design preferences. Space Build provides customized pricing and affordable packages for every client.</p>
               </div>
 
               <div>
@@ -127,27 +127,27 @@ const Content = () => {
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q4. How long does an interior design project take?</h3>
-                <p>A: Most residential projects are completed within 6 to 10 weeks, depending on scale and complexity. Vasterior ensures on-time project delivery every time.</p>
+                <p>A: Most residential projects are completed within 6 to 10 weeks, depending on scale and complexity. Space Build ensures on-time project delivery every time.</p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Q5. Why should I choose an affordable interior designer instead of doing it myself?</h3>
-                <p>A: A professional designer saves time, avoids costly mistakes, and ensures a polished result. Vasterior provides affordable design solutions that bring expert planning and premium finishes within your budget.</p>
+                <p>A: A professional designer saves time, avoids costly mistakes, and ensures a polished result. Space Build provides affordable design solutions that bring expert planning and premium finishes within your budget.</p>
               </div>
             </div>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Contact Vasterior Today for Your Dream Home Interiors in East Delhi
+              Contact Space Build Today for Your Dream Home Interiors in East Delhi
             </h2>
             <div className="space-y-2">
               <p><strong>Phone:</strong> +917906086899</p>
               <p><strong>Email:</strong> <a href="mailto:info@spacebuild.com">info@spacebuild.com</a></p>
-              <p><strong>Website:</strong> <a href="https://www.vasterior.com" target="_blank" rel="noopener noreferrer">www.vasterior.com</a></p>
+              <p><strong>Website:</strong> <a href="https://www.Space Build.com" target="_blank" rel="noopener noreferrer">www.Space Build.com</a></p>
               <p><strong>Location:</strong> East Delhi, India</p>
             </div>
 
             <p className="mt-4 font-semibold text-gray-900">
-              Vasterior - Affordable Interior Designer in East Delhi Creating Elegant and Functional Living Spaces
+              Space Build - Affordable Interior Designer in East Delhi Creating Elegant and Functional Living Spaces
             </p>
           </div>
 

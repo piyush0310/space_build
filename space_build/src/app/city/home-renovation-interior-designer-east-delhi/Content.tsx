@@ -32,7 +32,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior – The Leading Home Renovation Interior Designer in East Delhi
+             SPACE BUILD – The Leading Home Renovation Interior Designer in East Delhi
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Complete Turnkey Solutions</strong> – We manage everything from design planning and civil work to furnishing and finishing, giving you a stress-free renovation experience.</li>

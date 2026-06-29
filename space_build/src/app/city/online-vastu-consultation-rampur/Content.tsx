@@ -156,10 +156,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Vastu Consultant in Rampur
+               SPACE BUILD as Your Vastu Consultant in Rampur
               </h3>
               <p>
                 Choosing a Vastu consultant is not just about expertise, it is

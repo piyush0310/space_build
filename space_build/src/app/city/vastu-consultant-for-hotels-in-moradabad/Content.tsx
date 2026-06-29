@@ -123,9 +123,9 @@ const Content = () => {
               <li>Green & Water Remedies – Gardens, fountains, and pools aligned with natural energy.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Vastu Consultant for Hotels in Moradabad?
+             SPACE BUILD as Vastu Consultant for Hotels in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Hospitality-Focused Expertise – Specialized in hotel, resort, and guesthouse projects.</li>

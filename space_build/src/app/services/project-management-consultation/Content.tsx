@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function ProjectManagementConsultationPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677935/PMC_i2bu0t.jpg"
-          alt="Project Management Consultation by Vasterior"
+          alt="Project Management Consultation by Space Build"
           fill
           className="object-full"
           priority
@@ -50,7 +50,7 @@ export default function ProjectManagementConsultationPage() {
             Misaligned decisions.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, our Project Management Consultation service exists to bring order, clarity, and strategic direction to interior design, renovation, and construction projects, especially where multiple stakeholders, vendors, or decisions are involved.
+            At Space Build, our Project Management Consultation service exists to bring order, clarity, and strategic direction to interior design, renovation, and construction projects, especially where multiple stakeholders, vendors, or decisions are involved.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             <strong>This is not execution contracting.<br/>
@@ -63,7 +63,7 @@ export default function ProjectManagementConsultationPage() {
       </section>
 
       {/* What Is Project Management Consultation */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="bg-[#edf4f8] py-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT IS PROJECT MANAGEMENT CONSULTATION?</h3>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -188,7 +188,7 @@ export default function ProjectManagementConsultationPage() {
       </section>
 
       {/* When Should You Take This Service */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHEN SHOULD YOU TAKE THIS SERVICE?</h3>
           <p className="text-gray-700 mb-4">Project Management Consultation is ideal if:</p>
@@ -210,11 +210,11 @@ export default function ProjectManagementConsultationPage() {
         </div>
       </section>
 
-      {/* What Makes Vasterior Different */}
+      {/* What Makes Space Build Different */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHAT MAKES VASTERIOR DIFFERENT</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">WHAT MAKES Space Build DIFFERENT</h3>
         <p className="text-lg text-gray-700 leading-relaxed mb-4">
-          Unlike generic project managers, Vasterior brings:
+          Unlike generic project managers, Space Build brings:
         </p>
         <div className="bg-white rounded-lg p-6 shadow-md">
           <ul className="space-y-2 text-gray-700">
@@ -234,7 +234,7 @@ export default function ProjectManagementConsultationPage() {
       </section>
 
       {/* Benefits You Experience */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">BENEFITS YOU EXPERIENCE</h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
@@ -278,7 +278,7 @@ export default function ProjectManagementConsultationPage() {
       </section>
 
       {/* The Process */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">HOW THE CONSULTATION WORKS</h3>
           <div className="space-y-4">
@@ -309,7 +309,7 @@ export default function ProjectManagementConsultationPage() {
             Plan Smarter. Build Better. Stress Less.
           </h3>
           <p className="text-lg text-gray-700 mb-6">
-            Let Vasterior guide your project with clarity, structure, and confidence.
+            Let Space Build guide your project with clarity, structure, and confidence.
           </p>
           <div className="space-y-2">
             <p className="text-xl font-semibold text-gray-800">Book a Project Management Consultation</p>

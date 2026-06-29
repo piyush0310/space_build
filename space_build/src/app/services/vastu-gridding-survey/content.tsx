@@ -4,12 +4,12 @@ import { ChevronRight } from "lucide-react";
 
 export default function GriddingSurveyPage() {
   return (
-    <div className="min-h-screen bg-[#FFF2EB]">
+    <div className="min-h-screen bg-[#edf4f8]">
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
           src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677934/Gridding_mtmfxh.jpg"
-          alt="Gridding, Layout Planning & Surveying by Vasterior"
+          alt="Gridding, Layout Planning & Surveying by Space Build"
           fill
           className="object-full"
           priority
@@ -49,7 +49,7 @@ export default function GriddingSurveyPage() {
             Before a space can be corrected, designed, renovated, or aligned, it must be understood.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            At Vasterior, Gridding and MahaVastu Surveying form the technical backbone of every project. This service transforms an ordinary floor plan into a scientifically accurate energy map, revealing how the 16 MahaVastu zones, 45 devtas, marma points, and elemental forces interact with your real-world environment.
+            At Space Build, Gridding and MahaVastu Surveying form the technical backbone of every project. This service transforms an ordinary floor plan into a scientifically accurate energy map, revealing how the 16 MahaVastu zones, 45 devtas, marma points, and elemental forces interact with your real-world environment.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Unlike conventional architectural drawings, MahaVastu gridding identifies the true north (which often differs from magnetic north) and places your entire space in a cosmically accurate orientation.
@@ -61,7 +61,7 @@ export default function GriddingSurveyPage() {
       </section>
 
       {/* What This Service Includes */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT THIS SERVICE INCLUDES</h3>
           
@@ -144,7 +144,7 @@ export default function GriddingSurveyPage() {
       </section>
 
       {/* When Should You Take This Service */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">WHEN SHOULD YOU TAKE THIS SERVICE?</h3>
           <p className="text-gray-700 mb-4">This service is ideal for:</p>
@@ -185,7 +185,7 @@ export default function GriddingSurveyPage() {
       </section>
 
       {/* Deliverables */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES (WHAT YOU RECEIVE)</h3>
           <p className="text-gray-700 mb-4">By the end of the survey, you receive:</p>
@@ -208,7 +208,7 @@ export default function GriddingSurveyPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE PROCESS AT VASTERIOR</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE PROCESS AT Space Build</h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Project Intake</h4>
@@ -242,7 +242,7 @@ export default function GriddingSurveyPage() {
       </section>
 
       {/* FAQs */}
-      <section className="bg-[#f7d9bc] py-12">
+      <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
@@ -280,7 +280,7 @@ export default function GriddingSurveyPage() {
             A correct grid is the foundation of every aligned, successful home or workspace.
           </p>
           <div className="space-y-2">
-            <p className="text-xl font-semibold text-gray-800">Book Your Vasterior Survey Today</p>
+            <p className="text-xl font-semibold text-gray-800">Book Your Space Build Survey Today</p>
             <p className="text-gray-700">Call us today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
             <p className="text-[#D4935D] font-semibold">info@spacebuild.com</p>

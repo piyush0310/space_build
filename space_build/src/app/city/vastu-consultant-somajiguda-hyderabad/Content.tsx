@@ -44,7 +44,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Somajiguda
+             SPACE BUILD as Your Vastu Consultant in Somajiguda
             </h2>
             <p>
               Vasterior stands apart by merging design intelligence with energetic alignment, ensuring your space not only looks beautiful but also works in your favor energetically.

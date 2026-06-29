@@ -97,10 +97,10 @@ const Content = () => {
               </p>
             </div>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <div>
               <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-                Why Choose Vasterior as Your Certified Vastu Expert in Rampur
+               SPACE BUILD as Your Certified Vastu Expert in Rampur
               </h3>
               <p>
                 Rampur has a unique mix of traditional homes, modern

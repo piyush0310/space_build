@@ -109,9 +109,9 @@ const Content = () => {
               <li><strong>Styling & Handover</strong> – Final touches with lighting, art, and accessories.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Modern Farmhouse Interiors in Moradabad
+             SPACE BUILD for Modern Farmhouse Interiors in Moradabad
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Rustic + Modern Expertise</strong> – Specialists in fusing natural charm with sleek design.</li>

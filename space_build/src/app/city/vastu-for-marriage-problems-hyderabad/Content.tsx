@@ -98,7 +98,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior for Vastu for Marriage Problems in Hyderabad
+             SPACE BUILD for Vastu for Marriage Problems in Hyderabad
             </h2>
             <p>
               Hyderabad homes range from compact apartments to expansive villas. Each layout carries unique directional dynamics. Vasterior stands apart because:

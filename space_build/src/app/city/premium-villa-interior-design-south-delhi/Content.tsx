@@ -16,7 +16,7 @@ const Content = () => {
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             {/* Intro */}
             <p>
-              Vasterior designs villas that don&apos;t just look expensive, they
+              Space Build designs villas that don&apos;t just look expensive, they
               feel aligned. In South Delhi, where homes are legacy assets and
               daily sanctuaries, we create interiors that balance refined
               aesthetics with the deeper intelligence of MahaVastu.
@@ -39,7 +39,7 @@ const Content = () => {
               ownership. Designing such homes requires more than trend awareness
               or Pinterest boards.
             </p>
-            <p>At Vasterior, premium villa interior design means:</p>
+            <p>At Space Build, premium villa interior design means:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Custom spatial planning, not template layouts</li>
               <li>
@@ -60,7 +60,7 @@ const Content = () => {
               Where Interior Design Meets MahaVastu Intelligence
             </h3>
             <p>
-              What sets Vasterior apart is not just how a space looks, but how
+              What sets Space Build apart is not just how a space looks, but how
               it functions energetically.
             </p>
             <p>
@@ -117,7 +117,7 @@ const Content = () => {
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Tailored Specifically for South Delhi Villas
             </h3>
-            <p>Vasterior works extensively with:</p>
+            <p>Space Build works extensively with:</p>
             <ul className="list-disc list-inside space-y-1 ml-4">
               <li>Independent villas</li>
               <li>Builder floors</li>
@@ -137,7 +137,7 @@ const Content = () => {
 
             {/* Process */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process
+              The Space Build Design Process
             </h3>
             <p>Our approach is structured, calm, and deeply personal:</p>
             <ol className="list-decimal list-inside space-y-1 ml-4">
@@ -190,11 +190,11 @@ const Content = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  1. What makes Vasterior different from other luxury interior
+                  1. What makes Space Build different from other luxury interior
                   designers?
                 </h4>
                 <p>
-                  Vasterior integrates aesthetic design with MahaVastu-based
+                  Space Build integrates aesthetic design with MahaVastu-based
                   spatial alignment. This means your home is designed not only
                   for visual elegance but also for emotional balance, health,
                   and long-term well-being.
@@ -232,7 +232,7 @@ const Content = () => {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  5. How early should I contact Vasterior for a villa project?
+                  5. How early should I contact Space Build for a villa project?
                 </h4>
                 <p>
                   Ideally during the planning or early construction stage, but

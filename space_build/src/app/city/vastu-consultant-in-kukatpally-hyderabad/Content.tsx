@@ -164,7 +164,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior as Your Vastu Consultant in Kukatpally
+             SPACE BUILD as Your Vastu Consultant in Kukatpally
             </h2>
             <p>
               Choosing a consultant is not just about knowledge, it’s about

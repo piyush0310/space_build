@@ -15,11 +15,11 @@ const Content = () => {
 
           <div className="space-y-8 text-gray-700 leading-relaxed max-w-4xl">
             <p>
-              Vasterior begins every project with a simple but often overlooked understanding: a
+              Space Build begins every project with a simple but often overlooked understanding: a
               home is not just a visual composition, it is a living system. In Green Park, where
               homes carry legacy, memories, and layered renovations, interior design cannot be
               reduced to surface beauty alone. It must support the people who live inside it,
-              emotionally, professionally, and energetically. This is where Vasterior’s approach
+              emotionally, professionally, and energetically. This is where Space Build’s approach
               quietly stands apart.
             </p>
 
@@ -48,7 +48,7 @@ const Content = () => {
               Interior Design That Works Beyond Aesthetics
             </h3>
             <p>
-              Vasterior operates at the intersection of interior design and MahaVastu spatial
+              Space Build operates at the intersection of interior design and MahaVastu spatial
               intelligence. This means we do not treat Vastu as an add-on, a ritual, or an
               object-based fix. Instead, it becomes the logic beneath the design.
             </p>
@@ -86,7 +86,7 @@ const Content = () => {
             </p>
 
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Vasterior Design Process
+              The Space Build Design Process
             </h3>
             <p>
               Our process is structured, calm, and deeply collaborative, ideal for homeowners who
@@ -119,7 +119,7 @@ const Content = () => {
               Interior Design Services in Green Park
             </h3>
             <p>
-              Vasterior works on project-based engagements, ensuring depth and accountability rather
+              Space Build works on project-based engagements, ensuring depth and accountability rather
               than rushed, transactional work.
             </p>
             <p>Our services include:</p>
@@ -139,7 +139,7 @@ const Content = () => {
               A Design Experience Built for Discerning Clients
             </h3>
             <p>
-              Clients who work with Vasterior often share one trait: they value substance over
+              Clients who work with Space Build often share one trait: they value substance over
               spectacle. Our approach is ideal for homeowners who want their space to feel:
             </p>
             <ul className="list-disc list-inside space-y-1 ml-4">
@@ -178,7 +178,7 @@ const Content = () => {
                 <span className="font-semibold">
                   Do you only work on large luxury projects in Green Park?
                 </span>{" "}
-                Vasterior undertakes projects where depth, intent, and thoughtful execution are
+                Space Build undertakes projects where depth, intent, and thoughtful execution are
                 valued. While many of our projects are large-scale, we also work on selective
                 renovations and zone-specific redesigns when alignment and design impact justify the
                 engagement.

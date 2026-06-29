@@ -31,12 +31,12 @@ const AboutSection: React.FC = () => {
 
             {/* Welcome Text */}
             <h4 className="text-black text-center text-lg md:text-2xl font-medium">
-              Welcome To Space Build, 
+              Welcome To SPACE BUILD, 
             </h4>
 
             {/* Full Description */}
             <div className="space-y-2 text-left text-black text-sm md:text-base lg:text-lg leading-relaxed max-w-prose mx-auto">
-             <p>At Space Build, we are passionate about transforming spaces into extraordinary experiences. With a commitment to innovation, craftsmanship, and personalized design, we create interiors that reflect the unique tastes and lifestyles of our clients. Our team of skilled designers and architects work closely with you to bring your vision to life, blending functionality with aesthetics to craft spaces that inspire and delight. From concept to completion, we are dedicated to delivering exceptional results that exceed expectations and make every space truly special.</p>
+             <p>At SPACE BUILD, we are passionate about transforming spaces into extraordinary experiences. With a commitment to innovation, craftsmanship, and personalized design, we create interiors that reflect the unique tastes and lifestyles of our clients. Our team of skilled designers and architects work closely with you to bring your vision to life, blending functionality with aesthetics to craft spaces that inspire and delight. From concept to completion, we are dedicated to delivering exceptional results that exceed expectations and make every space truly special.</p>
               
               
               

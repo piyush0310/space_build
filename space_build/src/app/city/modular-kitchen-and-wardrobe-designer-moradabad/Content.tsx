@@ -147,9 +147,9 @@ const Content = () => {
               <li><strong>Handover & Aftercare</strong> – Long-term support and guidance.</li>
             </ul>
 
-            {/* Why Choose Vasterior */}
+            {/*SPACE BUILD */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior in Moradabad?
+             SPACE BUILD in Moradabad?
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Dual Expertise</strong> – Specialists in both kitchens and wardrobes.</li>

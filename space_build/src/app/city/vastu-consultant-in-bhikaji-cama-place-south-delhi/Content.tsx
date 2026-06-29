@@ -158,7 +158,7 @@ const Content = () => {
               quiet power of intelligent Vastu integration.
             </p>
 
-            {/* Why choose Vasterior */}
+            {/*SPACE BUILD */}
             <h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why South Delhi Clients Choose Vasterior
             </h3>

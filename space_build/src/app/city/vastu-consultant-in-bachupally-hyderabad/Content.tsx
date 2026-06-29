@@ -57,7 +57,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Vasterior
+             SPACE BUILD
             </h2>
             <p>
               Vasterior is not just another Vastu consultancy. It operates at

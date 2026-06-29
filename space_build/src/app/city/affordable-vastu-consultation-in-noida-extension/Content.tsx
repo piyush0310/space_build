@@ -19,7 +19,7 @@ const Content = () => {
               In today&apos;s fast-paced world, the demand for peaceful, balanced, and positive living and working environments has never been higher. Noida Extension (Greater Noida West), Uttar Pradesh—a rapidly growing hub of apartments, villas, offices, and retail outlets—has seen a surge in families and businesses embracing Vastu Shastra. However, one concern often holds people back: the belief that professional Vastu services are expensive or out of reach.
             </p>
             <p>
-              That&apos;s where Vasterior stands apart. As a trusted provider of affordable Vastu consultation in Noida Extension, we ensure that everyone—whether homeowners, entrepreneurs, or shopkeepers—can access effective, practical, and budget-friendly Vastu solutions without compromising on quality.
+              That&apos;s where Space Build stands apart. As a trusted provider of affordable Vastu consultation in Noida Extension, we ensure that everyone—whether homeowners, entrepreneurs, or shopkeepers—can access effective, practical, and budget-friendly Vastu solutions without compromising on quality.
             </p>
 
             {/* Why Choose Affordable Vastu */}
@@ -35,7 +35,7 @@ const Content = () => {
 
             {/* Services */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vasterior&apos;s Affordable Vastu Services in Noida Extension
+              Space Build&apos;s Affordable Vastu Services in Noida Extension
             </h2>
             <div className="space-y-4">
               <div>
@@ -83,9 +83,9 @@ const Content = () => {
               </div>
             </div>
 
-            {/* Why Vasterior */}
+            {/* Why Space Build */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vasterior is the Right Choice for Affordable Vastu
+              Why Space Build is the Right Choice for Affordable Vastu
             </h2>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li><strong>Pocket-Friendly Solutions</strong> – Tailored to meet every budget.</li>
@@ -107,9 +107,9 @@ const Content = () => {
               <li><strong>Accessible for All</strong> – From homeowners to entrepreneurs, everyone benefits.</li>
             </ul>
 
-            {/* How Vasterior Makes Vastu Affordable */}
+            {/* How Space Build Makes Vastu Affordable */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Vasterior Makes Vastu Affordable
+              How Space Build Makes Vastu Affordable
             </h2>
             <ul className="list-decimal list-inside space-y-2 ml-4">
               <li><strong>Free Initial Discussion</strong> – Understand concerns before suggesting solutions.</li>
@@ -125,13 +125,13 @@ const Content = () => {
             </h2>
             <div className="space-y-4">
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;We thought Vastu would be too costly, but Vasterior gave us affordable remedies for our flat in Gaur City. The atmosphere feels so much better now.&quot; – Resident, Sector 4.
+                &quot;We thought Vastu would be too costly, but Space Build gave us affordable remedies for our flat in Gaur City. The atmosphere feels so much better now.&quot; – Resident, Sector 4.
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;As a small startup, we couldn&apos;t afford expensive consultants. Vasterior provided simple, low-cost solutions that really boosted our team&apos;s energy.&quot; – IT Firm, Techzone.
+                &quot;As a small startup, we couldn&apos;t afford expensive consultants. Space Build provided simple, low-cost solutions that really boosted our team&apos;s energy.&quot; – IT Firm, Techzone.
               </blockquote>
               <blockquote className="border-l-4 border-gray-300 pl-4 italic">
-                &quot;Our shop in Eco Village Arcade was struggling. With Vasterior&apos;s affordable corrections, sales have improved steadily.&quot; – Retail Owner, Noida Extension.
+                &quot;Our shop in Eco Village Arcade was struggling. With Space Build&apos;s affordable corrections, sales have improved steadily.&quot; – Retail Owner, Noida Extension.
               </blockquote>
             </div>
 
@@ -172,7 +172,7 @@ const Content = () => {
               Conclusion
             </h2>
             <p>
-              Vastu consultation doesn&apos;t have to be expensive to be effective. At Vasterior, we believe that every family and business in Noida Extension, Uttar Pradesh deserves a positive, harmonious space—without financial burden.
+              Vastu consultation doesn&apos;t have to be expensive to be effective. At Space Build, we believe that every family and business in Noida Extension, Uttar Pradesh deserves a positive, harmonious space—without financial burden.
             </p>
             <p className="mt-4">
               Our affordable Vastu consultation services deliver practical, budget-friendly remedies that work for homes, offices, retail outlets, and plots. With simple yet powerful corrections, we ensure that your space supports peace, prosperity, and growth.
@@ -180,7 +180,7 @@ const Content = () => {
 
             {/* Contact Info */}
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              📞 Contact Vasterior – Affordable Vastu Consultation in Noida Extension
+              📞 Contact Space Build – Affordable Vastu Consultation in Noida Extension
             </h2>
             <div className="space-y-2">
               <p><strong>Phone:</strong> +917906086899</p>

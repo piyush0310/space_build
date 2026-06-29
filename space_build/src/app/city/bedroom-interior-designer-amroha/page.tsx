@@ -8,20 +8,20 @@ import Services from "@/components/Services";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Bedroom Interior Designer Amroha | Vasterior Studios",
+  title: "Bedroom Interior Designer Amroha | Space Build Studios",
   description:
-    "Bedroom Interior Designer Amroha – Vasterior Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
+    "Bedroom Interior Designer Amroha – Space Build Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
   keywords:
     "bedroom interior designer amroha, bedroom décor amroha, bedroom design amroha",
   alternates: {
-    canonical: "https://www.vasterior.com/city/bedroom-interior-designer-amroha",
+    canonical: "https://www.Space Build.com/city/bedroom-interior-designer-amroha",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/city/bedroom-interior-designer-amroha",
-    title: "Bedroom Interior Designer Amroha | Vasterior Studios",
+    url: "https://www.Space Build.com/city/bedroom-interior-designer-amroha",
+    title: "Bedroom Interior Designer Amroha | Space Build Studios",
     description:
-      "Bedroom Interior Designer Amroha – Vasterior Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
+      "Bedroom Interior Designer Amroha – Space Build Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
     images: [
       {
         url: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Bedroom Interior Designer Amroha | Vasterior Studios",
+    site: "@Space Build",
+    title: "Bedroom Interior Designer Amroha | Space Build Studios",
     description:
-      "Bedroom Interior Designer Amroha – Vasterior Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
+      "Bedroom Interior Designer Amroha – Space Build Studios designs cozy, elegant, and functional bedroom interiors with smart layout planning.",
     images: [
       "https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p20_bxpldi_fx0zhz.png",
     ],

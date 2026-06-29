@@ -9,7 +9,7 @@ const AboutUs = () => {
         {/* Content */}
         <div className="space-y-8 text-gray-700 text-lg leading-relaxed">
           <p>
-           Vasterior is driven by over 15+ years of expertise under the guidance of MahaVastu Acharya Chitresh Jain, with a clear vision-to transform ordinary rooms into extraordinary environments that inspire, balance, and endure. What began as a deep-rooted passion for design and artistry has evolved into a commitment to crafting interiors that harmonize functionality, elegance, individuality, and Vastu energy principles. For us, every space is more than just four walls-it is a story waiting to be told and an energy waiting to be aligned.
+           Space Build is driven by over 15+ years of expertise under the guidance of MahaVastu Acharya Chitresh Jain, with a clear vision-to transform ordinary rooms into extraordinary environments that inspire, balance, and endure. What began as a deep-rooted passion for design and artistry has evolved into a commitment to crafting interiors that harmonize functionality, elegance, individuality, and Vastu energy principles. For us, every space is more than just four walls-it is a story waiting to be told and an energy waiting to be aligned.
           </p>
 
           <p>
@@ -21,7 +21,7 @@ const AboutUs = () => {
           </p>
 
           <p>
-            At Vasterior, our process is meticulous and holistic. From concept development and Vastu-based space planning to material selection and flawless execution, each stage is carried out with an unwavering dedication to excellence. We carefully analyze directions, energy flow, and spatial balance to ensure that every design is not only aesthetically stunning but also supports well-being, success, and harmony.
+            At Space Build, our process is meticulous and holistic. From concept development and Vastu-based space planning to material selection and flawless execution, each stage is carried out with an unwavering dedication to excellence. We carefully analyze directions, energy flow, and spatial balance to ensure that every design is not only aesthetically stunning but also supports well-being, success, and harmony.
           </p>
 
           <p>
@@ -33,7 +33,7 @@ const AboutUs = () => {
           </p>
 
           <p>
-            At Vasterior, beauty meets utility, creativity meets precision, and Vastu meets design-where spaces turn into powerful stories that live on.
+            At Space Build, beauty meets utility, creativity meets precision, and Vastu meets design-where spaces turn into powerful stories that live on.
           </p>
         </div>
       </div>
