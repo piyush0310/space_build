@@ -51,84 +51,84 @@ const AspectRatio: React.FC<AspectRatioProps> = ({ ratio, children, className })
 const mc302Images: Image[] = [
   {
     id: 1,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411851/1_hmntm4.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112601.jpg_fqtzgo.jpg",
     alt: "Minimalist beach wedding setup",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 2,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411844/2_oo4iyh.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801425/IMG_20260630_115210.jpg_vsvhu4.jpg",
     alt: "Elegant table setting",
     category: "MC302",
     layout: "vertical"
   },
   {
     id: 3,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411850/6_lvw8yq.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112631.jpg_oqcpnp.jpg",
     alt: "Rustic wedding details",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 4,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411834/3_n6jmab.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801427/IMG_20260630_115008.jpg_rcmcx5.jpg",
     alt: "Garden wedding arch",
     category: "MC302",
     layout: "vertical"
   },
   {
     id: 5,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411839/4_a1om17.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801421/IMG_20260630_112342.jpg_krhlhs.jpg",
     alt: "Castle venue",
     category: "MC302",
     layout: "vertical"
   },
   {
     id: 6,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411864/2_zuwdqv.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801423/IMG_20260630_114405.jpg_hdahzo.jpg",
     alt: "Oceanfront ceremony",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 7,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411845/6_n0agso.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801422/IMG_20260630_112816.jpg_vi4brw.jpg",
     alt: "Rustic wedding details",
     category: "MC302",
     layout: "vertical"
   },
   {
     id: 8,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411850/5_dvr0x2.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg",
     alt: "Rustic wedding details",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 9,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411850/3_mq68mb.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801422/IMG_20260630_112458.jpg_s8tdsa.jpg",
     alt: "Rustic wedding details",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 10,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411846/1_znes6q.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801421/IMG_20260630_112901.jpg_wnfyv5.jpg",
     alt: "Castle venue",
     category: "MC302",
     layout: "vertical"
   },
   {
     id: 11,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411848/4_gzydzh.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801420/IMG_20260630_112410.jpg_y4yz5d.jpg",
     alt: "Rustic wedding details",
     category: "MC302",
     layout: "horizontal"
   },
   {
     id: 12,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411835/5_ncaszu.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554117/IMG_20260627_141804.jpg_ohx2i8.jpg",
     alt: "Castle venue",
     category: "MC302",
     layout: "vertical"
@@ -239,14 +239,14 @@ const tsinformaticImages: Image[] = [
   },
   {
     id: 27,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411920/3_eejw8t.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554132/IMG_20260627_144906.jpg_bad042.jpg",
     alt: "Rustic wedding details",
     category: "TSInformatic",
     layout: "horizontal"
   },
   {
     id: 28,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411916/4_wtyt6k.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554110/IMG_20260627_142001.jpg_enwafd.jpg",
     alt: "Garden wedding arch",
     category: "TSInformatic",
     layout: "vertical"
@@ -295,7 +295,7 @@ const tsinformaticImages: Image[] = [
   },
   {
     id: 35,
-    src: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764411921/5_gebaxc.jpg",
+    src: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg",
     alt: "Rustic wedding details",
     category: "TSInformatic",
     layout: "horizontal"

@@ -2,34 +2,6 @@
 
 import React from "react";
 
-const KnowMore = () => {
-  const teamMembers = [
-    {
-      name: "Himanshu",
-      role: "Production & Operations",
-      image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763231885/himanshu_tedpnl_jqjlya.jpg",
-      description: "Oversees the entire workflow with precision, ensuring smooth coordination between production and on-site execution while maintaining the highest quality standards.",
-    },
-    {
-      name: "Naseer",
-      role: "Carpentry & Woodwork",
-      image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763231886/naseer_olujvn_evpx8i.jpg",
-      description: "Combines creativity and precision to craft extraordinary designs from natural, experiential pieces to modern minimalistic creations showcasing exceptional artistry and refined workmanship.",
-    },
-    {
-      name: "Jigar",
-      role: "Marble & Tiles Ninja",
-      image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763231887/Jigar_abnrqa_g8aia6.jpg",
-      description: "Specialises in artistic stone and tile installations, blending traditional karigari craftsmanship from Rajasthan with contemporary design aesthetics.",
-    },
-    {
-      name: "Ramu",
-      role: "Paint Ninja",
-      image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1763231884/ramu_wkx85y_kflvxk.jpg",
-      description: "Holds an expert understanding of colors, tones, and textures, ensuring every surface is finished with perfect balance, depth, and harmony.",
-    },
-  ];
-
   const founders = [
     {
       name: "John Doe",
@@ -101,21 +73,16 @@ const KnowMore = () => {
 }
   ];
 
+function KnowMore() {
   return (
     <div className=" bg-[#edf4f8] mx-auto lg:px-20 py-16 pt-4">
       {/* Our Team Heading */}
       <h2 className="text-4xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-serif tracking-[0.2em] text-gray-800 mb-4 sm:mb-6 lg:mb-8">
         Our Team
       </h2>
-
-
-      {/* Team Description */}
-      <p className="text-center text-gray-700 text-lg md:text-xl max-w-7xl mx-auto mb-16">
-        The Space Build team is a thoughtful blend of interior designers, spatial planners, and energy-alignment specialists who approach every space with intention and clarity. Co-founded by MahaVastu expert Chitresh Jain, Charu Shukla, and, Raunak Shukla the team works at the intersection of design aesthetics and vastu-aligned planning, creating environments that feel balanced, refined, and emotionally grounding. Every project is collaborative, detail-driven, and deeply client-centric, guided by the belief that well-designed spaces influence well-being, productivity, and peace. At Space Build, the team doesn't just design interiors; they craft experiences that quietly support the lives lived within them.
+      <p className="text-center text-gray-600 text-sm sm:text-base mb-8 sm:mb-10 lg:mb-12">
+        Meet the talented team behind Space Build – skilled craftsmen, designers, and production experts dedicated to delivering exceptional interior solutions with precision and artistry.
       </p>
-
-      
-
       {/* Founders Section */}
       <div className="mt-5">
         {founders.map((founder, index) => (
@@ -159,30 +126,11 @@ const KnowMore = () => {
         ))}
       </div>
 
-      {/* Individual Team Members */}
-      <div className="space-y-20">
-        {teamMembers.map((member, index) => (
-          <div 
-            key={index} 
-            className={`flex flex-col ${index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'} items-center mb-10`}
-          >
-            <img 
-              src={member.image} 
-              alt={member.name} 
-              className="w-60 h-68 object-cover rounded-lg shadow-lg"
-            />
-            <div className={`md:w-3/5 ${index % 2 === 0 ? 'md:ml-6 md:text-left' : 'md:mr-6 md:text-right'} text-center mt-6 md:mt-0`}>
-              <h3 className="font-[Forum] text-2xl md:text-3xl text-black text-bold tracking-widest">
-                {member.name}
-              </h3>
-              <h4 className="headline-6 text-black section-title">{member.role}</h4>
-              <p className="text-gray-700 mt-2">{member.description}</p>
-            </div>
-          </div>
-        ))}
-      </div>
+     
+
+
     </div>
   );
-};
+}
 
 export default KnowMore;
