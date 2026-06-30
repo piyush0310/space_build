@@ -275,8 +275,8 @@ const Content = () => {
                 <p>
                   You can speak directly with our MahaVastu experts by calling{" "}
                   <span className="text-blue-600 underline">+917906086899</span> or email{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule a private consultation and receive clarity on the right consultation plan for your property.
                 </p>

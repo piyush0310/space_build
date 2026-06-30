@@ -150,13 +150,14 @@ const Content = () => {
               discussion can offer clarity.
             </p>
             <p>
-              A call to <strong>+917906086899</strong> is often the simplest way to begin, or you
+              A call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} is often the simplest way to begin, or you
               may prefer to share your thoughts over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , whichever feels more natural.
             </p>

@@ -154,8 +154,8 @@ const Content = () => {
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
               <p>
                 <strong>📧 Email:</strong>{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                  spacebuild.india@gamil.com
                 </a>
               </p>
               <p>

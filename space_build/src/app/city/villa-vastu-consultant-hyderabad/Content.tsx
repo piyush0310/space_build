@@ -181,10 +181,11 @@ const Content = () => {
             </p>
             <p>
               To experience a scientifically structured Villa Vastu Consultation in Hyderabad, you may connect directly for a private assessment by calling{" "}
-              <strong>+917906086899</strong> or initiating a detailed consultation request via{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or initiating a detailed consultation request via{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               . Every conversation begins with understanding your space, your goals, and the direction you want your life to move.

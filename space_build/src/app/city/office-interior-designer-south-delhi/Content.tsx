@@ -178,16 +178,17 @@ const Content = () => {
               Many of our projects begin with a call to understand the space,
               the challenges, and what you want your workplace to feel like,
               something you can start by reaching us at{" "}
-              <strong>+917906086899</strong>.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}.
             </p>
             <p>
               If writing feels easier than calling, you can also initiate the
               conversation by emailing{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and our team will guide you through the next steps, no pressure,
               no sales script.
@@ -257,12 +258,13 @@ const Content = () => {
                 </h4>
                 <p>
                   It starts with a conversation. You can call us directly at{" "}
-                  <strong>+917906086899</strong> or write to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   , and we&apos;ll take it from there.
                 </p>

@@ -178,13 +178,14 @@ const Content = () => {
             </p>
             <p>
               Speaking directly at{" "}
-              <strong>+917906086899</strong> allows for a focused discussion, while those who
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} allows for a focused discussion, while those who
               prefer to articulate their concerns in writing often reach out via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               .
             </p>

@@ -135,16 +135,17 @@ const Content = () => {
               Others are more comfortable writing before they speak. Both are welcome.
             </p>
             <p>
-              A simple call to <strong>+917906086899</strong> is often enough to start
+              A simple call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} is often enough to start
               understanding your space differently.
             </p>
             <p>
               And for those who like to put their thoughts down first, reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               opens the same door, quietly, thoughtfully.
             </p>

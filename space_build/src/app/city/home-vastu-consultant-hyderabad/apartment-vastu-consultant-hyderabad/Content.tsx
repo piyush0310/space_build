@@ -249,10 +249,11 @@ const Content = () => {
               Your apartment is more than a physical structure, it is an energy system influencing every dimension of your life. If you are ready to transform your flat into a space that supports growth, stability, and harmony, connect with Vasterior for a personalised consultation.
             </p>
             <p>
-              You can call <strong>+917906086899</strong> to speak directly with a consultant or share your requirements at{" "}
+              You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak directly with a consultant or share your requirements at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and begin your journey towards aligned living in Hyderabad.

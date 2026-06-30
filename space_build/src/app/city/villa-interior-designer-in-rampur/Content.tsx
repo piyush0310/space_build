@@ -256,7 +256,7 @@ const Content = () => {
               <br />
               <a href="tel:+917906086899" className="text-blue-700 font-semibold underline">+917906086899</a>
               <br />
-              <a href="mailto:info@spacebuild.com" className="text-blue-700 font-semibold underline">info@spacebuild.com</a>
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-700 font-semibold underline">spacebuild.india@gamil.com</a>
             </div>
             <p className="mt-4 font-semibold text-gray-900">
               Let&apos;s design a villa that feels aligned, intentional, and deeply personal.

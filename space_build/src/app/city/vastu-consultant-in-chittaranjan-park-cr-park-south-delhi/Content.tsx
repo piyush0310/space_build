@@ -105,16 +105,17 @@ const Content = () => {
             <p>
               If you are considering Vastu consultation in Chittaranjan Park, the best first step is
               a conversation. You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where we will understand your space and concerns before
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we will understand your space and concerns before
               suggesting anything.
             </p>
             <p>
               If you prefer to begin thoughtfully, you can also write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you on whether a Vastu consultation makes sense for your home or
               workplace.

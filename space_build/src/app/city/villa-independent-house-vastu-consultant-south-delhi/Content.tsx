@@ -147,17 +147,18 @@ const Content = () => {
               Most villa owners begin with a simple conversation, often a phone call where concerns
               are discussed calmly before any site work begins. If you are considering aligning your
               independent house or villa in South Delhi, speaking with the Vasterior team over a
-              call at <strong>+917906086899</strong> can help you understand what your space needs,
+              call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help you understand what your space needs,
               and what it does not.
             </p>
             <p>
               For those who prefer sharing drawings, layouts, or questions in writing, reaching out
               at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often the most comfortable first step.
             </p>

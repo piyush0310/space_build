@@ -136,12 +136,13 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, or share your requirements over email at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore whether your space is the right fit for this approach.
             </p>
@@ -229,12 +230,13 @@ const Content = () => {
                 </h4>
                 <p>
                   The best way is to begin with a conversation. You can call{" "}
-                  <strong>+917906086899</strong> or write to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to discuss your space and expectations before committing.
                 </p>

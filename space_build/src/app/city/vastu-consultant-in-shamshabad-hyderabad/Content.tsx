@@ -243,10 +243,10 @@ const Content = () => {
               at your convenience. For detailed inquiries or layout sharing, you
               may also reach out via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , where the team personally reviews every request before guiding
               you forward.

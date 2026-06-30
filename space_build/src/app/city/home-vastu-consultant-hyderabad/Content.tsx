@@ -238,12 +238,13 @@ const Content = () => {
             <p>
               A brief conversation often reveals what years of silent imbalance
               could not. You may connect directly by calling{" "}
-              <strong>+917906086899</strong> or by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule your personalised Home Vastu consultation in
               Hyderabad. The next shift in your life may begin with a simple

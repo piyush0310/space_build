@@ -215,13 +215,14 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> to discuss your space, your ideas, and what is
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space, your ideas, and what is
               possible. For detailed queries or consultation requests, you may also write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you through the next steps with care and transparency.
             </p>
@@ -272,13 +273,14 @@ const Content = () => {
                   5. How can I get started with a consultation?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for an initial discussion
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion
                   or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with your project details.
                 </p>

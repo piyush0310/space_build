@@ -184,17 +184,18 @@ const Content = () => {
               A short conversation can clarify whether Vastu consultation is
               needed and to what extent. Many clients begin by speaking with the
               Vasterior team directly over a call at{" "}
-              <strong>+917906086899</strong>, using it as a first step to
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, using it as a first step to
               understand what their space truly needs.
             </p>
             <p>
               Others prefer to articulate their concerns in writing and reach
               out via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to start a thoughtful, pressure-free discussion.
             </p>

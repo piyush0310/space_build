@@ -307,12 +307,13 @@ const Content = () => {
             </p>
             <p>
               To speak with our team, you can call{" "}
-              <strong>+917906086899</strong> and we will guide you on the best
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we will guide you on the best
               next step based on your space and concerns. If you prefer sharing
               layouts or details first, email us at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and we will respond personally.
@@ -430,11 +431,12 @@ const Content = () => {
                   17) How do I book a consultation with Vasterior?
                 </h3>
                 <p>
-                  You can start by calling <strong>+917906086899</strong> for a
+                  You can start by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a
                   quick discussion, or emailing{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   with your layout and concerns. We will guide you to the right
@@ -463,11 +465,12 @@ const Content = () => {
             </p>
             <p>
               To book your consultation, call{" "}
-              <strong>+917906086899</strong> and we will help you choose the
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we will help you choose the
               right service, or email{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and we will take it forward from there.

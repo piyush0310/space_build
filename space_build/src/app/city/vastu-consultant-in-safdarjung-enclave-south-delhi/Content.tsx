@@ -165,17 +165,18 @@ const Content = () => {
             <p>
               If you feel your home looks right but does not feel right, it is time for a deeper
               conversation. You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> to explore whether a Vastu consultation is right for
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore whether a Vastu consultation is right for
               your Safdarjung Enclave home.
             </p>
             <p>
               For a more detailed discussion or to share your floor plan, you are welcome to write
               to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you through the next aligned step, calmly, clearly, and without
               pressure.

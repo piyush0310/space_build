@@ -316,10 +316,10 @@ const Content = () => {
               <p>
                 📩{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
               </p>
             </div>

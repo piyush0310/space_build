@@ -144,7 +144,7 @@ const Content = () => {
                 If you've been sensing that your space could support you better, it's time to explore alignment, not guesswork. A thoughtful conversation can often bring clarity faster than years of trial and error.
               </p>
               <p className="mt-4">
-                For personalised guidance, you can speak directly with the Vasterior team by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, or share your space details over email at <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a> to begin your consultation journey.
+                For personalised guidance, you can speak directly with the Vasterior team by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, or share your space details over email at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> to begin your consultation journey.
               </p>
               <p className="mt-4 font-semibold">
                 Sometimes, the shift you need starts with the space you're in.
@@ -191,7 +191,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     6. How do I book a Vastu consultation with Vasterior?
                   </h3>
-                  <p>You can initiate your consultation by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or emailing <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>. The team will guide you through the next steps based on your requirements.</p>
+                  <p>You can initiate your consultation by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or emailing <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>. The team will guide you through the next steps based on your requirements.</p>
                 </div>
               </div>
             </div>
@@ -203,7 +203,7 @@ const Content = () => {
               </h3>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
             </div>
           </div>

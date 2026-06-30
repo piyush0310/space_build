@@ -131,8 +131,8 @@ const Content = () => {
             <p>
               If you feel ready to explore whether your home is influencing your relationship, you may quietly reach out to Vasterior by calling{" "}
               <span className="text-blue-600 underline">+917906086899</span> for a confidential discussion, or simply share your concerns via email at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               and allow a structured consultation to begin. Your marriage deserves support, not strain.
             </p>

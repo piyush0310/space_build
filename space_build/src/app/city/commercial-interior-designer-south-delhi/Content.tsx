@@ -139,16 +139,17 @@ const Content = () => {
               If you&apos;re serious about building a commercial space that
               reflects clarity, confidence, and direction, a direct conversation
               with our studio is the smartest first step. Many clients begin by
-              calling <strong>+917906086899</strong> to explore whether
+              calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore whether
               alignment-led design is right for their project.
             </p>
             <p>
               Others prefer to outline their vision over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , letting the process begin thoughtfully.
             </p>

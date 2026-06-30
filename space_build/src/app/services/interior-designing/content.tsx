@@ -491,7 +491,7 @@ export default function InteriorDesignPage() {
                     <p className="text-white text-xl font-semibold">Request an Interior Design Consultation</p>
                     <p className="text-white/80">Contact us today at:</p>
                     <p className="text-[#f7b97a] font-semibold text-lg">+917906086899</p>
-                    <p className="text-[#f7b97a] font-semibold">info@spacebuild.com</p>
+                    <p className="text-[#f7b97a] font-semibold">spacebuild.india@gamil.com</p>
                   </div>
                 </div>
               </div>

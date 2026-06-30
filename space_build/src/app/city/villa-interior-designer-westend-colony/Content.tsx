@@ -167,13 +167,14 @@ const Content = () => {
               </p>
               <p>
                 Many homeowners prefer to begin with a direct discussion over a call at{" "}
-                <strong>+917906086899</strong>, while others share drawings or questions over
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others share drawings or questions over
                 email at{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 . Either way, the first step is simply understanding the space and the people who
                 inhabit it.
@@ -242,10 +243,10 @@ const Content = () => {
                     followed by a site evaluation if required. You can initiate this by calling{" "}
                     +917906086899 or writing to{" "}
                     <a
-                      href="mailto:info@spacebuild.com"
+                      href="mailto:spacebuild.india@gamil.com"
                       className="text-blue-600 hover:underline"
                     >
-                      info@spacebuild.com
+                      spacebuild.india@gamil.com
                     </a>
                     .
                   </p>

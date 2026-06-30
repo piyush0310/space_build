@@ -216,10 +216,11 @@ const Content = () => {
               If you want a trusted Vastu consultant in Hyderabad who understands both MahaVastu and modern interior design, Vasterior is built exactly for that.
             </p>
             <p>
-              For a consultation, you can simply call us on <strong>+917906086899</strong> and we will guide you on the next step based on your space type. If you prefer writing first, you can also reach out at{" "}
+              For a consultation, you can simply call us on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we will guide you on the next step based on your space type. If you prefer writing first, you can also reach out at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               , we respond with clarity, not copy-paste answers.
@@ -306,10 +307,11 @@ const Content = () => {
                   10) How do I book a Vastu consultation with Vasterior?
                 </h3>
                 <p>
-                  Simple. You can call <strong>+917906086899</strong> for quick guidance and booking, or email us at{" "}
+                  Simple. You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for quick guidance and booking, or email us at{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   if you want to share details first.

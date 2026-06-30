@@ -133,9 +133,10 @@ const Content = () => {
               If you are considering bathroom interior remodeling in Chandausi and want a space that feels refined, functional, and thoughtfully designed, a conversation is the best place to start.
             </p>
             <p>
-              You can speak directly with the Space Build team by calling <strong>+917906086899</strong> to discuss your bathroom remodeling requirements, or write to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can speak directly with the Space Build team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your bathroom remodeling requirements, or write to us at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation and explore possibilities tailored to your home.
             </p>
@@ -175,9 +176,10 @@ const Content = () => {
                   5. How do I get started with Space Build?
                 </h3>
                 <p>
-                  Simply call <strong>+917906086899</strong> or email{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  Simply call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to begin a conversation. We'll guide you through the next steps based on your space and requirements.
                 </p>

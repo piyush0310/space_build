@@ -172,16 +172,17 @@ const Content = () => {
               If you’ve been feeling that your home or workplace could be working with you instead
               of against you, a conversation is the best place to start. Many clients prefer to
               first speak directly and understand the process, and you can do that by calling{" "}
-              <strong>+917906086899</strong>, where a calm, no‑pressure discussion can help clarify
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where a calm, no‑pressure discussion can help clarify
               your next step.
             </p>
             <p>
               If you’re more comfortable sharing details over email, reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               allows the team to understand your space and guide you thoughtfully toward the right
               consultation.

@@ -181,13 +181,14 @@ const Content = () => {
             <p>
               Some clients prefer to speak things through directly, while others begin with a
               detailed brief over email. Either way, the first step is simply opening the door to
-              alignment. A quick call at <strong>+917906086899</strong> often brings more clarity
+              alignment. A quick call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} often brings more clarity
               than weeks of scrolling. And if writing feels easier, reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is a quiet but powerful beginning.
             </p>
@@ -310,13 +311,14 @@ const Content = () => {
                 <p>
                   Getting started is intentionally simple. Some clients prefer an initial
                   conversation to discuss their space, often a quick call to{" "}
-                  <strong>+917906086899</strong> helps map the next steps. Others choose to begin
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} helps map the next steps. Others choose to begin
                   by sharing details over email at{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   , and we take it from there.
                 </p>

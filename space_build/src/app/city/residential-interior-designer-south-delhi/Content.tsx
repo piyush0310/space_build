@@ -133,9 +133,10 @@ const Content = () => {
                 Let’s Start With a Conversation
               </h3>
               <p>
-                Sometimes, clarity begins with a simple conversation. A short call can reveal more about your space than weeks of scrolling inspiration. If you feel your home has potential it hasn’t yet unlocked, reaching out might be the first shift. You can speak directly with the Vasterior team at <strong>+917906086899</strong>, or if you prefer to articulate your thoughts slowly and thoughtfully, writing to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                Sometimes, clarity begins with a simple conversation. A short call can reveal more about your space than weeks of scrolling inspiration. If you feel your home has potential it hasn’t yet unlocked, reaching out might be the first shift. You can speak directly with the Vasterior team at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or if you prefer to articulate your thoughts slowly and thoughtfully, writing to{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 is always welcome.
               </p>

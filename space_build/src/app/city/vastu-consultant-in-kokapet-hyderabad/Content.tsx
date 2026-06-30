@@ -149,7 +149,8 @@ const Content = () => {
               Book Your Strategic Energy Consultation
             </h2>
             <p>If you are investing crores into a Kokapet property, ignoring energy alignment is simply bad strategy. Whether you need Vastu for a luxury apartment, a gated villa, or a corporate office, this is the moment to correct, optimize, and activate your space.</p>
-            <p>To begin your consultation, you can directly connect with our team at <strong>+917906086899</strong>, or simply write to us at <strong>info@spacebuild.com</strong> and let's structure a space that works as hard as you do.</p>
+            <p>To begin your consultation, you can directly connect with our team at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or simply write to us at <strong>spacebuild.india@gamil.com</strong> and let's structure a space that works as hard as you do.</p>
             <p>Your environment should elevate you, not test you.</p>
 
             {/* FAQs */}

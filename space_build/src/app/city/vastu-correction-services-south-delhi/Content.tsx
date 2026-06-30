@@ -169,12 +169,13 @@ const Content = () => {
             <p>
               If you feel your home or workplace needs alignment, clarity, or correction, speak
               directly with a Vasterior consultant by calling{" "}
-              <strong>+917906086899</strong>, or write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to understand how Vastu correction can be implemented thoughtfully in your space.
             </p>
@@ -245,13 +246,14 @@ const Content = () => {
                   7. How do I book a consultation in South Delhi?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for a direct discussion,
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a direct discussion,
                   or email{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule your consultation at a convenient time.
                 </p>

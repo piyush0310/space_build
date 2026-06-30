@@ -264,12 +264,13 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with our experts by calling{" "}
-              <strong>+917906086899</strong> or simply drop a detailed query at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or simply drop a detailed query at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we’ll guide you through the next step toward a
               high-performance workspace. Your startup deserves more than a

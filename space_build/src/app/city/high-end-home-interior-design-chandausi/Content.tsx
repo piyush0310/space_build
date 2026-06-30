@@ -145,10 +145,11 @@ const Content = () => {
             </p>
             <p>
               You can begin with a simple conversation by calling{" "}
-              <strong>+917906086899</strong>, where our team can guide you through the possibilities, 
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where our team can guide you through the possibilities, 
               or by writing to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a design consultation at your convenience.
             </p>
@@ -214,9 +215,10 @@ const Content = () => {
                   7. How do we get started?
                 </h4>
                 <p>
-                  You can call <strong>+917906086899</strong> for an initial discussion or email{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion or email{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to book a consultation.
                 </p>

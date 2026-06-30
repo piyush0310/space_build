@@ -124,13 +124,14 @@ const Content = () => {
             </ul>
             <p>
               From there, design unfolds with clarity. Clients often begin with a simple
-              conversation, sometimes over a call at <strong>+917906086899</strong>, sometimes by
+              conversation, sometimes over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, sometimes by
               sharing project details at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , before deciding on the next step.
             </p>
@@ -218,12 +219,13 @@ const Content = () => {
                 </h4>
                 <p>
                   Most clients start with a conversation, either a call at{" "}
-                  <strong>+917906086899</strong> or an introductory email at{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an introductory email at{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   , to discuss their space, intent, and timelines.
                 </p>

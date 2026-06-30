@@ -189,14 +189,14 @@ const Content = () => {
               Your home already holds energy. The choice is whether it supports you, or silently holds you back.
             </p>
             <p className="text-center mb-6">
-              If you're looking for Vastu for house design in Chandausi, Vasterior offers a balanced, design-first approach rooted in MahaVastu. A quiet discussion over a call at +917906086899 can bring surprising clarity. Or, if it feels easier to start in writing, an email to info@spacebuild.com is always welcome.
+              If you're looking for Vastu for house design in Chandausi, Vasterior offers a balanced, design-first approach rooted in MahaVastu. A quiet discussion over a call at +917906086899 can bring surprising clarity. Or, if it feels easier to start in writing, an email to spacebuild.india@gamil.com is always welcome.
             </p>
             <div className="text-center space-y-3">
               <p className="font-semibold">
                 📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>
               </p>
               <p className="font-semibold">
-                📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>
+                📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>
               </p>
             </div>
           </div>

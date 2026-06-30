@@ -269,10 +269,10 @@ const Content = () => {
                 <p className="font-semibold">
                   📧 Email:{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                 </p>
               </div>

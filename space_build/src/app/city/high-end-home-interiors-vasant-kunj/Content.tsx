@@ -137,12 +137,13 @@ const Content = () => {
             </p>
             <p>
               You may choose to speak with our team directly by calling{" "}
-              <strong>+917906086899</strong>, or share an outline of your requirements via{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share an outline of your requirements via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . We believe the right homes begin with the right dialogue.
             </p>

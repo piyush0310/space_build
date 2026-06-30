@@ -291,11 +291,12 @@ const Content = () => {
               scientifically, Vasterior is here to guide you. For a personalised
               consultation tailored to your independent house in Hyderabad, you
               can speak directly with our experts at{" "}
-              <strong>+917906086899</strong> or share your floor plan details
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or share your floor plan details
               at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               , and begin the transformation your space has been waiting for.

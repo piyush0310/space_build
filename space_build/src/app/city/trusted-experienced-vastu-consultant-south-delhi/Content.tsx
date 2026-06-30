@@ -149,16 +149,17 @@ const Content = () => {
             <p>
               If you want to explore whether your space is supporting your goals, or silently
               resisting them, start with a simple conversation. Many clients prefer to call{" "}
-              <strong>+917906086899</strong> first to share what has been happening, and we guide
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} first to share what has been happening, and we guide
               the next step from there.
             </p>
             <p>
               If you are more comfortable writing details, a short note to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               helps us understand your space and expectations before we speak.
             </p>
@@ -241,7 +242,8 @@ const Content = () => {
                 <p>
                   We offer consultation as well as full-service interior design and execution,
                   depending on the project scope. If you share your requirement on{" "}
-                  <strong>+917906086899</strong>, we will guide you to the right package.
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, we will guide you to the right package.
                 </p>
               </div>
               <div>
@@ -250,13 +252,14 @@ const Content = () => {
                 </h4>
                 <p>
                   Message or call to share your location, type of property, and what you are
-                  facing. Many clients start by calling <strong>+917906086899</strong>, while
+                  facing. Many clients start by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while
                   others email brief context and photos to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   so the first conversation is more precise.
                 </p>

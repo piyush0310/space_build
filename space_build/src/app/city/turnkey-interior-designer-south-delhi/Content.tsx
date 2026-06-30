@@ -175,15 +175,16 @@ const Content = () => {
               If you’re planning a new home, renovation, or reimagining your space in South Delhi, and want it designed with both aesthetic intelligence and MahaVastu alignment, Vasterior would love to explore it with you.
             </p>
             <p>
-              A simple call to <strong>+917906086899</strong> can help you understand what’s possible for your space.
+              A simple call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help you understand what’s possible for your space.
             </p>
             <p>
               Or, if you prefer to begin thoughtfully, write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and we’ll take it from there. No pressure. Just clarity.
             </p>

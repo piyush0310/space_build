@@ -246,12 +246,13 @@ const Content = () => {
             </h2>
             <p>
               If you’re searching for a Vastu Consultant in Hitech City who understands both MahaVastu principles and modern interior dynamics, this is your move. Instead of waiting for “luck” to change, you can initiate alignment today. Simply speak with our team at{" "}
-              <strong>+917906086899</strong> or write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule your personalized consultation and take control of your space’s energy trajectory.
             </p>
@@ -351,12 +352,13 @@ const Content = () => {
                 </h3>
                 <p>
                   You can initiate your consultation by reaching out directly via call at{" "}
-                  <strong>+917906086899</strong> or emailing{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule your assessment.
                 </p>

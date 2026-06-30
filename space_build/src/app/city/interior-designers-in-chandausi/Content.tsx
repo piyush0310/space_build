@@ -144,12 +144,13 @@ const Content = () => {
               A well-designed space often begins with a simple conversation. If you{"'"}re 
               exploring interior designers in Chandausi and want clarity on how your home or 
               workplace can be planned more intelligently, you can speak directly with the 
-              Vasterior team by calling <strong>+917906086899</strong> or by writing to{" "}
+              Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . We{"'"}ll help you understand what{"'"}s possible, calmly, honestly, and without pressure.
             </p>
@@ -219,12 +220,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by discussing your requirements over a call at{" "}
-                  <strong>+917906086899</strong> or by emailing{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   . We{"'"}ll guide you on the next steps based on your needs.
                 </p>

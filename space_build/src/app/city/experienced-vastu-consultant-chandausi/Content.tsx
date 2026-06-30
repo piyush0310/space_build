@@ -103,7 +103,7 @@ const Content = () => {
                 At Vasterior, we don't believe in one-size-fits-all solutions. Every consultation begins with understanding you, your space, your challenges, and what you want your environment to support.
               </p>
               <p className="mt-4">
-                If you're ready to experience how intelligent design and MahaVastu alignment can transform your space, a quiet conversation with our team can be the first step. Many clients begin by simply reaching out over a call at <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, while others prefer sharing details via <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>, either way, the guidance remains personal and intentional.
+                If you're ready to experience how intelligent design and MahaVastu alignment can transform your space, a quiet conversation with our team can be the first step. Many clients begin by simply reaching out over a call at <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, while others prefer sharing details via <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>, either way, the guidance remains personal and intentional.
               </p>
             </div>
 
@@ -165,7 +165,7 @@ const Content = () => {
               </p>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
             </div>
           </div>

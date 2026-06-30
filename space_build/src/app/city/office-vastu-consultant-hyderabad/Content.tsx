@@ -147,9 +147,10 @@ const Content = () => {
               If your property is misaligned, delay is expensive. Every month of imbalance compounds lost opportunity.
             </p>
             <p>
-              If you’re ready to align your home or business with measurable prosperity, simply call <strong>+917906086899</strong> or write to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+              If you’re ready to align your home or business with measurable prosperity, simply call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               and allow Vasterior to guide your transformation with precision-driven MahaVastu corrections.
             </p>

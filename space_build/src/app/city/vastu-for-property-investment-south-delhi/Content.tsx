@@ -123,13 +123,14 @@ const Content = () => {
               If you are assessing a property in South Delhi and want a grounded, professional
               perspective before moving forward, a short consultation can make all the difference.
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, or, if you prefer to share plans or layouts first,
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or, if you prefer to share plans or layouts first,
               simply write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and start the conversation at your pace.
             </p>

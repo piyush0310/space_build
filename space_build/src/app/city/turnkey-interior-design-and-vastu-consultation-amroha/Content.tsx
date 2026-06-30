@@ -194,7 +194,7 @@ const Content = () => {
 
           {/* Contact */}
           <div className="mt-12 space-y-4 text-gray-700">
-            <p>Call us today at +917906086899 or <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>.</p>
+            <p>Call us today at +917906086899 or <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>.</p>
             <p>Your space is a reflection of your inner world. Let's design it with intention, beauty, and harmony.</p>
           </div>
 

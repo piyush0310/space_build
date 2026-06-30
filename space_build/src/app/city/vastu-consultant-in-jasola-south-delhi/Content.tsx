@@ -238,12 +238,13 @@ const Content = () => {
               If you are considering a Vastu consultation in Jasola, South Delhi, the first step is
               simply a conversation. Speaking with the Vasterior team can help you understand
               whether your space is supporting you or quietly holding you back. You can reach us
-              directly at <strong>+917906086899</strong> to discuss your requirements, or write to{" "}
+              directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your requirements, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin a thoughtful, no-pressure consultation.
             </p>

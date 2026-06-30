@@ -116,12 +116,13 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, or share a brief about your space at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share a brief about your space at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how Vastu alignment can be thoughtfully integrated into your home or
               workplace in Greater Kailash.
@@ -167,12 +168,13 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I get started?</span>{" "}
-                Simply reach out. A call on <strong>+917906086899</strong> or an email to{" "}
+                Simply reach out. A call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an email to{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 is enough to begin the conversation.
               </li>

@@ -143,9 +143,10 @@ const Content = () => {
               If you're looking for a bedroom interior designer in Chandausi who understands both aesthetics and well-being, Vasterior would love to have a conversation.
             </p>
             <p>
-              You can call us at <strong>+917906086899</strong> to discuss your requirements, or write to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your requirements, or write to us at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin a thoughtful, pressure-free consultation about your bedroom space.
             </p>
@@ -186,9 +187,10 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">8. How do I start the process?</h3>
                 <p>
-                  You can start by calling <strong>+917906086899</strong> or emailing{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  You can start by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule an initial discussion.
                 </p>

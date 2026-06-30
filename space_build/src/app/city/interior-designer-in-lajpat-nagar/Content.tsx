@@ -187,12 +187,13 @@ const Content = () => {
               If you are considering working with an interior designer in Lajpat Nagar and want
               clarity before renovation or redesign begins, a conversation with the Vasterior team
               can help you understand what your space actually needs. You can reach out by calling{" "}
-              <strong>+917906086899</strong> or by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore whether the approach aligns with your home and your expectations.
             </p>
@@ -252,12 +253,13 @@ const Content = () => {
                   How do I know if this approach is right for me?
                 </span>{" "}
                 A preliminary conversation helps determine alignment. You can initiate this by
-                calling <strong>+917906086899</strong> or emailing{" "}
+                calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </li>

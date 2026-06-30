@@ -150,15 +150,16 @@ const Content = () => {
             <p>
               If you’re exploring a modular kitchen in South Delhi and want it designed with intention, not guesswork,
               you can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}.
             </p>
             <p>
               If writing feels easier, a note shared at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often the first step toward a better‑designed home.
             </p>
@@ -222,12 +223,13 @@ const Content = () => {
                 </h4>
                 <p>
                   Start with a conversation. A quick call on{" "}
-                  <strong>+917906086899</strong> or an email to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an email to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   helps us understand your space and guide you on next steps — no obligation, no rush.
                 </p>

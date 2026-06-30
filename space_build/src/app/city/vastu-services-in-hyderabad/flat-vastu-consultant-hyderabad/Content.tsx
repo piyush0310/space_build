@@ -169,10 +169,11 @@ const Content = () => {
             </p>
             <p>
               If you are ready to experience the difference a professionally aligned flat can make, speak directly with our experts at{" "}
-              <strong>+917906086899</strong> or share your floor plan at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or share your floor plan at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               to begin your personalised MahaVastu assessment.

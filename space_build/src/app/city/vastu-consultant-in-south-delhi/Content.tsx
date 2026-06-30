@@ -143,12 +143,13 @@ const Content = () => {
             </p>
             <p>
               Many clients begin by discussing their concerns over a call at{" "}
-              <strong>+917906086899</strong>, while others prefer to write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others prefer to write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , to share plans or layouts before proceeding.
             </p>
@@ -210,12 +211,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can start by reaching out at{" "}
-                  <strong>+917906086899</strong> for an initial discussion, or emailing{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion, or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with your layout and concerns. We’ll guide you on the most appropriate next
                   step.

@@ -142,16 +142,17 @@ const Content = () => {
               conversation starts long before finishes and floor plans.
             </p>
             <p>
-              A simple call to <strong>+917906086899</strong> can clarify whether Vasterior is the
+              A simple call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can clarify whether Vasterior is the
               right fit for you.
             </p>
             <p>
               And if you prefer to begin thoughtfully, you can always reach out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to start the dialogue.
             </p>

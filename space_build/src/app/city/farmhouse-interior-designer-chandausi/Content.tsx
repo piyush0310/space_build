@@ -123,9 +123,10 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team at{" "}
-              <strong>+917906086899</strong> to discuss your vision, or write to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your vision, or write to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how we can design a farmhouse that truly feels like your own retreat.
             </p>

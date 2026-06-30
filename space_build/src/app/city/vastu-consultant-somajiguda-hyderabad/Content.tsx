@@ -150,9 +150,10 @@ const Content = () => {
               Book Your Vastu Consultation with Vasterior
             </h2>
             <p>
-              If your space feels out of sync or you're planning a new beginning, the right guidance can make all the difference. A personalized consultation with Vasterior helps you understand exactly what your space needs and how simple changes can create powerful results. You can speak directly with a Vasterior expert by calling <strong>+917906086899</strong>, or simply share your requirements at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                info@spacebuild.com
+              If your space feels out of sync or you're planning a new beginning, the right guidance can make all the difference. A personalized consultation with Vasterior helps you understand exactly what your space needs and how simple changes can create powerful results. You can speak directly with a Vasterior expert by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or simply share your requirements at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin your journey toward a balanced and prosperous environment.
             </p>
@@ -173,10 +174,10 @@ const Content = () => {
             <p>
               Prefer writing first? Share your layout and concerns at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and receive structured guidance tailored to your space.
             </p>

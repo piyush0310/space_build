@@ -131,9 +131,10 @@ const Content = () => {
 
             <p>
               If you are ready to transform your workplace into a growth-oriented powerhouse, connect with Vasterior and take the first decisive step toward alignment. You can schedule a professional consultation by calling{" "}
-              <strong>+917906086899</strong> or writing directly to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing directly to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>
               , and begin your journey toward a spatially empowered business. Because when your space supports you, growth stops feeling like a struggle.
             </p>

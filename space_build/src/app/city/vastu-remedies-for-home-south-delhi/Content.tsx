@@ -162,13 +162,14 @@ const Content = () => {
               difference. A simple conversation can often bring surprising insights.
             </p>
             <p>
-              To explore this further, you can call us at <strong>+917906086899</strong> and speak
+              To explore this further, you can call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and speak
               with our team, or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation or ask specific questions about your home.
             </p>
@@ -236,12 +237,13 @@ const Content = () => {
               here to guide, not convince, you.
             </p>
             <p>
-              Reach out at <strong>+917906086899</strong> or email{" "}
+              Reach out at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin the conversation.
             </p>

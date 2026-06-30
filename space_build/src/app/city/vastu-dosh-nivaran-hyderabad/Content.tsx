@@ -214,11 +214,12 @@ const Content = () => {
               If you are serious about resolving Vastu Doshas and restoring
               directional balance, the next step is simple. Speak directly with
               the Vasterior team and discuss your property concerns by calling{" "}
-              <strong>+917906086899</strong>, or initiate your consultation
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or initiate your consultation
               discreetly by writing to{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               , because transformation begins with a single, informed decision.

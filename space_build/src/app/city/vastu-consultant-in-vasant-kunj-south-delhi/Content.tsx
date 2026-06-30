@@ -174,16 +174,17 @@ const Content = () => {
             <p>
               If you have been sensing that your space could be doing more for you, it probably can.
               A conversation is often the first step. You can speak directly with the Vasterior team
-              by calling <strong>+917906086899</strong> to understand how a Vastu consultation
+              by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand how a Vastu consultation
               might help your Vasant Kunj home.
             </p>
             <p>
               Prefer writing instead? Share your details or floor plan at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and you will be guided thoughtfully from there. Your home already holds potential;
               sometimes, it just needs the right alignment.

@@ -196,13 +196,14 @@ const Content = () => {
               you, a gentle correction can create a powerful shift.
             </p>
             <p>
-              Speak directly with our expert at <strong>+917906086899</strong>{" "}
+              Speak directly with our expert at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}{" "}
               or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               .
             </p>

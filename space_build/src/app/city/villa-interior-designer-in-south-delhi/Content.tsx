@@ -176,13 +176,14 @@ const Content = () => {
                 If you are planning a villa interior project in South Delhi, or feel your existing
                 home needs realignment rather than redesign, starting with a conversation can change
                 everything. Many homeowners choose to explore their possibilities by calling{" "}
-                <strong>+917906086899</strong>, while others prefer to begin thoughtfully over
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others prefer to begin thoughtfully over
                 email at{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

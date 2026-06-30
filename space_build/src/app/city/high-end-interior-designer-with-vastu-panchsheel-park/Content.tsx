@@ -143,10 +143,11 @@ const Content = () => {
             <p>
               For those considering a high-end interior transformation aligned with MahaVastu in 
               Panchsheel Park, a direct conversation often brings more insight than endless 
-              browsing. Speaking with the studio at <strong>+917906086899</strong> or reaching out 
+              browsing. Speaking with the studio at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or reaching out 
               thoughtfully at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>,{" "}
               allows the process to begin at the right pace, unhurried and informed.
             </p>

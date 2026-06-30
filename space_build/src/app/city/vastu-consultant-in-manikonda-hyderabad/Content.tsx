@@ -210,10 +210,10 @@ const Content = () => {
             <p>
               Prefer writing first? Share your layout and concerns at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and receive structured guidance tailored to your space.
             </p>

@@ -189,14 +189,15 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> to explore whether a Vastu
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore whether a Vastu
               consultation makes sense for your space. If you prefer a more
               detailed discussion, you can also reach out via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and the team will guide you through the process with honesty
               and care.

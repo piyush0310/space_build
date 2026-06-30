@@ -273,13 +273,14 @@ const Content = () => {
               about how your space might be influencing your life or business, a
               conversation can bring surprising clarity. You can speak directly
               with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> for a calm, no-pressure
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a calm, no-pressure
               discussion, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how a Vastu-aligned approach could support your space.
             </p>

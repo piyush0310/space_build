@@ -299,13 +299,14 @@ const Content = () => {
               If you’re ready to align your home or office with precision-driven
               MahaVastu principles, connect with Vasterior today. A quick
               conversation can clarify your next step, simply call{" "}
-              <strong>+917906086899</strong> to schedule your consultation, or
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to schedule your consultation, or
               write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and let’s begin aligning your space with the success it was
               meant to attract.

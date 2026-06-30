@@ -129,13 +129,14 @@ const Content = () => {
             <p>
               If you&apos;re considering designing or realigning your home in South Delhi, a
               thoughtful conversation can reveal more than endless browsing ever will. Many clients
-              start by simply calling <strong>+917906086899</strong> to explore what&apos;s
+              start by simply calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore what&apos;s
               possible for their space, or by sharing their floor plan and vision over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               .
             </p>
@@ -198,12 +199,13 @@ const Content = () => {
                   6. How do I start working with Vasterior?
                 </h4>
                 <p>
-                  Start with a conversation. Call <strong>+917906086899</strong> or email{" "}
+                  Start with a conversation. Call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to discuss your space, challenges, and aspirations.
                 </p>

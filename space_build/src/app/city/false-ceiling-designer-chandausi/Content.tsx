@@ -110,9 +110,10 @@ const Content = () => {
               If you're considering a false ceiling for your home or commercial space in Chandausi, a thoughtful conversation is always the right place to begin.
             </p>
             <p>
-              You can speak directly with our team by calling <strong>+917906086899</strong>, or share your requirements over email at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can speak directly with our team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your requirements over email at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>. We'd be happy to understand your space and guide you toward a ceiling design that truly belongs there.
             </p>
 

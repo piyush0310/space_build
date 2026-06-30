@@ -128,16 +128,17 @@ const Content = () => {
             <p>When space supports you, life feels lighter without effort.</p>
             <p>
               If you feel your home could be doing more for your peace, you can speak directly with
-              the Vasterior team at <strong>+917906086899</strong> to explore how MahaVastu can
+              the Vasterior team at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore how MahaVastu can
               gently realign your space.
             </p>
             <p>
               You may also write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and you will be guided on the next best step for your home.
             </p>
@@ -183,13 +184,14 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I begin?</span>{" "}
-                You can start by calling <strong>+917906086899</strong> to discuss your concerns,
+                You can start by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your concerns,
                 or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 for a detailed consultation overview.
               </li>

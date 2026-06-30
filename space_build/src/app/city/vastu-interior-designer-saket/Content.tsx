@@ -174,14 +174,15 @@ const Content = () => {
               conversation.
             </p>
             <p>
-              Many clients begin by calling <strong>+917906086899</strong> to understand whether
+              Many clients begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand whether
               MahaVastu-integrated interior design is right for their home. Others prefer to write
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , sharing their concerns and aspirations in detail before taking things forward.
             </p>

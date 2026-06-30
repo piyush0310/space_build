@@ -203,13 +203,14 @@ const Content = () => {
             <p>
               If you are looking for a Vastu Consultant in Kailash Colony who respects both
               tradition and modern living, a conversation with Vasterior is a good place to start.
-              You can call the team directly at <strong>+917906086899</strong> to discuss your
+              You can call the team directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your
               space, or write in at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin with a detailed consultation query.
             </p>

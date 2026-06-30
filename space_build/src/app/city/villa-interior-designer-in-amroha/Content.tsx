@@ -154,9 +154,10 @@ const Content = () => {
               <p>Your villa deserves to be more than a residence. It deserves to be a sanctuary - elegant, aligned, and emotionally grounded.</p>
               <p>If you're looking for a Villa Interior Designer in Amroha who can blend luxury with Vastu, refinement with function, and beauty with deep meaning, Vasterior Studio is here to create a home that feels uniquely yours.</p>
               <p>
-                Ready to Begin? Let's design a villa that supports your lifestyle, your energy, and your legacy. Connect with Vasterior Studio — Where Luxury Meets Alignment. Call us today at <strong>+917906086899</strong> or{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                Ready to Begin? Let's design a villa that supports your lifestyle, your energy, and your legacy. Connect with Vasterior Studio — Where Luxury Meets Alignment. Call us today at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
               </p>
             </div>

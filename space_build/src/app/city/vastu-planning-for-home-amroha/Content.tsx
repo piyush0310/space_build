@@ -187,9 +187,10 @@ const Content = () => {
                 If you are considering Vastu Planning for Home in Amroha, we invite you to have a calm, clarity-driven conversation with us.
               </p>
               <p>
-                Call or WhatsApp at <strong>+917906086899</strong> or Email at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                Call or WhatsApp at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or Email at{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

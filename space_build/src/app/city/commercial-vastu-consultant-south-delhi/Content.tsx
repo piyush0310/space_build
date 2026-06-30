@@ -209,16 +209,17 @@ const Content = () => {
             <p>
               If you are considering aligning your commercial space, or simply want clarity, you can
               speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> for a focused discussion.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a focused discussion.
             </p>
             <p>
               For detailed queries, layouts, or consultation requests, you are welcome to write to
               us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you on the next steps.
             </p>

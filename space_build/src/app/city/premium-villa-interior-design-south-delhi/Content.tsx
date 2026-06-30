@@ -171,13 +171,14 @@ const Content = () => {
             </p>
             <p>
               Many of our clients prefer to begin with a direct call{" "}
-              <strong>+917906086899</strong>, while others choose to share
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others choose to share
               their thoughts in writing at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . Either way, the dialogue is thoughtful, confidential, and
               pressure-free.

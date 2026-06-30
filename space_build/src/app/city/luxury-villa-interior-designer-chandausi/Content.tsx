@@ -131,10 +131,11 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where we take the time to understand your vision before 
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we take the time to understand your vision before 
               offering any design direction. You may also write to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to initiate a detailed discussion about your villa interior requirements.
             </p>
@@ -194,10 +195,11 @@ const Content = () => {
                   6. How do I start working with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for an initial discussion or 
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion or 
                   emailing{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to share your project details.
                 </p>

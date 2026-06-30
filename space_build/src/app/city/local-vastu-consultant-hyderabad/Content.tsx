@@ -259,7 +259,8 @@ const Content = () => {
               understand what you’re facing, sleep issues, business slowdown,
               stress, relationship imbalance, or simply a desire to align your
               new space. If you want to start quickly, most clients simply call
-              us on <strong>+917906086899</strong> and we take it from there
+              us on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we take it from there
               smoothly.
             </p>
             <p>
@@ -406,13 +407,14 @@ const Content = () => {
                 </h3>
                 <p>
                   You can book a consultation by calling{" "}
-                  <strong>+917906086899</strong>, or if you prefer a written
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or if you prefer a written
                   discussion, simply email your requirement to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="font-semibold"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   and our team will guide you with the next steps.
                 </p>
@@ -434,13 +436,14 @@ const Content = () => {
             </p>
             <p>
               If you’d like to begin with a quick consultation, you can call{" "}
-              <strong>+917906086899</strong> and we’ll guide you smoothly, or
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we’ll guide you smoothly, or
               you can reach out over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , if you prefer sharing your floor plan and requirements first.
             </p>

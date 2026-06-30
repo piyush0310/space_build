@@ -155,16 +155,17 @@ const Content = () => {
               Sometimes, it starts with a simple call, to talk through your
               space, your challenges, and what&apos;s not working the way it
               should. You can always reach Vasterior directly on{" "}
-              <strong>+917906086899</strong> for an honest, no-pressure
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an honest, no-pressure
               discussion.
             </p>
             <p>
               Prefer writing things down first? A detailed note at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               works just as well. We read everything, carefully.
             </p>

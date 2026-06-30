@@ -190,11 +190,12 @@ const Content = () => {
             </p>
             <p>
               If you are ready to bring directional balance into your home or
-              office, simply call <strong>+917906086899</strong> and speak with
+              office, simply call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and speak with
               our team, or write to{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               to schedule your personalised Virtual Vastu Consultation.
@@ -299,11 +300,12 @@ const Content = () => {
                   10. How do I book my consultation?
                 </h3>
                 <p>
-                  Simply reach out by calling <strong>+917906086899</strong>{" "}
+                  Simply reach out by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}{" "}
                   for immediate assistance, or email{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   to schedule your session and begin your alignment journey.

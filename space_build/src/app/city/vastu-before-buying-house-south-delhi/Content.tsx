@@ -227,13 +227,14 @@ const Content = () => {
             </p>
             <p>
               You can call{" "}
-              <strong>+917906086899</strong> to speak with the Vasterior team and discuss your
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak with the Vasterior team and discuss your
               property details, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               if you prefer to share information and receive guidance thoughtfully. Either way, the
               goal is clarity, before commitment.

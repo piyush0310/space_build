@@ -147,12 +147,13 @@ const Content = () => {
             </p>
             <p>
               You can start by speaking directly with the Vasterior team at{" "}
-              <strong>+917906086899</strong> to discuss your space and concerns, or by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space and concerns, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               if you prefer a more detailed conversation over email. Either way, the first step is
               clarity, and it starts with a conversation.
@@ -200,13 +201,14 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I book a consultation?</span>{" "}
-                You can call <strong>+917906086899</strong> to speak with the team directly or
+                You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak with the team directly or
                 email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to begin your consultation process.
               </li>

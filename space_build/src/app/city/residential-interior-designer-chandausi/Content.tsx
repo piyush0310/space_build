@@ -150,12 +150,13 @@ const Content = () => {
             </h3>
             <p>
               If you are planning a new home, renovating an existing one, or simply seeking clarity on how to improve your living space in Chandausi, we would be happy to guide you. You can speak directly with our design team by calling{" "}
-              <strong>+917906086899</strong>, or share your requirements with us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your requirements with us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and begin a thoughtful, well-aligned design journey.
             </p>
@@ -210,12 +211,13 @@ const Content = () => {
                   6. How do I start a project with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling us at <strong>+917906086899</strong> or emailing{" "}
+                  You can begin by calling us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with a brief description of your home and expectations. Our team will guide you through the next steps.
                 </p>

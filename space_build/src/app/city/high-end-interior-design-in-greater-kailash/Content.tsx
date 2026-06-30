@@ -151,13 +151,14 @@ const Content = () => {
             <p>
               If you are considering a high-end interior design or MahaVastu-aligned renovation in
               Greater Kailash, a quiet conversation is often the best first step. You may call us at{" "}
-              <strong>+917906086899</strong> to explore whether our approach aligns with your home
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore whether our approach aligns with your home
               and goals, or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin the discussion at your pace.
             </p>

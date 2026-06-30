@@ -147,9 +147,10 @@ const Content = () => {
 
             <p>
               If you are serious about scaling your business with clarity and structural strength, this is the moment to act. Connect with Vasterior’s experts by calling{" "}
-              <strong>+917906086899</strong> or writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a comprehensive Commercial Vastu consultation in Hyderabad.
             </p>

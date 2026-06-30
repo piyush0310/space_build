@@ -150,12 +150,13 @@ const Content = () => {
               redesigning or aligning your home in Vasant Kunj, a one-on-one conversation can help
               determine whether Vasterior’s approach aligns with your expectations. You may choose
               to speak with us directly by calling{" "}
-              <strong>+917906086899</strong>, or share an overview of your requirements at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share an overview of your requirements at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , whichever feels more comfortable to begin with.
             </p>

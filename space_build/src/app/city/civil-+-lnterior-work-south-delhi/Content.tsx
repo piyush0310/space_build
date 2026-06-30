@@ -163,15 +163,16 @@ const Content = () => {
             <p>
               If you are planning civil or interior work in South Delhi and want it done intelligently,
               thoughtfully, and in alignment, you can reach us directly at{" "}
-              <strong>+917906086899</strong>.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}.
             </p>
             <p>
               Some clients prefer to begin by sharing details over email,{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               works just as well.
             </p>

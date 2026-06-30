@@ -178,12 +178,13 @@ const Content = () => {
             </h3>
             <p>
               If you're planning a home renovation in Chandausi and want clarity before committing to decisions, a conversation is the best place to start. You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> to discuss your home and renovation goals, or write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your home and renovation goals, or write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation at your convenience.
             </p>
@@ -249,12 +250,13 @@ const Content = () => {
                   7. How do I start a renovation consultation with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> or emailing{" "}
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to book an initial discussion.
                 </p>

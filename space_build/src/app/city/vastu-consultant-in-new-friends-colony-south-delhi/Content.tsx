@@ -161,13 +161,14 @@ const Content = () => {
             </p>
             <p>
               To begin a conversation about your space, you can speak directly
-              with the team by calling <strong>+917906086899</strong>, or share
+              with the team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share
               your requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . The first step is not a consultation, it is clarity.
             </p>

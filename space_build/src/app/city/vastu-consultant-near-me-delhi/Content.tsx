@@ -145,7 +145,7 @@ const Content = () => {
             </p>
             <div className="space-y-2 mt-4">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> info@spacebuild.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
             </div>
             <p className="mt-4">
               Contact Vasterior today for your dream home interiors and expert Vastu consultation in Delhi NCR.

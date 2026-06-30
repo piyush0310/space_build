@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
     },
     { 
       question: "How can I book a consultation?", 
-      answer: "Booking with us is quick and easy. You can email us at info@spacebuild.com or call us directly ", 
+      answer: "Booking with us is quick and easy. You can email us at spacebuild.india@gamil.com or call us directly ", 
       link: "https://www.spacebuild.com/faq"
     },
     { 
@@ -109,18 +109,25 @@ const Footer: React.FC = () => {
             
             <div className="space-y-3">
               <a 
-                href="mailto:info@spacebuild.com" 
+                href="mailto:spacebuild.india@gamil.com" 
                 className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
               >
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                <span className="break-all">info@spacebuild.com</span>
+                <span className="break-all">spacebuild.india@gamil.com</span>
               </a>
               <a 
-                href="tel:+917906086899" 
+                href="tel:+919927611780" 
                 className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
               >
                 <Phone className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                +917906086899
+                +919927611780
+              </a>
+              <a 
+                href="tel:+918077973797" 
+                className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
+              >
+                <Phone className="w-4 h-4 sm:w-5 sm:h-5" /> 
+                +918077973797
               </a>
               
               {/* Social Media Icons */}
@@ -135,7 +142,7 @@ const Footer: React.FC = () => {
                   <FaFacebook />
                 </a>
                 <a 
-                  href="https://www.instagram.com/spacebuild/" 
+                  href="https://www.instagram.com/spacebuildindia?igsh=MWY4c3JvMTB5OGRjNA==" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-xl sm:text-2xl hover:text-pink-500 transition"
@@ -144,7 +151,8 @@ const Footer: React.FC = () => {
                   <FaInstagram />
                 </a>
                 <a 
-                  href="https://wa.me/+917906086899" 
+                  href="https://wa.me/+919927611780,+918077973797"
+                   
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-xl sm:text-2xl hover:text-green-500 transition"

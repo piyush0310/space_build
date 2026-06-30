@@ -197,13 +197,14 @@ const Content = () => {
             <p>
               If you would like to understand how your space can be improved, without pressure or
               unnecessary changes, you can speak directly with the Space Build team by calling{" "}
-              <strong>+917906086899</strong>. For those who prefer a written conversation, sharing
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}. For those who prefer a written conversation, sharing
               your concerns at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is equally welcome.
             </p>

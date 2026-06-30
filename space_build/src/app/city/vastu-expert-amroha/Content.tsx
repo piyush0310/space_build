@@ -137,9 +137,10 @@ const Content = () => {
               If you feel your space needs better alignment, or if you simply want clarity before making important decisions, Vasterior is here to guide you.
             </p>
             <p>
-              You can connect with us directly at <strong>+917906086899</strong> to discuss your requirement or write to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can connect with us directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your requirement or write to us at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               for detailed consultation information. Every conversation begins with understanding, not selling.
             </p>

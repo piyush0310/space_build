@@ -140,9 +140,10 @@ const Content = () => {
               If your home or workplace in Kalkaji looks complete yet feels unsettled, it may 
               simply need a deeper level of alignment. A conversation can often reveal more than 
               endless visual references. Vasterior welcomes such conversations, whether through a 
-              quiet call at <strong>+917906086899</strong> or a detailed note shared at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              quiet call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or a detailed note shared at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to understand whether MahaVastu-aligned interior design is the right next step for 
               your space.

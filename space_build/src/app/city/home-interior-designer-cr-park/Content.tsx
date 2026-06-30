@@ -149,10 +149,11 @@ const Content = () => {
               emotionally, mentally, or practically, a conversation can often bring clarity. Speaking
               with the Vasterior team is the first step toward understanding what your space truly
               needs. Many homeowners prefer starting with a direct conversation, and you are welcome
-              to call us at <strong>+917906086899</strong> to explore possibilities calmly and
+              to call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore possibilities calmly and
               without obligation. If writing feels easier, reaching out at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               allows us to understand your requirements and suggest a thoughtful next step.
             </p>
@@ -236,10 +237,11 @@ const Content = () => {
                   7. How do I begin the process?
                 </h4>
                 <p>
-                  A simple conversation is enough to start. You can call <strong>+917906086899</strong> to
+                  A simple conversation is enough to start. You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to
                   discuss your home or write to{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                   , and our team will guide you through the next steps calmly and transparently.
                 </p>

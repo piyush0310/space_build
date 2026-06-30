@@ -138,17 +138,18 @@ const Content = () => {
             <p>
               If you are feeling unsure about your home&apos;s energy or want expert guidance
               without delay, you can speak directly with the Vasterior team by calling or WhatsApp
-              us at <strong>+917906086899</strong>, where we will help you understand whether a
+              us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we will help you understand whether a
               phone consultation is right for you.
             </p>
             <p>
               If you prefer a written conversation or need to share details first, you are welcome
               to email us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and our team will respond with clarity and next steps.
             </p>

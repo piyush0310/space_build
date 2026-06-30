@@ -122,8 +122,8 @@ const Content = () => {
             <p>
               If you are ready to transform your workspace into a magnet for clarity, growth, and measurable success, connect with Vasterior by calling{" "}
               <span className="text-blue-600 underline">+917906086899</span> or writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule your strategic Office Vastu consultation in Hyderabad.
             </p>

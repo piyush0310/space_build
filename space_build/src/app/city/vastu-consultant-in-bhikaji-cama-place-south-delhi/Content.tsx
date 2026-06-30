@@ -184,16 +184,17 @@ const Content = () => {
               Bhikaji Cama Place, the first step does not have to be a
               commitment, it can simply be a conversation. You can speak
               directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where your concerns are
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where your concerns are
               approached thoughtfully, not pushed into a package.
             </p>
             <p>
               For those who prefer a quieter start, you are welcome to write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               with details about your space and intentions, and receive a
               considered response that respects both your time and privacy.

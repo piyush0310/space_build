@@ -149,17 +149,18 @@ const Content = () => {
               If you&apos;re exploring a contemporary interior designer in South Delhi who
               understands both modern design and MahaVastu alignment, a simple call can bring
               surprising clarity. Many homeowners begin by discussing their space over a quick
-              conversation at <strong>+917906086899</strong>, long before drawings or decisions
+              conversation at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, long before drawings or decisions
               enter the picture.
             </p>
             <p>
               If you prefer to articulate your thoughts slowly, sharing your requirements over email
               at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often the first step toward alignment, both spatial and personal.
             </p>

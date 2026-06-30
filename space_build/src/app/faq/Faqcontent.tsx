@@ -8,7 +8,7 @@ const FAQ = () => {
     },
     {
       question: "How do I book a consultation?",
-      answer: "Booking with us is quick and easy. You can email us at info@spacebuild.com or call us directly at +917906086899. Our team will schedule a convenient time to understand your requirements and guide you through the next steps."
+      answer: "Booking with us is quick and easy. You can email us at spacebuild.india@gamil.com or call us directly at +917906086899. Our team will schedule a convenient time to understand your requirements and guide you through the next steps."
     },
     {
       question: "Do you provide customized interior designs?",
@@ -20,11 +20,11 @@ const FAQ = () => {
     },
     {
       question: "Do you provide online consultations?",
-      answer: "Yes. For clients unable to meet in person, we offer online consultations through video calls, digital layouts, and virtual design presentations. This makes it convenient to work with us from anywhere. To book a session, simply contact us via info@spacebuild.com or +917906086899."
+      answer: "Yes. For clients unable to meet in person, we offer online consultations through video calls, digital layouts, and virtual design presentations. This makes it convenient to work with us from anywhere. To book a session, simply contact us via spacebuild.india@gamil.com or +917906086899."
     },
     {
       question: "What is your pricing structure?",
-      answer: "Our pricing is project-specific and depends on the services required, scale of work, and material choices. We share a transparent quotation after the initial consultation to ensure clarity for both premium and budget-conscious clients. For inquiries, connect with us at info@spacebuild.com or +917906086899."
+      answer: "Our pricing is project-specific and depends on the services required, scale of work, and material choices. We share a transparent quotation after the initial consultation to ensure clarity for both premium and budget-conscious clients. For inquiries, connect with us at spacebuild.india@gamil.com or +917906086899."
     }
   ];
 

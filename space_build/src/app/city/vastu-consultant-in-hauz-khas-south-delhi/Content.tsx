@@ -136,13 +136,14 @@ const Content = () => {
             <p>
               If you are based in Hauz Khas or anywhere in South Delhi and feel that your home or
               workspace is out of sync, a single conversation can bring clarity. You can speak
-              directly with the Vasterior team by calling <strong>+917906086899</strong>, or, if
+              directly with the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or, if
               you prefer to start with a detailed discussion, writing to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is a great first step.
             </p>
@@ -193,12 +194,13 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I get started?</span>{" "}
-                Start with a conversation. Call <strong>+917906086899</strong> or email{" "}
+                Start with a conversation. Call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 , and we will guide you through the next steps based on your space and goals.
               </li>

@@ -195,8 +195,8 @@ const Content = () => {
                 <p>
                   You can directly connect with the team for a personalised assessment. A quick conversation at{" "}
                   <span className="text-blue-600 underline">+917906086899</span> can clarify the scope and next steps, or you may write to{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to initiate a detailed consultation discussion.
                 </p>

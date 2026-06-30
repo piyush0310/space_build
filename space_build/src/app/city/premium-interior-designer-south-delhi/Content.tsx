@@ -181,9 +181,10 @@ const Content = () => {
             <p>
               Many clients start with a simple call, often to discuss possibilities, timelines, or
               whether MahaVastu is right for their home. You can reach the Vasterior team directly
-              at <strong>+917906086899</strong>, or share your thoughts over email at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your thoughts over email at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               .
             </p>
@@ -246,10 +247,11 @@ const Content = () => {
               <div>
                 <h4 className="font-semibold text-gray-900">6. How do I get started?</h4>
                 <p>
-                  Start with a conversation. A quick call to <strong>+917906086899</strong> or an
+                  Start with a conversation. A quick call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an
                   email to{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   is all it takes to explore how your space can be transformed, beautifully and
                   meaningfully.

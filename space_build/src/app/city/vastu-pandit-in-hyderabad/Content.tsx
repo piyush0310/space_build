@@ -347,14 +347,15 @@ const Content = () => {
             </p>
             <p>
               For a quick consultation, you can call{" "}
-              <strong>+917906086899</strong> and we will guide you on the next
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and we will guide you on the next
               best step based on your home or office.
             </p>
             <p>
               If you prefer sharing your layout first, email it directly to{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               . We will review it and suggest the right consultation path.
@@ -466,11 +467,12 @@ const Content = () => {
                 </h3>
                 <p>
                   It is simple. You can call{" "}
-                  <strong>+917906086899</strong> for a quick discussion, or
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick discussion, or
                   email your layout and details to{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   to get started.

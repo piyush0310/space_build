@@ -173,16 +173,17 @@ const Content = () => {
               Many of our clients prefer an initial call to understand whether
               the design approach aligns with their lifestyle, and you&apos;re
               welcome to do the same by reaching us directly at{" "}
-              <strong>+917906086899</strong>.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}.
             </p>
             <p>
               If you&apos;d rather write to us with your plans or questions, a
               thoughtful email to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is always a good place to begin.
             </p>

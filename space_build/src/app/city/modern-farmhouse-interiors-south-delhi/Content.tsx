@@ -158,13 +158,14 @@ const Content = () => {
             </p>
             <p>
               Some clients prefer to start by calling us directly at{" "}
-              <strong>+917906086899</strong>, others take their time and write
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, others take their time and write
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               when they&apos;re ready. Either way, the conversation stays
               honest, unrushed, and pressure-free.

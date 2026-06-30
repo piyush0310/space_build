@@ -273,7 +273,7 @@ const Content = () => {
               </p>
               <div className="space-y-2 p-4 bg-blue-50 rounded-lg">
                 <p><strong>📞 Phone:</strong> +917906086899</p>
-                <p><strong>📧 Email:</strong> <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
               <p className="font-semibold mt-4">Alignment starts with a decision.</p>
             </div>
@@ -385,8 +385,8 @@ const Content = () => {
             <p>
               To schedule your Vastu Site Visit in Hyderabad, you can directly call{" "}
               <span className="text-blue-600 underline font-semibold">+917906086899</span> to speak with our team, or send your project details to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 underline font-semibold">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               and we will guide you through the next steps with clarity and precision.
             </p>

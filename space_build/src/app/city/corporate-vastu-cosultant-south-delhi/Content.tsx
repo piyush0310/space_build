@@ -203,13 +203,14 @@ const Content = () => {
               whether this approach is relevant for your space and business goals.
             </p>
             <p>
-              To explore this further, you may call us at <strong>+917906086899</strong> for a
+              To explore this further, you may call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a
               confidential conversation, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation at a time that suits you.
             </p>

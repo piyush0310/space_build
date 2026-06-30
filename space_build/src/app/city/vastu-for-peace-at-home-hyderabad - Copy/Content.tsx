@@ -227,11 +227,12 @@ const Content = () => {
             <p>
               If you are ready to transform your house into a genuinely peaceful
               sanctuary, speak directly with a Vasterior expert at{" "}
-              <strong>+917906086899</strong> and let us assess your space with
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and let us assess your space with
               precision, or simply write to us at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               to begin your MahaVastu-backed home alignment journey.

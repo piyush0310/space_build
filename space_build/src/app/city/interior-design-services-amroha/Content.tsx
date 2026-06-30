@@ -258,12 +258,13 @@ const Content = () => {
               Spatial Flow Planning and MahaVastu-integrated interiors can
               transform not just your home, but the way it feels to live in it.
               For further details, connect with our experts today at{" "}
-              <strong>+917906086899</strong> or{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               .
             </p>

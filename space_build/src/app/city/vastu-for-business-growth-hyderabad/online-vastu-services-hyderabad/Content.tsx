@@ -198,10 +198,11 @@ const Content = () => {
               Your home and workplace are not just structures. They are energetic ecosystems influencing every decision, opportunity, and relationship.
             </p>
             <p>
-              If you are serious about growth and want clarity from a structured MahaVastu Expert in Hyderabad, take the first step today. You can simply call <strong>+917906086899</strong> for a direct conversation about your space, or send a detailed enquiry to{" "}
+              If you are serious about growth and want clarity from a structured MahaVastu Expert in Hyderabad, take the first step today. You can simply call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a direct conversation about your space, or send a detailed enquiry to{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>.
             </p>

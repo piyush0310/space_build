@@ -147,9 +147,10 @@ const Content = () => {
                 If you feel your home has potential that isn't fully unfolding, or if you simply want to ensure your space is aligned for peace, health, and prosperity, a Vasterior consultation can bring clarity.
               </p>
               <p>
-                You may connect with us directly at <strong>+917906086899</strong> or write to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                You may connect with us directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to schedule a Vastu consultation for your home in Amroha.
               </p>

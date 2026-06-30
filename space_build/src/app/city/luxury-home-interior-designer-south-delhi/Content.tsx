@@ -145,16 +145,17 @@ const Content = () => {
               Designing a home like this starts with a conversation, not a quotation. If you&apos;d
               like to explore how your South Delhi home can be elevated through thoughtful interior
               design and MahaVastu alignment, a direct conversation can open the door. Many of our
-              clients begin by simply calling <strong>+917906086899</strong> to understand whether
+              clients begin by simply calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand whether
               the approach feels right.
             </p>
             <p>
               For a more detailed discussion or to share drawings and plans, reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often the easiest first step.
             </p>

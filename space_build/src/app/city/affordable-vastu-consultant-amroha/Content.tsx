@@ -150,7 +150,7 @@ const Content = () => {
               </p>
               <div className="space-y-2 mt-4 p-4 bg-gray-50 rounded-lg">
                 <p><strong>📞 Call or WhatsApp:</strong> +917906086899</p>
-                <p><strong>📧 Email:</strong> <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
               <p className="mt-4 font-semibold text-gray-900">
                 Begin Your Vastu Alignment Journey with Confidence. Vasterior believes that when spaces are aligned with intention, life flows with greater ease. Whether it's your home, shop, or workplace in Amroha, let's bring balance, quietly, practically, and affordably.

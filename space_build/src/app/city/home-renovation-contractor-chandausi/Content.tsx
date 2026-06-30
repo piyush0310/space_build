@@ -108,9 +108,10 @@ const Content = () => {
               Let's Talk About Your Space
             </h2>
             <p className="mb-4">
-              If you've been thinking about renovating but want it done right, a simple conversation can bring clarity. Many homeowners begin by discussing their space over a quick call on <strong>+917906086899</strong>, while others prefer sharing details at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              If you've been thinking about renovating but want it done right, a simple conversation can bring clarity. Many homeowners begin by discussing their space over a quick call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others prefer sharing details at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>, both work equally well.
             </p>
             <p>No pressure. No hard selling. Just informed guidance on what your home actually needs.</p>
@@ -148,9 +149,10 @@ const Content = () => {
                 <h3 className="font-semibold text-gray-900 mb-3">
                   5. How do I get started with Vasterior?
                 </h3>
-                <p>You can start by discussing your requirements over a call at <strong>+917906086899</strong> or by emailing{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                <p>You can start by discussing your requirements over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by emailing{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>. The first step is always a conversation.</p>
               </div>
             </div>

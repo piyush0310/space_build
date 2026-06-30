@@ -167,13 +167,14 @@ const Content = () => {
             <p>
               If you are considering aligning your home or office with a more intelligent spatial
               system, a direct conversation is the best place to begin. Many of our clients start by
-              calling <strong>+917906086899</strong> to understand whether MahaVastu alignment is
+              calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand whether MahaVastu alignment is
               relevant for their space. Others prefer writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to share details before planning a consultation.
             </p>

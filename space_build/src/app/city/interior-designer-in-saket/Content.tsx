@@ -157,14 +157,15 @@ const Content = () => {
             </p>
             <p>
               A conversation often brings more clarity than a catalogue ever could. Many clients
-              begin by calling <strong>+917906086899</strong> to understand whether their space
+              begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand whether their space
               needs redesign, re‑alignment, or simply better spatial logic. Others prefer to write
               with context and questions to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , allowing the dialogue to unfold at a measured pace.
             </p>

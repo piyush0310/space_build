@@ -200,12 +200,13 @@ const Content = () => {
               Let’s Begin With a Conversation
             </h3>
             <p>
-              If you’re considering a Vastu-based interior designer in South Delhi, a short conversation can often bring more clarity than endless online research. You’re welcome to speak directly with the Vasterior team by calling <strong>+917906086899</strong>, or by writing to{" "}
+              If you’re considering a Vastu-based interior designer in South Delhi, a short conversation can often bring more clarity than endless online research. You’re welcome to speak directly with the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , sometimes, understanding your space begins with asking the right questions.
             </p>

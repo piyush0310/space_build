@@ -173,8 +173,8 @@ const Content = () => {
                 +917906086899
               </a>{" "}
               and discover how your space can be strategically optimized, or simply share your requirements at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 underline font-semibold">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               and let transformation begin with clarity.
             </p>

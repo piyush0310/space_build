@@ -164,12 +164,13 @@ const Content = () => {
             </p>
             <p>
               Many clients prefer starting with a detailed discussion over a call at{" "}
-              <strong>+917906086899</strong>, while others share drawings or concerns over email at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others share drawings or concerns over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore possibilities at their own pace.
             </p>
@@ -251,12 +252,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin with an exploratory conversation by calling{" "}
-                  <strong>+917906086899</strong> or sharing details of your home at{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or sharing details of your home at{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   . From there, the right path forward becomes clear.
                 </p>

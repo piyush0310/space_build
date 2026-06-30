@@ -145,8 +145,8 @@ const Content = () => {
               </p>
               <p className="mt-4">
                 For those who prefer to take the first step quietly, writing to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 is an easy, pressure-free way to begin exploring what alignment could look like for your home.
               </p>
@@ -226,8 +226,8 @@ const Content = () => {
                 </p>
                 <p className="font-semibold">
                   📧 Email:{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                 </p>
               </div>

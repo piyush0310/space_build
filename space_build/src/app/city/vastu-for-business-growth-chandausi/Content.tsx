@@ -144,8 +144,8 @@ const Content = () => {
                   +917906086899
                 </a>{" "}
                 or outline your requirements in detail by writing to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 . Either way, the first step is intentional and powerful.
               </p>
@@ -225,8 +225,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                 </p>
               </div>

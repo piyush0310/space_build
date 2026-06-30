@@ -141,13 +141,14 @@ const Content = () => {
               If you are seeking a Vastu Consultant in Malviya Nagar, South Delhi who balances
               tradition with modern design intelligence, Vasterior offers thoughtful guidance
               without pressure. You can begin by calling{" "}
-              <strong>+917906086899</strong> to discuss your space and understand the consultation
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space and understand the consultation
               process. For detailed queries or to schedule a session, you can write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               so the team can respond with tailored next steps suited to your needs.
             </p>
@@ -189,12 +190,13 @@ const Content = () => {
                 <span className="font-semibold">
                   How do I book a consultation with Vasterior?
                 </span>{" "}
-                You can call <strong>+917906086899</strong> for an initial discussion or email{" "}
+                You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to schedule a consultation at your convenience.
               </li>

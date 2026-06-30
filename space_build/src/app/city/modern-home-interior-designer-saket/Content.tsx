@@ -165,13 +165,14 @@ const Content = () => {
             <p>
               If you&apos;re considering redesigning your home in Saket and want a space that feels
               aligned from the inside out, a simple conversation is the best place to start. You can
-              speak directly with the team by calling <strong>+917906086899</strong>, or share your
+              speak directly with the team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your
               thoughts and requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . The goal isn&apos;t to sell, it&apos;s to understand whether your space and
               Vasterior are the right fit for each other.
@@ -259,13 +260,14 @@ const Content = () => {
                   8. How do I start the process?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for an initial discussion
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion
                   or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with details about your home and expectations.
                 </p>

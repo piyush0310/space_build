@@ -132,12 +132,13 @@ const Content = () => {
               A villa designed with intention usually begins with a conversation, not a catalogue.
               If you are exploring interior design in Vasant Kunj that balances luxury with clarity,
               and structure with calm, you can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> or by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . The first step is simply understanding whether your home is working the way it
               should.

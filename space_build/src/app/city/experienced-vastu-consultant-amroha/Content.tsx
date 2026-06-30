@@ -125,9 +125,10 @@ const Content = () => {
                 If you're looking for an experienced Vastu consultant in Amroha who blends tradition with modern sensibility, Vasterior is here to guide you. Whether you're at the start of a journey or seeking correction and clarity, a thoughtful conversation is the first step.
               </p>
               <p>
-                To schedule a consultation or discuss your space, you can call us at <strong>+917906086899</strong> or write to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                To schedule a consultation or discuss your space, you can call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 . We'll help you understand what your space needs, and how to align it with intention and ease.
               </p>

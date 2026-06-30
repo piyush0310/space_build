@@ -121,13 +121,14 @@ const Content = () => {
             <p>
               If you sense that your home could offer more ease, clarity, or balance, the next step
               does not need to be elaborate. Many of our clients begin with a quiet discussion,
-              sometimes through a phone call to <strong>+917906086899</strong>, sometimes by
+              sometimes through a phone call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, sometimes by
               writing to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , simply to explore whether their space is truly working for them.
             </p>

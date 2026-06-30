@@ -160,13 +160,14 @@ const Content = () => {
               conversation is the best place to start.
             </p>
             <p>
-              You can call <strong>+917906086899</strong> to speak directly with a Vasterior
+              You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak directly with a Vasterior
               consultant, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin a calm, confidential discussion about your space and well-being. There is no
               pressure, only clarity.
@@ -220,12 +221,13 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I start?</span> Start with a conversation.
-                Calling <strong>+917906086899</strong> or emailing{" "}
+                Calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 allows your concerns to be understood and addressed with clear guidance.
               </li>

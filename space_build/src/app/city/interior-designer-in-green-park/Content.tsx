@@ -159,13 +159,14 @@ const Content = () => {
               If you are considering interior design or renovation in Green Park and wish to explore
               how spatial alignment can enhance both your home and your daily experience, a quiet,
               informed conversation is often the best starting point. Many clients begin by speaking
-              directly with our team over a call at <strong>+917906086899</strong>, or by sharing
+              directly with our team over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sharing
               initial details via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , allowing us to guide the discussion thoughtfully from there.
             </p>

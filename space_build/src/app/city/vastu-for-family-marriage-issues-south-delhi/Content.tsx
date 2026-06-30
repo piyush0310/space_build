@@ -160,16 +160,17 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where your concerns will be heard and you will be
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where your concerns will be heard and you will be
               guided on whether a MahaVastu consultation is right for your situation.
             </p>
             <p>
               Alternatively, you can write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to share your challenges in confidence and schedule a discreet discussion. No
               pressure, no fear tactics, just clarity.
@@ -231,12 +232,13 @@ const Content = () => {
                 <span className="font-semibold">
                   How do I know if this is the right step for me?
                 </span>{" "}
-                Start with a conversation. You can call <strong>+917906086899</strong> or email{" "}
+                Start with a conversation. You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 , and you will be guided honestly, whether you choose to proceed or not.
               </li>

@@ -234,10 +234,10 @@ const Content = () => {
               can easily connect by calling +917906086899 to discuss your space
               or share your requirements via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and our team will guide you toward the right consultation
               approach.

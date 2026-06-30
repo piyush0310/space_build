@@ -161,13 +161,14 @@ const Content = () => {
             <p>
               If your home looks good but doesn&apos;t feel right, that&apos;s your sign. A simple
               conversation can create clarity. Many clients start by reaching out for an initial
-              discussion, often through a quiet call at <strong>+917906086899</strong>, or by
+              discussion, often through a quiet call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by
               sharing details about their space at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . No pressure. Just understanding.
             </p>
@@ -242,13 +243,14 @@ const Content = () => {
                   6. How do I get started?
                 </h4>
                 <p>
-                  Start with a conversation. A call at <strong>+917906086899</strong> or an email
+                  Start with a conversation. A call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an email
                   to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   is enough to begin.
                 </p>

@@ -179,17 +179,18 @@ const Content = () => {
               <p>
                 You can also initiate a detailed consultation by writing to{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 , especially if you&apos;re still shaping your concept or exploring
                 MahaVastu-aligned design.
               </p>
               <p>
                 For those ready to move faster, speaking directly with the team at{" "}
-                <strong>+917906086899</strong> is often the easiest way to understand how
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} is often the easiest way to understand how
                 your space can be transformed, strategically, aesthetically, and
                 energetically.
               </p>
@@ -269,12 +270,13 @@ const Content = () => {
                   </h4>
                   <p>
                     You can begin with a conversation, either by calling{" "}
-                    <strong>+917906086899</strong> or sharing your project details via{" "}
+                    <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or sharing your project details via{" "}
                     <a
-                      href="mailto:info@spacebuild.com"
+                      href="mailto:spacebuild.india@gamil.com"
                       className="text-blue-600 hover:underline"
                     >
-                      info@spacebuild.com
+                      spacebuild.india@gamil.com
                     </a>
                     . From there, the team guides you through the next steps clearly and
                     transparently.

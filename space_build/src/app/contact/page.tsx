@@ -4,7 +4,7 @@ import Contactcontent from "./Contactcontent";
 export const metadata: Metadata = {
   title: "Vasterior – Contact Us | Get in Touch for Interior Design & Consultancy",
   description:
-    "Connect with Vasterior today for bespoke interior design, vastu consultation, smart homes, and PMC services. Call us at +917906086899 or email info@spacebuild.com to book your consultation.",
+    "Connect with Vasterior today for bespoke interior design, vastu consultation, smart homes, and PMC services. Call us at +917906086899 or email spacebuild.india@gamil.com to book your consultation.",
   keywords:
     "Vasterior contact, contact Vasterior, interior design contact, vastu consultation contact, smart home consultation, wedding design contact, PMC services contact, spatial planning contact, furniture sourcing contact",
 
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://www.vasterior.com/contact",
     title: "Vasterior – Contact Us | Get in Touch for Interior Design & Consultancy",
     description:
-      "Reach out to Vasterior for expert interior design, vastu consultation, smart home solutions, wedding design, and PMC services. Call +917906086899 or email info@spacebuild.com.",
+      "Reach out to Vasterior for expert interior design, vastu consultation, smart home solutions, wedding design, and PMC services. Call +917906086899 or email spacebuild.india@gamil.com.",
     images: [
       {
         url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",

@@ -144,13 +144,14 @@ const Content = () => {
             <p>
               If you sense that your home in Vasant Kunj needs more than a surface-level redesign,
               the first step is a conversation. Many clients choose to begin by speaking directly
-              with the Vasterior team over a call at <strong>+917906086899</strong>, or by writing
+              with the Vasterior team over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore whether MahaVastu-based interior alignment is right for their space.
             </p>

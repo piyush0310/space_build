@@ -120,8 +120,8 @@ const Content = () => {
               </p>
               <p className="mt-4">
                 If you prefer a detailed explanation or want to share layouts and questions first, you can also write to{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 , you'll get a thoughtful response, not an automated pitch.
               </p>
@@ -201,8 +201,8 @@ const Content = () => {
                 </p>
                 <p className="font-semibold">
                   📧 Email:{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                 </p>
               </div>

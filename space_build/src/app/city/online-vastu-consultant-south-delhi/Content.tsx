@@ -146,16 +146,17 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with our team by calling{" "}
-              <strong>+917906086899</strong>, where we will help you understand whether an online
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we will help you understand whether an online
               Vastu consultation is right for your space.
             </p>
             <p>
               Alternatively, you may write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you through the next steps with clarity and transparency.
             </p>

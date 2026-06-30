@@ -215,12 +215,13 @@ const Content = () => {
               helps them understand what’s possible before decisions are locked in. A short
               discussion often prevents years of adjustment later, which is why people usually reach
               out by calling{" "}
-              <strong>+917906086899</strong> or writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how MahaVastu can be integrated seamlessly into their construction plans.
             </p>

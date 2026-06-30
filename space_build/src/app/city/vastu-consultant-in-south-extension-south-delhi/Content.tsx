@@ -142,15 +142,16 @@ const Content = () => {
             <p>
               If you are ready to understand what your home or workplace in South Extension is
               subtly communicating, you can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> for a focused consultation.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a focused consultation.
             </p>
             <p>
               Prefer writing first? Send your details and questions to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you on the next best step. No pressure, just clarity.
             </p>

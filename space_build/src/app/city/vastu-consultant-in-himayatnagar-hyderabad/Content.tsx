@@ -230,12 +230,13 @@ const Content = () => {
               conversation.
             </p>
             <p>
-              Reaching out to Vasterior at <strong>+917906086899</strong> often
+              Reaching out to Vasterior at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} often
               becomes the first step toward clarity, while detailed consultation
               requests can also be comfortably shared via{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               for personalised guidance.

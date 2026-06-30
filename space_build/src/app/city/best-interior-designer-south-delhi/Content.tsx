@@ -138,13 +138,14 @@ const Content = () => {
             <p>
               Most meaningful spaces begin with a conversation, not a quotation. If you're
               exploring interior design for your home or workspace in South Delhi, a simple call at{" "}
-              <strong>+917906086899</strong> can help you understand whether Vasterior is the
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help you understand whether Vasterior is the
               right fit for you.
             </p>
             <p>
               And if writing feels more comfortable, the team is always reachable at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin the dialogue at your pace.
             </p>

@@ -166,13 +166,14 @@ const Content = () => {
             <p>
               If you have ever felt that your home looks right but does not feel right, a
               conversation can bring clarity. Many South Delhi homeowners begin by simply
-              calling <strong>+917906086899</strong> to discuss their concerns, or by writing
+              calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss their concerns, or by writing
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to understand whether a MahaVastu consultation is right for their space.
             </p>

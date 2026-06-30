@@ -332,11 +332,12 @@ const Content = () => {
             </p>
             <p>
               To book your Vastu consultation with Vasterior, you can simply
-              call <strong>+917906086899</strong> and speak with our team, or
+              call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and speak with our team, or
               drop a quick email at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and we will guide you with the next steps based on your property
@@ -443,11 +444,12 @@ const Content = () => {
                   10) How do I book a consultation with Vasterior?
                 </h3>
                 <p>
-                  You can call <strong>+917906086899</strong> for a quick
+                  You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick
                   booking, or email{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   and the team will guide you based on your property and

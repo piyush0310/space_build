@@ -127,16 +127,17 @@ const Content = () => {
             <p>
               If you are considering redesigning your living room and want it to feel as good as it
               looks, the first step is simple. Many homeowners prefer to begin with a quiet
-              conversation, often a quick call to <strong>+917906086899</strong>, to understand
+              conversation, often a quick call to <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, to understand
               what is possible for their space.
             </p>
             <p>
               Others take a more thoughtful route and share their requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , allowing the process to unfold at a comfortable pace.
             </p>
@@ -181,12 +182,13 @@ const Content = () => {
                   How do I get started with Vasterior?
                 </span>{" "}
                 You can start by discussing your living room over a phone call at{" "}
-                <strong>+917906086899</strong>, or by sending a brief email to{" "}
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sending a brief email to{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 . The team will guide you through the next steps based on your needs and timeline.
               </li>

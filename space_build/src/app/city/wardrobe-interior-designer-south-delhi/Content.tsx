@@ -143,15 +143,16 @@ const Content = () => {
             <p>
               Most clients begin with a simple conversation, sometimes a short call that instantly
               reveals why their current layout never quite worked. If that sounds useful, reaching
-              Vasterior at <strong>+917906086899</strong> is often the fastest way to gain clarity.
+              Vasterior at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} is often the fastest way to gain clarity.
             </p>
             <p>
               If you prefer a quieter start, an email to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is where thoughtful design discussions usually begin.
             </p>

@@ -264,12 +264,13 @@ const Content = () => {
                 invites you to begin with a conversation. Not a pitch. Not a
                 promise. Just a calm, informed dialogue about your space and how
                 it can support you better. Get in touch with our experts today at{" "}
-                <strong>+917906086899</strong> or{" "}
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

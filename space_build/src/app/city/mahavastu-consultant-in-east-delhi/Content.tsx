@@ -164,7 +164,7 @@ const Content = () => {
             </p>
             <div className="space-y-2 mt-4">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> info@spacebuild.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
             </div>
             <p className="mt-4">
               Book your consultation now and experience how the right energy flow can change your life for the better. Whether you are in Laxmi Nagar, Preet Vihar, Mayur Vihar, Shahdara, or Anand Vihar, Vasterior is here to help you create balance, positivity, and prosperity in every corner of your space.

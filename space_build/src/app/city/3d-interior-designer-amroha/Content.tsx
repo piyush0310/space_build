@@ -236,12 +236,13 @@ const Content = () => {
             </p>
             <p>
               Connect with us today at{" "}
-              <strong>+917906086899</strong> or{" "}
+              <strong>+919927611780</strong> or{" "}
+              <strong>+918077973797</strong> or{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to discuss your project and discover how professional 3D interior
               design in Amroha can bring clarity, confidence, and elegance to

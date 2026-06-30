@@ -140,9 +140,10 @@ const Content = () => {
               Let's Talk About Your Store's Potential
             </h2>
             <p className="mb-4">
-              If you're planning a new retail space or feel your current store isn't delivering the results it should, a conversation can change everything. Many of our clients start by simply discussing their vision over a call at <strong>+917906086899</strong>, or by sharing their requirements via{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              If you're planning a new retail space or feel your current store isn't delivering the results it should, a conversation can change everything. Many of our clients start by simply discussing their vision over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sharing their requirements via{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               , and from there, clarity follows.
             </p>
@@ -178,9 +179,10 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">6. How do I get started with Vasterior?</h3>
                 <p>
-                  You can begin by reaching out for an initial discussion, either through a quick call at <strong>+917906086899</strong> or by emailing your project details to{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  You can begin by reaching out for an initial discussion, either through a quick call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by emailing your project details to{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                   . We'll guide you from there.
                 </p>

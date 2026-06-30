@@ -146,7 +146,7 @@ const Content = () => {
             </h2>
             <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
             <p><strong>📞 Phone:</strong> +91-9100883355</p>
-            <p><strong>📧 Email:</strong> info@spacebuild.com</p>
+            <p><strong>📧 Email:</strong> spacebuild.india@gamil.com</p>
             <p><strong>🌐 Website:</strong> <a href="http://www.Space Build.com" target="_blank" rel="noopener noreferrer">www.Space Build.com</a></p>
             <p className="mt-4 font-semibold">
               Space Build – Affordable Vastu Consultation in Moradabad, Bringing Prosperity, Harmony & Growth Within Your Reach.

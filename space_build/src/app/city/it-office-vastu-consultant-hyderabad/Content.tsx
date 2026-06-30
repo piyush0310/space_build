@@ -194,13 +194,14 @@ const Content = () => {
               If you’re ready to evaluate whether your workspace is accelerating
               or obstructing your company’s growth, Vasterior offers confidential
               and strategic consultations. You can speak directly with our team
-              by calling <strong>+917906086899</strong> or initiate a detailed
+              by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or initiate a detailed
               discussion via email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin aligning your IT office for measurable performance gains.
               Your next level of growth may begin with your floor plan.

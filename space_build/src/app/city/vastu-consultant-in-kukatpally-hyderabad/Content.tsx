@@ -250,10 +250,10 @@ const Content = () => {
               If you prefer sharing plans or questions digitally, reaching out
               at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               allows the team to review your space and guide you toward the most
               suitable consultation approach, comfortably and without pressure.

@@ -190,12 +190,13 @@ const Content = () => {
             </p>
             <p>
               If you’re exploring an affordable interior designer in Malviya Nagar who also understands Vastu alignment, a short call can help you understand what’s possible for your home. Many clients begin by speaking with the Vasterior team over a quick phone discussion at{" "}
-              <strong>+917906086899</strong>, or by sharing their concerns over email at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sharing their concerns over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>, no pressure, just honest guidance.
             </p>
 

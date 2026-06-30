@@ -173,15 +173,16 @@ const Content = () => {
               Sometimes clarity begins with a simple conversation. A short call can help you
               understand why your current space feels off, and what can actually be corrected. Many
               homeowners start by speaking directly with the Vasterior team at{" "}
-              <strong>+917906086899</strong>, just to explore possibilities without pressure.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, just to explore possibilities without pressure.
             </p>
             <p>
               If you prefer to articulate things slowly, an email often works better. Writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often how thoughtful renovations begin, quietly, intentionally, and without rush.
             </p>

@@ -105,7 +105,8 @@ const Content = () => {
               From first conversation to final styling, everything is intentional. If you feel
               your home needs clarity, or you&apos;re starting fresh and want to do it right from
               day one, you can always begin with a quiet conversation. A simple call on{" "}
-              <strong>+917906086899</strong> is often where the shift starts.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} is often where the shift starts.
             </p>
 
             {/* Who Vasterior Is For */}
@@ -135,10 +136,10 @@ const Content = () => {
               want guidance that&apos;s thoughtful, not overwhelming, you&apos;re welcome to
               reach out. Many of our projects begin with a simple email exchange at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , followed by a deeper consultation.
             </p>

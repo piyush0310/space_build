@@ -143,13 +143,14 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with our team by calling{" "}
-              <strong>+917906086899</strong>, or, if you prefer to start with a detailed
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or, if you prefer to start with a detailed
               conversation, you can write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and we will help you understand the best next step for your home or workspace.
               Sometimes, a single conversation is all it takes to restore balance.
@@ -212,12 +213,13 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How can I book a consultation?</span>{" "}
-                You can call <strong>+917906086899</strong> to speak with us directly, or email{" "}
+                You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak with us directly, or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to begin with a written discussion. We will guide you gently and transparently.
               </li>

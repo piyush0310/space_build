@@ -221,12 +221,13 @@ const Content = () => {
               Book Your Consultation with Vasterior
             </h2>
             <p>
-              If your home or workplace feels out of sync, a professional MahaVastu assessment can reveal what architecture alone cannot. Many clients begin their journey simply by having a conversation, calling <strong>+917906086899</strong> allows you to discuss your space directly with the Vasterior team, or you can share your layout details anytime at{" "}
+              If your home or workplace feels out of sync, a professional MahaVastu assessment can reveal what architecture alone cannot. Many clients begin their journey simply by having a conversation, calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} allows you to discuss your space directly with the Vasterior team, or you can share your layout details anytime at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , where consultations are thoughtfully guided from the very first interaction.
             </p>
@@ -323,12 +324,13 @@ const Content = () => {
                 </h3>
                 <p>
                   You can easily initiate your consultation by calling{" "}
-                  <strong>+917906086899</strong> for a discussion about your space or sending your floor plan to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a discussion about your space or sending your floor plan to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to begin the assessment process.
                 </p>

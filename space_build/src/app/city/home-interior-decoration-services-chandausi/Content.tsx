@@ -166,12 +166,13 @@ const Content = () => {
             </p>
             <p>
               A simple conversation is often the first step toward meaningful transformation. You can speak directly with our team at{" "}
-              <strong>+917906086899</strong> to discuss your home and explore how subtle design changes can create a powerful impact. Alternatively, feel free to write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your home and explore how subtle design changes can create a powerful impact. Alternatively, feel free to write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will help you begin the journey at your own pace.
             </p>
@@ -234,12 +235,13 @@ const Content = () => {
                   7. Can I consult Vasterior before committing?
                 </h4>
                 <p>
-                  Of course. You can call <strong>+917906086899</strong> or email{" "}
+                  Of course. You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule an initial discussion and understand the process better.
                 </p>

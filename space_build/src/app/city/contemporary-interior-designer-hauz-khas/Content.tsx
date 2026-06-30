@@ -187,13 +187,14 @@ const Content = () => {
             </p>
             <p>
               If you are exploring a contemporary interior design project in
-              Hauz Khas, you may call <strong>+917906086899</strong> to speak
+              Hauz Khas, you may call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak
               with the Vasterior team, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin an informed, unhurried discussion about your space.
             </p>
@@ -283,13 +284,14 @@ const Content = () => {
                   8. How do I begin working with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> or
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or
                   emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule an initial conversation about your space and
                   requirements.

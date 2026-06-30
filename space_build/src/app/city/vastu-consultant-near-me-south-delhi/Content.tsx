@@ -136,13 +136,14 @@ const Content = () => {
               If you would like to understand what your home is communicating, a simple conversation
               can create clarity. Many clients choose to begin by speaking directly with the
               Vasterior team, often starting with a call to{" "}
-              <strong>+917906086899</strong>, or by sharing a brief overview of their space and
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sharing a brief overview of their space and
               concerns via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . There is no pressure, only insight.
             </p>
@@ -213,12 +214,13 @@ const Content = () => {
                 </h4>
                 <p>
                   A conversation. You can reach out when it feels right, many clients begin by
-                  calling <strong>+917906086899</strong> or writing to{" "}
+                  calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to explain their space and intent.
                 </p>

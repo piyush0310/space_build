@@ -132,13 +132,14 @@ const Content = () => {
               workplace but could not quite name it, a Vastu consultation could
               be the clarity you have been missing. You can speak directly with
               the Vasterior team by calling{" "}
-              <strong>+917906086899</strong> for a personalised discussion, or
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a personalised discussion, or
               reach out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin your Vastu alignment journey with confidence and ease.
             </p>

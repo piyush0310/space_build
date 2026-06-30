@@ -152,13 +152,14 @@ const Content = () => {
             </p>
             <p>
               Many of our clients begin with a simple phone call to{" "}
-              <strong>+917906086899</strong>, while others prefer to articulate their thoughts
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others prefer to articulate their thoughts
               over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . Either way, the intention is the same: to understand whether your space is aligned
               with the life you are building.

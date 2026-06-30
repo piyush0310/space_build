@@ -137,9 +137,10 @@ const Content = () => {
                Designing a villa is more than a project. It is a legacy, a home that shapes your family's future. If you value luxury that is calm, grounded, culturally rooted, and energetically aligned… If you want a villa in Amroha that feels personal, powerful, and poetic… Then we invite you to begin a private design conversation with us.
              </p>
              <p>
-               Request a Personal Consultation. Get in touch with our experts today at <strong>+917906086899</strong> or{' '}
-               <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                 info@spacebuild.com
+               Request a Personal Consultation. Get in touch with our experts today at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{' '}
+               <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                 spacebuild.india@gamil.com
                </a>.
              </p>
            </div>

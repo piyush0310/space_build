@@ -141,16 +141,17 @@ const Content = () => {
             </ul>
             <p>
               Many clients begin with a simple conversation, often by calling{" "}
-              <strong>+917906086899</strong>, to understand whether MahaVastu is relevant to their
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, to understand whether MahaVastu is relevant to their
               space before committing further.
             </p>
             <p>
               Others prefer writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to share drawings, concerns, or questions and receive a thoughtful response.
             </p>
@@ -235,12 +236,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by discussing your space and concerns over a call at{" "}
-                  <strong>+917906086899</strong>, or by sharing details via{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by sharing details via{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   . The first step is always clarity, not commitment.
                 </p>

@@ -215,12 +215,13 @@ const Content = () => {
             <p>
               If you are ready to transform your space into a balanced,
               intelligent environment that supports growth, connect with Vasterior
-              directly by calling <strong>+917906086899</strong> or writing to{" "}
+              directly by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               for a personalised House Vastu consultation in Hyderabad.
             </p>
@@ -321,12 +322,13 @@ const Content = () => {
                 </h3>
                 <p>
                   You may schedule your consultation by contacting the team
-                  directly at <strong>+917906086899</strong> or via email at{" "}
+                  directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or via email at{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="font-semibold"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to begin the process.
                 </p>

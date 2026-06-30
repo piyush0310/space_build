@@ -136,9 +136,10 @@ const Content = () => {
                 If you&apos;re considering designing or redesigning a luxury villa in South Delhi, the first step isn&apos;t a mood board, it&apos;s a conversation.
               </p>
               <p>
-                A quiet discussion about how you live, what you value, and what your home should truly support. You can begin that dialogue by reaching out to the Vasterior team directly, many clients prefer to call <strong>+917906086899</strong> to explore possibilities, while others start by sharing their vision over email at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                A quiet discussion about how you live, what you value, and what your home should truly support. You can begin that dialogue by reaching out to the Vasterior team directly, many clients prefer to call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to explore possibilities, while others start by sharing their vision over email at{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>.
               </p>
               <p>

@@ -240,12 +240,13 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, or share details of your space at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share details of your space at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . We approach every inquiry thoughtfully, without pressure, panic,
               or pushy sales.
@@ -314,12 +315,13 @@ const Content = () => {
                   If your space looks fine but feels draining, heavy, or
                   unsupportive, an alignment assessment can bring clarity. You
                   are welcome to discuss this by calling{" "}
-                  <strong>+917906086899</strong> or writing to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   .
                 </p>

@@ -173,9 +173,10 @@ const Content = () => {
                 Sometimes, a few aligned changes can unlock long-term clarity and growth.
               </p>
               <p>
-                Speak directly with our team to understand how Vastu can support your home or business. Call <strong>+917906086899</strong> to schedule a consultation, or write to us at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                Speak directly with our team to understand how Vastu can support your home or business. Call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to schedule a consultation, or write to us at{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 , we'll be happy to guide you forward.
               </p>

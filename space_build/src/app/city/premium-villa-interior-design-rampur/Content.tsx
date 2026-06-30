@@ -180,7 +180,7 @@ const Content = () => {
             <div className="space-y-2">
               <p><strong>📍 Location:</strong> Rampur, Uttar Pradesh</p>
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
-              <p><strong>📧 Email:</strong> info@spacebuild.com</p>
+              <p><strong>📧 Email:</strong> spacebuild.india@gamil.com</p>
               <p><strong>🌐 Website:</strong> www.vasterior.com</p>
             </div>
 
@@ -191,7 +191,7 @@ const Content = () => {
               Let’s create a home that supports your present and shapes your future.
             </p>
             <p className="mt-1 font-semibold text-gray-900">
-              Call +917906086899 or mail us at <a href="mailto:info@spacebuild.com" className="text-blue-600 underline">info@spacebuild.com</a>.
+              Call +917906086899 or mail us at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">spacebuild.india@gamil.com</a>.
             </p>
           </div>
 

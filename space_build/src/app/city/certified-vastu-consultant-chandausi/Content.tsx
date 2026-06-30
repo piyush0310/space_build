@@ -140,7 +140,7 @@ const Content = () => {
                 <li>Confidence in your decisions</li>
               </ul>
               <p className="mt-4">
-                For those who prefer detailed written guidance or plan reviews, reaching out at <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a> is often the easiest way to begin.
+                For those who prefer detailed written guidance or plan reviews, reaching out at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> is often the easiest way to begin.
               </p>
             </div>
 
@@ -184,7 +184,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     6. How do I start a consultation with Vasterior?
                   </h3>
-                  <p>You can begin with a conversation, either by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or by writing to <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>. From there, the consultation format is decided based on your needs.</p>
+                  <p>You can begin with a conversation, either by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or by writing to <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>. From there, the consultation format is decided based on your needs.</p>
                 </div>
               </div>
             </div>
@@ -205,7 +205,7 @@ const Content = () => {
               </p>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
             </div>
           </div>

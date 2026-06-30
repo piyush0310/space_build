@@ -177,12 +177,13 @@ const Content = () => {
             </p>
             <p>
               You can reach out directly for a consultation by calling{" "}
-              <strong>+917906086899</strong> or writing to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or writing to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . Whether you're seeking clarity for your home or stability for
               your business, a simple conversation can be the first step toward

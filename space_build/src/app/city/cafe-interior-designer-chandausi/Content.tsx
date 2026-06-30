@@ -112,9 +112,10 @@ const Content = () => {
               If you're serious about building a café that looks exceptional and supports business growth, it starts with the right conversation. A quick call with the Vasterior team can help you understand how design and MahaVastu can work together for your space.
             </p>
             <p>
-              You can reach us directly at <strong>+917906086899</strong>, or if you prefer writing things down first, drop us a note at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can reach us directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or if you prefer writing things down first, drop us a note at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>, we'll take it from there.
             </p>
 
@@ -158,9 +159,10 @@ const Content = () => {
                   6. How do I get started with Vasterior?
                 </h3>
                 <p>
-                  Start with a simple conversation. Call us at <strong>+917906086899</strong> or email{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  Start with a simple conversation. Call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>, and we'll guide you through the next steps based on your space and goals.
                 </p>
               </div>

@@ -315,7 +315,7 @@ export default function ProjectManagementConsultationPage() {
             <p className="text-xl font-semibold text-gray-800">Book a Project Management Consultation</p>
             <p className="text-gray-700">Get in touch with our experts today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-            <p className="text-[#D4935D] font-semibold">info@spacebuild.com</p>
+            <p className="text-[#D4935D] font-semibold">spacebuild.india@gamil.com</p>
           </div>
         </div>
       </section>

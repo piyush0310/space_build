@@ -152,9 +152,10 @@ const Content = () => {
               If you are looking for Vastu for house design in Amroha that is modern, scientific, and deeply thoughtful, Vasterior is here to guide you.
             </p>
             <p>
-              Whether you're planning a new home, renovating an existing one, or simply seeking clarity, we would love to help. Call us at <strong>+917906086899</strong> or Email us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              Whether you're planning a new home, renovating an existing one, or simply seeking clarity, we would love to help. Call us at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or Email us at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
             </p>
             <p className="mt-4 font-semibold text-gray-900">

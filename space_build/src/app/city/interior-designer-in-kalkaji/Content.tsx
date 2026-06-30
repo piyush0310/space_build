@@ -201,12 +201,13 @@ const Content = () => {
             </p>
             <p>
               You may choose to discuss your space directly over a call on{" "}
-              <strong>+917906086899</strong>, or share details at your own pace by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share details at your own pace by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . Either way, the intent is simple, to explore what your space can become when design
               and direction work together.
@@ -290,12 +291,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin with a simple conversation, either by calling{" "}
-                  <strong>+917906086899</strong> or emailing{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with basic details about your space and requirements.
                 </p>

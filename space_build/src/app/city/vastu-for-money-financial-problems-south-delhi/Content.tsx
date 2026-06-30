@@ -175,12 +175,13 @@ const Content = () => {
             <p>
               If you are unsure whether MahaVastu applies to your situation, a conversation often
               brings clarity. You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, or by writing to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and the team will guide you honestly on whether this is the right step for you.
             </p>
@@ -208,12 +209,13 @@ const Content = () => {
             </p>
             <p>
               To explore MahaVastu solutions tailored to your South Delhi home, you can connect with
-              the Vasterior team by calling <strong>+917906086899</strong> or emailing{" "}
+              the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . A single aligned change can often bring more clarity than years of struggle.
             </p>
@@ -270,12 +272,13 @@ const Content = () => {
                 <span className="font-semibold">
                   How do I know if this is right for my situation?
                 </span>{" "}
-                The best way is to talk. You can call <strong>+917906086899</strong> or email{" "}
+                The best way is to talk. You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 , and the team will help you decide with clarity and no pressure.
               </li>

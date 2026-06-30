@@ -151,9 +151,10 @@ const Content = () => {
               If you are planning a new showroom in Nehru Place or considering a redesign to improve
               performance, clarity often begins with the right discussion. A brief conversation with
               our team can help you understand what your space is currently supporting, and what it
-              is not. You can reach us directly on <strong>+917906086899</strong>, or write to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              is not. You can reach us directly on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or write to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation at your convenience.
             </p>

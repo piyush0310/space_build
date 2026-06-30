@@ -139,9 +139,10 @@ const Content = () => {
               If you are considering purchasing a flat, villa, or gated community property in Hyderabad, clarity before commitment is invaluable. A structured Vastu check for flat in Hyderabad ensures you invest in a property that supports your ambitions rather than silently obstructing them.
             </p>
             <p>
-              If you are planning to buy a house in Hyderabad and want professional clarity before making the final decision, speak with our experts at <strong>+917906086899</strong> or write to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+              If you are planning to buy a house in Hyderabad and want professional clarity before making the final decision, speak with our experts at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule your personalised MahaVastu consultation.
             </p>

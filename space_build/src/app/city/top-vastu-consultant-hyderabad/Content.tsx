@@ -273,7 +273,8 @@ const Content = () => {
             <p>
               If you are serious about creating a space that feels peaceful,
               aligned, and supportive, Vasterior is ready to help. For a quick
-              consultation booking, call <strong>+917906086899</strong> and our
+              consultation booking, call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and our
               team will guide you on the best next step based on your space
               type.
             </p>
@@ -281,8 +282,8 @@ const Content = () => {
               If you prefer sharing your floor plan and requirements first,
               email{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and we will respond with consultation options. Your home or office
@@ -386,11 +387,12 @@ const Content = () => {
                   10) How can I contact Vasterior for consultation?
                 </h3>
                 <p>
-                  You can call <strong>+917906086899</strong> to book a
+                  You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to book a
                   consultation, or email{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com">
+                      spacebuild.india@gamil.com
                     </a>
                   </strong>{" "}
                   if you want to share your floor plan and requirements first.

@@ -124,9 +124,10 @@ const Content = () => {
               If you or your family are facing ongoing health concerns, physical, emotional, or mental, a gentle Vastu evaluation can often reveal what medicine alone cannot.
             </p>
             <p>
-              You may reach out to Vasterior for guidance at <strong>+917906086899</strong> or write to us at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You may reach out to Vasterior for guidance at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to us at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               .
             </p>

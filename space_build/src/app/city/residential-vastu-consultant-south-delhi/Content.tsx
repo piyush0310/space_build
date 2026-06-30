@@ -238,14 +238,15 @@ const Content = () => {
             </h3>
             <p>
               If you want your home to feel calmer, clearer, and more supportive, start with a
-              conversation. When you call <strong>+917906086899</strong>, we will understand your
+              conversation. When you call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, we will understand your
               home type, your concerns, and whether a residential consultation is the right next
               step. And if email is easier, you can write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and we will respond with the simplest way forward.
             </p>
@@ -347,13 +348,14 @@ const Content = () => {
                 </h4>
                 <p>
                   Start by sharing your home type and concerns. When you reach out on{" "}
-                  <strong>+917906086899</strong>, we will guide you on the next step. If you
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, we will guide you on the next step. If you
                   prefer email, sending a note to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   works just as smoothly.
                 </p>

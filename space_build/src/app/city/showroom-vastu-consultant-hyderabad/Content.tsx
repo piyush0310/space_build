@@ -238,13 +238,14 @@ const Content = () => {
             <p>
               To explore how your space can be optimized for higher performance,
               you may connect directly by calling{" "}
-              <strong>+917906086899</strong> for a structured consultation
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a structured consultation
               discussion, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to initiate your showroom assessment with our team. Your showroom
               should not just look premium. It should perform like one.

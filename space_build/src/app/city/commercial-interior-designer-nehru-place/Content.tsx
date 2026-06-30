@@ -138,10 +138,11 @@ const Content = () => {
               If you are planning a new office, redesigning an existing space, or simply unsure why
               your current workspace feels resistant, a conversation can bring clarity. Many business
               owners begin by discussing their requirements and challenges over a call at{" "}
-              <strong>+917906086899</strong>, while others prefer to share drawings or questions
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others prefer to share drawings or questions
               via email at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               .
             </p>
@@ -210,9 +211,10 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by discussing your space, concerns, or plans over a call at{" "}
-                  <strong>+917906086899</strong> or by emailing basic details to{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by emailing basic details to{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                   .
                 </p>

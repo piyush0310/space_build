@@ -136,15 +136,16 @@ const Content = () => {
               If you have been sensing that your home could support you better, or you are planning
               a renovation and want to align it intelligently, a conversation is the best place to
               start. You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}.
             </p>
             <p>
               If you prefer a quieter first step, you can write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to share details about your space and concerns before we guide you further. There is
               no pressure, just clarity, direction, and an approach rooted in balance.

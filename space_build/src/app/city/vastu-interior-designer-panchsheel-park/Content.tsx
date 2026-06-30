@@ -126,10 +126,11 @@ const Content = () => {
             <p>
               If you're exploring a redesign or simply seeking clarity about your space, a quiet 
               conversation can be the first step. Many homeowners in and around Panchsheel Park 
-              begin by speaking with us directly, often by calling <strong>+917906086899</strong> 
+              begin by speaking with us directly, often by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} 
               to discuss their space and concerns, or by writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to start the dialogue in their own time.
             </p>

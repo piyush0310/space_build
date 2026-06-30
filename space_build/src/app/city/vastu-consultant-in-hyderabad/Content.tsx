@@ -364,9 +364,10 @@ const Content = () => {
               </p>
               <p>
                 To speak to our team and explore what is possible for your home
-                or workspace, call <strong>+917906086899</strong> for a quick
+                or workspace, call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick
                 consultation, or send a detailed request to{" "}
-                <strong>info@spacebuild.com</strong>. We guide you with
+                <strong>spacebuild.india@gamil.com</strong>. We guide you with
                 clarity, not confusion.
               </p>
               <p>Because when your space aligns… everything starts aligning.</p>

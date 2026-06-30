@@ -179,15 +179,16 @@ const Content = () => {
             <p>
               To discuss how Vasterior can align your South Delhi home for prosperity and growth,
               you can speak directly with the team by calling{" "}
-              <strong>+917906086899</strong> for a private consultation.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a private consultation.
             </p>
             <p>
               You may also write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and you will be guided through the next steps with clarity and discretion. Your
               growth deserves an environment that works with you.
@@ -240,13 +241,14 @@ const Content = () => {
                 <span className="font-semibold">
                   How do I start the consultation process?
                 </span>{" "}
-                You can begin by calling <strong>+917906086899</strong> to discuss your
+                You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your
                 requirements, or by emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 for a structured consultation overview.
               </li>

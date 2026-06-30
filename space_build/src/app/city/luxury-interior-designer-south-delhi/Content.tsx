@@ -168,10 +168,11 @@ const Content = () => {
               begins with listening.
             </p>
             <p>
-              Whether it's a thoughtful call on <strong>+917906086899</strong> or a detailed note
+              Whether it's a thoughtful call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or a detailed note
               shared at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               , the first step is simply to talk.
             </p>

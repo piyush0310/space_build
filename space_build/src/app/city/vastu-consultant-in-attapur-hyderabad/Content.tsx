@@ -346,10 +346,10 @@ const Content = () => {
               +91&nbsp;9100883355 to discuss their concerns or sharing property
               details via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , allowing the Vasterior team to guide them toward the right
               consultation approach.

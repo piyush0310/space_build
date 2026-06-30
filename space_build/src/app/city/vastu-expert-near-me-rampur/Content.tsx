@@ -261,12 +261,13 @@ const Content = () => {
                 Speak to a Vasterior Vastu expert today and take the first step
                 toward a calmer, more aligned environment. Book your consultation
                 today. Get in touch with our experts at{" "}
-                <strong>+917906086899</strong> or{" "}
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

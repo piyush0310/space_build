@@ -122,9 +122,10 @@ const Content = () => {
               If you're ready to transform your workspace into an environment that feels aligned, productive, and growth-oriented, a conversation is the best place to start.
             </p>
             <p>
-              You can speak directly with the Vasterior team by calling <strong>+917906086899</strong>, or if you prefer to begin with ideas and requirements, simply drop us a note at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can speak directly with the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or if you prefer to begin with ideas and requirements, simply drop us a note at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               . Either way, we'll guide you with clarity, not confusion.
             </p>
@@ -159,9 +160,10 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">6. How do I get started with Vasterior?</h3>
                 <p>
-                  The easiest way is to connect with us directly, either through a quick call on <strong>+917906086899</strong> or by emailing{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  The easiest way is to connect with us directly, either through a quick call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by emailing{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with your project details.
                 </p>

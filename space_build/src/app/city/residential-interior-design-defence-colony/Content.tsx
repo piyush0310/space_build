@@ -138,13 +138,14 @@ const Content = () => {
               If you are exploring a residential interior designer in Defence Colony who understands
               both luxury aesthetics and spatial intelligence, a thoughtful conversation is the best
               place to begin. Many homeowners prefer to call{" "}
-              <strong>+917906086899</strong> for an unhurried discussion about their space, while
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an unhurried discussion about their space, while
               others choose to write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore whether the alignment feels right before moving ahead.
             </p>
@@ -224,13 +225,14 @@ const Content = () => {
                   7. How do I start a conversation with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> to discuss your home and
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your home and
                   expectations, or by emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   if you prefer to start with a written overview. The first step is always a
                   conversation, not a commitment.

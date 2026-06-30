@@ -175,12 +175,13 @@ const Content = () => {
               If you are looking for an affordable interior designer in Chandausi who brings
               clarity, structure, and thoughtful design, not confusion or pressure, you can start
               with a simple conversation. You can speak directly with the Space Build team by
-              calling <strong>+917906086899</strong>, or share your requirements over email at{" "}
+              calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you on the best way forward for your space.
             </p>
@@ -241,13 +242,14 @@ const Content = () => {
                   6. How do I get started with Space Build in Chandausi?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for an initial
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial
                   discussion or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with basic details about your space and requirements.
                 </p>

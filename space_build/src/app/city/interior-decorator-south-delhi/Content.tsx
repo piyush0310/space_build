@@ -177,13 +177,14 @@ const Content = () => {
               as good as it looks, a conversation with Vasterior is often the right starting point.
             </p>
             <p>
-              You may choose to call <strong>+917906086899</strong> to discuss your space, or write
+              You may choose to call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space, or write
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how interior design and MahaVastu alignment can come together for you,
               calmly, thoughtfully, and with purpose.
@@ -238,12 +239,13 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I get started?</span> You can begin by
-                calling <strong>+917906086899</strong> for an initial discussion or emailing{" "}
+                calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial discussion or emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 with details of your space and requirements.
               </li>

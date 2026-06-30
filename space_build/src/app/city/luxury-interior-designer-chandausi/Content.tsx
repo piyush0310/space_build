@@ -192,16 +192,17 @@ const Content = () => {
               If you are seeking a luxury interior designer in Chandausi who values intention as
               much as aesthetics, Vasterior would be delighted to guide you. For a detailed
               conversation about your space, you can connect with our team by calling{" "}
-              <strong>+917906086899</strong>, where we will walk you through our approach and
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we will walk you through our approach and
               understand your requirements.
             </p>
             <p>
               You may also reach out via email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation at your convenience. Your space deserves more than
               decoration; it deserves direction, balance, and thoughtful design.
@@ -267,12 +268,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can speak directly with our team by calling{" "}
-                  <strong>+917906086899</strong>, or email us at{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or email us at{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to begin your design journey.
                 </p>

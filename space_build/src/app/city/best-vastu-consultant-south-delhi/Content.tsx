@@ -207,15 +207,16 @@ const Content = () => {
               If you would like to understand what your space is currently reinforcing, and what
               it could support instead, a short conversation can bring immediate clarity. Many
               South Delhi clients begin by simply calling{" "}
-              <strong>+917906086899</strong> to share what they are experiencing.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to share what they are experiencing.
             </p>
             <p>
               If writing feels easier, a note to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               helps us understand your layout, concerns, and timelines before we meet.
             </p>
@@ -323,13 +324,14 @@ const Content = () => {
                   10) How do I book a consultation?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for a quick
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick
                   discussion, or email{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with your location, property type, and what you want to improve. We will
                   suggest the most appropriate next step.

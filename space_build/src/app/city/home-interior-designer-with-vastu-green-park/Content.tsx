@@ -159,13 +159,14 @@ const Content = () => {
             </p>
             <p>
               You may choose to speak directly with the team by calling{" "}
-              <strong>+917906086899</strong>, or share details of your home and intentions over
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share details of your home and intentions over
               email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and take the first step toward a space that truly works for you.
             </p>
@@ -239,12 +240,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by discussing your home, concerns, or plans over a call at{" "}
-                  <strong>+917906086899</strong>, or by writing to{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   . The team will guide you on the most suitable next step.
                 </p>

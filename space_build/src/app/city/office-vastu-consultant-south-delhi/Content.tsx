@@ -222,13 +222,14 @@ const Content = () => {
             </p>
             <p>
               To explore how Office Vastu can support your business in South Delhi, you can speak
-              directly with the Vasterior team by calling <strong>+917906086899</strong> for a
+              directly with the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a
               confidential discussion, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a consultation at your convenience.
             </p>

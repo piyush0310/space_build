@@ -118,15 +118,16 @@ const Content = () => {
             <p>
               Every aligned space starts with a conversation. Sometimes, a single call is enough to identify
               what your home has been silently communicating, and a quiet discussion at{" "}
-              <strong>+917906086899</strong> can open that door.
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can open that door.
             </p>
             <p>
               If you prefer to reflect before you redesign, writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often where clarity begins. No pressure. No sales talk. Just insight.
             </p>

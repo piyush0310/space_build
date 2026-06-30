@@ -158,9 +158,10 @@ const Content = () => {
                 Vastu works best when it begins with understanding, not assumptions. If you are looking for a reliable Vastu Specialist in Amroha who values clarity, ethics, and long-term results, we invite you to start with a simple conversation.
               </p>
               <p>
-                You can call us directly at <strong>+917906086899</strong> to discuss your space, concerns, or plans, or write to us at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                You can call us directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space, concerns, or plans, or write to us at{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to begin your consultation journey.
               </p>

@@ -176,16 +176,17 @@ const Content = () => {
               If you are planning a new interior project or considering a redesign in Chandausi,
               the first step is not choosing colours, it is having the right conversation. You
               can speak directly with our team by calling{" "}
-              <strong>+917906086899</strong> to discuss your space and understand what
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your space and understand what
               alignment-driven interior design can truly offer.
             </p>
             <p>
               If you prefer to share details or floor plans first, simply write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and we will guide you through the next steps with clarity and honesty. Your space
               already has potential; our role is to help you realise it, gracefully.
@@ -249,13 +250,14 @@ const Content = () => {
                   6. How do I start a project with Vasterior?
                 </h4>
                 <p>
-                  You can begin by calling <strong>+917906086899</strong> for an initial
+                  You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for an initial
                   discussion or emailing{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with basic details about your space. We will guide you on the next steps after
                   understanding your requirements.

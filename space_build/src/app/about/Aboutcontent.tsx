@@ -9,7 +9,7 @@ const AboutUs = () => {
         {/* Content */}
         <div className="space-y-8 text-gray-700 text-lg leading-relaxed">
           <p>
-           Space Build is driven by over 15+ years of expertise under the guidance of MahaVastu Acharya Chitresh Jain, with a clear vision-to transform ordinary rooms into extraordinary environments that inspire, balance, and endure. What began as a deep-rooted passion for design and artistry has evolved into a commitment to crafting interiors that harmonize functionality, elegance, individuality, and Vastu energy principles. For us, every space is more than just four walls-it is a story waiting to be told and an energy waiting to be aligned.
+           Space Build is driven by over 15+ years of expertise under the guidance of MahaVastu Mohd. Shafi, with a clear vision-to transform ordinary rooms into extraordinary environments that inspire, balance, and endure. What began as a deep-rooted passion for design and artistry has evolved into a commitment to crafting interiors that harmonize functionality, elegance, individuality, and Vastu energy principles. For us, every space is more than just four walls-it is a story waiting to be told and an energy waiting to be aligned.
           </p>
 
           <p>

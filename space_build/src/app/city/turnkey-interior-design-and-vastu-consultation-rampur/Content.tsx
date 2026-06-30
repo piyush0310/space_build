@@ -322,7 +322,7 @@ const Content = () => {
               <p className="mt-2">Contact Vasterior:</p>
               <a href="tel:+917906086899" className="text-blue-700 font-semibold underline">+917906086899</a>
               <br />
-              <a href="mailto:info@spacebuild.com" className="text-blue-700 font-semibold underline">info@spacebuild.com</a>
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-700 font-semibold underline">spacebuild.india@gamil.com</a>
             </div>
           </div>
 

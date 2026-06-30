@@ -355,10 +355,11 @@ const Content = () => {
             <p>
               If you are ready to align your new house the right way, speak
               directly with our team at Vasterior by calling{" "}
-              <strong>+917906086899</strong> or simply write to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or simply write to{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               to begin your personalised MahaVastu consultation.

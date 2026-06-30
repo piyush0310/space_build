@@ -201,7 +201,7 @@ const Content = () => {
                 📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>
               </p>
               <p className="font-semibold">
-                📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>
+                📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>
               </p>
             </div>
           </div>

@@ -161,12 +161,13 @@ const Content = () => {
               If you’re considering aligning your Greater Kailash home with both elegance and
               balance, an initial conversation with the Vasterior team can help you understand
               what’s possible. Homeowners often begin by speaking directly with the studio over a
-              call at <strong>+917906086899</strong>, or by writing to{" "}
+              call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to schedule a private consultation that explores both design and spatial alignment.
             </p>

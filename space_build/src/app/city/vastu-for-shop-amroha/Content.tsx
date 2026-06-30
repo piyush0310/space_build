@@ -158,9 +158,10 @@ const Content = () => {
                 If you feel your shop has more potential than it is currently expressing, or you simply want to start on the right foundation, a professional Vastu consultation can make a meaningful difference.
               </p>
               <p>
-                To speak with our team or schedule a consultation, you can call <strong>+917906086899</strong> or write to us at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                To speak with our team or schedule a consultation, you can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or write to us at{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
               </p>
               <p>

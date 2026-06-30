@@ -149,13 +149,14 @@ const Content = () => {
             </p>
             <p>
               To explore how Vasterior can design your space with intention and balance, you can
-              speak directly with our team by calling <strong>+917906086899</strong> or by
+              speak directly with our team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by
               writing to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . We believe the best designs begin with meaningful conversations, not rushed
               decisions.
@@ -220,12 +221,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by having an initial discussion with our team. Call{" "}
-                  <strong>+917906086899</strong> or email{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to schedule a consultation and understand the next steps.
                 </p>

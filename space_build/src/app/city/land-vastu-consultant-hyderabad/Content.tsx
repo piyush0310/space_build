@@ -250,11 +250,12 @@ const Content = () => {
               Before you finalize your land purchase, align it intelligently. If
               you are serious about building on a foundation that supports
               prosperity, stability, and long-term growth, connect directly with
-              Vasterior’s experts at <strong>+917906086899</strong> or share your
+              Vasterior’s experts at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or share your
               plot details at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               to begin your structured Land Vastu assessment.

@@ -106,13 +106,14 @@ const Content = () => {
             <p>
               If you are considering Vastu consulting for your Defence Colony home, the best place
               to start is a simple conversation. Speaking directly with the Vasterior team at{" "}
-              <strong>+917906086899</strong> allows you to understand the approach and see if it
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} allows you to understand the approach and see if it
               aligns with your needs. You can also reach out via email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin a thoughtful discussion about your space and goals.
             </p>
@@ -157,13 +158,14 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">How do I schedule a consultation?</span>{" "}
-                You can call <strong>+917906086899</strong> to speak directly with the team or
+                You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to speak directly with the team or
                 email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to schedule a consultation at your convenience.
               </li>

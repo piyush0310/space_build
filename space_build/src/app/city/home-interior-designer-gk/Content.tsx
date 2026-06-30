@@ -132,16 +132,17 @@ const Content = () => {
               If you are exploring the idea of redesigning your home in GK and want a conversation
               rooted in clarity rather than pressure, that journey often begins with a simple
               discussion. Many homeowners choose to start by calling{" "}
-              <strong>+917906086899</strong> to understand whether their space truly needs a
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to understand whether their space truly needs a
               redesign, or just better alignment.
             </p>
             <p>
               For those who prefer writing, a quiet first step can also begin by reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , sharing a few details about the home and the challenges being felt.
             </p>
@@ -228,12 +229,13 @@ const Content = () => {
                 <p>
                   You can begin by having a preliminary conversation to understand whether
                   Vasterior&apos;s approach aligns with your needs. Many clients prefer starting
-                  with a call on <strong>+917906086899</strong>, while others reach out via{" "}
+                  with a call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others reach out via{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to share details before scheduling a discussion.
                 </p>

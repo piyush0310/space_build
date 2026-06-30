@@ -182,13 +182,14 @@ const Content = () => {
             <p>
               If you are exploring interior design in Saket and feel your space could support you
               better, a conversation is often the first step. Whether it starts with a detailed
-              discussion over a call at <strong>+917906086899</strong>, or a thoughtful email
+              discussion over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or a thoughtful email
               exchange via{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , the team at Vasterior believes clarity begins with listening.
             </p>
@@ -267,12 +268,13 @@ const Content = () => {
                 </h4>
                 <p>
                   You can begin by speaking with the team over a call at{" "}
-                  <strong>+917906086899</strong> or by sharing your requirements via{" "}
+                  <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or by sharing your requirements via{" "}
                   <a
-                    href="mailto:info@spacebuild.com"
+                    href="mailto:spacebuild.india@gamil.com"
                     className="text-blue-600 hover:underline"
                   >
-                    info@spacebuild.com
+                    spacebuild.india@gamil.com
                   </a>
                   . The process always starts with understanding your space and intent.
                 </p>

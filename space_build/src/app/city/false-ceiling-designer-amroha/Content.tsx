@@ -166,9 +166,10 @@ const Content = () => {
               </h3>
               <p>
                 Ready to Transform Your Ceiling Into a Luxury Design Element? Call us today at{" "}
-                <strong>+917906086899</strong> or{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

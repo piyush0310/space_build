@@ -223,12 +223,13 @@ const Content = () => {
               <p>
                 Let the team craft a space where your stories, lifestyle, and dreams come together with architectural
                 beauty and emotional warmth. Schedule a consultation by calling{" "}
-                <strong>+917906086899</strong> or emailing{" "}
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

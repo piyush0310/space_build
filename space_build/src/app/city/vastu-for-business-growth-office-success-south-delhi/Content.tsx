@@ -164,17 +164,18 @@ const Content = () => {
             <p>
               If you feel your office is no longer supporting your growth, you can start with a
               direct conversation with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where we understand your business challenges before
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where we understand your business challenges before
               suggesting any intervention.
             </p>
             <p>
               If you prefer to share details or begin with a written overview of your space and
               concerns, you can also reach out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and our team will guide you through the next steps with clarity and discretion.
             </p>

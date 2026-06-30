@@ -222,7 +222,8 @@ const Content = () => {
               Your house will shape your daily experience for decades. Every sunrise through the right window, every entrance that invites opportunity, every room placed with intention, these details compound over time.
             </p>
             <p>
-              If you are planning Vastu for house construction in Hyderabad and want your home aligned with clarity, stability, and growth, speak directly with the experts at <strong>+917906086899</strong> or reach out via <strong><a href="mailto:info@spacebuild.com">info@spacebuild.com</a></strong> to begin designing a space that supports your future.
+              If you are planning Vastu for house construction in Hyderabad and want your home aligned with clarity, stability, and growth, speak directly with the experts at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or reach out via <strong><a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a></strong> to begin designing a space that supports your future.
             </p>
             <p>
               Vasterior doesn't just design homes. It engineers environments that elevate lives.

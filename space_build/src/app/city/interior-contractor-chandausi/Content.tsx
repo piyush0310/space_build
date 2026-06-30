@@ -146,9 +146,10 @@ const Content = () => {
               If you're considering interior design or Vastu-aligned planning in Chandausi, a simple conversation can bring surprising clarity. Many of our projects begin with a quick call where we understand your needs and suggest the right direction, no pressure, no jargon.
             </p>
             <p className="mb-8">
-              You can reach out to the Vasterior team directly by calling <strong>+917906086899</strong>, or if you prefer writing things through, an email to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can reach out to the Vasterior team directly by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or if you prefer writing things through, an email to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               , is always welcome. Either way, it starts with a conversation, and ends with a space that truly works for you.
             </p>

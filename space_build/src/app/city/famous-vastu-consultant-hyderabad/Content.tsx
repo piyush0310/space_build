@@ -310,9 +310,10 @@ const Content = () => {
               It's a silent influence on your health, mood, relationships, and money.
             </p>
             <p>So if you're done guessing, done trying random fixes, and you want a space that truly supports you, Vasterior is here.</p>
-            <p>For a quick consultation, you can call <strong>+917906086899</strong> and speak with our team, or simply email your layout and concern to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+            <p>For a quick consultation, you can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and speak with our team, or simply email your layout and concern to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>, we'll respond with the best next step based on your space.
             </p>
 
@@ -397,9 +398,10 @@ const Content = () => {
                   10) How do I book a Vastu consultation with Vasterior?
                 </h3>
                 <p>
-                  You can start by calling <strong>+917906086899</strong> for guidance, or email{" "}
-                  <a href="mailto:info@spacebuild.com" className="font-semibold">
-                    info@spacebuild.com
+                  You can start by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for guidance, or email{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   with your layout and requirements for the next steps.
                 </p>

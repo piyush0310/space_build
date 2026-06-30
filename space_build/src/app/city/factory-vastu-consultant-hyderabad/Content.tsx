@@ -231,12 +231,13 @@ const Content = () => {
             </p>
             <p>
               Speak directly with Vasterior’s experts and begin your Factory Vastu audit by
-              calling <strong>+917906086899</strong>, or simply drop a detailed query at{" "}
+              calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or simply drop a detailed query at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="font-semibold"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , and let’s transform your manufacturing unit into a growth-aligned powerhouse.
               The sooner you align, the sooner you accelerate.

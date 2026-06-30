@@ -174,7 +174,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     6. How do I get started?
                   </h3>
-                  <p>You can begin with a simple inquiry, either by calling +917906086899 or reaching out via <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a>, to discuss your space and requirements.</p>
+                  <p>You can begin with a simple inquiry, either by calling +917906086899 or reaching out via <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>, to discuss your space and requirements.</p>
                 </div>
               </div>
             </div>
@@ -192,7 +192,7 @@ const Content = () => {
               </p>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">info@spacebuild.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
               </div>
             </div>
           </div>

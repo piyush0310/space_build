@@ -116,9 +116,10 @@ const Content = () => {
               If you're planning a new home, renovating an existing space, or setting up a commercial property in Chandausi, the right conversation can change everything.
             </p>
             <p className="mb-8">
-              A quick call with the Vasterior team at <strong>+917906086899</strong> can help you understand what's possible for your space, without pressure or jargon. If you prefer to start with details or drawings, writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              A quick call with the Vasterior team at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help you understand what's possible for your space, without pressure or jargon. If you prefer to start with details or drawings, writing to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               is an easy first step toward a well-planned, vastu-aligned interior.
             </p>
@@ -149,9 +150,10 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">How do I start working with Vasterior?</h3>
                 <p>
-                  You can begin with a simple conversation. Calling <strong>+917906086899</strong> allows you to discuss your space and expectations, or you can share your requirements over email at{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  You can begin with a simple conversation. Calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} allows you to discuss your space and expectations, or you can share your requirements over email at{" "}
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>{" "}
                   to start the design process.
                 </p>

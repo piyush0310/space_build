@@ -196,12 +196,13 @@ const Content = () => {
             </h2>
             <p>
               If you're serious about correcting what's blocking your growth, don't delay clarity. You can speak directly with our team by calling{" "}
-              <strong>+917906086899</strong> and schedule your professional Vastu inspection consultation. 
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and schedule your professional Vastu inspection consultation. 
             </p>
             <p>
               If you prefer written communication, simply drop your property details at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">info@spacebuild.com</a>
+                <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a>
               </strong>, and our experts will guide you through the next steps.
             </p>
             <p>Your property is already influencing your life. The question is, is it supporting you?</p>
@@ -287,9 +288,10 @@ const Content = () => {
                   10. How do I book a Vastu inspection with Vasterior?
                 </h3>
                 <p>
-                  You can schedule your consultation by calling <strong>+917906086899</strong> or emailing your property details to{" "}
+                  You can schedule your consultation by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing your property details to{" "}
                   <strong>
-                    <a href="mailto:info@spacebuild.com">info@spacebuild.com</a>
+                    <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a>
                   </strong> to begin the process.
                 </p>
               </div>

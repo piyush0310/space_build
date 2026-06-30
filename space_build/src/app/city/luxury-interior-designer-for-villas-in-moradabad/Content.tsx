@@ -203,7 +203,7 @@ const Content = () => {
             <div className="space-y-2">
               <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
-              <p><strong>📧 Email:</strong> info@spacebuild.com</p>
+              <p><strong>📧 Email:</strong> spacebuild.india@gamil.com</p>
               <p><strong>🌐 Website:</strong> www.vasterior.com</p>
             </div>
             

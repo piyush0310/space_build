@@ -162,12 +162,13 @@ const Content = () => {
             <p>
               If you are curious whether your bedroom is helping or hindering your rest, a simple
               conversation can bring clarity. Many South Delhi homeowners start by speaking with us
-              directly at <strong>+917906086899</strong>, or by writing to{" "}
+              directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               , not to commit, but to understand.
             </p>

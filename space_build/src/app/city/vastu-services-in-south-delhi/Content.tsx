@@ -112,14 +112,15 @@ const Content = () => {
             </p>
             <p>
               If you feel ready to explore this quietly powerful shift, a thoughtful conversation
-              with the Vasterior team at <strong>+917906086899</strong> can help you understand
+              with the Vasterior team at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help you understand
               what your space might be communicating. For those who prefer to begin in writing,
               reaching out at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               allows the dialogue to unfold at your pace.
             </p>

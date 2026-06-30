@@ -118,9 +118,10 @@ const Content = () => {
               If you're planning civil + interior work in Chandausi, or even rethinking an existing space, a single conversation can save months of mistakes. Many of our projects begin with a simple call to understand possibilities, timelines, and alignment.
             </p>
             <p className="mb-8">
-              You can always reach the Vasterior team directly at <strong>+917906086899</strong>, or start the conversation over email at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              You can always reach the Vasterior team directly at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or start the conversation over email at{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               whenever it's convenient.
             </p>

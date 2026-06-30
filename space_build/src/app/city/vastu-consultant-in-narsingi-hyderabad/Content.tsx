@@ -399,10 +399,10 @@ const Content = () => {
               with Vasterior and schedule your personalized MahaVastu
               consultation by calling +917906086899, or simply write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin your energy alignment journey.
             </p>

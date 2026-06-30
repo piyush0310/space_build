@@ -289,11 +289,12 @@ const Content = () => {
               want in your corner.
             </p>
             <p>
-              You can call <strong>+917906086899</strong> for a quick
+              You can call <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick
               consultation discussion, or email{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>{" "}
               and we will guide you with the next best step based on your space

@@ -135,9 +135,10 @@ const Content = () => {
             <p>
               If you're considering a modular kitchen designed with both elegance and alignment in 
               mind, a quiet conversation can often bring clarity. You can reach the Vasterior team 
-              by calling <strong>+917906086899</strong>, or by writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or by writing to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>{" "}
               to explore how MahaVastu-guided design can be adapted to your CR Park home.
             </p>

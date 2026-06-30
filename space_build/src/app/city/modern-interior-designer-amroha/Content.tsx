@@ -218,12 +218,13 @@ const Content = () => {
                 We don't believe in shortcuts or superficial design. We believe in homes that age beautifully and support your lifestyle for years to come.
               </p>
               <p>
-                Let's Design Your Home in Amroha. If you are searching for a modern interior designer in Amroha who combines aesthetics, functionality, and thoughtful execution, we would love to connect. Speak to Our Interior Design Expert at <strong>+917906086899</strong> or{" "}
+                Let's Design Your Home in Amroha. If you are searching for a modern interior designer in Amroha who combines aesthetics, functionality, and thoughtful execution, we would love to connect. Speak to Our Interior Design Expert at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>
                 .
               </p>

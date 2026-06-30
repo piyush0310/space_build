@@ -162,9 +162,10 @@ const Content = () => {
               If you are evaluating a flat, villa, plot, or commercial space, connect with Vasterior for a strategic pre-purchase Vastu assessment. A single consultation can prevent years of energetic misalignment.
             </p>
             <p>
-              You can schedule your assessment by calling <strong>+917906086899</strong> and speaking directly with the Vasterior team, or by writing to{" "}
-              <a href="mailto:info@spacebuild.com" className="font-semibold">
-                info@spacebuild.com
+              You can schedule your assessment by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} and speaking directly with the Vasterior team, or by writing to{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
+                spacebuild.india@gamil.com
               </a>{" "}
               to secure a detailed MahaVastu evaluation before committing to your investment.
             </p>

@@ -165,8 +165,8 @@ const Content = () => {
                   +917906086899
                 </a>
                 , or drop us a note at{" "}
-                <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gamil.com
                 </a>
                 . We'll guide you with honesty, not hype.
               </p>
@@ -228,8 +228,8 @@ const Content = () => {
                       +917906086899
                     </a>{" "}
                     or email{" "}
-                    <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                      info@spacebuild.com
+                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gamil.com
                     </a>
                     , and we'll guide you through the next steps.
                   </p>
@@ -254,8 +254,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                    info@spacebuild.com
+                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gamil.com
                   </a>
                 </p>
               </div>

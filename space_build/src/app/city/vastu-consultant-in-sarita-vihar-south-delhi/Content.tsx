@@ -188,13 +188,14 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Vasterior team by calling{" "}
-              <strong>+917906086899</strong>, where your concerns will be understood before any
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, where your concerns will be understood before any
               advice is given. If you prefer writing, simply email{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to begin a thoughtful, no-pressure consultation process.
             </p>

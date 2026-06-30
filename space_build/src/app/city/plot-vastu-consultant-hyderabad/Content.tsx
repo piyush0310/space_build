@@ -224,11 +224,12 @@ const Content = () => {
             <p>
               If you are planning to purchase or build on a plot in Hyderabad, now
               is the time to consult. You can speak directly with the MahaVastu
-              experts at Vasterior by calling <strong>+917906086899</strong> or
+              experts at Vasterior by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or
               initiate a detailed consultation discussion via email at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               .

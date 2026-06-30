@@ -163,12 +163,13 @@ const Content = () => {
               If you are considering interior renovation services in Lajpat Nagar and want a space
               that feels aligned rather than merely altered, a thoughtful conversation is the right
               place to begin. Our team can be reached over a direct call at{" "}
-              <strong>+917906086899</strong>, or you may choose to write to us at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or you may choose to write to us at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               to initiate a consultation and understand whether this approach suits your home.
             </p>

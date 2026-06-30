@@ -117,9 +117,10 @@ const Content = () => {
               If you're planning to build or renovate a restaurant in Chandausi, this is where it starts. A quick conversation can bring clarity to your layout, design direction, and Vastu alignment.
             </p>
             <p className="mb-8">
-              Many restaurant owners prefer to begin by discussing their ideas over a call at <strong>+917906086899</strong>, while others find it easier to share plans and questions via{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              Many restaurant owners prefer to begin by discussing their ideas over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, while others find it easier to share plans and questions via{" "}
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a>
               . Either way, the team at Vasterior ensures you receive honest guidance and a clear design direction from the very first interaction.
             </p>

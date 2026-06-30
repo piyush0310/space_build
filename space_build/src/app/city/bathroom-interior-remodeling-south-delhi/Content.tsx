@@ -192,12 +192,13 @@ const Content = () => {
             </p>
             <p>
               You can speak directly with the Space Build team by calling{" "}
-              <strong>+917906086899</strong>, or share your requirements over email at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "}, or share your requirements over email at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               . Whether it is a complete remodel or a layout correction, we approach every space
               with care, clarity, and intention.
@@ -260,12 +261,13 @@ const Content = () => {
                 <span className="font-semibold">
                   How do I get started with Space Build?
                 </span>{" "}
-                You can begin by calling <strong>+917906086899</strong> or emailing{" "}
+                You can begin by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 to schedule an initial discussion about your space and requirements.
               </li>

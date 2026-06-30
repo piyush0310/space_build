@@ -162,12 +162,13 @@ const Content = () => {
               If you would like to explore how your Lajpat Nagar home can be better aligned,
               visually, emotionally, and spatially, you can begin by speaking directly with the
               Vasterior team. A calm discussion over a call at{" "}
-              <strong>+917906086899</strong> or a detailed note shared at{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or a detailed note shared at{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               is often enough to understand the next right step.
             </p>
@@ -237,13 +238,14 @@ const Content = () => {
             </p>
             <p>
               When you are ready to listen to what your home has been trying to say, the
-              conversation can begin naturally, over a call at <strong>+917906086899</strong> or an
+              conversation can begin naturally, over a call at <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or an
               email to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>
               .
             </p>

@@ -144,13 +144,14 @@ const Content = () => {
               If you are considering a home renovation in Kalkaji and want clarity on what your
               space truly needs, a simple conversation can often reveal more than months of
               uncertainty. You may reach out by calling{" "}
-              <strong>+917906086899</strong> to discuss your home and its possibilities, or write
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss your home and its possibilities, or write
               to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               if you prefer to begin over email.
             </p>

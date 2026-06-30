@@ -192,12 +192,13 @@ const Content = () => {
               that looks right but feels off, a conversation can bring clarity fast. Many South
               Delhi clients start by sharing a basic floor plan and a few concerns, then we take it
               forward from there, so you can call{" "}
-              <strong>+917906086899</strong> when you are ready, or write to{" "}
+              <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} when you are ready, or write to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               and tell us what you are planning and what you want your home to feel like.
             </p>
@@ -279,12 +280,13 @@ const Content = () => {
               <li>
                 <span className="font-semibold">How do I book a consultation?</span>{" "}
                 Start with a short conversation. When it feels aligned, you can call{" "}
-                <strong>+917906086899</strong> for a quick slot, or email{" "}
+                <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} for a quick slot, or email{" "}
                 <a
-                  href="mailto:info@spacebuild.com"
+                  href="mailto:spacebuild.india@gamil.com"
                   className="text-blue-600 hover:underline"
                 >
-                  info@spacebuild.com
+                  spacebuild.india@gamil.com
                 </a>{" "}
                 with your location in South Delhi, property type, and what you want help with.
               </li>

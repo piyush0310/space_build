@@ -185,16 +185,17 @@ const Content = () => {
             <p>
               If you are looking for a Vastu consultant in Qutub Institutional Area who respects
               both energy and aesthetics, a conversation is the best place to start. You can speak
-              directly with the Vasterior team by calling <strong>+917906086899</strong> to discuss
+              directly with the Vasterior team by calling <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} to discuss
               your space and understand what kind of alignment it truly needs.
             </p>
             <p>
               For detailed queries, drawings, or consultation requests, writing to{" "}
               <a
-                href="mailto:info@spacebuild.com"
+                href="mailto:spacebuild.india@gamil.com"
                 className="text-blue-600 hover:underline"
               >
-                info@spacebuild.com
+                spacebuild.india@gamil.com
               </a>{" "}
               allows the team to respond thoughtfully and recommend the right next steps, without
               rushing the process.

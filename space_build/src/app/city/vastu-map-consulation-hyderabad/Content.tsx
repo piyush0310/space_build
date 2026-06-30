@@ -229,11 +229,12 @@ const Content = () => {
             </p>
             <p>
               To schedule your personalised consultation, you may speak directly
-              with our team on <strong>+917906086899</strong> or share your
+              with our team on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} or share your
               property details at{" "}
               <strong>
-                <a href="mailto:info@spacebuild.com">
-                  info@spacebuild.com
+                <a href="mailto:spacebuild.india@gamil.com">
+                  spacebuild.india@gamil.com
                 </a>
               </strong>
               , and we will guide you through the next steps toward energy

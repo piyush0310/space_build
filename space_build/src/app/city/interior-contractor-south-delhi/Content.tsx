@@ -217,11 +217,12 @@ const Content = () => {
             </p>
             <p>
               If you’re exploring an interior contractor in South Delhi who blends design excellence with 
-              MahaVastu alignment, a quick call on <strong>+917906086899</strong> can help clarify whether 
+              MahaVastu alignment, a quick call on <strong>+919927611780</strong> or{" "}
+             <strong>+918077973797</strong> or{" "} can help clarify whether 
               this approach is right for you. For those who prefer to start in writing, sharing your 
               requirements at{" "}
-              <a href="mailto:info@spacebuild.com" className="text-blue-600 hover:underline">
-                info@spacebuild.com
+              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gamil.com
               </a> is just as welcome.
             </p>
 
