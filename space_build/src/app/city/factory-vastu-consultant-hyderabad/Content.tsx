@@ -234,10 +234,10 @@ const Content = () => {
               calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or simply drop a detailed query at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and let’s transform your manufacturing unit into a growth-aligned powerhouse.
               The sooner you align, the sooner you accelerate.

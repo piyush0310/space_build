@@ -65,7 +65,7 @@ export default function PrivacyPolicyPage() {
             <div className="bg-gray-50 p-6 rounded-lg mb-6">
               <p className="font-semibold text-gray-900 mb-2">Vasterior</p>
               <p className="text-gray-700 mb-1"><strong>Office:</strong> Office No. A4, First Floor, Khosla Complex, Gagan Vihar Extension, Delhi – 110092</p>
-              <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gmail.com</p>
               <p className="text-gray-700"><strong>Phone:</strong> +917906086899</p>
             </div>
 
@@ -153,7 +153,7 @@ export default function PrivacyPolicyPage() {
               <li>Data portability.</li>
             </ul>
             <p className="mb-6">
-              To exercise any rights, please contact us at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>. We will respond in accordance with applicable law.
+              To exercise any rights, please contact us at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>. We will respond in accordance with applicable law.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">11. Children</h2>
@@ -177,7 +177,7 @@ export default function PrivacyPolicyPage() {
             </p>
             <div className="bg-gray-50 p-6 rounded-lg mb-6">
               <p className="font-semibold text-gray-900 mb-2">Vasterior</p>
-              <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gmail.com</p>
               <p className="text-gray-700 mb-1"><strong>Phone:</strong> +917906086899</p>
               <p className="text-gray-700"><strong>Office:</strong> Office No. A4, First Floor, Khosla Complex, Gagan Vihar Extension, Delhi – 110092</p>
             </div>
@@ -196,7 +196,7 @@ export default function PrivacyPolicyPage() {
             </div>
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Email</h3>
-              <p className="text-gray-600">spacebuild.india@gamil.com</p>
+              <p className="text-gray-600">spacebuild.india@gmail.com</p>
             </div>
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Office</h3>

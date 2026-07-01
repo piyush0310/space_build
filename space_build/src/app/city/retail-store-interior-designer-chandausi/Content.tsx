@@ -142,8 +142,8 @@ const Content = () => {
             <p className="mb-4">
               If you're planning a new retail space or feel your current store isn't delivering the results it should, a conversation can change everything. Many of our clients start by simply discussing their vision over a call at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or by sharing their requirements via{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>
               , and from there, clarity follows.
             </p>
@@ -181,8 +181,8 @@ const Content = () => {
                 <p>
                   You can begin by reaching out for an initial discussion, either through a quick call at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by emailing your project details to{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                   . We'll guide you from there.
                 </p>

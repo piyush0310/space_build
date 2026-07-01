@@ -127,8 +127,8 @@ const Content = () => {
               <p>
                 To schedule a consultation or discuss your space, you can call us at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
                 . We'll help you understand what your space needs, and how to align it with intention and ease.
               </p>

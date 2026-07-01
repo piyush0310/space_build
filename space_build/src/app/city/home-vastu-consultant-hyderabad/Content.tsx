@@ -241,10 +241,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule your personalised Home Vastu consultation in
               Hyderabad. The next shift in your life may begin with a simple

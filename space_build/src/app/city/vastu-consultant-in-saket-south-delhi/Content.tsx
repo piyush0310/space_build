@@ -150,10 +150,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your space and concerns, or by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               if you prefer a more detailed conversation over email. Either way, the first step is
               clarity, and it starts with a conversation.
@@ -205,10 +205,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to speak with the team directly or
                 email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to begin your consultation process.
               </li>

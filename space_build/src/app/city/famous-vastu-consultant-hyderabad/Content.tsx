@@ -312,8 +312,8 @@ const Content = () => {
             <p>So if you're done guessing, done trying random fixes, and you want a space that truly supports you, Vasterior is here.</p>
             <p>For a quick consultation, you can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} and speak with our team, or simply email your layout and concern to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="font-semibold">
+                spacebuild.india@gmail.com
               </a>, we'll respond with the best next step based on your space.
             </p>
 
@@ -400,8 +400,8 @@ const Content = () => {
                 <p>
                   You can start by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for guidance, or email{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="font-semibold">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with your layout and requirements for the next steps.
                 </p>

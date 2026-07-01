@@ -175,10 +175,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, while others choose to share
               their thoughts in writing at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . Either way, the dialogue is thoughtful, confidential, and
               pressure-free.

@@ -149,8 +149,8 @@ const Content = () => {
                   +917906086899
                 </a>{" "}
                 can help you understand how your space can start supporting your goals instead of silently working against them. And if you prefer to begin thoughtfully, writing to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 is often the first aligned step toward lasting change.
               </p>
@@ -230,8 +230,8 @@ const Content = () => {
                 </p>
                 <p className="font-semibold">
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

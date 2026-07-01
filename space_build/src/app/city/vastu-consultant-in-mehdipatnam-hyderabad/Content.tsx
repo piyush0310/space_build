@@ -269,10 +269,10 @@ const Content = () => {
               and understand how MahaVastu alignment can help, or share your
               requirements anytime at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , where our team responds with personalized guidance to get you
               started.

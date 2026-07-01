@@ -102,7 +102,7 @@ const Content = () => {
                 A Calmer Home Starts with One Conversation
               </h3>
               <p className="mt-4">
-                Whether you're planning a new interior or correcting an existing space, a single consultation can bring clarity. Many of our clients begin with a simple call to <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, just to understand what's possible for their flat. Others prefer writing to us at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> to discuss their concerns in detail before moving ahead.
+                Whether you're planning a new interior or correcting an existing space, a single consultation can bring clarity. Many of our clients begin with a simple call to <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, just to understand what's possible for their flat. Others prefer writing to us at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> to discuss their concerns in detail before moving ahead.
               </p>
               <p className="mt-4">
                 There's no pressure, only practical guidance rooted in experience.
@@ -143,7 +143,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     5. How do I get started with Vasterior in Chandausi?
                   </h3>
-                  <p>You can begin by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> for a quick discussion or emailing <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> with details about your flat. We'll guide you from there.</p>
+                  <p>You can begin by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> for a quick discussion or emailing <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> with details about your flat. We'll guide you from there.</p>
                 </div>
               </div>
             </div>
@@ -161,7 +161,7 @@ const Content = () => {
               </p>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
               </div>
             </div>
           </div>

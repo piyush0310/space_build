@@ -142,8 +142,8 @@ const Content = () => {
                   +917906086899
                 </a>
                 , while others prefer sharing details about their space over email at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
                 . Either way, the first step is clarity, and that's where alignment begins.
               </p>
@@ -205,8 +205,8 @@ const Content = () => {
                       +917906086899
                     </a>
                     , or by emailing your query and space details to{" "}
-                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gmail.com
                     </a>
                     . The process is simple and pressure-free.
                   </p>
@@ -231,8 +231,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

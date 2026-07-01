@@ -367,7 +367,7 @@ const Content = () => {
                 or workspace, call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for a quick
                 consultation, or send a detailed request to{" "}
-                <strong>spacebuild.india@gamil.com</strong>. We guide you with
+                <strong>spacebuild.india@gmail.com</strong>. We guide you with
                 clarity, not confusion.
               </p>
               <p>Because when your space aligns… everything starts aligning.</p>

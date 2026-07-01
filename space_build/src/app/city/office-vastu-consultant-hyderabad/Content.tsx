@@ -149,8 +149,8 @@ const Content = () => {
             <p>
               If you’re ready to align your home or business with measurable prosperity, simply call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="font-semibold">
+                spacebuild.india@gmail.com
               </a>{" "}
               and allow Vasterior to guide your transformation with precision-driven MahaVastu corrections.
             </p>

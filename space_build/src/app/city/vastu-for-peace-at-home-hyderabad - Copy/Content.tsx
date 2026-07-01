@@ -231,8 +231,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} and let us assess your space with
               precision, or simply write to us at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               to begin your MahaVastu-backed home alignment journey.

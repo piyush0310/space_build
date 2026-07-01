@@ -206,10 +206,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} and speak with
               our team, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule your personalized Virtual Vastu Consultation.
             </p>
@@ -317,10 +317,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}{" "}
                   for immediate assistance, or email{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="font-semibold"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to schedule your session and begin your alignment journey.
                 </p>

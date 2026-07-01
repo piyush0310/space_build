@@ -358,8 +358,8 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or simply write to{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               to begin your personalised MahaVastu consultation.

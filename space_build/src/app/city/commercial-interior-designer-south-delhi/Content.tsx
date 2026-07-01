@@ -146,10 +146,10 @@ const Content = () => {
             <p>
               Others prefer to outline their vision over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , letting the process begin thoughtfully.
             </p>

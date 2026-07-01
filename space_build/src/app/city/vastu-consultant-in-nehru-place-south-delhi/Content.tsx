@@ -277,10 +277,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a calm, no-pressure
               discussion, or by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to explore how a Vastu-aligned approach could support your space.
             </p>

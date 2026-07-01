@@ -149,10 +149,10 @@ const Content = () => {
             <p>
               And if you prefer to begin thoughtfully, you can always reach out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to start the dialogue.
             </p>

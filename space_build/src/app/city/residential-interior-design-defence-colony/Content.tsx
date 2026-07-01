@@ -142,10 +142,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an unhurried discussion about their space, while
               others choose to write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to explore whether the alignment feels right before moving ahead.
             </p>
@@ -229,10 +229,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to discuss your home and
                   expectations, or by emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   if you prefer to start with a written overview. The first step is always a
                   conversation, not a commitment.

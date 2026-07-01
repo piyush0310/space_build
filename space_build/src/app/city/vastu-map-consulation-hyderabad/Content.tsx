@@ -233,8 +233,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} or share your
               property details at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>
               , and we will guide you through the next steps toward energy

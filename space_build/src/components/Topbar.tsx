@@ -35,12 +35,12 @@ const TopBar: React.FC = () => {
 
           {/* Email */}
           <a 
-            href="mailto:spacebuild.india@gamil.com" 
+            href="mailto:spacebuild.india@gmail.com" 
             className="flex items-center space-x-1 sm:space-x-2 text-gray-600 hover:text-purple-600 transition-colors duration-200"
             aria-label="Email us"
           >
             <IoMailOutline className="w-4 h-4 sm:w-5 sm:h-5 text-black" aria-hidden="true" />
-            <span className="sm:inline text-xs sm:text-sm">spacebuild.india@gamil.com</span>
+            <span className="sm:inline text-xs sm:text-sm">spacebuild.india@gmail.com</span>
           </a>
         </div>
       </div>

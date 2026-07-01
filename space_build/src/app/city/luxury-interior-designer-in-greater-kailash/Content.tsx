@@ -198,10 +198,10 @@ const Content = () => {
               designed with greater clarity and purpose. For a more detailed
               discussion or to share drawings and site information, writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often the most seamless way to begin.
             </p>

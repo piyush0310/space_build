@@ -236,8 +236,8 @@ const Content = () => {
             <p>
               When you're ready to move from doubt to direction, a thoughtful call to{" "}
               <span className="text-blue-600 underline">+917906086899</span> or a message to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               is where your transformation begins. This is not about cost. This is about alignment done right.
             </p>

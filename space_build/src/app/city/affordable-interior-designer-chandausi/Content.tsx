@@ -178,10 +178,10 @@ const Content = () => {
               calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or share your requirements over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we will guide you on the best way forward for your space.
             </p>
@@ -246,10 +246,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an initial
                   discussion or emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with basic details about your space and requirements.
                 </p>

@@ -143,7 +143,7 @@ const Content = () => {
                 If you're feeling unsure about your home or workspace, a simple discussion can bring surprising insight. Many of our clients begin with a call and walk away with instant clarity, and a clear next step.
               </p>
               <p className="mt-4">
-                You can reach out directly by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> for a conversation, or if you prefer writing things down, an email to <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>, is always a good place to start.
+                You can reach out directly by calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> for a conversation, or if you prefer writing things down, an email to <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>, is always a good place to start.
               </p>
               <p className="mt-4 font-semibold">
                 No pressure. Just perspective.
@@ -190,7 +190,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     6. How do I get started with a consultation?
                   </h3>
-                  <p>Start with a conversation. A quick call on <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or an email to <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> helps us understand your space and guide you on the best next step.</p>
+                  <p>Start with a conversation. A quick call on <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or an email to <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> helps us understand your space and guide you on the best next step.</p>
                 </div>
               </div>
             </div>
@@ -208,7 +208,7 @@ const Content = () => {
               </p>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline font-semibold">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline font-semibold">spacebuild.india@gamil.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline font-semibold">spacebuild.india@gmail.com</a></p>
               </div>
             </div>
           </div>

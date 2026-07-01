@@ -160,10 +160,10 @@ const Content = () => {
             <p>
               For a more detailed inquiry or to schedule a consultation, you can also write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the team will guide you through the next steps.
             </p>

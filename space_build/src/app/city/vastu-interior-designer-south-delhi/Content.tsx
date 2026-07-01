@@ -202,10 +202,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or you can share details about your space and
               concerns over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . Whether you are planning a full interior transformation or simply seeking
               guidance, Vasterior approaches every interaction with care, discretion, and respect
@@ -273,10 +273,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an initial discussion or
                 emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to share details about your space and requirements.
               </li>

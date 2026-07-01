@@ -144,8 +144,8 @@ const Content = () => {
             <p>
               You can speak directly with our team at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your requirements, or share your space details and expectations via email at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>
               . We believe the best kitchens begin with clarity, collaboration, and intention.
             </p>
@@ -188,8 +188,8 @@ const Content = () => {
                 <p>
                   Simply call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to schedule an initial discussion and design consultation.
                 </p>

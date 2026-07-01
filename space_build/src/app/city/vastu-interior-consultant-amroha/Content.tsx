@@ -219,8 +219,8 @@ const Content = () => {
                 Book your Amroha Vastu Interior consultation with Vasterior today. For further details, connect with our experts today at{" "}
                 <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
                 .
               </p>

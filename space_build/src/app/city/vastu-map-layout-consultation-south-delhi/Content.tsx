@@ -195,10 +195,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} when you are ready, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               and tell us what you are planning and what you want your home to feel like.
             </p>
@@ -283,10 +283,10 @@ const Content = () => {
                 <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for a quick slot, or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 with your location in South Delhi, property type, and what you want help with.
               </li>

@@ -141,8 +141,8 @@ const Content = () => {
             <p>
               If you are planning to buy a house in Hyderabad and want professional clarity before making the final decision, speak with our experts at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="font-semibold">
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule your personalised MahaVastu consultation.
             </p>

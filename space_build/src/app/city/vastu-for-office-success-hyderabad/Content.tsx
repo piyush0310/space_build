@@ -207,10 +207,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to speak directly with the team or
               share your requirements via{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and begin your transformation.
             </p>

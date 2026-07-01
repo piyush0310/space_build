@@ -203,10 +203,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or by sharing a brief overview of your space and
               concerns at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . The goal is not to rush decisions, but to understand whether your space is truly
               working for you.

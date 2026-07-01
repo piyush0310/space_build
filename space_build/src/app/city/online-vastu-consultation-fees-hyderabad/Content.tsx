@@ -179,8 +179,8 @@ const Content = () => {
               <p>
                 If you're ready to align your home or business with measurable prosperity, simply call{" "}
                 <span className="text-blue-600 font-bold">+917906086899</span> or write to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline font-bold">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline font-bold">
+                  spacebuild.india@gmail.com
                 </a>
               </p>
               <p className="font-semibold mt-4">

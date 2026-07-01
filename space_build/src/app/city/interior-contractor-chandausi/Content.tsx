@@ -148,8 +148,8 @@ const Content = () => {
             <p className="mb-8">
               You can reach out to the Vasterior team directly by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or if you prefer writing things through, an email to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>
               , is always welcome. Either way, it starts with a conversation, and ends with a space that truly works for you.
             </p>

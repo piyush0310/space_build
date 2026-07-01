@@ -169,10 +169,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or share your
               thoughts and requirements over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . The goal isn&apos;t to sell, it&apos;s to understand whether your space and
               Vasterior are the right fit for each other.
@@ -264,10 +264,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an initial discussion
                   or emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with details about your home and expectations.
                 </p>

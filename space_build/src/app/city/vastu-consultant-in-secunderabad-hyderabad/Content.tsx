@@ -213,10 +213,10 @@ const Content = () => {
             <p>
               If you're planning to harmonize your home or workspace, a quick conversation with our team at +917906086899 can help you understand how MahaVastu alignment applies specifically to your property. You can also begin your consultation journey by sharing your requirements at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and our experts will guide you toward the next steps with clarity and care.
             </p>

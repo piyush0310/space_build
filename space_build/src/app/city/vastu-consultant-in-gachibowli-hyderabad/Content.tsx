@@ -164,8 +164,8 @@ const Content = () => {
             <p>
               If you're ready to align your home or office in Gachibowli with scientific MahaVastu principles, speak directly with our experts at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or share your floor plan at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               and let Vasterior design a space that supports your ambition instead of resisting it.
             </p>

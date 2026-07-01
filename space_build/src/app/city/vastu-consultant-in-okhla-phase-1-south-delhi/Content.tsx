@@ -194,10 +194,10 @@ const Content = () => {
               consultation makes sense for your space. If you prefer a more
               detailed discussion, you can also reach out via{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the team will guide you through the process with honesty
               and care.

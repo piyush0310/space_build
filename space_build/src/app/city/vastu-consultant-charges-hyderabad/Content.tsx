@@ -128,8 +128,8 @@ const Content = () => {
             <p>
               When you're ready to discuss your property and get transparent pricing based on your specific requirements, simply call{" "}
               <span className="text-blue-600 underline">+917906086899</span> and have a direct conversation with our team, or send your layout details to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               so we can evaluate your space before recommending the right consultation structure.
             </p>

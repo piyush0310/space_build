@@ -285,8 +285,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a quick consultation
               discussion, or email us at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               and we will guide you with the best next step based on your space.
@@ -402,8 +402,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or by
                   writing to{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com">
+                      spacebuild.india@gmail.com
                     </a>
                   </strong>
                   , and we will guide you based on your space type and

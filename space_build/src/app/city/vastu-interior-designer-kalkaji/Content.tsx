@@ -142,8 +142,8 @@ const Content = () => {
               endless visual references. Vasterior welcomes such conversations, whether through a 
               quiet call at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or a detailed note shared at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to understand whether MahaVastu-aligned interior design is the right next step for 
               your space.

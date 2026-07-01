@@ -252,10 +252,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or share a brief overview of your space and concerns
               by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . We will guide you on whether a Vastu consultation is right for your home or
               workplace, and how to approach it without stress or disruption.

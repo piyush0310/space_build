@@ -1252,11 +1252,11 @@ export default function PricingPage() {
               +917906086899
             </a>
             <a
-              href="mailto:spacebuild.india@gamil.com"
+              href="mailto:spacebuild.india@gmail.com"
               className="flex items-center gap-2 bg-white/70 hover:bg-white px-5 py-3 rounded-xl text-gray-800 font-sans font-semibold text-sm border border-[#c9ad85] transition-all duration-200 shadow-sm hover:shadow"
             >
               <Mail size={15} className="text-[#8a6a42]" />
-              spacebuild.india@gamil.com
+              spacebuild.india@gmail.com
             </a>
           </div>
           <p className="text-xs font-sans text-gray-500 mb-5 tracking-wide uppercase">

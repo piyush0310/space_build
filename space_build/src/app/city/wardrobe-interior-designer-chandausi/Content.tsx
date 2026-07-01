@@ -144,7 +144,7 @@ const Content = () => {
             </h2>
             <p className="mt-4">
               If you&apos;re planning a new wardrobe or upgrading an existing one, a thoughtful conversation can save you years of inconvenience. You can speak directly with our team at <strong>+919927611780</strong> or{" "}
-             <strong>+918077973797</strong> or{" "} to discuss your wardrobe interior requirements in Chandausi, or write to us at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> to begin with design clarity.
+             <strong>+918077973797</strong> or{" "} to discuss your wardrobe interior requirements in Chandausi, or write to us at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> to begin with design clarity.
             </p>
             <p className="font-semibold text-gray-900">
               A well-designed wardrobe doesn&apos;t just store clothes, it simplifies life.

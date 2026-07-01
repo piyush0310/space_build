@@ -164,10 +164,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to speak directly with a Vasterior
               consultant, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to begin a calm, confidential discussion about your space and well-being. There is no
               pressure, only clarity.
@@ -224,10 +224,10 @@ const Content = () => {
                 Calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 allows your concerns to be understood and addressed with clear guidance.
               </li>

@@ -283,7 +283,7 @@ export const blogPosts: BlogPost[] = [
           "At spacebuild, we help East Delhi homeowners uncover hidden spatial and energy challenges through a powerful combination of MahaVastu principles and intelligent Spatial Planning.",
           "Because prosperity is not created by effort alone. It is also supported by the environment where that effort lives.",
           "Book your personalized spacebuild consultation today and discover how thoughtful design can help create a more harmonious, balanced, and prosperous future.",
-          "Connect with our team at +91 1234567890 or write to spacebuild.india@gamil.com."
+          "Connect with our team at +91 1234567890 or write to spacebuild.india@gmail.com."
         ]
       },
 
@@ -299,7 +299,7 @@ export const blogPosts: BlogPost[] = [
           "<strong>7. How long does a Vastu assessment take?</strong><br>The timeline depends on property size and project scope.",
           "<strong>8. Can apartments in East Delhi benefit from MahaVastu?</strong><br>Absolutely. MahaVastu principles can be applied to apartments, villas, and independent homes.",
           "<strong>9. What role does Spatial Planning play in prosperity?</strong><br>Spatial Planning improves functionality, movement flow, room usage, and overall living experience.",
-          "<strong>10. How can I get started with spacebuild?</strong><br>Simply schedule a consultation with the spacebuild team for a personalized assessment of your property and lifestyle requirements. Connect with us at +91 1234567890 or spacebuild.india@gamil.com."
+          "<strong>10. How can I get started with spacebuild?</strong><br>Simply schedule a consultation with the spacebuild team for a personalized assessment of your property and lifestyle requirements. Connect with us at +91 1234567890 or spacebuild.india@gmail.com."
         ]
       }
     ]
@@ -486,7 +486,7 @@ export const blogPosts: BlogPost[] = [
           "By integrating the precision of MahaVastu with intelligent spatial planning and luxury interior design, we help homeowners create spaces that support harmony, clarity, growth, and abundance.",
           "Because sometimes the most powerful financial upgrade is not outside your home. It is already waiting inside it.",
           "If you are a homeowner in North Delhi looking to unlock greater prosperity, stronger relationships, and a more aligned lifestyle, spacebuild can help you design a home that becomes an active partner in your success story.",
-          "Connect with our team at +91 1234567890 or write to spacebuild.india@gamil.com."
+          "Connect with our team at +91 1234567890 or write to spacebuild.india@gmail.com."
         ]
       }
     ]
@@ -732,7 +732,7 @@ export const blogPosts: BlogPost[] = [
           "The most successful business owners understand that every element influencing performance deserves attention. That includes the space itself.",
           "By combining the precision of MahaVastu with intelligent spatial planning and sophisticated interior design, spacebuild helps businesses create environments that support productivity, confidence, prosperity, and sustainable growth.",
           "Because sometimes the next breakthrough in business is not another strategy. It is the space where that strategy comes to life.",
-          "Connect with our team at +91 1234567890 or write to spacebuild.india@gamil.com."
+          "Connect with our team at +91 1234567890 or write to spacebuild.india@gmail.com."
         ]
       },
 

@@ -185,10 +185,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} often brings more clarity
               than weeks of scrolling. And if writing feels easier, reaching out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is a quiet but powerful beginning.
             </p>
@@ -315,10 +315,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} helps map the next steps. Others choose to begin
                   by sharing details over email at{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>
                   , and we take it from there.
                 </p>

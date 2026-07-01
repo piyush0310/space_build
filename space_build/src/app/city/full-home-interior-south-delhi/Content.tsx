@@ -198,8 +198,8 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or if you prefer to put your thoughts down first, simply write 
               to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>.
             </p>
             <p>
@@ -276,8 +276,8 @@ const Content = () => {
                 <p>
                   Start with a conversation. Call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a> to explore whether Vasterior is the right fit for your home.
                 </p>
               </div>

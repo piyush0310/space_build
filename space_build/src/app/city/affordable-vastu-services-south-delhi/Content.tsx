@@ -147,10 +147,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or, if you prefer to start with a detailed
               conversation, you can write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               and we will help you understand the best next step for your home or workspace.
               Sometimes, a single conversation is all it takes to restore balance.
@@ -216,10 +216,10 @@ const Content = () => {
                 You can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to speak with us directly, or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to begin with a written discussion. We will guide you gently and transparently.
               </li>

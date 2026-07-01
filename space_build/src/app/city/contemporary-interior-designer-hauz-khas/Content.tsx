@@ -191,10 +191,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to speak
               with the Vasterior team, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to begin an informed, unhurried discussion about your space.
             </p>
@@ -288,10 +288,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} or
                   emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to schedule an initial conversation about your space and
                   requirements.

@@ -163,10 +163,10 @@ const Content = () => {
               vision in a calm, no‑pressure discussion. Others prefer to write a thoughtful note
               introducing their space and requirements at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , allowing the dialogue to begin with clarity and intent.
             </p>

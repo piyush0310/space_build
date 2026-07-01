@@ -149,8 +149,8 @@ const Content = () => {
               <p>
                 Reach us at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to begin with a simple discussion, no pressure, no obligation.
               </p>

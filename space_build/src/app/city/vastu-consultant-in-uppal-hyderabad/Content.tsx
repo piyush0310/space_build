@@ -267,10 +267,10 @@ const Content = () => {
               a quick consultation call at +917906086899 or by sharing their
               property details via{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , where the Vasterior team personally guides you toward the next
               step. Your space already holds potential. The right alignment
@@ -383,10 +383,10 @@ const Content = () => {
                   You can start by connecting directly through a quick call at
                   +917906086899 or sending your requirements to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>
                   , after which the team guides you through the consultation
                   process.

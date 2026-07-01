@@ -213,10 +213,10 @@ const Content = () => {
               Vasterior consultant by calling +917906086899, or share your
               requirements anytime via{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the team will help you take the first step toward a balanced
               space.

@@ -124,7 +124,7 @@ const Content = () => {
               <p><strong>Location:</strong> East Delhi, India</p>
               <p><strong>Phone:</strong> +91-9100883355</p>
               <p><strong>Website:</strong> <a href="https://www.vasterior.com" target="_blank" rel="noopener noreferrer">www.vasterior.com</a></p>
-              <p><strong>Email:</strong> <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a></p>
+              <p><strong>Email:</strong> <a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a></p>
             </div>
             <p className="mt-4 font-semibold text-gray-900">
               Vasterior - The Best Interior Designer in East Delhi for Elegant and Functional Living Spaces.

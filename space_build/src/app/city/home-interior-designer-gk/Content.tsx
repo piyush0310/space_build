@@ -139,10 +139,10 @@ const Content = () => {
             <p>
               For those who prefer writing, a quiet first step can also begin by reaching out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , sharing a few details about the home and the challenges being felt.
             </p>
@@ -232,10 +232,10 @@ const Content = () => {
                   with a call on <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, while others reach out via{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to share details before scheduling a discussion.
                 </p>

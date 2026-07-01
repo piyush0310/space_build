@@ -192,7 +192,7 @@ const Content = () => {
             </p>
             <p>
               Ready to transform your workspace in Rampur?
-              Let&apos;s begin. With a call with us at <a href="tel:+917906086899" className="text-blue-700 font-semibold underline">+917906086899</a> or you can mail us at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-700 font-semibold underline">spacebuild.india@gamil.com</a>
+              Let&apos;s begin. With a call with us at <a href="tel:+917906086899" className="text-blue-700 font-semibold underline">+917906086899</a> or you can mail us at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-700 font-semibold underline">spacebuild.india@gmail.com</a>
             </p>
           </div>
 

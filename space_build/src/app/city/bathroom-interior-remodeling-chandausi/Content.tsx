@@ -135,8 +135,8 @@ const Content = () => {
             <p>
               You can speak directly with the Space Build team by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your bathroom remodeling requirements, or write to us at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule a consultation and explore possibilities tailored to your home.
             </p>
@@ -178,8 +178,8 @@ const Content = () => {
                 <p>
                   Simply call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to begin a conversation. We'll guide you through the next steps based on your space and requirements.
                 </p>

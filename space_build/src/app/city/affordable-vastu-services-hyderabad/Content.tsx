@@ -184,7 +184,7 @@ const Content = () => {
               </p>
               <div className="space-y-2 p-4 bg-blue-50 rounded-lg">
                 <p><strong>📞 Phone:</strong> +917906086899</p>
-                <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+                <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
               </div>
               <p className="font-semibold mt-4">Alignment starts with a decision.</p>
             </div>

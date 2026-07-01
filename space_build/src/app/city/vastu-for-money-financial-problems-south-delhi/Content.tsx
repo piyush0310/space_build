@@ -178,10 +178,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the team will guide you honestly on whether this is the right step for you.
             </p>
@@ -212,10 +212,10 @@ const Content = () => {
               the Vasterior team by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . A single aligned change can often bring more clarity than years of struggle.
             </p>
@@ -275,10 +275,10 @@ const Content = () => {
                 The best way is to talk. You can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 , and the team will help you decide with clarity and no pressure.
               </li>

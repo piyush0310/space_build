@@ -85,8 +85,8 @@ const Content = () => {
               Transforming a space starts with conversation. Many clients begin by calling{" "}
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>.
             </p>
 
@@ -143,8 +143,8 @@ const Content = () => {
                 <p>
                   Call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to explore possibilities.
                 </p>

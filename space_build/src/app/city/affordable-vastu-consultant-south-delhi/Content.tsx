@@ -170,10 +170,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to discuss their concerns, or by writing
               to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to understand whether a MahaVastu consultation is right for their space.
             </p>

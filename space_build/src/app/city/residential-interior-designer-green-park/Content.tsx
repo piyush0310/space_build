@@ -145,10 +145,10 @@ const Content = () => {
               with a quiet call at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or by writing to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to share a little about your space. We believe the right home does not announce itself
               loudly, it settles into you gently.
@@ -211,10 +211,10 @@ const Content = () => {
                 <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 . From there, we understand your space and guide you toward the next step.
               </li>

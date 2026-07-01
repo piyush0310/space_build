@@ -218,8 +218,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or initiate your consultation
               discreetly by writing to{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>
               , because transformation begins with a single, informed decision.

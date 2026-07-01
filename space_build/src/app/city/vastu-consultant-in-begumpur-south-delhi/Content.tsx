@@ -181,10 +181,10 @@ const Content = () => {
               schedule a consultation. If you prefer writing, sharing your space
               details at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is a simple way to begin exploring aligned solutions, without
               pressure or obligation.

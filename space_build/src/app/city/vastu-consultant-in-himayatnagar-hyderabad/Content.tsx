@@ -235,8 +235,8 @@ const Content = () => {
               becomes the first step toward clarity, while detailed consultation
               requests can also be comfortably shared via{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               for personalised guidance.

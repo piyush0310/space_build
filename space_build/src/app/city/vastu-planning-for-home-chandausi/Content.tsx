@@ -194,8 +194,8 @@ const Content = () => {
                   +917906086899
                 </a>
                 , or share your home details at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to begin a personalized Vastu planning journey, without pressure, without overwhelm.
               </p>
@@ -268,8 +268,8 @@ const Content = () => {
                       +917906086899
                     </a>{" "}
                     or email{" "}
-                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gmail.com
                     </a>
                     , and we'll guide you from there.
                   </p>
@@ -294,8 +294,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

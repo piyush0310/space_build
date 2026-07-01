@@ -157,10 +157,10 @@ const Content = () => {
               If you prefer to articulate your thoughts slowly, sharing your requirements over email
               at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often the first step toward alignment, both spatial and personal.
             </p>

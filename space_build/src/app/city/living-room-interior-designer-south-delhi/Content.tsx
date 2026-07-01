@@ -134,10 +134,10 @@ const Content = () => {
             <p>
               Others take a more thoughtful route and share their requirements over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , allowing the process to unfold at a comfortable pace.
             </p>
@@ -185,10 +185,10 @@ const Content = () => {
                 <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or by sending a brief email to{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 . The team will guide you through the next steps based on your needs and timeline.
               </li>

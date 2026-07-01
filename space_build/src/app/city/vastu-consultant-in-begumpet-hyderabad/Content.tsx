@@ -234,10 +234,10 @@ const Content = () => {
               calling +917906086899 to explore how your space can be aligned
               thoughtfully, or share your requirements at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule a personalized consultation with the Vasterior team.
             </p>

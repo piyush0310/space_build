@@ -140,10 +140,10 @@ const Content = () => {
               home or workspace. If you prefer to start with details or floor plans, simply write to
               us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we will take it from there, thoughtfully and discreetly.
             </p>
@@ -189,10 +189,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an initial discussion
                 or emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 with your requirements. We will guide you through the next steps clearly and calmly.
               </li>

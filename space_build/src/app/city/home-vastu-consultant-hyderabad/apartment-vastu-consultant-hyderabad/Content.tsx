@@ -252,8 +252,8 @@ const Content = () => {
               You can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to speak directly with a consultant or share your requirements at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               and begin your journey towards aligned living in Hyderabad.

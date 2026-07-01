@@ -207,10 +207,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a
               confidential conversation, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule a consultation at a time that suits you.
             </p>

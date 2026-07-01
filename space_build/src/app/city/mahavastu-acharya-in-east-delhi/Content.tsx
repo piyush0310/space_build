@@ -162,7 +162,7 @@ const Content = () => {
             </p>
             <div className="space-y-2 mt-4">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gmail.com</p>
             </div>
             <p className="mt-4">
               Book your consultation today and experience the transformative power of MahaVastu with Vasterior. Whether you are in Laxmi Nagar, Mayur Vihar, Preet Vihar, or any part of East Delhi, our team is here to support your journey towards positive energy and holistic well-being.

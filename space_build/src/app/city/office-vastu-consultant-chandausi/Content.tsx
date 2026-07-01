@@ -163,8 +163,8 @@ const Content = () => {
                   +917906086899
                 </a>
                 , while others choose to outline their office details over email at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 for a more in-depth consultation approach.
               </p>
@@ -229,8 +229,8 @@ const Content = () => {
                       +917906086899
                     </a>{" "}
                     or email{" "}
-                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gmail.com
                     </a>{" "}
                     to share office details and schedule a structured consultation.
                   </p>
@@ -255,8 +255,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

@@ -156,8 +156,8 @@ const Content = () => {
               <p>
                 Ready to Begin? Let's design a villa that supports your lifestyle, your energy, and your legacy. Connect with Vasterior Studio — Where Luxury Meets Alignment. Call us today at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
               </p>
             </div>

@@ -174,7 +174,7 @@ const Content = () => {
                 <strong>Phone:</strong> +917906086899
               </p>
               <p>
-                <strong>Email:</strong> <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a>
+                <strong>Email:</strong> <a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a>
               </p>
               <p>
                 Contact Vasterior today for your dream home interiors and expert Vastu consultation in Delhi NCR.

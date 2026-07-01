@@ -214,8 +214,8 @@ const Content = () => {
             <p>
               You may reach us on{" "}
               <span className="text-blue-600 underline">+917906086899</span> to discuss your requirements, or simply write to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               and let's begin mapping what your property is capable of.
             </p>

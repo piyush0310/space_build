@@ -130,10 +130,10 @@ const Content = () => {
             <p>
               Or, if you prefer to begin quietly, you can write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we&apos;ll take it from there, thoughtfully, privately, and without pressure.
             </p>
@@ -203,10 +203,10 @@ const Content = () => {
                   It starts with a conversation. Call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to discuss your space, goals, and timelines. If the alignment feels right, we take
                   it forward step by step.

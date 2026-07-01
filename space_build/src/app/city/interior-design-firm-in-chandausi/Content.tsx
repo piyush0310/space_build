@@ -126,8 +126,8 @@ const Content = () => {
             <p className="mb-8">
               Many of our clients begin by speaking directly with our team to understand what's possible for their home or workspace. A quick call on <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} is often all it takes to get things moving. And if you prefer writing things out, reaching us at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               is an easy way to start the discussion.
             </p>

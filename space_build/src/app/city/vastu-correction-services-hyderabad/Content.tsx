@@ -193,7 +193,7 @@ const Content = () => {
               Realign Your Space. Realign Your Growth.
             </h2>
             <p>If you are ready to stop guessing and start correcting with precision, speak with the Vasterior team on <strong>+919927611780</strong> or{" "}
-             <strong>+918077973797</strong> or{" "} or initiate your consultation discreetly at <strong>spacebuild.india@gamil.com</strong>, and allow your property to finally operate in alignment with your ambition.</p>
+             <strong>+918077973797</strong> or{" "} or initiate your consultation discreetly at <strong>spacebuild.india@gmail.com</strong>, and allow your property to finally operate in alignment with your ambition.</p>
             <p>Vasterior does not merely design interiors. We engineer environments for measurable growth.</p>
           </div>
           <PostNavigation slug="vastu-correction-services-in-hyderabad" />

@@ -130,7 +130,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     6. How do I get started with a Vastu consultation in Chandausi?
                   </h3>
-                  <p>The easiest way is to initiate a conversation, either by calling +917906086899 or sending an email to spacebuild.india@gamil.com. From there, the process is explained step-by-step based on your needs.</p>
+                  <p>The easiest way is to initiate a conversation, either by calling +917906086899 or sending an email to spacebuild.india@gmail.com. From there, the process is explained step-by-step based on your needs.</p>
                 </div>
               </div>
             </div>
@@ -149,7 +149,7 @@ const Content = () => {
                 📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>
               </p>
               <p className="font-semibold">
-                📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>
+                📧 Email: <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>
               </p>
             </div>
           </div>

@@ -271,10 +271,10 @@ const Content = () => {
               calling +917906086899, or share your floor plan and concerns via
               email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the Vasterior team will guide you toward the next aligned
               step for your space.

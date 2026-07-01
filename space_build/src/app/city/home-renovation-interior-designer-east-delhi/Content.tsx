@@ -144,7 +144,7 @@ const Content = () => {
             </h2>
             <div className="space-y-2">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a></p>
+              <p><strong>Email:</strong> <a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a></p>
               <p><strong>Website:</strong> <a href="https://www.vasterior.com" target="_blank" rel="noopener noreferrer">www.vasterior.com</a></p>
               <p><strong>Location:</strong> East Delhi, India</p>
             </div>

@@ -198,10 +198,10 @@ const Content = () => {
                 And for those who prefer a detailed discussion or site briefing,
                 reaching out at{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 is usually the first step toward a better-aligned commercial
                 future. Vasterior works quietly, precisely, and purposefully, so
@@ -299,10 +299,10 @@ const Content = () => {
                 <p>
                   📧 Email:{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

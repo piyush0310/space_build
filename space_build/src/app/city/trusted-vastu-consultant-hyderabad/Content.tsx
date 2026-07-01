@@ -219,8 +219,8 @@ const Content = () => {
               For a consultation, you can simply call us on <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} and we will guide you on the next step based on your space type. If you prefer writing first, you can also reach out at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>
               , we respond with clarity, not copy-paste answers.
@@ -310,8 +310,8 @@ const Content = () => {
                   Simple. You can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for quick guidance and booking, or email us at{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com">
+                      spacebuild.india@gmail.com
                     </a>
                   </strong>{" "}
                   if you want to share details first.

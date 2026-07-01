@@ -312,8 +312,8 @@ const Content = () => {
               next step based on your space and concerns. If you prefer sharing
               layouts or details first, email us at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               and we will respond personally.
@@ -435,8 +435,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a
                   quick discussion, or emailing{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com">
+                      spacebuild.india@gmail.com
                     </a>
                   </strong>{" "}
                   with your layout and concerns. We will guide you to the right
@@ -469,8 +469,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} and we will help you choose the
               right service, or email{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               and we will take it forward from there.

@@ -119,10 +119,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or share a brief about your space at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to explore how Vastu alignment can be thoughtfully integrated into your home or
               workplace in Greater Kailash.
@@ -171,10 +171,10 @@ const Content = () => {
                 Simply reach out. A call on <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or an email to{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 is enough to begin the conversation.
               </li>

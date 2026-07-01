@@ -135,10 +135,10 @@ const Content = () => {
             <p>
               You may also write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and you will be guided on the next best step for your home.
             </p>
@@ -188,10 +188,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to discuss your concerns,
                 or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 for a detailed consultation overview.
               </li>

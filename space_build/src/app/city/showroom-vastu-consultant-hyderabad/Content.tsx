@@ -242,10 +242,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a structured consultation
               discussion, or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to initiate your showroom assessment with our team. Your showroom
               should not just look premium. It should perform like one.

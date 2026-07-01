@@ -173,8 +173,8 @@ const Content = () => {
               To schedule your personalised Shop Vastu Consultation in Hyderabad, you can directly call{" "}
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} and speak with our team, or share your floor plan at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="font-semibold">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="font-semibold">
+                spacebuild.india@gmail.com
               </a>{" "}
               so we can begin your assessment process. The sooner your space aligns, the sooner your growth stabilises.
             </p>

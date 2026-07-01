@@ -144,8 +144,8 @@ const Content = () => {
             </p>
             <p>
               And if writing feels more comfortable, the team is always reachable at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to begin the dialogue at your pace.
             </p>

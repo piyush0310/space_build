@@ -213,10 +213,10 @@ const Content = () => {
             <p>
               If writing feels easier, a note to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               helps us understand your layout, concerns, and timelines before we meet.
             </p>
@@ -328,10 +328,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a quick
                   discussion, or email{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with your location, property type, and what you want to improve. We will
                   suggest the most appropriate next step.

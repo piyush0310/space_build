@@ -153,10 +153,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} or by
               writing to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . We believe the best designs begin with meaningful conversations, not rushed
               decisions.
@@ -224,10 +224,10 @@ const Content = () => {
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to schedule a consultation and understand the next steps.
                 </p>

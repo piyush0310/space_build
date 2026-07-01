@@ -217,10 +217,10 @@ const Content = () => {
               <span className="text-blue-600 underline">+917906086899</span> and take the first
               step toward restoring financial balance. You can also share your layout details at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to initiate your assessment discreetly and professionally.
             </p>

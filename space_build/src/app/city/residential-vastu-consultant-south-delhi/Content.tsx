@@ -243,10 +243,10 @@ const Content = () => {
               home type, your concerns, and whether a residential consultation is the right next
               step. And if email is easier, you can write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               and we will respond with the simplest way forward.
             </p>
@@ -352,10 +352,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, we will guide you on the next step. If you
                   prefer email, sending a note to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   works just as smoothly.
                 </p>

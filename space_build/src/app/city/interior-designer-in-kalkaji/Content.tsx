@@ -204,10 +204,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or share details at your own pace by writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . Either way, the intent is simple, to explore what your space can become when design
               and direction work together.
@@ -294,10 +294,10 @@ const Content = () => {
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with basic details about your space and requirements.
                 </p>

@@ -171,10 +171,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, while others share drawings or questions over
                 email at{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 . Either way, the first step is simply understanding the space and the people who
                 inhabit it.
@@ -243,10 +243,10 @@ const Content = () => {
                     followed by a site evaluation if required. You can initiate this by calling{" "}
                     +917906086899 or writing to{" "}
                     <a
-                      href="mailto:spacebuild.india@gamil.com"
+                      href="mailto:spacebuild.india@gmail.com"
                       className="text-blue-600 hover:underline"
                     >
-                      spacebuild.india@gamil.com
+                      spacebuild.india@gmail.com
                     </a>
                     .
                   </p>

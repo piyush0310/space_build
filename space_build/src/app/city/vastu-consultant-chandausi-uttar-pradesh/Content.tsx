@@ -144,7 +144,7 @@ const Content = () => {
               </p>
               <p className="mt-4">
                 And for those who prefer to reflect before acting, reaching out at{' '}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline font-semibold">spacebuild.india@gamil.com</a>{' '}
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline font-semibold">spacebuild.india@gmail.com</a>{' '}
                 often opens up thoughtful, pressure-free guidance.
               </p>
               <p className="font-semibold mt-4 text-lg">

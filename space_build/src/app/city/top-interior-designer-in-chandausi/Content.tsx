@@ -183,10 +183,10 @@ const Content = () => {
             <p>
               If you prefer to share details or floor plans first, simply write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we will guide you through the next steps with clarity and honesty. Your space
               already has potential; our role is to help you realise it, gracefully.
@@ -254,10 +254,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for an initial
                   discussion or emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with basic details about your space. We will guide you on the next steps after
                   understanding your requirements.

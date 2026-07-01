@@ -181,10 +181,10 @@ const Content = () => {
             <p>
               Or, if you prefer to begin thoughtfully, write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               and we’ll take it from there. No pressure. Just clarity.
             </p>

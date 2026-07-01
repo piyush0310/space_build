@@ -179,10 +179,10 @@ const Content = () => {
               <p>
                 You can also initiate a detailed consultation by writing to{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 , especially if you&apos;re still shaping your concept or exploring
                 MahaVastu-aligned design.
@@ -273,10 +273,10 @@ const Content = () => {
                     <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or sharing your project details via{" "}
                     <a
-                      href="mailto:spacebuild.india@gamil.com"
+                      href="mailto:spacebuild.india@gmail.com"
                       className="text-blue-600 hover:underline"
                     >
-                      spacebuild.india@gamil.com
+                      spacebuild.india@gmail.com
                     </a>
                     . From there, the team guides you through the next steps clearly and
                     transparently.

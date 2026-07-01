@@ -172,10 +172,10 @@ const Content = () => {
               If you prefer to share details or begin with a written overview of your space and
               concerns, you can also reach out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and our team will guide you through the next steps with clarity and discretion.
             </p>

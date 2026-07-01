@@ -117,10 +117,10 @@ const Content = () => {
               what your space might be communicating. For those who prefer to begin in writing,
               reaching out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               allows the dialogue to unfold at your pace.
             </p>

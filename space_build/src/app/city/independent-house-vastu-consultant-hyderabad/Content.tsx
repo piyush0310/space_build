@@ -295,8 +295,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} or share your floor plan details
               at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>
               , and begin the transformation your space has been waiting for.

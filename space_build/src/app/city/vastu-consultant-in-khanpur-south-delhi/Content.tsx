@@ -176,10 +176,10 @@ const Content = () => {
               goals before suggesting next steps. If you prefer to share plans, photos, or questions
               in writing, simply email us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and our team will respond with clarity and intent.
             </p>

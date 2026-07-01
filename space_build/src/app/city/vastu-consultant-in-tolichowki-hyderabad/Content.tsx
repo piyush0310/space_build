@@ -224,10 +224,10 @@ const Content = () => {
               If your home or workplace feels out of sync, a professional MahaVastu assessment can reveal what architecture alone cannot. Many clients begin their journey simply by having a conversation, calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} allows you to discuss your space directly with the Vasterior team, or you can share your layout details anytime at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , where consultations are thoughtfully guided from the very first interaction.
             </p>
@@ -327,10 +327,10 @@ const Content = () => {
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for a discussion about your space or sending your floor plan to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to begin the assessment process.
                 </p>

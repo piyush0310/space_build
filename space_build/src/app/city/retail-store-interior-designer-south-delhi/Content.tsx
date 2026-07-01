@@ -170,10 +170,10 @@ const Content = () => {
             <p>
               Or, if you prefer to begin thoughtfully, writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often how meaningful collaborations start.
             </p>
@@ -245,10 +245,10 @@ const Content = () => {
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   is the easiest way to explore whether Vasterior is the right fit
                   for your retail vision.

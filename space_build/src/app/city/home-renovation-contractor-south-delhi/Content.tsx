@@ -179,10 +179,10 @@ const Content = () => {
             <p>
               If you prefer to articulate things slowly, an email often works better. Writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often how thoughtful renovations begin, quietly, intentionally, and without rush.
             </p>

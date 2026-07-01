@@ -155,10 +155,10 @@ const Content = () => {
               For those who prefer sharing drawings, layouts, or questions in writing, reaching out
               at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often the most comfortable first step.
             </p>

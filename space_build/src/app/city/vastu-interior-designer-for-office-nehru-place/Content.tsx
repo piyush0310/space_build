@@ -151,8 +151,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} 
               often helps clarify whether this approach is right for your workspace, or you may prefer to 
               outline your requirements in detail by writing to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>.
             </p>
 
@@ -219,8 +219,8 @@ const Content = () => {
                   You can initiate this by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by sharing your 
                   requirements over email at{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>.
                 </p>
               </div>

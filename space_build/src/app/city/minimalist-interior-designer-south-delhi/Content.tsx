@@ -136,10 +136,10 @@ const Content = () => {
               want guidance that&apos;s thoughtful, not overwhelming, you&apos;re welcome to
               reach out. Many of our projects begin with a simple email exchange at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , followed by a deeper consultation.
             </p>

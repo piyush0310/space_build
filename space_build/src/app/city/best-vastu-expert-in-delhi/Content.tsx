@@ -102,7 +102,7 @@ const Content = () => {
               <p>
                 Experience the transformative power of true balance with Vasterior, the Best Vastu Expert in Delhi.<br />
                 Phone: +917906086899<br />
-                Email: spacebuild.india@gamil.com
+                Email: spacebuild.india@gmail.com
               </p>
             </div>
           </div>

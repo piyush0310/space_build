@@ -272,10 +272,10 @@ const Content = () => {
               space and goals. For detailed consultation inquiries or
               appointment scheduling, you may also reach out via{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and the team will help you take the first step toward a more
               balanced environment.

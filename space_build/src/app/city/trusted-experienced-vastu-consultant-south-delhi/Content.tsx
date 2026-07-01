@@ -156,10 +156,10 @@ const Content = () => {
             <p>
               If you are more comfortable writing details, a short note to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               helps us understand your space and expectations before we speak.
             </p>
@@ -256,10 +256,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, while
                   others email brief context and photos to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   so the first conversation is more precise.
                 </p>

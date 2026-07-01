@@ -336,7 +336,7 @@ export default function PaidMahaVastuPage() {
             <p className="text-xl font-semibold text-gray-800">Schedule Your Consultation (Online or Offline)</p>
             <p className="text-gray-700">Get in touch with our experts today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-            <p className="text-[#D4935D] font-semibold">spacebuild.india@gamil.com</p>
+            <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
           </div>
           <p className="text-gray-600 italic mt-6">
             Let your journey toward alignment begin.

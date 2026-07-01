@@ -157,10 +157,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or you can
               write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule your Online Vastu Services in South Delhi at a time that suits you.
             </p>

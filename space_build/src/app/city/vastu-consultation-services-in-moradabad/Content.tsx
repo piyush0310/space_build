@@ -194,7 +194,7 @@ const Content = () => {
               </h2>
               <p><strong>📍 Location:</strong> Moradabad, Uttar Pradesh</p>
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
-              <p><strong>📧 Email:</strong> spacebuild.india@gamil.com</p>
+              <p><strong>📧 Email:</strong> spacebuild.india@gmail.com</p>
               <p><strong>🌐 Website:</strong> <a href="https://www.vasterior.com">www.vasterior.com</a></p>
             </div>
 

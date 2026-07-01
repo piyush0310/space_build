@@ -121,7 +121,7 @@ const Content = () => {
                 Let's Talk About Your Space
               </h3>
               <p className="mt-4">
-                If you've been feeling that something isn't quite right with your home or workplace, a simple conversation can bring surprising clarity. Many clients begin by reaching out over a quick call at <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, while others prefer to explain their concerns in detail via email at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>.
+                If you've been feeling that something isn't quite right with your home or workplace, a simple conversation can bring surprising clarity. Many clients begin by reaching out over a quick call at <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, while others prefer to explain their concerns in detail via email at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>.
               </p>
               <p className="mt-4 font-semibold">
                 Your space already has potential. It just needs the right alignment.
@@ -180,7 +180,7 @@ const Content = () => {
               </h3>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
               </div>
             </div>
           </div>

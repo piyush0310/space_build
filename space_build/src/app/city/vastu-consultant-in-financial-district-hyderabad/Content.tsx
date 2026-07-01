@@ -175,8 +175,8 @@ const Content = () => {
                 +917906086899
               </a>{" "}
               or reach out discreetly at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline font-semibold">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline font-semibold">
+                spacebuild.india@gmail.com
               </a>{" "}
               and let&apos;s map what&apos;s really happening inside your walls.
             </p>

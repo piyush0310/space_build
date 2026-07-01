@@ -179,10 +179,10 @@ const Content = () => {
               MahaVastu-integrated interior design is right for their home. Others prefer to write
               to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , sharing their concerns and aspirations in detail before taking things forward.
             </p>

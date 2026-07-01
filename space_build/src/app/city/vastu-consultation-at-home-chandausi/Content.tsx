@@ -145,8 +145,8 @@ const Content = () => {
                   +917906086899
                 </a>{" "}
                 is often all it takes to explore whether Vastu consultation is right for your home. If you prefer something more detailed, a thoughtful note at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 allows us to understand your space before we even step in.
               </p>
@@ -217,8 +217,8 @@ const Content = () => {
                       +917906086899
                     </a>{" "}
                     or an email to{" "}
-                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gmail.com
                     </a>{" "}
                     is the first step toward understanding what your space truly needs.
                   </p>
@@ -243,8 +243,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

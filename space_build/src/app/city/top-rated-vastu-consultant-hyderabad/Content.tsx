@@ -185,7 +185,7 @@ const Content = () => {
             <p>
               For detailed consultation scheduling, you can email us directly at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">[spacebuild.india@gamil.com](mailto:spacebuild.india@gamil.com)</a>
+                <a href="mailto:spacebuild.india@gmail.com">[spacebuild.india@gmail.com](mailto:spacebuild.india@gmail.com)</a>
               </strong>{" "}
               and our team will respond with the next steps.
             </p>
@@ -291,7 +291,7 @@ const Content = () => {
                   You can start by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for a quick discussion, or you can email{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">[spacebuild.india@gamil.com](mailto:spacebuild.india@gamil.com)</a>
+                    <a href="mailto:spacebuild.india@gmail.com">[spacebuild.india@gmail.com](mailto:spacebuild.india@gmail.com)</a>
                   </strong>{" "}
                   if you prefer to share details and schedule a consultation in writing.
                 </p>
@@ -319,7 +319,7 @@ const Content = () => {
               For a quick consultation, you can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, and if you'd like to share your layout or details first, simply email us at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">[spacebuild.india@gamil.com](mailto:spacebuild.india@gamil.com)</a>
+                <a href="mailto:spacebuild.india@gmail.com">[spacebuild.india@gmail.com](mailto:spacebuild.india@gmail.com)</a>
               </strong>, we'll guide you from there.
             </p>
           </div>

@@ -138,8 +138,8 @@ const Content = () => {
               <p>
                 A quiet discussion about how you live, what you value, and what your home should truly support. You can begin that dialogue by reaching out to the Vasterior team directly, many clients prefer to call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to explore possibilities, while others start by sharing their vision over email at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>.
               </p>
               <p>

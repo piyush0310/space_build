@@ -158,8 +158,8 @@ const Content = () => {
             <p>
               You can speak directly with the Vasterior team to explore design possibilities, understand timelines, and get honest guidance by calling us at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, or by writing to us at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to begin your living room design journey with clarity and confidence.
             </p>
@@ -202,8 +202,8 @@ const Content = () => {
                 <p>
                   You can start by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your requirement, or emailing{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to book a consultation and take the first step toward a thoughtfully designed living room.
                 </p>

@@ -137,10 +137,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or share an overview of your space and intent by
               writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . The objective is not immediacy, but clarity, so that any decision taken feels
               considered and aligned.
@@ -196,10 +196,10 @@ const Content = () => {
                 initiate a conversation by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 with basic details about your property and expectations.
               </li>

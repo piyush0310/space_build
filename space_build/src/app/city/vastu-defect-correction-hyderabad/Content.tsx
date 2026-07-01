@@ -291,10 +291,10 @@ const Content = () => {
               <span className="text-blue-600 underline">+917906086899</span>{" "}
               or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule your personalised correction consultation.
             </p>

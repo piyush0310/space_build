@@ -203,7 +203,7 @@ const Content = () => {
               Book Your Consultation with Vasterior
             </h2>
             <p>
-              If you’re serious about transforming your home or office into a high‑performance environment, this is your moment to act. Speak directly with our team and schedule a detailed consultation by calling +917906086899, or share your layout and requirements via email at spacebuild.india@gamil.com, and let’s start realigning your space with precision and purpose.
+              If you’re serious about transforming your home or office into a high‑performance environment, this is your moment to act. Speak directly with our team and schedule a detailed consultation by calling +917906086899, or share your layout and requirements via email at spacebuild.india@gmail.com, and let’s start realigning your space with precision and purpose.
             </p>
             <p>
               When you choose Vasterior, you’re not hiring just another Vastu Consultant in Madhapur. You’re partnering with a strategic MahaVastu expert who understands Hyderabad’s architecture, ambition, and growth landscape.
@@ -319,7 +319,7 @@ const Content = () => {
             </h2>
             <div className="space-y-2">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gmail.com</p>
             </div>
           </div>
           <PostNavigation slug="vastu-consultant-in-madhapur-hyderabad" />

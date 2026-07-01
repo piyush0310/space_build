@@ -140,10 +140,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or, if
               you prefer to start with a detailed discussion, writing to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is a great first step.
             </p>
@@ -197,10 +197,10 @@ const Content = () => {
                 Start with a conversation. Call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 , and we will guide you through the next steps based on your space and goals.
               </li>

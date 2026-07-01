@@ -181,10 +181,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to discuss your space, or write
               to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to explore how interior design and MahaVastu alignment can come together for you,
               calmly, thoughtfully, and with purpose.
@@ -242,10 +242,10 @@ const Content = () => {
                 calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for an initial discussion or emailing{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 with details of your space and requirements.
               </li>

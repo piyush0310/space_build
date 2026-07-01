@@ -196,7 +196,7 @@ const Content = () => {
             
             <div className="space-y-2 mt-6">
               <p><strong>📞 Phone:</strong> +91-9100883355</p>
-              <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">spacebuild.india@gamil.com</a></p>
+              <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline">spacebuild.india@gmail.com</a></p>
               <p><strong>🌐 Website:</strong> www.vasterior.com</p>
             </div>
           </div>

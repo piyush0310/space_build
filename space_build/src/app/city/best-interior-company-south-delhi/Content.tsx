@@ -165,10 +165,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or by
               sharing details about their space at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . No pressure. Just understanding.
             </p>
@@ -247,10 +247,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} or an email
                   to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   is enough to begin.
                 </p>

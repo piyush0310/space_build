@@ -223,7 +223,7 @@ const Content = () => {
             </p>
             <p>
               If you are planning Vastu for house construction in Hyderabad and want your home aligned with clarity, stability, and growth, speak directly with the experts at <strong>+919927611780</strong> or{" "}
-             <strong>+918077973797</strong> or{" "} or reach out via <strong><a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a></strong> to begin designing a space that supports your future.
+             <strong>+918077973797</strong> or{" "} or reach out via <strong><a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a></strong> to begin designing a space that supports your future.
             </p>
             <p>
               Vasterior doesn't just design homes. It engineers environments that elevate lives.

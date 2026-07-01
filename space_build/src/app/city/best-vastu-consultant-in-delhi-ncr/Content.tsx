@@ -169,7 +169,7 @@ const Content = () => {
             </p>
             <div className="space-y-2 mt-4">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gmail.com</p>
             </div>
             <p className="mt-6">
               Your space has the power to shape your success, health, and happiness. Let Vasterior&apos;s Vastu experts in Delhi guide you toward the perfect balance between energy and aesthetics. Schedule your personalized Vastu consultation today and experience the difference.

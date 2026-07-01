@@ -184,8 +184,8 @@ const Content = () => {
             </p>
             <p>
               Others choose to share their layout or concerns in detail over email at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>, allowing for a more thoughtful discussion.
             </p>
             <p>
@@ -267,8 +267,8 @@ const Content = () => {
                 <p>
                   You can begin with a discussion, either by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or writing to{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a> to share your office details and concerns.
                 </p>
               </div>

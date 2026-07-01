@@ -46,7 +46,7 @@ const GetQuotePage = () => {
         {/* Form */}
         <div className="bg-[#fae8d6] rounded-lg shadow-lg p-8">
           <form 
-            action="https://formsubmit.co/spacebuild.india@gamil.com" 
+            action="https://formsubmit.co/spacebuild.india@gmail.com" 
             method="POST"
             onSubmit={handleSubmit} 
             className="space-y-6"

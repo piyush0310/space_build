@@ -110,8 +110,8 @@ const Content = () => {
             <p className="mb-4">
               If you've been thinking about renovating but want it done right, a simple conversation can bring clarity. Many homeowners begin by discussing their space over a quick call on <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, while others prefer sharing details at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>, both work equally well.
             </p>
             <p>No pressure. No hard selling. Just informed guidance on what your home actually needs.</p>
@@ -151,8 +151,8 @@ const Content = () => {
                 </h3>
                 <p>You can start by discussing your requirements over a call at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by emailing{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>. The first step is always a conversation.</p>
               </div>
             </div>

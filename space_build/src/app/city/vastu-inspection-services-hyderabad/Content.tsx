@@ -202,7 +202,7 @@ const Content = () => {
             <p>
               If you prefer written communication, simply drop your property details at{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a>
+                <a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a>
               </strong>, and our experts will guide you through the next steps.
             </p>
             <p>Your property is already influencing your life. The question is, is it supporting you?</p>
@@ -291,7 +291,7 @@ const Content = () => {
                   You can schedule your consultation by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing your property details to{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">spacebuild.india@gamil.com</a>
+                    <a href="mailto:spacebuild.india@gmail.com">spacebuild.india@gmail.com</a>
                   </strong> to begin the process.
                 </p>
               </div>

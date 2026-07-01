@@ -146,10 +146,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or share your
               thoughts at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and take the first step toward a home that truly aligns with you.
             </p>

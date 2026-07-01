@@ -335,7 +335,7 @@ export default function SpaceBuildServicesPage() {
             <div className="space-y-2">
               <p className="text-xl font-semibold text-gray-800">Get in Touch Today</p>
               <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-              <p className="text-[#D4935D] font-semibold">spacebuild.india@gamil.com</p>
+              <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
             </div>
           </div>
         </div>

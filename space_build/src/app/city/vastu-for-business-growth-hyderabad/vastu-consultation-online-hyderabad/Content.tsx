@@ -303,10 +303,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to schedule your consultation, or
               write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and let’s begin aligning your space with the success it was
               meant to attract.

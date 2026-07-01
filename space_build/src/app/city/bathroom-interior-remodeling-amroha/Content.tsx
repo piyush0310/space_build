@@ -181,7 +181,7 @@ const Content = () => {
               <div className="space-y-2">
                 <p>If you&rsquo;re planning a Bathroom Interior Remodeling in Amroha, Space Build Studio will help you create a space that feels luxurious, modern, and energetically balanced.</p>
                 <p>Book a design consultation today. Get in touch with our experts today at <strong>+919927611780</strong> or{" "}
-             <strong>+918077973797</strong> or{" "} or <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>.</p>
+             <strong>+918077973797</strong> or{" "} or <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>.</p>
                 <p>Let&rsquo;s redesign your everyday rituals; beautifully, intentionally, and with heart.</p>
               </div>
             </div>

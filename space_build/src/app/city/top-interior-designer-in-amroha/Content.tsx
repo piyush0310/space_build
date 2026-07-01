@@ -192,7 +192,7 @@ const Content = () => {
           <div className="mt-12 space-y-4 text-gray-700">
             <p>To design a home in Amroha that feels aligned, intentional, and beautifully personal, connect with Vasterior Studio. Your space has a story, let us help you shape it with elegance and emotional depth.</p>
             <p><strong>📞 Call us today at:</strong> +917906086899</p>
-            <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+            <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
           </div>
 
           <PostNavigation slug="interior-designer-in-amroha" />

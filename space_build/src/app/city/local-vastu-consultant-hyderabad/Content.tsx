@@ -411,10 +411,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or if you prefer a written
                   discussion, simply email your requirement to{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="font-semibold"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   and our team will guide you with the next steps.
                 </p>
@@ -440,10 +440,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} and we’ll guide you smoothly, or
               you can reach out over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , if you prefer sharing your floor plan and requirements first.
             </p>

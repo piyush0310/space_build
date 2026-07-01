@@ -167,10 +167,10 @@ const Content = () => {
             <p>
               Alternatively, you can write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to share your challenges in confidence and schedule a discreet discussion. No
               pressure, no fear tactics, just clarity.
@@ -235,10 +235,10 @@ const Content = () => {
                 Start with a conversation. You can call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                 <a
-                  href="mailto:spacebuild.india@gamil.com"
+                  href="mailto:spacebuild.india@gmail.com"
                   className="text-blue-600 hover:underline"
                 >
-                  spacebuild.india@gamil.com
+                  spacebuild.india@gmail.com
                 </a>
                 , and you will be guided honestly, whether you choose to proceed or not.
               </li>

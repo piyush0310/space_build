@@ -180,10 +180,10 @@ const Content = () => {
             <p>
               Alternatively, you may write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and our team will guide you on the next steps with clarity and discretion.
             </p>

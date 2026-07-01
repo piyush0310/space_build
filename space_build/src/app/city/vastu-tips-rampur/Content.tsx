@@ -168,8 +168,8 @@ const Content = () => {
                 Connect with Vasterior, your trusted MahaVastu and interior design partner in Rampur. 
                 Contact us today at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>.
               </p>
             </div>

@@ -283,7 +283,7 @@ export default function GriddingSurveyPage() {
             <p className="text-xl font-semibold text-gray-800">Book Your Space Build Survey Today</p>
             <p className="text-gray-700">Call us today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-            <p className="text-[#D4935D] font-semibold">spacebuild.india@gamil.com</p>
+            <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
           </div>
           <p className="text-gray-600 italic mt-6">
             (Set the correct direction before you take the next step.)

@@ -108,7 +108,7 @@ const Content = () => {
               <p>To design a home in Amroha that feels aligned, intentional, and beautifully yours, connect with Vasterior Studio today.</p>
               <p>Your space deserves a story, and we craft it with elegance.</p>
               <p><strong>📞 Phone:</strong> +917906086899</p>
-              <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+              <p><strong>📧 Email:</strong> <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
             </div>
           </div>
 

@@ -191,7 +191,7 @@ const Content = () => {
             </h2>
             <p>If you've read this far, something already resonates. Maybe it's the financial inconsistency. Maybe it's the emotional strain. Maybe it's the quiet feeling that your space could be working harder for you.</p>
             <p>A brief conversation could bring clarity. You can speak directly with our experts at <strong>+919927611780</strong> or{" "}
-             <strong>+918077973797</strong> or{" "} or simply send a note to <strong>spacebuild.india@gamil.com</strong>, and let's evaluate what your space is truly communicating.</p>
+             <strong>+918077973797</strong> or{" "} or simply send a note to <strong>spacebuild.india@gmail.com</strong>, and let's evaluate what your space is truly communicating.</p>
             <p>Because when direction aligns, outcomes follow.</p>
             <p>Vasterior doesn't just design spaces. We align futures.</p>
           </div>

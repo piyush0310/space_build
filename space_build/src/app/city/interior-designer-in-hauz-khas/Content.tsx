@@ -162,10 +162,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to discuss your space and requirements, or by
               writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               if you prefer to begin over email. Both allow us to understand whether your project
               truly benefits from our approach—before any commitment is made.

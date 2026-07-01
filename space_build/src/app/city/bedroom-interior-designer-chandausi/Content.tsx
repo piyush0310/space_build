@@ -145,8 +145,8 @@ const Content = () => {
             <p>
               You can call us at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your requirements, or write to us at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to begin a thoughtful, pressure-free consultation about your bedroom space.
             </p>
@@ -189,8 +189,8 @@ const Content = () => {
                 <p>
                   You can start by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or emailing{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to schedule an initial discussion.
                 </p>

@@ -149,10 +149,10 @@ const Content = () => {
             <p>
               If you prefer a quieter start, an email to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is where thoughtful design discussions usually begin.
             </p>

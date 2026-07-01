@@ -139,8 +139,8 @@ const Content = () => {
               by simply reaching out, whether it's a call to{" "}
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss their space or an email to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               to explore how MahaVastu-led design could work for them.
             </p>
@@ -205,8 +205,8 @@ const Content = () => {
                   You can start by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} for an initial discussion
                   or writing to{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   with details about your space. From there, we guide you through the next steps.
                 </p>

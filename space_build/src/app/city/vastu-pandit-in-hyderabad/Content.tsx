@@ -354,8 +354,8 @@ const Content = () => {
             <p>
               If you prefer sharing your layout first, email it directly to{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>
               . We will review it and suggest the right consultation path.
@@ -471,8 +471,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} for a quick discussion, or
                   email your layout and details to{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com">
+                      spacebuild.india@gmail.com
                     </a>
                   </strong>{" "}
                   to get started.

@@ -145,8 +145,8 @@ const Content = () => {
                   +917906086899
                 </a>{" "}
                 can bring instant clarity before you commit. If you would rather explain things in detail, you can also reach out at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
                 , and our team will guide you step by step.
               </p>
@@ -211,8 +211,8 @@ const Content = () => {
                       +917906086899
                     </a>{" "}
                     or email{" "}
-                    <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                      spacebuild.india@gmail.com
                     </a>
                     . We will understand your requirements and suggest the best next steps, no pressure, no fluff.
                   </p>
@@ -237,8 +237,8 @@ const Content = () => {
                 </p>
                 <p>
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

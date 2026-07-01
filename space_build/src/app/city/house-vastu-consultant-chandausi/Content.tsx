@@ -188,7 +188,7 @@ const Content = () => {
                 Many homeowners in and around Chandausi begin by speaking with our team directly at <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a>, just to gain perspective.
               </p>
               <p className="text-center mb-6">
-                Prefer writing things down first? You can always reach out at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a>, and we'll guide you through the next steps with honesty and care.
+                Prefer writing things down first? You can always reach out at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a>, and we'll guide you through the next steps with honesty and care.
               </p>
               <p className="text-center mb-6">No pressure. Just informed decisions.</p>
             </div>

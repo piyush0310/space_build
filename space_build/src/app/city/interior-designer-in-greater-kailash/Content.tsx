@@ -218,10 +218,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or if you prefer to articulate
               your thoughts in detail, write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . Whether it is a full interior project or a MahaVastu
               consultation, clarity often begins with one honest discussion.
@@ -300,10 +300,10 @@ const Content = () => {
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or email{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to discuss your space and see if our approach aligns with your
                   needs.

@@ -257,7 +257,7 @@ const Content = () => {
               <p className="mt-2">Connect with us:</p>
               <a href="tel:+917906086899" className="text-blue-700 font-semibold underline">+917906086899</a>
               <br />
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-700 font-semibold underline">spacebuild.india@gamil.com</a>
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-700 font-semibold underline">spacebuild.india@gmail.com</a>
             </div>
             <p className="mt-4 font-semibold text-gray-900">
               Let Rampur experience design that is warm, intentional, and truly affordable.

@@ -165,8 +165,8 @@ const Content = () => {
               </ul>
               <p className="mt-4">
                 And if you prefer writing before speaking, starting a conversation at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 is always an easy first step.
               </p>
@@ -243,8 +243,8 @@ const Content = () => {
                   +917906086899
                 </a>{" "}
                 or a message at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 could be the first step toward a workspace that finally works with you.
               </p>

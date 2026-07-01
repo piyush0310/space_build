@@ -175,8 +175,8 @@ const Content = () => {
               <p>
                 Speak directly with our team to understand how Vastu can support your home or business. Call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to schedule a consultation, or write to us at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>
                 , we'll be happy to guide you forward.
               </p>

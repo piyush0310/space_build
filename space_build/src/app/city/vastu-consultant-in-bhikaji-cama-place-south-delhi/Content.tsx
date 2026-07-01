@@ -191,10 +191,10 @@ const Content = () => {
             <p>
               For those who prefer a quieter start, you are welcome to write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               with details about your space and intentions, and receive a
               considered response that respects both your time and privacy.

@@ -181,10 +181,10 @@ const Content = () => {
             <p>
               Prefer writing instead? Share your details or floor plan at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and you will be guided thoughtfully from there. Your home already holds potential;
               sometimes, it just needs the right alignment.

@@ -136,8 +136,8 @@ const Content = () => {
               </p>
               <p className="mt-4">
                 If you prefer putting your thoughts down before discussing them, reaching out at{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 allows us to understand your space and career concerns before suggesting the next step.
               </p>
@@ -223,8 +223,8 @@ const Content = () => {
                 </p>
                 <p className="font-semibold">
                   📧 Email:{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                 </p>
               </div>

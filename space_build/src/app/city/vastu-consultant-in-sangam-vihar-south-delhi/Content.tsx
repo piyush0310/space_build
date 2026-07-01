@@ -179,10 +179,10 @@ const Content = () => {
             <p>
               If you’re more comfortable sharing details over email, reaching out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               allows the team to understand your space and guide you thoughtfully toward the right
               consultation.

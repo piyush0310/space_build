@@ -102,7 +102,7 @@ export default function Collaborators() {
 
         {/* Contact Form */}
         <form
-          action="https://formsubmit.co/spacebuild.india@gamil.com"
+          action="https://formsubmit.co/spacebuild.india@gmail.com"
           method="POST"
           className="space-y-5"
         >

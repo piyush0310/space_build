@@ -130,8 +130,8 @@ const Content = () => {
             <p>
               To speak with Vasterior about Vastu for your commercial property in Amroha, you may call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>
               . We will guide you through the next steps with discretion, professionalism, and a clear understanding of your business goals.
             </p>

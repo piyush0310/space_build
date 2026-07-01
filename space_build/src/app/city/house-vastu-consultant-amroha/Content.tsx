@@ -164,8 +164,8 @@ const Content = () => {
               <p>
                 You may connect with us directly at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your home and concerns, or write to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 to schedule a consultation. A simple conversation is often the first step toward meaningful alignment.
               </p>

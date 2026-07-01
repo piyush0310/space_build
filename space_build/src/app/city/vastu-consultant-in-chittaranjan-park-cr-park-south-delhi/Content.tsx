@@ -112,10 +112,10 @@ const Content = () => {
             <p>
               If you prefer to begin thoughtfully, you can also write to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we will guide you on whether a Vastu consultation makes sense for your home or
               workplace.

@@ -162,10 +162,10 @@ const Content = () => {
               needs redesign, re‑alignment, or simply better spatial logic. Others prefer to write
               with context and questions to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , allowing the dialogue to unfold at a measured pace.
             </p>

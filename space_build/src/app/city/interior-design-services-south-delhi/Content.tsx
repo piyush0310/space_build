@@ -124,10 +124,10 @@ const Content = () => {
             <p>
               If you prefer to reflect before you redesign, writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               is often where clarity begins. No pressure. No sales talk. Just insight.
             </p>

@@ -173,10 +173,10 @@ const Content = () => {
               prosperity, simply call <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or write to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               and allow Vasterior to guide your transformation with
               precision-driven MahaVastu corrections.

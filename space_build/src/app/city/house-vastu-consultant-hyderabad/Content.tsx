@@ -218,10 +218,10 @@ const Content = () => {
               directly by calling <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or writing to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="font-semibold"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               for a personalised House Vastu consultation in Hyderabad.
             </p>
@@ -325,10 +325,10 @@ const Content = () => {
                   directly at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or via email at{" "}
                   <a
-                    href="mailto:spacebuild.india@gamil.com"
+                    href="mailto:spacebuild.india@gmail.com"
                     className="font-semibold"
                   >
-                    spacebuild.india@gamil.com
+                    spacebuild.india@gmail.com
                   </a>{" "}
                   to begin the process.
                 </p>

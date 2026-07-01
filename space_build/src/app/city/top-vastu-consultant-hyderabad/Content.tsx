@@ -282,8 +282,8 @@ const Content = () => {
               If you prefer sharing your floor plan and requirements first,
               email{" "}
               <strong>
-                <a href="mailto:spacebuild.india@gamil.com">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com">
+                  spacebuild.india@gmail.com
                 </a>
               </strong>{" "}
               and we will respond with consultation options. Your home or office
@@ -391,8 +391,8 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} to book a
                   consultation, or email{" "}
                   <strong>
-                    <a href="mailto:spacebuild.india@gamil.com">
-                      spacebuild.india@gamil.com
+                    <a href="mailto:spacebuild.india@gmail.com">
+                      spacebuild.india@gmail.com
                     </a>
                   </strong>{" "}
                   if you want to share your floor plan and requirements first.

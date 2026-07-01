@@ -268,8 +268,8 @@ const Content = () => {
             <p>
               Speak with Vasterior directly about your space. A strategic conversation could redefine your next five years. You can connect with us by calling{" "}
               <span className="text-blue-600 underline">+917906086899</span> to schedule your consultation, or share your space details over email at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 underline">
+                spacebuild.india@gmail.com
               </a>{" "}
               and our team will guide you through the next steps toward intelligent alignment.
             </p>

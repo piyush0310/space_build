@@ -141,8 +141,8 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "}, while others prefer to share drawings or questions
               via email at{" "}
-              <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                spacebuild.india@gamil.com
+              <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                spacebuild.india@gmail.com
               </a>
               .
             </p>
@@ -213,8 +213,8 @@ const Content = () => {
                   You can begin by discussing your space, concerns, or plans over a call at{" "}
                   <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or by emailing basic details to{" "}
-                  <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                    spacebuild.india@gamil.com
+                  <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                    spacebuild.india@gmail.com
                   </a>
                   .
                 </p>

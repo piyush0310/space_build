@@ -173,10 +173,10 @@ const Content = () => {
               For a more detailed discussion or to share your floor plan, you are welcome to write
               to us at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , and we will guide you through the next aligned step, calmly, clearly, and without
               pressure.

@@ -96,7 +96,7 @@ const Content = () => {
                 If you've been feeling that something in your space is off, it's worth addressing it the right way—calmly, practically, and intelligently. Many clients prefer starting with a conversation, which is why reaching out is simple and pressure-free.
               </p>
               <p className="mt-4">
-                A quick call on <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> can help you understand whether MahaVastu-based alignment is right for your space. And if you'd rather write first, dropping a note at <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> is an easy way to begin.
+                A quick call on <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> can help you understand whether MahaVastu-based alignment is right for your space. And if you'd rather write first, dropping a note at <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> is an easy way to begin.
               </p>
               <p className="font-semibold mt-4">
                 Your space already has potential. It just needs direction.
@@ -137,7 +137,7 @@ const Content = () => {
                   <h3 className="font-semibold text-gray-900 mb-3">
                     5. How do I get started with a consultation?
                   </h3>
-                  <p>You can begin by having a simple conversation. Calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or emailing <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a> allows the team to understand your space and guide you on the next steps, no pressure, no obligation.</p>
+                  <p>You can begin by having a simple conversation. Calling <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a> or emailing <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a> allows the team to understand your space and guide you on the next steps, no pressure, no obligation.</p>
                 </div>
               </div>
             </div>
@@ -149,7 +149,7 @@ const Content = () => {
               </h3>
               <div className="text-center space-y-3">
                 <p>📞 Call: <a href="tel:+917906086899" className="text-blue-600 hover:underline">+917906086899</a></p>
-                <p>📧 Email: <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">spacebuild.india@gamil.com</a></p>
+                <p>📧 Email: <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">spacebuild.india@gmail.com</a></p>
               </div>
             </div>
           </div>

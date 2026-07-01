@@ -324,7 +324,7 @@ export default function SpatialFlowPage() {
             <p className="text-xl font-semibold text-gray-800">Book Your Spatial Flow Planning Session</p>
             <p className="text-gray-700">Connect with our experts today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-            <p className="text-[#D4935D] font-semibold">spacebuild.india@gamil.com</p>
+            <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
           </div>
         </div>
       </section>

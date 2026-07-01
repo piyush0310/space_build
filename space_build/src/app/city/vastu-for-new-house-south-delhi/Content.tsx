@@ -168,10 +168,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "} often becomes the beginning of a
               much clearer journey. Others prefer writing in detail, and find that reaching out at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               helps articulate concerns they had not yet put into words.
             </p>
@@ -280,10 +280,10 @@ const Content = () => {
               <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} or a detailed note at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               , Vasterior is here to help you align your space with intention, intelligence, and
               calm confidence.

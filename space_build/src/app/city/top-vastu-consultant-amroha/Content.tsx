@@ -155,8 +155,8 @@ const Content = () => {
               <p>
                 You can connect with us directly at <strong>+919927611780</strong> or{" "}
              <strong>+918077973797</strong> or{" "} to discuss your property, or write to{" "}
-                <a href="mailto:spacebuild.india@gamil.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gamil.com
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
                 </a>{" "}
                 for detailed consultation inquiries. Our team will guide you through the process with transparency and care, so you can make decisions with confidence.
               </p>

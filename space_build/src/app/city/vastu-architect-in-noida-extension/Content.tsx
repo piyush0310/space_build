@@ -176,7 +176,7 @@ const Content = () => {
             </h2>
             <div className="space-y-2">
               <p><strong>Phone:</strong> +917906086899</p>
-              <p><strong>Email:</strong> spacebuild.india@gamil.com</p>
+              <p><strong>Email:</strong> spacebuild.india@gmail.com</p>
             </div>
           </div>
           <PostNavigation slug="vastu-architect-in-noida-extension" />

@@ -187,10 +187,10 @@ const Content = () => {
              <strong>+918077973797</strong> or{" "}, or share your project details
               over email at{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>
               . Whether you are exploring possibilities or seeking clarity, the
               aim is always the same, to understand your space before changing

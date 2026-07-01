@@ -166,10 +166,10 @@ const Content = () => {
               best suited for your home or workplace will be outlined. Alternatively, you can write
               to{" "}
               <a
-                href="mailto:spacebuild.india@gamil.com"
+                href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                spacebuild.india@gamil.com
+                spacebuild.india@gmail.com
               </a>{" "}
               to schedule a detailed discussion or request further information about the MahaVastu
               consultation process. There is no pressure, only clarity.

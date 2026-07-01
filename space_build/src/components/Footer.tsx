@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
     },
     { 
       question: "How can I book a consultation?", 
-      answer: "Booking with us is quick and easy. You can email us at spacebuild.india@gamil.com or call us directly ", 
+      answer: "Booking with us is quick and easy. You can email us at spacebuild.india@gmail.com or call us directly ", 
       link: "https://www.spacebuild.com/faq"
     },
     { 
@@ -109,11 +109,11 @@ const Footer: React.FC = () => {
             
             <div className="space-y-3">
               <a 
-                href="mailto:spacebuild.india@gamil.com" 
+                href="mailto:spacebuild.india@gmail.com" 
                 className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
               >
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                <span className="break-all">spacebuild.india@gamil.com</span>
+                <span className="break-all">spacebuild.india@gmail.com</span>
               </a>
               <a 
                 href="tel:+919927611780" 
