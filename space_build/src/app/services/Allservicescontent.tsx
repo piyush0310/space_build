@@ -54,43 +54,70 @@ export default function SpaceBuildServicesPage() {
         <div className="max-w-5xl mx-auto px-6">
           <h3 className="text-3xl font-serif text-gray-800 mb-8 text-center">OUR CORE OFFERINGS</h3>
           
-          <div className="space-y-6">
-            {/* Service 1: MahaVastu Yogdan */}
-            <div className="bg-white rounded-lg p-6 shadow-md">
-              <Link href="/services/mahavastu-yogdan">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">1. MahaVastu Yogdan</h4>
-              </Link>
-              <p className="text-gray-700 mb-3 italic">A free service dedicated to healing, clarity, and upliftment.</p>
-              <p className="text-gray-700 mb-3">
-                MahaVastu Yogdan is our heartfelt contribution to society; a gurudakshina-inspired offering by every trained MahaVastu practitioner to honour Dr. Khushdeep Bansal, the founder of the MahaVastu system.
-              </p>
-              <p className="text-gray-700 mb-3">
-                This free service is designed for individuals facing challenges related to career, finances, relationships, stability, or emotional well-being.
-              </p>
-              <div className="bg-[#EDF4F8] rounded p-4 mb-3">
-                <p className="text-gray-800 font-semibold text-center mb-2">Guided by the motto:</p>
-                <p className="text-gray-700 text-center italic">
-                  "Har Ghar Hoga MahaVastu; Dhan, Sukh, Sehat Tathastu."
-                </p>
-              </div>
-              <p className="text-gray-700 mb-3">Each Yogdan session follows a precise and structured 20-minute process:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• 10 minutes – Understanding the client's concern</li>
-                <li>• 5 minutes – Analyzing the layout</li>
-                <li>• 5 minutes – Giving MahaVastu insights + practical steps</li>
-              </ul>
-              <p className="text-gray-700 mb-2 font-semibold">Important Notes:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• Offered every Wednesday, on-site and offline only</li>
-                <li>• Each person can avail it once every 4 months</li>
-                <li>• Privacy is guaranteed</li>
-                <li>• Clients must bring a scaled layout with true north</li>
-              </ul>
-              <Link href="/services/mahavastu-yogdan" className="text-[#D4935D] font-semibold hover:underline">
-                Learn More →
-              </Link>
-            </div>
+<div className="space-y-6">
+  {/* Service 1: Vastu Construction */}
+  <div className="bg-white rounded-lg p-6 shadow-md">
+    <Link href="/services/vastu-construction">
+      <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">
+        1. Vastu Construction
+      </h4>
+    </Link>
 
+    <p className="text-gray-700 mb-3 italic">
+      Build your dream home with Vastu principles integrated from the very beginning.
+    </p>
+
+    <p className="text-gray-700 mb-3">
+      Our Vastu Construction service ensures that every stage of your project—from
+      planning and design to execution—is aligned with authentic Vastu guidelines.
+      This creates a strong foundation for health, prosperity, harmony, and long-term success.
+    </p>
+
+    <p className="text-gray-700 mb-3">
+      We work closely with homeowners, architects, engineers, and builders to
+      ensure that every important element of the structure is positioned according
+      to Vastu principles without compromising modern design or functionality.
+    </p>
+
+    <div className="bg-[#EDF4F8] rounded p-4 mb-3">
+      <p className="text-gray-800 font-semibold text-center mb-2">
+        Our Construction Approach
+      </p>
+      <p className="text-gray-700 text-center italic">
+        "Plan Right • Build Right • Live Better."
+      </p>
+    </div>
+
+    <p className="text-gray-700 mb-3">
+      Our Vastu Construction consultation includes:
+    </p>
+
+    <ul className="space-y-2 text-gray-700 mb-3">
+      <li>• Plot and site evaluation before construction</li>
+      <li>• Vastu-based floor planning and room placement</li>
+      <li>• Proper entrance, staircase, kitchen, and bedroom positioning</li>
+      <li>• Guidance during every major stage of construction</li>
+      <li>• Final inspection before possession</li>
+    </ul>
+
+    <p className="text-gray-700 mb-2 font-semibold">
+      Important Notes:
+    </p>
+
+    <ul className="space-y-2 text-gray-700 mb-3">
+      <li>• Suitable for residential and commercial projects</li>
+      <li>• Consultation is recommended before construction begins</li>
+      <li>• Architectural drawings or site plans are required</li>
+      <li>• Online and on-site consultation options available</li>
+    </ul>
+
+    <Link
+      href="/services/vastu-construction"
+      className="text-[#D4935D] font-semibold hover:underline"
+    >
+      Learn More →
+    </Link>
+  </div>
             {/* Service 6: Interior Designing */}
             <div className="bg-white rounded-lg p-6 shadow-md">
               <Link href="/services/interior-designing">
@@ -117,129 +144,10 @@ export default function SpaceBuildServicesPage() {
                 Learn More →
               </Link>
             </div>
-
-            {/* Service 2: Gridding */}
-            <div className="bg-white rounded-lg p-6 shadow-md">
-              <Link href="/services/vastu-gridding-survey">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">3. Gridding, Layout Planning & Surveying</h4>
-              </Link>
-              <p className="text-gray-700 mb-3 italic">The foundation of every accurate Vastu interpretation.</p>
-              <p className="text-gray-700 mb-3">
-                Before designing or renovating, your space must be measured, mapped, and understood with absolute precision — not intuitively, but scientifically.
-              </p>
-              <p className="text-gray-700 mb-2">Our trained surveyors create:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• True-North aligned layouts (correcting magnetic deviation)</li>
-                <li>• 16-zone MahaVastu grid mapping</li>
-                <li>• 45 devta distribution</li>
-                <li>• Marma point identification</li>
-                <li>• Image & video documentation of the site</li>
-                <li>• Color and elemental assessments</li>
-                <li>• Comprehensive audit reports</li>
-              </ul>
-              <p className="text-gray-700 mb-3">
-                This step forms the technical backbone of every interior design, Vastu consultation, or renovation project.
-              </p>
-              <Link href="/services/vastu-gridding-survey" className="text-[#D4935D] font-semibold hover:underline">
-                Learn More →
-              </Link>
-            </div>
-
-            {/* Service 5: Spatial Flow */}
-            <div className="bg-white rounded-lg p-6 shadow-md">
-              <Link href="/services/spatial-flow-planning">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">4. Spatial Flow Planning</h4>
-              </Link>
-              <p className="text-gray-700 mb-3 italic">Designing movement, intention, and energy.</p>
-              <p className="text-gray-700 mb-3">
-                Spatial Flow Planning ensures that every object, door, storage unit, and circulation path supports free movement, balanced energy, a clutter-free lifestyle, and a calm and intuitive environment.
-              </p>
-              <p className="text-gray-700 mb-2">We evaluate:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• Placement of beds, sofas, tables, workstations</li>
-                <li>• Entry-exit routes</li>
-                <li>• Overlaps of heavy/light elements</li>
-                <li>• Movement blocks caused by furniture or objects</li>
-                <li>• Flow of natural light and ventilation</li>
-                <li>• Subtle energy flow distortions</li>
-              </ul>
-              <p className="text-gray-700 mb-3">
-                The result is a space where your mind feels clear, your actions flow effortlessly, and your daily rhythms feel supportive and stress-free.
-              </p>
-              <Link href="/services/spatial-flow-planning" className="text-[#D4935D] font-semibold hover:underline">
-                Learn More →
-              </Link>
-            </div>
-
-            {/* Service 3: MahaVastu */}
-            <div className="bg-white rounded-lg p-6 shadow-md">
-              <Link href="/services/mahavastu-consultation">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">5. Mahavastu Consultation</h4>
-              </Link>
-              <p className="text-gray-700 mb-3 italic">For manifestation, stability, new beginnings, and major life goals.</p>
-              <p className="text-gray-700 mb-3">This premium consultation is ideal for individuals who:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• Are planning to renovate</li>
-                <li>• Have made changes and are now facing unexpected challenges</li>
-                <li>• Want to manifest specific goals</li>
-                <li>• Need deeper alignment between their prakriti, profession, and living/working space</li>
-              </ul>
-              <p className="text-gray-700 mb-2">Our approach goes beyond basic Vastu tips. It involves:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• Layer-by-layer analysis of zones and objects</li>
-                <li>• Astro-alignment (when needed)</li>
-                <li>• Energy–profession–activity resonance</li>
-                <li>• Time-bound recommendations</li>
-                <li>• Execution guidance</li>
-                <li>• Three-month check-ins</li>
-                <li>• One site visit (for offline consultation)</li>
-              </ul>
-              <div className="bg-[#EDF4F8] rounded p-4 mb-3">
-                <p className="text-gray-800 font-semibold mb-2">Pricing:</p>
-                <p className="text-gray-700">• ₹25,000 — Online Consultation</p>
-                <p className="text-gray-700">• ₹51,000 — Offline Consultation (includes 1 site visit)</p>
-              </div>
-              <Link href="/services/mahavastu-consultation" className="text-[#D4935D] font-semibold hover:underline">
-                Learn More →
-              </Link>
-            </div>
-
-
-            {/* Service 8: Vastu Styling */}
-            <div className="bg-white rounded-lg p-6 shadow-md">
-              <Link href="/services/vastu-styling">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">6. Vastu Styling</h4>
-              </Link>
-              <p className="text-gray-700 mb-3 italic">Remedies that are aesthetic, modern and energetically powerful.</p>
-              <p className="text-gray-700 mb-3">
-                Vastu Styling combines beauty with intention.
-              </p>
-              <p className="text-gray-700 mb-2">Instead of traditional, heavy corrective tools, we recommend:</p>
-              <ul className="space-y-2 text-gray-700 mb-3">
-                <li>• Curated objects</li>
-                <li>• Artwork</li>
-                <li>• Metal, wood, or ceramic elements</li>
-                <li>• Color accents</li>
-                <li>• Spatial accessories</li>
-                <li>• Modern Vastu remedies</li>
-                <li>• Placement corrections without demolition</li>
-              </ul>
-              <p className="text-gray-700 mb-3">
-                These styling interventions elevate the look of the space, the elemental balance, the energy flow, and the emotional experience of living or working there.
-              </p>
-              <p className="text-gray-700 mb-2">
-                Perfect for clients who want visible improvement without major changes.
-              </p>
-
-              <Link href="/services/vastu-styling" className="text-[#D4935D] font-semibold hover:underline">
-                Learn More →
-          </Link>
-            </div>
-
-            {/* Service 7: Vastu Renovation */}
+            {/* Service 3: Vastu Renovation */}
             <div className="bg-white rounded-lg p-6 shadow-md">
               <Link href="/services/vastu-renovation">
-                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">7. Vastu Renovation</h4>
+                <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">3. Vastu Renovation</h4>
               </Link>
               <p className="text-gray-700 mb-3 italic">Renovating your space with clarity, intention, and cosmic harmony.</p>
               <p className="text-gray-700 mb-3">
@@ -266,7 +174,7 @@ export default function SpaceBuildServicesPage() {
             {/* Service: Project Management Consultation */}
 <div className="bg-white rounded-lg p-6 shadow-md">
   <Link href="/services/project-management-consultation">
-    <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">8. Project Management Consultation (PMC)</h4>
+    <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">4. Project Management Consultation (PMC)</h4>
   </Link>
   <p className="text-gray-700 mb-3 italic">Plan smarter. Build better. Stress less.</p>
   <p className="text-gray-700 mb-3">

@@ -153,8 +153,7 @@ const WeddingForm = () => {
                 className="w-full px-2 py-2 pr-7 text-black border border-gray-300 rounded text-sm focus:outline-none focus:ring-1 focus:ring-rose-400 bg-white appearance-none"
               >
                 <option value="" disabled>Select</option>
-                <option value="Mahavastu Yogdan">MAHAVASTU YOGDAN</option>
-                <option value="Vastu Gridding Survey">VASTU GRIDDING SURVEY</option>
+                <option value="Vastu Construction">VASTU CONSTRUCTION</option>
                 <option value="Paid Mahavastu Consultation">PAID MAHAVASTU CONSULTATION</option>
                 <option value="Astro Vastu">ASTRO VASTU</option>
                 <option value="Spatial Flow Planning">SPATIAL FLOW PLANNING</option>

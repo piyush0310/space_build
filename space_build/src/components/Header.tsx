@@ -62,12 +62,8 @@ const Header: React.FC = () => {
   ];
 
   const servicesList = [
-    { name: "MAHAVASTU YOGDAN", href: "/services/mahavastu-yogdan" },
+    { name: "VASTU CONSTRUCTION", href: "/services/vastu-construction" },
     { name: "INTERIOR DESIGNING", href: "/services/interior-designing" },
-    { name: "VASTU GRIDDING SURVEY", href: "/services/vastu-gridding-survey" },
-    { name: "SPATIAL FLOW PLANNING", href: "/services/spatial-flow-planning" },
-    { name: "MAHAVASTU CONSULTATION", href: "/services/mahavastu-consultation" },
-    { name: "VASTU STYLING", href: "/services/vastu-styling" },
     { name: "VASTU RENOVATION", href: "/services/vastu-renovation" },
     { name: "PROJECT MANAGEMENT CONSULTATION (PMC)", href: "/services/project-management-consultation" },
   ];

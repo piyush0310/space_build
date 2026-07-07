@@ -14,8 +14,8 @@ const Services: React.FC = () => {
  
   const services: Service[] = [
   {
-    title: "MAHAVASTU YOGDAN",
-    image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGludGVyaW9yJTIwZGVzaWdufGVufDB8MXwwfHx8MA%3D%3D",
+    title: "VASTU CONSTRUCTION",
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783419078/8ef1e54938f4d6e27c32899b13b6da1c_e09pjm.jpg",
     alt: "Modern interior with artistic decor",
     description: "Integrating technology with elegant design",
     link: "#",
@@ -25,34 +25,6 @@ const Services: React.FC = () => {
     image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997001/2_q9dxca.jpg",
     alt: "Luxury pool with classical architecture",
     description: "Creating timeless architectural masterpieces",
-    link: "#",
-  },
-  {
-    title: "VASTU GRIDDING SURVEY",
-    image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1920&auto=format&fit=crop&q=100",
-    alt: "Modern interior with artistic decor",
-    description: "Integrating technology with elegant design",
-    link: "#",
-  },
-  {
-    title: "SPATIAL FLOW PLANNING",
-    image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997044/2_zr6vnt.jpg",
-    alt: "Luxury pool with classical architecture",
-    description: "Creating timeless architectural masterpieces",
-    link: "#",
-  },
-  {
-    title: "MAHAVASTU CONSULTATION",
-    image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997024/2_wmuetw.jpg",
-    alt: "Classical garden with pool and statues",
-    description: "Crafting outdoor spaces that inspire",
-    link: "#",
-  },
-  {
-    title: "VASTU STYLING",
-    image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997071/1_vuhagj.jpg",
-    alt: "Classical garden with pool and statues",
-    description: "Crafting outdoor spaces that inspire",
     link: "#",
   },
   
