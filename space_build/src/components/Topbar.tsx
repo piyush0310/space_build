@@ -22,12 +22,12 @@ const TopBar: React.FC = () => {
           {/* Separator */}
           <div className="hidden md:block w-px h-4 bg-gray-300"></div>
           <a 
-            href="tel:+918077970608," 
+            href="tel:+918077973797," 
             className="flex items-center space-x-1 sm:space-x-2 text-gray-600 hover:text-purple-600 transition-colors duration-200"
             aria-label="Call us"
           >
             <IoCallOutline className="w-4 h-4 sm:w-5 sm:h-5 text-black" aria-hidden="true" />
-            <span className="text-xs sm:text-sm">+918077970608</span>
+            <span className="text-xs sm:text-sm">+918077973797</span>
           </a>
 
           {/* Separator */}
