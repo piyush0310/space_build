@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     icon: "/favicon.ico",
   },
 
-  // ✅ Google site verification
+  // ✅ 
   
 }
 
