@@ -4,13 +4,13 @@ import React from "react";
 
   const founders = [
     {
-      name: "John Doe",
-      role: "Interior Designer • MahaVastu Expert • Co-Founder, Space Build",
+      name: "Mohd. Shafi",
+      role: "Interior Designer • MahaVastu Expert • Founder, Space Build",
       bio: [
-        "Raised in Hyderabad and rooted in the quiet power of design, John Doe represents a rare blend of technical precision, spiritual sensitivity, and instinctive aesthetic intelligence. His journey began long before Space Build took shape, in the corridors of his family's tile and stone business, where textures, materials, and craftsmanship shaped his earliest memories of space.",
-        "A Hyderabad boy through and through, John completed his schooling and BBA graduation there, carrying forward a deep appreciation for culture, structure, and disciplined work ethics. Soon after, he stepped into the family business ecosystem, gaining hands-on experience in tiles, stones, and later, the manufacturing of packaging materials and corrugated cardboard. These early chapters gave him a tactile understanding of materials, something that continues to define his design language today.",
+        "Raised in Hyderabad and rooted in the quiet power of design, Mohd. Shafi represents a rare blend of technical precision, spiritual sensitivity, and instinctive aesthetic intelligence. His journey began long before Space Build took shape, in the corridors of his family's tile and stone business, where textures, materials, and craftsmanship shaped his earliest memories of space.",
+        "A Hyderabad boy through and through, Mohd. Shafi completed his schooling and BBA graduation there, carrying forward a deep appreciation for culture, structure, and disciplined work ethics. Soon after, he stepped into the family business ecosystem, gaining hands-on experience in tiles, stones, and later, the manufacturing of packaging materials and corrugated cardboard. These early chapters gave him a tactile understanding of materials, something that continues to define his design language today.",
         "But his true calling emerged at the intersection of art, energy, and functionality.",
-        "Driven by curiosity, John began journey in spatial designing and became a certified interior designer. Along with learning the theories of spatial alignment and planning, he also learned design tools like AutoCAD and gradually immersed himself in the science of spatial energy. What started as exploration soon turned into mastery, as he trained rigorously in Vastu Shastra and ultimately evolved into a certified MahaVastu expert. Over time, he developed a keen ability to read the subtle energy flow of spaces, understanding how direction, activity, objects, and intention shape human experience.",
+        "Driven by curiosity, Mohd. Shafi began journey in spatial designing and became a certified interior designer. Along with learning the theories of spatial alignment and planning, he also learned design tools like AutoCAD and gradually immersed himself in the science of spatial energy. What started as exploration soon turned into mastery, as he trained rigorously in Vastu Shastra and ultimately evolved into a certified MahaVastu expert. Over time, he developed a keen ability to read the subtle energy flow of spaces, understanding how direction, activity, objects, and intention shape human experience.",
         "In 2023, this vision found its home in Space Build, co-founded with his college friend and creative collaborator Jane Smith. Together, they built a design philosophy rooted in a simple belief:",
         "A space should not only look beautiful, it should feel aligned, effortless, and alive.",
       ],
@@ -28,15 +28,15 @@ import React from "react";
       ],
     },
     {
-      name: "Jane Smith",
+      name: "Shane Alam",
       role: "Co-Founder, Space Build • Co-Founder, PS Décor\nInterior Designer • Luxury Wedding Creative Director",
       bio: [
-        "Born and raised in Moradabad, Jane Smith has always carried an instinct for aesthetics, organisation, and large-scale celebrations. Her journey began in the quiet discipline of St. Mary's Convent School, where she developed both her cultural sensitivity and her ability to bring people together. She later moved to Delhi to pursue her B.Com at Delhi University, and it was here that her talent for events first found its stage.",
-        "Whether it was managing youth festivals, coordinating campus celebrations, or shaping the cultural narrative of her college, Jane's leadership stood out early. By the end of graduation, she was elected Vice-President of Commsoc, her college's commerce department, a role that refined her skills in creative direction, leadership, and people management. After completing her bachelor's degree, she did her MBA in marketing.",
-        "But Jane's real education came outside the classroom.",
-        "Guided by intuition more than convention, she joined an event management institute, realising she wanted real, hands-on experience, not just theoretical training. Along with her course, she joined a leading wedding management company and learned on-ground, learning every detail of the industry, from timelines and décor to family dynamics and venue operations. Yet Jane's creative curiosity didn't stop there.",
-        "Drawn toward interiors and the deeper psychology of space, she pursued an Interior Designing course, further expanding her design language and visual vocabulary. In 2024, she co-founded Space Build with MahaVastu expert Chitresh Jain, a studio built on the belief that spaces, like events, can shape emotions, behaviours, and the energy of those who live within them.",
-        "At Space Build, Jane blends her event design sensibility; mood, texture, colour harmony, human experience, with the intentionality of interior design. Together, she and Chitresh create luxury spaces that combine aesthetics with alignment, intuition with structure, form with feeling.",
+        "Born and raised in Moradabad, Shane Alam has always carried an instinct for aesthetics, organisation, and large-scale celebrations. His journey began in the quiet discipline of St. Mary's Convent School, where he developed both his cultural sensitivity and his ability to bring people together. He later moved to Delhi to pursue his B.Com at Delhi University, and it was here that his talent for events first found its stage.",
+        "Whether it was managing youth festivals, coordinating campus celebrations, or shaping the cultural narrative of his college, Shane's leadership stood out early. By the end of graduation, he was elected Vice-President of Commsoc, his college's commerce department, a role that refined his skills in creative direction, leadership, and people management. After completing his bachelor's degree, he did his MBA in marketing.",
+        "But Shane's real education came outside the classroom.",
+        "Guided by intuition more than convention, he joined an event management institute, realising he wanted real, hands-on experience, not just theoretical training. Along with his course, he joined a leading wedding management company and learned on-ground, learning every detail of the industry, from timelines and décor to family dynamics and venue operations. Yet Shane's creative curiosity didn't stop there.",
+        "Drawn toward interiors and the deeper psychology of space, he pursued an Interior Designing course, further expanding his design language and visual vocabulary. In 2024, he co-founded Space Build with MahaVastu expert Chitresh Jain, a studio built on the belief that spaces, like events, can shape emotions, behaviours, and the energy of those who live within them.",
+        "At Space Build, Shane blends his event design sensibility; mood, texture, colour harmony, human experience, with the intentionality of interior design. Together, he and Chitresh create luxury spaces that combine aesthetics with alignment, intuition with structure, form with feeling.",
         "Today, in Space Build, Jane stands as a creative force; a designer, storyteller, manager, and visionary; shaping not just events or interiors, but experiences that stay with people long after they leave the room.",
       ],
     },

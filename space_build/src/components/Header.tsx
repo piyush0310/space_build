@@ -49,6 +49,7 @@ const Header: React.FC = () => {
       }
     }
   };
+  
 
   const navigationItems = [
     { name: "HOME", href: "/" },
@@ -96,10 +97,10 @@ const Header: React.FC = () => {
       <header className="sticky top-[1.5rem] z-40 bg-[#28344B] px-4 py-3 shadow-md">
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-2">
 
-          {/* Brand Name */}
+
 <Link
   href="/"
-  className="flex items-center transition-transform duration-200 hover:scale-105 shrink-0"
+  className="flex items-center gap-3 transition-transform duration-200 hover:scale-105 shrink-0"
   onClick={() => {
     setIsMobileMenuOpen(false);
     setIsServicesDropdownOpen(false);
@@ -107,10 +108,30 @@ const Header: React.FC = () => {
     setPendingScroll(null);
   }}
 >
+  {/* Circular Logo */}
+  <div className="w-12 h-12 lg:w-14 lg:h-14 rounded-full bg-white overflow-hidden border-2 border-[#d4af37] shadow-md flex items-center justify-center">
+    <Image
+      src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1783405501/IMG_20260707_115312_vae81v.png"
+      alt="Space Build Logo"
+      width={56}
+      height={56}
+      className="w-full h-full object-cover"
+      priority
+    />
+  </div>
+
+  {/* Vertical Divider */}
+  <div className="h-10 lg:h-12 w-[2px] bg-[#d4af37] opacity-80 rounded-full"></div>
+
+  {/* Brand Name */}
   <div className="leading-none">
-    <h1 className="text-2xl lg:text-3xl xl:text-4xl font-serif font-medium tracking-tight text-white">
+    <h1 className="text-xl lg:text-2xl xl:text-3xl font-serif font-bold tracking-wide text-white">
       SPACE BUILD
     </h1>
+
+    <p className="text-[10px] lg:text-xs uppercase tracking-[0.25em] text-gray-300">
+      Interior • Vastu • Design
+    </p>
   </div>
 </Link>
 

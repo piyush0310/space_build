@@ -5,26 +5,20 @@ import { ChevronRight } from "lucide-react";
 export default function MahaVastuYogdanPage() {
   return (
     <div className="min-h-screen bg-[#edf4f8]">
-      {/* Hero Section */}
-      <section className="relative w-full h-[25vh] md:h-[60vh] overflow-hidden">
-        <Image
-          src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677935/Mahavastu-Yogdyaan_ezo4yu.jpg"
-          alt="MahaVastu Yogdan by SPACE BUILD"
-          fill
-          className="object-full"
-          priority
-        />
-        <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
-          <div className="text-center px-4">
-            <h1 className="text-4xl md:text-6xl font-serif text-white mb-4">
-              MAHAVASTU YOGDAN
-            </h1>
-            <p className="text-xl md:text-2xl text-white/90 font-light italic">
-              A Free, Heart-Led Service for Clarity, Balance & Life Harmony
-            </p>
-          </div>
-        </div>
-      </section>
+{/* Hero Section */}
+<section className="relative w-full h-[25vh] md:h-[60vh] bg-gradient-to-r from-[#F7D794] via-[#E58E26] to-[#B85C38] flex items-center justify-center overflow-hidden">
+  <div className="absolute inset-0 bg-black/20"></div>
+
+  <div className="relative z-10 text-center px-4">
+    <h1 className="text-4xl md:text-6xl font-serif text-white mb-4">
+      MAHAVASTU YOGDAN
+    </h1>
+
+    <p className="text-xl md:text-2xl text-white/90 font-light italic">
+      A Free, Heart-Led Service for Clarity, Balance & Life Harmony
+    </p>
+  </div>
+</section>
 
       {/* Breadcrumb */}
       <nav className="max-w-7xl mx-auto px-6 py-6 text-sm text-gray-600 flex items-center gap-2">
