@@ -10,48 +10,27 @@ interface TeamMember {
 
 const AboutUs: React.FC = () => {
   const teamMembers: TeamMember[] = [
-    {
-      id: 1,
-      name: 'Mr. John Doe',
-      image: 'https://images.unsplash.com/photo-1629425733761-caae3b5f2e50?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzc2lvbmFsJTIwbWFufGVufDB8MXwwfHx8MA%3D%3D',
-      description: 'Interior Designer and MahaVastu Acharya.',
-    },
-    {
-      id: 2,
-      name: 'Mrs. Jane Smith',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsJTIwd29tYW58ZW58MHwxfDB8fHww',
-      description: 'Wedding Designer and Interior Stylist.',
-    },
-    {
-      id: 3,
-      name: 'Ms. Emily Davis',
-      image: 'https://plus.unsplash.com/premium_photo-1670884441862-ddb29ed1f25e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmVzc2lvbmFsJTIwd29tYW58ZW58MHwxfDB8fHww',
-      description: 'MahaVastu Acharya & Astrologer.',
-    },
-    {
-      id: 4,
-      name: 'Mr. Michael Brown',
-      image: 'https://images.unsplash.com/photo-1624797432677-6f803a98acb3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmVzc2lvbmFsJTIwbWFufGVufDB8MXwwfHx8MA%3D%3D',
-      description: 'Interior Stylist and Director.',
-    },
+
   ];
 
   return (
-    <section id="aboutus" className="py-8 sm:py-12 lg:py-16 px-4 bg-[#EDF4F8]">
+    <section id="aboutus" className="py-8 sm:py-6 lg:py-8 px-4 bg-[#EDF4F8]">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
-        <div className="text-center mb-8 sm:mb-12 lg:mb-16">
+        <div className="text-center mb-8 sm:mb-8 lg:mb-8">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif tracking-[0.2em] text-gray-800 mb-4 sm:mb-6 lg:mb-8">
             ABOUT US
           </h2>
-          <p className="text-sm sm:text-base lg:text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed px-2">
-            A dedicated group of skilled designers and architects committed to delivering
-            personalized, functional, and aesthetically pleasing interior design solutions.
-          </p>
+<p className="w-full text-sm sm:text-base lg:text-lg text-gray-600 leading-relaxed text-center">
+  At Space Build, we believe every space has the potential to inspire. We are a passionate team of architects, interior designers, and construction professionals dedicated to creating modern, functional, and timeless spaces that reflect our clients' vision and lifestyle.
+  <br /><br />
+  From residential homes and luxury interiors to commercial spaces and complete construction solutions, we manage every project with precision, creativity, and attention to detail. Our approach combines innovative design, quality craftsmanship, and transparent communication to ensure a smooth experience from concept to completion.
+  <br /><br />
+</p>
         </div>
 
         {/* Team Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 lg:gap-6 xl:gap-8 lg:items-start">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-4 lg:gap-3 xl:gap-4 lg:items-start">
           {teamMembers.map((member, index) => {
             const isOffset = index % 2 === 1;
             return (

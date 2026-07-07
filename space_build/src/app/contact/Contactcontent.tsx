@@ -233,7 +233,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-white mb-1">Address</h4>
                     <p className="text-white text-sm">
-                      Bilari, Uttar Pradesh, India
+                      Moradabad, Uttar Pradesh, India
                     </p>
                   </div>
                   
@@ -263,7 +263,7 @@ const Contact = () => {
                   <h4 className="font-semibold text-white mb-3">Find Us on Map</h4>
                   <div className="w-full h-66 rounded-lg overflow-hidden shadow-md">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14008.872468086007!2d78.8019067!3d28.623224250000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ae7aea2c57a09%3A0x3f54246d7eb35f53!2sBilari%2C%20Uttar%20Pradesh%20244411!5e0!3m2!1sen!2sin!4v1782193404770!5m2!1sen!2sin"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.4038731146798!2d78.6941854756792!3d28.82683357555919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd8a21b57a23%3A0x3fac9d68c93d962a!2sSPACE%20BUILD%20%E2%80%93%20Modular%20Kitchen%20%26%20Interiors!5e0!3m2!1sen!2sin!4v1783318624067!5m2!1sen!2sin"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
