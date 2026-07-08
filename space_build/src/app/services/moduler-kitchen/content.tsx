@@ -50,7 +50,7 @@ export default function modulerKitchenPage() {
         <ChevronRight className="w-4 h-4" />
 
         <span className="text-gray-900 font-medium">
-          MODULER Kitchen
+          Moduler Kitchen
         </span>
 
       </nav>
@@ -62,7 +62,7 @@ export default function modulerKitchenPage() {
         <div className="bg-white rounded-xl shadow-md p-8 mb-6">
 
           <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">
-            moduler Kitchen
+            MODULER KITCHEN
           </h2>
 
           <p className="text-lg text-center text-gray-700 italic mb-2">
