@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 
-export default function ModularKitchenPage() {
+export default function modulerKitchenPage() {
   return (
     <div className="min-h-screen bg-[#edf4f8]">
 
@@ -22,7 +22,7 @@ export default function ModularKitchenPage() {
         <div className="relative z-10 text-center px-4">
 
           <h1 className="text-4xl md:text-6xl font-serif text-white mb-4">
-            MODULAR KITCHEN
+            MODULER KITCHEN
           </h1>
 
           <p className="text-xl md:text-2xl text-white/90 font-light italic">
@@ -50,7 +50,7 @@ export default function ModularKitchenPage() {
         <ChevronRight className="w-4 h-4" />
 
         <span className="text-gray-900 font-medium">
-          Modular Kitchen
+          MODULER Kitchen
         </span>
 
       </nav>
@@ -62,11 +62,11 @@ export default function ModularKitchenPage() {
         <div className="bg-white rounded-xl shadow-md p-8 mb-6">
 
           <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">
-            Modular Kitchen
+            moduler Kitchen
           </h2>
 
           <p className="text-lg text-center text-gray-700 italic mb-2">
-            Premium modular kitchen solutions designed with smart storage,
+            Premium moduler kitchen solutions designed with smart storage,
             elegant finishes, and modern functionality.
           </p>
 
@@ -85,14 +85,14 @@ export default function ModularKitchenPage() {
 
 
           <p className="text-lg text-gray-700 leading-relaxed">
-            A kitchen is the heart of every home, and a well-designed modular
+            A kitchen is the heart of every home, and a well-designed moduler
             kitchen creates the perfect balance between beauty, convenience,
             and functionality.
           </p>
 
 
           <p className="text-lg text-gray-700 leading-relaxed">
-            Our Modular Kitchen service provides complete solutions from
+            Our moduler Kitchen service provides complete solutions from
             design planning and material selection to installation and final
             finishing. We create kitchens that match your lifestyle while
             maximizing space utilization.
@@ -135,27 +135,27 @@ export default function ModularKitchenPage() {
         </div>
 
       </section>
-            {/* What is Modular Kitchen */}
+            {/* What is Moduler Kitchen */}
       <section className="bg-[#edf4f8] py-12">
 
         <div className="max-w-5xl mx-auto px-6">
 
           <h3 className="text-3xl font-serif text-gray-800 mb-6">
-            WHAT IS MODULAR KITCHEN?
+            WHAT IS MODULER KITCHEN?
           </h3>
 
 
           <div className="bg-white rounded-lg p-6 shadow-md space-y-4">
 
             <p className="text-gray-700 leading-relaxed">
-              A Modular Kitchen is a modern kitchen solution where different
+              A moduler Kitchen is a modern kitchen solution where different
               components are designed, manufactured, and installed together
               to create a highly functional and stylish cooking space.
             </p>
 
 
             <p className="text-gray-700">
-              Our modular kitchen solutions are suitable for:
+              Our moduler kitchen solutions are suitable for:
             </p>
 
 
@@ -196,12 +196,12 @@ export default function ModularKitchenPage() {
 
 
         <h3 className="text-3xl font-serif text-gray-800 mb-6">
-          HOW THE MODULAR KITCHEN PROCESS WORKS
+          HOW THE MODULER KITCHEN PROCESS WORKS
         </h3>
 
 
         <p className="text-gray-700 mb-6">
-          Our modular kitchen design process follows a systematic approach
+          Our moduler kitchen design process follows a systematic approach
           to create a perfectly planned kitchen that matches your needs,
           space, and lifestyle.
         </p>
@@ -305,7 +305,7 @@ export default function ModularKitchenPage() {
 
             <p className="text-gray-700 mt-3 italic">
               Our systematic approach ensures a durable, functional, and
-              beautifully finished modular kitchen ready for everyday use.
+              beautifully finished moduler kitchen ready for everyday use.
             </p>
 
 
@@ -330,7 +330,7 @@ export default function ModularKitchenPage() {
 
 
             <p className="text-gray-700">
-              To design your perfect modular kitchen, please keep the
+              To design your perfect moduler kitchen, please keep the
               following details ready:
             </p>
 
@@ -413,7 +413,7 @@ export default function ModularKitchenPage() {
 
 
           <p className="text-gray-700 mt-6 italic">
-            A well-planned modular kitchen saves time, improves efficiency,
+            A well-planned moduler kitchen saves time, improves efficiency,
             and creates a comfortable cooking experience.
           </p>
 
@@ -433,7 +433,7 @@ export default function ModularKitchenPage() {
 
 
           <h3 className="text-3xl font-serif text-gray-800 mb-6">
-            WHO SHOULD CHOOSE MODULAR KITCHEN?
+            WHO SHOULD CHOOSE MODULER KITCHEN?
           </h3>
 
 
@@ -488,7 +488,7 @@ export default function ModularKitchenPage() {
 
 
         <h3 className="text-3xl font-serif text-gray-800 mb-6">
-          BENEFITS OF MODULAR KITCHEN
+          BENEFITS OF MODULER KITCHEN
         </h3>
 
 
@@ -523,7 +523,7 @@ export default function ModularKitchenPage() {
 
         <p className="text-lg text-gray-700 leading-relaxed mt-6 italic text-center">
 
-          A beautifully designed modular kitchen transforms your cooking space
+          A beautifully designed moduler kitchen transforms your cooking space
           into an organized, comfortable, and stylish part of your home.
 
         </p>
@@ -556,12 +556,12 @@ export default function ModularKitchenPage() {
 
 
               <h4 className="font-semibold text-gray-800 mb-2">
-                1. What is a modular kitchen?
+                1. What is a Moduler kitchen?
               </h4>
 
 
               <p className="text-gray-700">
-                A modular kitchen is a modern kitchen system made with
+                A moduler kitchen is a modern kitchen system made with
                 pre-designed modules like cabinets, drawers, shelves, and
                 storage units that are installed together for better
                 functionality and appearance.
@@ -577,7 +577,7 @@ export default function ModularKitchenPage() {
 
 
               <h4 className="font-semibold text-gray-800 mb-2">
-                2. How long does it take to complete a modular kitchen?
+                2. How long does it take to complete a moduler kitchen?
               </h4>
 
 
@@ -596,12 +596,12 @@ export default function ModularKitchenPage() {
 
 
               <h4 className="font-semibold text-gray-800 mb-2">
-                3. Can I customize my modular kitchen design?
+                3. Can I customize my moduler kitchen design?
               </h4>
 
 
               <p className="text-gray-700">
-                Yes. Every modular kitchen can be customized according to your
+                Yes. Every moduler kitchen can be customized according to your
                 space, storage needs, preferred colors, materials, and
                 lifestyle requirements.
               </p>
@@ -616,12 +616,12 @@ export default function ModularKitchenPage() {
 
 
               <h4 className="font-semibold text-gray-800 mb-2">
-                4. Are modular kitchens suitable for small spaces?
+                4. Are moduler kitchens suitable for small spaces?
               </h4>
 
 
               <p className="text-gray-700">
-                Yes. Modular kitchens are designed to maximize storage and
+                Yes. moduler kitchens are designed to maximize storage and
                 functionality, making them highly suitable for compact spaces.
               </p>
 
@@ -654,13 +654,13 @@ export default function ModularKitchenPage() {
 
 
               <h4 className="font-semibold text-gray-800 mb-2">
-                6. Can existing kitchens be converted into modular kitchens?
+                6. Can existing kitchens be converted into moduler kitchens?
               </h4>
 
 
               <p className="text-gray-700">
                 Yes. Existing kitchens can be redesigned and upgraded with
-                modular solutions according to available space and requirements.
+                moduler solutions according to available space and requirements.
               </p>
 
 
@@ -683,14 +683,14 @@ export default function ModularKitchenPage() {
 
 
           <h3 className="text-2xl font-serif text-gray-800 mb-4">
-            Design Your Dream Modular Kitchen
+            Design Your Dream Moduler Kitchen
           </h3>
 
 
 
           <p className="text-lg text-gray-700 mb-4">
 
-            Start your kitchen transformation journey with expert modular
+            Start your kitchen transformation journey with expert moduler
             kitchen design solutions. Create a space that offers smart storage,
             elegant design, comfort, and long-lasting quality.
 
@@ -711,7 +711,7 @@ export default function ModularKitchenPage() {
 
             <p className="text-xl font-semibold text-gray-800">
 
-              Book Your Modular Kitchen Consultation
+              Book Your Moduler Kitchen Consultation
 
             </p>
 

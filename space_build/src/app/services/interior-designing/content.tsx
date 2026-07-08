@@ -102,7 +102,7 @@ export default function InteriorDesignPage() {
          {/* Replace src with a site visit, planning session, or design-in-progress photo */}
             <div className="relative w-full h-[420px] md:h-[700px] rounded-2xl overflow-hidden shadow-lg my-8">
   <Image
-    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic20A.jpg_rbnpzo.jpg"
+    src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554126/IMG_20260627_145346.jpg_y19zud.jpg"
     alt="Space Build design process — planning in progress"
     fill
     className="object-contain object-center"
@@ -259,7 +259,7 @@ export default function InteriorDesignPage() {
       <div className="grid grid-cols-2 w-full h-[220px] md:h-[440px]">
         <div className="relative overflow-hidden">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic08A.jpg_fdabrj.jpg"
+            src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112631.jpg_oqcpnp.jpg"
             alt="Luxury custom furniture by Space Build"
             fill
             className="object-cover"
@@ -267,7 +267,7 @@ export default function InteriorDesignPage() {
         </div>
         <div className="relative overflow-hidden">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic35A.jpg_pmipv3.jpg"
+            src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801422/IMG_20260630_112458.jpg_s8tdsa.jpg"
             alt="Layered lighting design by Space Build"
             fill
             className="object-cover"
@@ -356,7 +356,7 @@ export default function InteriorDesignPage() {
         {/* Replace src with floor plans, material sheets, or design documentation photo */}
         <div className="relative w-full h-[320px] md:h-[560px] rounded-2xl overflow-hidden shadow-lg my-8">
           <Image
-            src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056345/27JulySpace BuildTSInfomatic13A.jpg_szqqld.jpg"
+            src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554122/IMG_20260627_144949.jpg_jurisr.jpg"
             alt="Interior design technical drawings and documentation"
             fill
             className="object-cover"
@@ -405,7 +405,7 @@ export default function InteriorDesignPage() {
             {/* Replace src with a site visit, planning session, or design-in-progress photo */}
             <div className="relative w-full h-[420px] md:h-[700px] rounded-2xl overflow-hidden shadow-lg my-8">
   <Image
-    src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulySpace BuildTSInfomatic31A.jpg_xmupub.jpg"
+    src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554126/IMG_20260627_145346.jpg_y19zud.jpg"
     alt="Space Build design process — planning in progress"
     fill
     className="object-contain object-center"
@@ -473,7 +473,7 @@ export default function InteriorDesignPage() {
           <div className="relative rounded-2xl overflow-hidden shadow-xl">
             <div className="relative w-full h-[420px] md:h-[500px]">
               <Image
-                src="https://res.cloudinary.com/dkpejqlby/image/upload/v1778056344/27JulySpace BuildTSInfomatic27A.jpg_qxnrzk.jpg"
+                src="https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112740.jpg_sa2jrj.jpg"
                 alt="A luxurious interior designed by Space Build, perfect for a consultation CTA"
                 fill
                 className="object-cover"

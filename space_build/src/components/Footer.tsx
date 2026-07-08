@@ -298,7 +298,7 @@ const Footer: React.FC = () => {
             <div className="w-full h-60 sm:h-72 lg:h-80 bg-gray-300 rounded-lg overflow-hidden shadow-lg">
               <iframe
                 className="w-full h-full"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.4038731146798!2d78.6941854756792!3d28.82683357555919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd8a21b57a23%3A0x3fac9d68c93d962a!2sSPACE%20BUILD%20%E2%80%93%20Modular%20Kitchen%20%26%20Interiors!5e0!3m2!1sen!2sin!4v1783318624067!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.4038731146798!2d78.6941854756792!3d28.82683357555919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd8a21b57a23%3A0x3fac9d68c93d962a!2sSPACE%20BUILD%20%E2%80%93%20moduler%20Kitchen%20%26%20Interiors!5e0!3m2!1sen!2sin!4v1783318624067!5m2!1sen!2sin"
                 allowFullScreen
                 loading="lazy"
                 title="spacebuild Office Location"

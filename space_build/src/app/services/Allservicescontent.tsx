@@ -197,13 +197,13 @@ export default function SpaceBuildServicesPage() {
   </Link>
 </div>
 
-{/* Service 1: Modular Kitchen */}
+{/* Service 1: Moduler Kitchen */}
 <div className="bg-white rounded-lg p-6 shadow-md">
 
-  <Link href="/services/modular-kitchen">
+  <Link href="/services/moduler-kitchen">
 
     <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">
-      5. Modular Kitchen
+      5. Moduler Kitchen
     </h4>
 
   </Link>
@@ -216,7 +216,7 @@ export default function SpaceBuildServicesPage() {
 
 
   <p className="text-gray-700 mb-3">
-    Our Modular Kitchen service provides complete kitchen solutions—from
+    Our Moduler Kitchen service provides complete kitchen solutions—from
     design planning and material selection to installation and final finishing.
     We create functional and stylish kitchens that improve comfort, storage,
     and everyday living.
@@ -244,7 +244,7 @@ export default function SpaceBuildServicesPage() {
 
 
   <p className="text-gray-700 mb-3">
-    Our Modular Kitchen service includes:
+    Our Moduler Kitchen service includes:
   </p>
 
 
@@ -282,7 +282,7 @@ export default function SpaceBuildServicesPage() {
 
 
   <Link
-    href="/services/modular-kitchen" className="text-[#D4935D] font-semibold hover:underline">
+    href="/services/moduler-kitchen" className="text-[#D4935D] font-semibold hover:underline">
   
     Learn More →
   </Link>
