@@ -1,60 +1,79 @@
 import type { Metadata } from "next";
 
 import Allservicescontent from "./Allservicescontent";
+
 // ✅ SEO Meta Tags
 export const metadata: Metadata = {
-  title: "Luxury Vastu & Interior Design Services | SPACE BUILD Studio",
+  title:
+    "Our Services | Vastu, Interior Design, Modular Kitchen & Pest Control – SPACE BUILD",
+
   description:
-    "Explore SPACE BUILD Studio’s luxury MahaVastu, AstroVastu, Interior Design, Vastu Renovation & Styling services, crafted for harmony, beauty & balance.",
+    "Explore SPACE BUILD's complete range of services including Vastu Construction, Interior Designing, Vastu Renovation, Project Management Consultation (PMC), Modular Kitchen, and Pest Control solutions for residential and commercial spaces.",
+
   keywords: [
-    "Vastu consultant, Luxury interior design studio, services, Vastu interior design, Vastu renovation services, AstroVastu consultant, Spatial flow planning, Vastu styling, Interior design with Vastu, Energy aligned interiors",
+    "SPACE BUILD Services",
+    "Vastu Construction",
+    "Interior Designing",
+    "Vastu Renovation",
+    "Project Management Consultation",
+    "PMC Services",
+    "Modular Kitchen",
+    "Pest Control Service",
+    "Home Interior Design",
+    "Commercial Interior Design",
+    "Residential Construction",
+    "Kitchen Design",
+    "Professional Pest Control",
+    "Vastu Consultant",
   ],
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://Space Build.com/services",
+    canonical: "https://www.spacebuild.com/services",
   },
 
   openGraph: {
-    title: "Luxury Vastu & Interior Design Services | SPACE BUILD Studio",
+    title:
+      "Our Services | Vastu, Interior Design, Modular Kitchen & Pest Control – SPACE BUILD",
+
     description:
-      "Explore SPACE BUILD Studio’s luxury MahaVastu, AstroVastu, Interior Design, Vastu Renovation & Styling services, crafted for harmony, beauty & balance.",
-    url: "https://Space Build.com/services",
-    siteName: "SPACE BUILD Studio",
+      "Discover SPACE BUILD's professional services including Vastu Construction, Interior Designing, Vastu Renovation, PMC, Modular Kitchen, and Pest Control for homes and commercial spaces.",
+
+    url: "https://www.spacebuild.com/services",
+
+    siteName: "SPACE BUILD",
+
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space_Buildlogo_bmzk0r.png",
         width: 1200,
         height: 630,
-        alt: "SPACE BUILD Studio – Interior Design Services | Residential & Commercial Solutions",
+        alt: "SPACE BUILD Services",
       },
     ],
+
     locale: "en_US",
     type: "website",
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Luxury Vastu & Interior Design Services | SPACE BUILD Studio",
+
+    title:
+      "Our Services | Vastu, Interior Design, Modular Kitchen & Pest Control – SPACE BUILD",
+
     description:
-      "Explore SPACE BUILD Studio’s luxury MahaVastu, AstroVastu, Interior Design, Vastu Renovation & Styling services, crafted for harmony, beauty & balance.",
+      "Explore SPACE BUILD's complete range of professional construction, interior, modular kitchen, and pest control services.",
+
     images: [
-      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space Buildlogo_bmzk0r.png",
+      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space_Buildlogo_bmzk0r.png",
     ],
   },
 
   icons: {
     icon: "/favicon.ico",
   },
-
-<<<<<<< HEAD
-  // ✅ Google site verification
 };
-=======
-  // ✅ 
-  
-}
->>>>>>> c5f62a4699e9f08aa2e9e5c9c3d412f8d004fe65
 
 export default function Service() {
   return (
