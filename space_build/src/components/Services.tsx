@@ -64,7 +64,7 @@ const Services: React.FC = () => {
 
   return (
     <section className="bg-[#EDF4F8] text-black py-2 md:py-4 px-3">
-      <div className="container mx-auto max-w-7xl">
+      <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-8 md:mb-16">
           <h2 className="!text-black text-4xl md:text-5xl font-serif tracking-[0.2em] text-gray-800 mb-8">
             SERVICES
@@ -75,14 +75,14 @@ const Services: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
           {services.map((service, index) => (
             <Link
               key={index}
               href={service.link}
               className="group relative overflow-hidden cursor-pointer rounded-2xl block"
             >
-              <div className="aspect-[4/5] relative overflow-hidden rounded-2xl">
+              <div className="aspect-[4/4.4] relative overflow-hidden rounded-2xl">
                 {service.image.startsWith('http') ? (
                   <img
                     src={service.image}
@@ -102,7 +102,7 @@ const Services: React.FC = () => {
                 )}
                 <div className="absolute inset-0 bg-black/50 rounded-lg" />
                 <div className="absolute inset-0 flex items-center justify-center text-center">
-                  <h3 className="font-[Forum] text-lg md:text-2xl lg:text-3xl text-white tracking-widest opacity-100 p-3">
+                  <h3 className="font-[Forum] text-base md:text-xl lg:text-2xl text-white tracking-widest p-3">
                     {service.title}
                   </h3>
                 </div>
