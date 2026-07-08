@@ -43,7 +43,7 @@ const Services: React.FC = () => {
   link: "#",
 },
 {
-  title: "moduler KITCHEN",
+  title: "MODULER KITCHEN",
   image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504422/1e1d2cae7decd74c98231647a79a911d_oqeof0.jpg",
   alt: "Modern moduler kitchen design and installation services",
   description: "Premium moduler kitchen solutions by SPACE BUILD with smart storage, modern designs, customized layouts, and elegant finishes.",

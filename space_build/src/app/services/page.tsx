@@ -5,10 +5,10 @@ import Allservicescontent from "./Allservicescontent";
 // ✅ SEO Meta Tags
 export const metadata: Metadata = {
   title:
-    "Our Services | Vastu, Interior Design, moduler Kitchen & Pest Control – SPACE BUILD",
+    "Our Services | Vastu, Interior Design, Moduler Kitchen & Pest Control – SPACE BUILD",
 
   description:
-    "Explore SPACE BUILD's complete range of services including Vastu Construction, Interior Designing, Vastu Renovation, Project Management Consultation (PMC), moduler Kitchen, and Pest Control solutions for residential and commercial spaces.",
+    "Explore SPACE BUILD's complete range of services including Vastu Construction, Interior Designing, Vastu Renovation, Project Management Consultation (PMC), Moduler Kitchen, and Pest Control solutions for residential and commercial spaces.",
 
   keywords: [
     "SPACE BUILD Services",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "Vastu Renovation",
     "Project Management Consultation",
     "PMC Services",
-    "moduler Kitchen",
+    "Moduler Kitchen",
     "Pest Control Service",
     "Home Interior Design",
     "Commercial Interior Design",
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
 
   openGraph: {
     title:
-      "Our Services | Vastu, Interior Design, moduler Kitchen & Pest Control – SPACE BUILD",
+      "Our Services | Vastu, Interior Design, Moduler Kitchen & Pest Control – SPACE BUILD",
 
     description:
-      "Discover SPACE BUILD's professional services including Vastu Construction, Interior Designing, Vastu Renovation, PMC, moduler Kitchen, and Pest Control for homes and commercial spaces.",
+      "Discover SPACE BUILD's professional services including Vastu Construction, Interior Designing, Vastu Renovation, PMC, Moduler Kitchen, and Pest Control for homes and commercial spaces.",
 
     url: "https://www.spacebuild.com/services",
 
@@ -60,10 +60,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
 
     title:
-      "Our Services | Vastu, Interior Design, moduler Kitchen & Pest Control – SPACE BUILD",
+      "Our Services | Vastu, Interior Design, Moduler Kitchen & Pest Control – SPACE BUILD",
 
     description:
-      "Explore SPACE BUILD's complete range of professional construction, interior, moduler kitchen, and pest control services.",
+      "Explore SPACE BUILD's complete range of professional construction, interior, Moduler kitchen, and pest control services.",
 
     images: [
       "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space_Buildlogo_bmzk0r.png",
