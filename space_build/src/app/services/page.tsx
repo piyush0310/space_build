@@ -47,8 +47,14 @@ export const metadata: Metadata = {
     icon: "/favicon.ico",
   },
 
+<<<<<<< HEAD
   // ✅ Google site verification
 };
+=======
+  // ✅ 
+  
+}
+>>>>>>> c5f62a4699e9f08aa2e9e5c9c3d412f8d004fe65
 
 export default function Service() {
   return (
