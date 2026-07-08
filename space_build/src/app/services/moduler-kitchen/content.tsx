@@ -727,7 +727,7 @@ export default function ModularKitchenPage() {
 
             <p className="text-[#D4935D] font-semibold text-lg">
 
-              +91 7906086899
+              +919927611780
 
             </p>
 

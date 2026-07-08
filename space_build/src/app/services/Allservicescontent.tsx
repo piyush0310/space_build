@@ -291,7 +291,7 @@ export default function SpaceBuildServicesPage() {
 {/* Service 1: Pest Control Service */}
 <div className="bg-white rounded-lg p-6 shadow-md">
 
-  <Link href="/services/pest-control">
+  <Link href="/services/pest-control-services">
 
     <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">
       6. Pest Control Service
@@ -424,7 +424,7 @@ export default function SpaceBuildServicesPage() {
             </p>
             <div className="space-y-2">
               <p className="text-xl font-semibold text-gray-800">Get in Touch Today</p>
-              <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
+              <p className="text-[#D4935D] font-semibold text-lg">+919927611780</p>
               <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
             </div>
           </div>

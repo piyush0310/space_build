@@ -462,7 +462,7 @@ export default function VastuRenovationPage() {
             </p>
             <p className="text-gray-700">Call us today at:</p>
             <p className="text-[#D4935D] font-semibold text-lg">
-              +917906086899
+              +919927611780
             </p>
             <p className="text-[#D4935D] font-semibold">
               spacebuild.india@gmail.com

@@ -490,7 +490,7 @@ export default function InteriorDesignPage() {
                   <div className="bg-white/10 backdrop-blur-sm border border-white/30 rounded-xl px-2 py-2 space-y-2">
                     <p className="text-white text-xl font-semibold">Request an Interior Design Consultation</p>
                     <p className="text-white/80">Contact us today at:</p>
-                    <p className="text-[#f7b97a] font-semibold text-lg">+917906086899</p>
+                    <p className="text-[#f7b97a] font-semibold text-lg">+919927611780</p>
                     <p className="text-[#f7b97a] font-semibold">spacebuild.india@gmail.com</p>
                   </div>
                 </div>

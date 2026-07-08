@@ -324,7 +324,7 @@ export default function AstroVastuPage() {
           <div className="space-y-2">
             <p className="text-xl font-semibold text-gray-800">Book Your AstroVastu Consultation</p>
             <p className="text-gray-700">Contact us today at:</p>
-            <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
+            <p className="text-[#D4935D] font-semibold text-lg">+919927611780</p>
             <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
           </div>
           <p className="text-gray-600 italic mt-6">
