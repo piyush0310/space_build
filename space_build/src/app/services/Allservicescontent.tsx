@@ -282,9 +282,8 @@ export default function SpaceBuildServicesPage() {
 
 
   <Link
-    href="/services/modular-kitchen"
-    className="text-[#D4935D] font-semibold hover:underline"
-  >
+    href="/services/modular-kitchen" className="text-[#D4935D] font-semibold hover:underline">
+  
     Learn More →
   </Link>
 
@@ -374,9 +373,7 @@ export default function SpaceBuildServicesPage() {
 
 
   <Link
-    href="/services/pest-control"
-    className="text-[#D4935D] font-semibold hover:underline"
-  >
+    href="/services/pest-control-services" className="text-[#D4935D] font-semibold hover:underline">
     Learn More →
   </Link>
 

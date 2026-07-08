@@ -40,37 +40,7 @@ import React from "react";
         "Today, in Space Build, Jane stands as a creative force; a designer, storyteller, manager, and visionary; shaping not just events or interiors, but experiences that stay with people long after they leave the room.",
       ],
     },
-    {
-      name: "Michael Brown",
-      role: "Co-Founder, Space Build\nHospitality Leader • Spatial Design Expert • Design-Driven Entrepreneur",
-      bio: [
-        "Born and brought up in Ghaziabad, Michael Brown grew up observing the quiet discipline of hospitality, where service is instinctive, guests are treated like family, and experiences are built through consistency rather than spectacle. After completing his schooling, he pursued a Bachelor's degree in Business Administration from Amity University, equipping himself with a strong understanding of operations, strategy, and people management.",
-        "In 2018, at a pivotal moment early in his career, Michael made a decision that would define his path. He turned down a lucrative job offer from Amazon, choosing instead to join his family's hotel business in Moradabad. The choice was intentional, rooted in his belief that true fulfilment lies in building experiences that touch people's lives, not just managing numbers.",
-        "Immersed in the hospitality ecosystem, Michael developed a deep understanding of guest psychology, operational excellence, and service-led luxury. Alongside managing hotel operations, he gravitated naturally toward the production and planning of luxury destination weddings, executing celebrations across Jim Corbett, Haridwar, and Rishikesh. These early projects refined his expertise in large-scale coordination, venue dynamics, guest flow, and seamless execution, the invisible details that define truly memorable weddings.",
-        "His journey evolved further in 2023, when he joined Space Build as a Co-Founder alongside his wife, Jane Smith, driven by a shared belief that spaces, much like celebrations, have the power to influence emotion, behaviour, and well-being. At Space Build, Michael contributes a hospitality-first perspective to interior design, focusing on how people move, feel, and live within a space.",
-        "Across both brands, Michael's philosophy remains consistent:",
-        "Luxury is not excess; it is intention, ease, and how an experience makes you feel.",
-        "Today, he continues to shape PS Décor and Space Build with grounded leadership, emotional intelligence, and a commitment to creating experiences, whether weddings or spaces, that leave a lasting imprint long after the moment has passed.",
-      ],
-    },
 
-    {
-  name: "Emily Davis",
-  role: "Co-Founder, Space Build\nMahaVastu Acharya • Astrologer • Industrial & Commercial Vastu Specialist",
-  bio: [
-    "Emily Davis is a Co-Founder of Space Build and a distinguished practitioner of MahaVastu, known for her refined understanding of energy dynamics, directional intelligence, and industrial Vastu strategy. Her work combines intuitive depth, analytical precision, and contemporary luxury sensibilities, positioning her among the emerging voices redefining modern Vastu consultation for commercial and industrial environments.",
-
-    "Her journey into astrology and ancient knowledge systems began in 2019 through a deep curiosity about the relationship between human experiences, environmental frequencies, and energetic influences. What started as personal exploration gradually evolved into a disciplined pursuit of higher learning in astrology, vastu, numerology, and palmistry.",
-
-    "Her path eventually led her to the transformative discipline of MahaVastu under the mentorship of internationally acclaimed Vastu Shastri Khusheep Bansal. Following extensive training and advanced study, she earned the prestigious distinctions of both MahaVastu Expert and MahaVastu Acharya.",
-
-    "In 2026, she formally joined the leadership and co-founding panel of Space Build alongside Chitresh Jain, Charu Mamgain Shukla, and Rounak Shukla, contributing towards the company’s vision of integrating luxury design thinking with intelligent environmental planning.",
-
-    "At Space Build, Emily Davis specialises in Industrial and Commercial MahaVastu, particularly for factories, manufacturing units, industrial plots, and business establishments. Her expertise includes identifying subtle energetic imbalances that may influence operational efficiency, financial growth, workforce harmony, and leadership clarity. She is also recognised for incorporating Devta Energy principles to support growth-oriented industrial environments.",
-
-    "Known for her composed presence and perceptive understanding of human-environment interaction, Emily Davis continues to bring a modern and elevated perspective to the ancient wisdom of MahaVastu."
-  ],
-}
   ];
 
 function KnowMore() {
