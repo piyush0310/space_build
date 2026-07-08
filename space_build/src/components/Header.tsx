@@ -66,6 +66,9 @@ const Header: React.FC = () => {
     { name: "INTERIOR DESIGNING", href: "/services/interior-designing" },
     { name: "VASTU RENOVATION", href: "/services/vastu-renovation" },
     { name: "PROJECT MANAGEMENT CONSULTATION (PMC)", href: "/services/project-management-consultation" },
+    { name: "MODULER KITCHEN", href: "/services/moduler-kitchen" },
+    { name: "PEST CONTROL SERVICES", href: "/services/pest-control-services" },
+
   ];
 
   const aboutList = [

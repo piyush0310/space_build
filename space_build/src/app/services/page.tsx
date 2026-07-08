@@ -1,6 +1,6 @@
-import type { Metadata } from "next"
+import type { Metadata } from "next";
 
-import  Allservicescontent  from "./Allservicescontent";
+import Allservicescontent from "./Allservicescontent";
 // ✅ SEO Meta Tags
 export const metadata: Metadata = {
   title: "Luxury Vastu & Interior Design Services | SPACE BUILD Studio",
@@ -48,14 +48,12 @@ export const metadata: Metadata = {
   },
 
   // ✅ Google site verification
-  
-}
+};
 
 export default function Service() {
   return (
     <>
       <Allservicescontent />
-     
     </>
-  )
+  );
 }

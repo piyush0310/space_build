@@ -22,7 +22,7 @@ const Services: React.FC = () => {
   },
   {
     title: "INTERIOR DESIGNING",
-    image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997001/2_q9dxca.jpg",
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801422/IMG_20260630_112458.jpg_s8tdsa.jpg",
     alt: "Luxury pool with classical architecture",
     description: "Creating timeless architectural masterpieces",
     link: "#",
@@ -30,19 +30,32 @@ const Services: React.FC = () => {
   
   {
     title: "VASTU RENOVATION",
-    image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997058/2_mcrjvd.jpg",
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508093/5ee5666025888d7cdd2271f53610ad1f_t9kje4.jpg",
     alt: "Classical garden with pool and statues",
     description: "Crafting outdoor spaces that inspire",
     link: "#",
   },
   {
   title: "PROJECT MANAGEMENT CONSULTATION (PMC)",
-  image: "https://res.cloudinary.com/dkpejqlby/image/upload/v1766997027/2_rgmivl.jpg",
+  image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508412/IMG_20260708_162906.jpg_atgdaa.jpg",
   alt: "Professional project management consultation services",
   description: "Professional project management consultation by SPACE BUILD for efficient planning, execution, and delivery.",
   link: "#",
 },
-
+{
+  title: "MODULAR KITCHEN",
+  image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504422/1e1d2cae7decd74c98231647a79a911d_oqeof0.jpg",
+  alt: "Modern modular kitchen design and installation services",
+  description: "Premium modular kitchen solutions by SPACE BUILD with smart storage, modern designs, customized layouts, and elegant finishes.",
+  link: "/services/modular-kitchen",
+},
+{
+  title: "PEST CONTROL SERVICE",
+  image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504729/c7a4c1b3449132996089eba738fbdafb_srwqml.jpg",
+  alt: "Professional pest control and pest management services",
+  description: "Reliable pest control solutions by SPACE BUILD for homes, offices, and commercial spaces with effective treatment, protection, and hygiene-focused services.",
+  link: "/services/pest-control",
+},
   
   
  
@@ -62,7 +75,7 @@ const Services: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-8">
           {services.map((service, index) => (
             <Link
               key={index}

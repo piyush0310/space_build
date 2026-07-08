@@ -9,16 +9,16 @@ interface Slide {
 
 const slides: Slide[] = [
   {
-    image: "https://plus.unsplash.com/premium_photo-1748070893462-4445075983e8?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    mobileImage: "https://plus.unsplash.com/premium_photo-1748070893462-4445075983e8?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg",
+    mobileImage: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg"
   },
   {
-    image: "https://plus.unsplash.com/premium_photo-1661963428055-4b25a7ebd3a9?q=80&w=1116&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    mobileImage: "https://plus.unsplash.com/premium_photo-1661963428055-4b25a7ebd3a9?q=80&w=1116&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112631.jpg_oqcpnp.jpg",
+    mobileImage: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801419/IMG_20260630_112631.jpg_oqcpnp.jpg"
   },
   {
-    image: "https://plus.unsplash.com/premium_photo-1661963505505-f992fa0a8630?q=80&w=1294&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    mobileImage: "https://plus.unsplash.com/premium_photo-1661963505505-f992fa0a8630?q=80&w=1294&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508598/photo-1539922980492-38f6673af8dd_t2molx.avif",
+    mobileImage: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508598/photo-1539922980492-38f6673af8dd_t2molx.avif"
   },
 ];
 

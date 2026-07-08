@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space_Buildlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504422/1e1d2cae7decd74c98231647a79a911d_oqeof0.jpg",
         width: 1200,
         height: 630,
         alt: "Space Build - Vastu Construction Services",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
       "Expert Vastu Construction services for homes, offices, villas, commercial buildings, and industrial projects. Build with confidence using authentic Vastu principles.",
 
     images: [
-      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/Space_Buildlogo_bmzk0r.png",
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504422/1e1d2cae7decd74c98231647a79a911d_oqeof0.jpg",
     ],
   },
 

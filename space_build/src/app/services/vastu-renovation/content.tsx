@@ -28,9 +28,13 @@ export default function VastuRenovationPage() {
 
       {/* Breadcrumb */}
       <nav className="max-w-7xl mx-auto px-6 py-6 text-sm text-gray-600 flex items-center gap-2">
-        <Link href="/" className="hover:text-gray-900">Home</Link>
+        <Link href="/" className="hover:text-gray-900">
+          Home
+        </Link>
         <ChevronRight className="w-4 h-4" />
-        <Link href="/services" className="hover:text-gray-900">Services</Link>
+        <Link href="/services" className="hover:text-gray-900">
+          Services
+        </Link>
         <ChevronRight className="w-4 h-4" />
         <span className="text-gray-900 font-medium">Vastu Renovation</span>
       </nav>
@@ -38,18 +42,25 @@ export default function VastuRenovationPage() {
       {/* Introduction */}
       <section className="max-w-5xl mx-auto px-6 py-12">
         <div className="space-y-6">
-          <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">Vastu Renovation</h2>
+          <h2 className="text-4xl font-serif text-gray-800 mb-8 text-center">
+            Vastu Renovation
+          </h2>
           <p className="text-lg text-gray-700 leading-relaxed">
-            A guided renovation service that ensures every change - big or small - aligns with the flow of energy, purpose, and prosperity.
+            A guided renovation service that ensures every change - big or small
+            - aligns with the flow of energy, purpose, and prosperity.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed font-semibold text-center italic">
-            Renovate with intention. Renovate with alignment. Renovate with Space Build.
+            Renovate with intention. Renovate with alignment. Renovate with
+            Space Build.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            Renovation is not just about upgrading materials, finishes, or layouts - it is about upgrading the energy of a space.
+            Renovation is not just about upgrading materials, finishes, or
+            layouts - it is about upgrading the energy of a space.
           </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <p className="text-gray-800 font-semibold mb-3">At Space Build, Vastu Renovation integrates:</p>
+            <p className="text-gray-800 font-semibold mb-3">
+              At Space Build, Vastu Renovation integrates:
+            </p>
             <ul className="space-y-2 text-gray-700">
               <li>• MahaVastu science</li>
               <li>• Architectural sensitivity</li>
@@ -59,13 +70,18 @@ export default function VastuRenovationPage() {
             </ul>
           </div>
           <p className="text-lg text-gray-700 leading-relaxed">
-            …to ensure that every structural change enhances harmony rather than disturbing it.
+            …to ensure that every structural change enhances harmony rather than
+            disturbing it.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            Whether you're redoing one room or transforming an entire home/office, we ensure that every decision, from wall placement to storage planning, supports your goals, well-being, and long-term success.
+            Whether you're redoing one room or transforming an entire
+            home/office, we ensure that every decision, from wall placement to
+            storage planning, supports your goals, well-being, and long-term
+            success.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed italic">
-            This service is for those who want a renovation that is beautiful, meaningful, and energetically correct.
+            This service is for those who want a renovation that is beautiful,
+            meaningful, and energetically correct.
           </p>
         </div>
       </section>
@@ -73,18 +89,40 @@ export default function VastuRenovationPage() {
       {/* When Do You Need */}
       <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-6">WHEN DO YOU NEED VASTU RENOVATION?</h3>
-          <p className="text-gray-700 mb-4">Vastu Renovation is essential when:</p>
+          <h3 className="text-3xl font-serif text-gray-800 mb-6">
+            WHEN DO YOU NEED VASTU RENOVATION?
+          </h3>
+          <p className="text-gray-700 mb-4">
+            Vastu Renovation is essential when:
+          </p>
           <div className="bg-white rounded-lg p-6 shadow-md">
             <ul className="space-y-2 text-gray-700">
               <li>• You've recently renovated and things feel "off"</li>
-              <li>• You're planning a renovation soon and want to avoid Vastu mistakes</li>
-              <li>• You feel blocked, overwhelmed, or emotionally heavy in your space</li>
-              <li>• You're facing sudden relationship, health, or financial problems</li>
-              <li>• You're experiencing repeated delays or losses after altering the space</li>
-              <li>• You purchased an older home or office needing structural upgrades</li>
+              <li>
+                • You're planning a renovation soon and want to avoid Vastu
+                mistakes
+              </li>
+              <li>
+                • You feel blocked, overwhelmed, or emotionally heavy in your
+                space
+              </li>
+              <li>
+                • You're facing sudden relationship, health, or financial
+                problems
+              </li>
+              <li>
+                • You're experiencing repeated delays or losses after altering
+                the space
+              </li>
+              <li>
+                • You purchased an older home or office needing structural
+                upgrades
+              </li>
               <li>• You want to create a fresh, aligned beginning</li>
-              <li>• You're preparing for new goals; marriage, business expansion, parenthood, etc.</li>
+              <li>
+                • You're preparing for new goals; marriage, business expansion,
+                parenthood, etc.
+              </li>
             </ul>
           </div>
           <p className="text-gray-700 mt-6">
@@ -98,11 +136,15 @@ export default function VastuRenovationPage() {
 
       {/* What Vastu Renovation Includes */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-8">WHAT VASTU RENOVATION INCLUDES</h3>
-        
+        <h3 className="text-3xl font-serif text-gray-800 mb-8">
+          WHAT VASTU RENOVATION INCLUDES
+        </h3>
+
         <div className="space-y-6">
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 text-xl mb-3">1. Pre-Renovation Vastu Audit</h4>
+            <h4 className="font-semibold text-gray-800 text-xl mb-3">
+              1. Pre-Renovation Vastu Audit
+            </h4>
             <p className="text-gray-700 mb-3">We begin by analysing:</p>
             <ul className="space-y-2 text-gray-700">
               <li>• The current layout</li>
@@ -114,11 +156,16 @@ export default function VastuRenovationPage() {
               <li>• Marma points</li>
               <li>• Emotional and behavioural imprints</li>
             </ul>
-            <p className="text-gray-700 mt-3 italic">This creates a diagnostic map of what must be corrected before renovation begins.</p>
+            <p className="text-gray-700 mt-3 italic">
+              This creates a diagnostic map of what must be corrected before
+              renovation begins.
+            </p>
           </div>
 
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 text-xl mb-3">2. Structural Planning with Vastu Intelligence</h4>
+            <h4 className="font-semibold text-gray-800 text-xl mb-3">
+              2. Structural Planning with Vastu Intelligence
+            </h4>
             <p className="text-gray-700 mb-3">We guide you on:</p>
             <ul className="space-y-2 text-gray-700">
               <li>• Where to shift walls</li>
@@ -130,12 +177,20 @@ export default function VastuRenovationPage() {
               <li>• Safe zones for major construction</li>
               <li>• Element-friendly materials</li>
             </ul>
-            <p className="text-gray-700 mt-3 italic">This step ensures that renovation supports, not disrupts, natural energy.</p>
+            <p className="text-gray-700 mt-3 italic">
+              This step ensures that renovation supports, not disrupts, natural
+              energy.
+            </p>
           </div>
 
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 text-xl mb-3">3. Interior Layout & Object Placement Guidance</h4>
-            <p className="text-gray-700 mb-3">Renovation is not just civil work - it is also about how the space will breathe once it's complete.</p>
+            <h4 className="font-semibold text-gray-800 text-xl mb-3">
+              3. Interior Layout & Object Placement Guidance
+            </h4>
+            <p className="text-gray-700 mb-3">
+              Renovation is not just civil work - it is also about how the space
+              will breathe once it's complete.
+            </p>
             <p className="text-gray-700 mb-2">We plan:</p>
             <ul className="space-y-2 text-gray-700">
               <li>• Furniture placement</li>
@@ -146,13 +201,21 @@ export default function VastuRenovationPage() {
               <li>• Feature elements</li>
               <li>• Object placement (remedies, metals, decor)</li>
             </ul>
-            <p className="text-gray-700 mt-3 italic">The goal is to create a space that is beautiful and balanced.</p>
+            <p className="text-gray-700 mt-3 italic">
+              The goal is to create a space that is beautiful and balanced.
+            </p>
           </div>
 
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 text-xl mb-3">4. Non-Destructive Corrections & Element Alignment</h4>
-            <p className="text-gray-700 mb-3">Not every renovation needs demolition.</p>
-            <p className="text-gray-700 mb-2">We integrate powerful, modern MahaVastu corrections such as:</p>
+            <h4 className="font-semibold text-gray-800 text-xl mb-3">
+              4. Non-Destructive Corrections & Element Alignment
+            </h4>
+            <p className="text-gray-700 mb-3">
+              Not every renovation needs demolition.
+            </p>
+            <p className="text-gray-700 mb-2">
+              We integrate powerful, modern MahaVastu corrections such as:
+            </p>
             <ul className="space-y-2 text-gray-700">
               <li>• Colour & element-based balancing</li>
               <li>• Metal/wood/fire/earth/light placements</li>
@@ -161,12 +224,19 @@ export default function VastuRenovationPage() {
               <li>• Water/fire/air element adjustment</li>
               <li>• Planet-specific corrections (if needed)</li>
             </ul>
-            <p className="text-gray-700 mt-3 italic">These subtle interventions create a smoother flow of energy after renovation.</p>
+            <p className="text-gray-700 mt-3 italic">
+              These subtle interventions create a smoother flow of energy after
+              renovation.
+            </p>
           </div>
 
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 text-xl mb-3">5. Renovation Monitoring & Support</h4>
-            <p className="text-gray-700 mb-3">During the renovation period, we provide:</p>
+            <h4 className="font-semibold text-gray-800 text-xl mb-3">
+              5. Renovation Monitoring & Support
+            </h4>
+            <p className="text-gray-700 mb-3">
+              During the renovation period, we provide:
+            </p>
             <ul className="space-y-2 text-gray-700">
               <li>• On-call guidance</li>
               <li>• Photographic verifications</li>
@@ -174,7 +244,10 @@ export default function VastuRenovationPage() {
               <li>• Correction checkpoints</li>
               <li>• Final pre-handover review</li>
             </ul>
-            <p className="text-gray-700 mt-3 italic">This ensures the design and Vastu alignment stay intact through the process.</p>
+            <p className="text-gray-700 mt-3 italic">
+              This ensures the design and Vastu alignment stay intact through
+              the process.
+            </p>
           </div>
         </div>
       </section>
@@ -182,7 +255,9 @@ export default function VastuRenovationPage() {
       {/* Why Space Build */}
       <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-6">WHY Space Build FOR VASTU RENOVATION?</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-6">
+            WHY Space Build FOR VASTU RENOVATION?
+          </h3>
           <div className="space-y-4">
             <p className="text-gray-700 leading-relaxed">
               Because we understand both:
@@ -195,7 +270,9 @@ export default function VastuRenovationPage() {
               The architecture of energy
             </p>
             <p className="text-gray-700 mt-4">
-              Most designers focus only on aesthetics. Most Vastu practitioners overlook materiality, circulation, luxury finishes, and modern design needs.
+              Most designers focus only on aesthetics. Most Vastu practitioners
+              overlook materiality, circulation, luxury finishes, and modern
+              design needs.
             </p>
             <p className="text-gray-700 font-semibold">
               Space Build integrates both worlds seamlessly.
@@ -219,7 +296,9 @@ export default function VastuRenovationPage() {
 
       {/* Benefits */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">BENEFITS OF VASTU RENOVATION</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">
+          BENEFITS OF VASTU RENOVATION
+        </h3>
         <div className="bg-white rounded-lg p-6 shadow-md">
           <ul className="space-y-2 text-gray-700">
             <li>• Smooth life transitions</li>
@@ -242,7 +321,9 @@ export default function VastuRenovationPage() {
       {/* Deliverables */}
       <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-6">DELIVERABLES YOU RECEIVE</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-6">
+            DELIVERABLES YOU RECEIVE
+          </h3>
           <div className="bg-white rounded-lg p-6 shadow-md">
             <ul className="space-y-2 text-gray-700">
               <li>• Vastu diagnosis report</li>
@@ -264,27 +345,50 @@ export default function VastuRenovationPage() {
 
       {/* The Process */}
       <section className="max-w-5xl mx-auto px-6 py-12">
-        <h3 className="text-3xl font-serif text-gray-800 mb-6">THE Space Build PROCESS</h3>
+        <h3 className="text-3xl font-serif text-gray-800 mb-6">
+          THE Space Build PROCESS
+        </h3>
         <div className="space-y-4">
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">Step 1 — Initial Consultation & Problem Mapping</h4>
-            <p className="text-gray-700">Understanding what has changed, what is planned, and what is needed.</p>
+            <h4 className="font-semibold text-gray-800 mb-2">
+              Step 1 — Initial Consultation & Problem Mapping
+            </h4>
+            <p className="text-gray-700">
+              Understanding what has changed, what is planned, and what is
+              needed.
+            </p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">Step 2 — MahaVastu Audit</h4>
-            <p className="text-gray-700">A deep analysis of the space before renovation.</p>
+            <h4 className="font-semibold text-gray-800 mb-2">
+              Step 2 — MahaVastu Audit
+            </h4>
+            <p className="text-gray-700">
+              A deep analysis of the space before renovation.
+            </p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">Step 3 — Renovation Blueprint Creation</h4>
-            <p className="text-gray-700">We redraw your renovation plan with Vastu-correct alignment.</p>
+            <h4 className="font-semibold text-gray-800 mb-2">
+              Step 3 — Renovation Blueprint Creation
+            </h4>
+            <p className="text-gray-700">
+              We redraw your renovation plan with Vastu-correct alignment.
+            </p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">Step 4 — Execution Support</h4>
-            <p className="text-gray-700">Guiding contractors and ensuring no errors creep in.</p>
+            <h4 className="font-semibold text-gray-800 mb-2">
+              Step 4 — Execution Support
+            </h4>
+            <p className="text-gray-700">
+              Guiding contractors and ensuring no errors creep in.
+            </p>
           </div>
           <div className="bg-white rounded-lg p-6 shadow-md">
-            <h4 className="font-semibold text-gray-800 mb-2">Step 5 — Final Alignment & Review</h4>
-            <p className="text-gray-700">Ensuring the renovated space is energetically complete.</p>
+            <h4 className="font-semibold text-gray-800 mb-2">
+              Step 5 — Final Alignment & Review
+            </h4>
+            <p className="text-gray-700">
+              Ensuring the renovated space is energetically complete.
+            </p>
           </div>
         </div>
       </section>
@@ -295,24 +399,47 @@ export default function VastuRenovationPage() {
           <h3 className="text-3xl font-serif text-gray-800 mb-6">FAQs</h3>
           <div className="space-y-4">
             <div className="bg-white rounded-lg p-6 shadow-md">
-              <h4 className="font-semibold text-gray-800 mb-2">1. Can you renovate the whole house according to Vastu?</h4>
-              <p className="text-gray-700">Yes, whether it's one room or an entire property.</p>
+              <h4 className="font-semibold text-gray-800 mb-2">
+                1. Can you renovate the whole house according to Vastu?
+              </h4>
+              <p className="text-gray-700">
+                Yes, whether it's one room or an entire property.
+              </p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
-              <h4 className="font-semibold text-gray-800 mb-2">2. Do I need to demolish walls for Vastu renovation?</h4>
-              <p className="text-gray-700">Not always. Many corrections are non-structural.</p>
+              <h4 className="font-semibold text-gray-800 mb-2">
+                2. Do I need to demolish walls for Vastu renovation?
+              </h4>
+              <p className="text-gray-700">
+                Not always. Many corrections are non-structural.
+              </p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
-              <h4 className="font-semibold text-gray-800 mb-2">3. Can this be combined with interior design?</h4>
-              <p className="text-gray-700">Absolutely, most renovation projects are integrated with our interior design services.</p>
+              <h4 className="font-semibold text-gray-800 mb-2">
+                3. Can this be combined with interior design?
+              </h4>
+              <p className="text-gray-700">
+                Absolutely, most renovation projects are integrated with our
+                interior design services.
+              </p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
-              <h4 className="font-semibold text-gray-800 mb-2">4. Is a gridded layout required?</h4>
-              <p className="text-gray-700">Yes. If you don't have one, Space Build will create it through our Gridding & Survey service.</p>
+              <h4 className="font-semibold text-gray-800 mb-2">
+                4. Is a gridded layout required?
+              </h4>
+              <p className="text-gray-700">
+                Yes. If you don't have one, Space Build will create it through
+                our Gridding & Survey service.
+              </p>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
-              <h4 className="font-semibold text-gray-800 mb-2">5. How long does the process take?</h4>
-              <p className="text-gray-700">It depends on the scope, from 1 week for minor renovation guidance to multi-month support for full projects.</p>
+              <h4 className="font-semibold text-gray-800 mb-2">
+                5. How long does the process take?
+              </h4>
+              <p className="text-gray-700">
+                It depends on the scope, from 1 week for minor renovation
+                guidance to multi-month support for full projects.
+              </p>
             </div>
           </div>
         </div>
@@ -322,16 +449,24 @@ export default function VastuRenovationPage() {
       <section className="max-w-5xl mx-auto px-6 py-12">
         <div className="text-center bg-white rounded-2xl shadow-md p-8">
           <h3 className="text-2xl font-serif text-gray-800 mb-4">
-            Renovate With Intention. Renovate With Alignment. Renovate With Space Build.
+            Renovate With Intention. Renovate With Alignment. Renovate With
+            Space Build.
           </h3>
           <p className="text-lg text-gray-700 mb-6">
-            Transform your existing space into a sanctuary of harmony, prosperity, and beauty.
+            Transform your existing space into a sanctuary of harmony,
+            prosperity, and beauty.
           </p>
           <div className="space-y-2">
-            <p className="text-xl font-semibold text-gray-800">Begin Your Vastu Renovation Journey</p>
+            <p className="text-xl font-semibold text-gray-800">
+              Begin Your Vastu Renovation Journey
+            </p>
             <p className="text-gray-700">Call us today at:</p>
-            <p className="text-[#D4935D] font-semibold text-lg">+917906086899</p>
-            <p className="text-[#D4935D] font-semibold">spacebuild.india@gmail.com</p>
+            <p className="text-[#D4935D] font-semibold text-lg">
+              +917906086899
+            </p>
+            <p className="text-[#D4935D] font-semibold">
+              spacebuild.india@gmail.com
+            </p>
           </div>
         </div>
       </section>

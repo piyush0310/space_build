@@ -55,6 +55,7 @@ export default function SpaceBuildServicesPage() {
           <h3 className="text-3xl font-serif text-gray-800 mb-8 text-center">OUR CORE OFFERINGS</h3>
           
 <div className="space-y-6">
+  
   {/* Service 1: Vastu Construction */}
   <div className="bg-white rounded-lg p-6 shadow-md">
     <Link href="/services/vastu-construction">
@@ -196,6 +197,190 @@ export default function SpaceBuildServicesPage() {
   </Link>
 </div>
 
+{/* Service 1: Modular Kitchen */}
+<div className="bg-white rounded-lg p-6 shadow-md">
+
+  <Link href="/services/modular-kitchen">
+
+    <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">
+      5. Modular Kitchen
+    </h4>
+
+  </Link>
+
+
+  <p className="text-gray-700 mb-3 italic">
+    Create your dream kitchen with modern designs, smart storage solutions,
+    and premium finishes.
+  </p>
+
+
+  <p className="text-gray-700 mb-3">
+    Our Modular Kitchen service provides complete kitchen solutions—from
+    design planning and material selection to installation and final finishing.
+    We create functional and stylish kitchens that improve comfort, storage,
+    and everyday living.
+  </p>
+
+
+  <p className="text-gray-700 mb-3">
+    We work closely with homeowners, designers, and craftsmen to ensure that
+    every kitchen element is customized according to your space, lifestyle,
+    and requirements without compromising quality or aesthetics.
+  </p>
+
+
+  <div className="bg-[#EDF4F8] rounded p-4 mb-3">
+
+    <p className="text-gray-800 font-semibold text-center mb-2">
+      Our Kitchen Design Approach
+    </p>
+
+    <p className="text-gray-700 text-center italic">
+      "Smart Design • Quality Materials • Beautiful Living."
+    </p>
+
+  </div>
+
+
+  <p className="text-gray-700 mb-3">
+    Our Modular Kitchen service includes:
+  </p>
+
+
+  <ul className="space-y-2 text-gray-700 mb-3">
+
+    <li>• Space measurement and kitchen layout planning</li>
+
+    <li>• Customized cabinets, drawers, and storage solutions</li>
+
+    <li>• Selection of premium materials, finishes, and accessories</li>
+
+    <li>• Professional installation and quality inspection</li>
+
+    <li>• Complete kitchen transformation support</li>
+
+  </ul>
+
+
+  <p className="text-gray-700 mb-2 font-semibold">
+    Important Notes:
+  </p>
+
+
+  <ul className="space-y-2 text-gray-700 mb-3">
+
+    <li>• Suitable for new kitchens and renovation projects</li>
+
+    <li>• Customized designs according to available space</li>
+
+    <li>• Kitchen measurements and layout details are required</li>
+
+    <li>• Online and on-site consultation options available</li>
+
+  </ul>
+
+
+  <Link
+    href="/services/modular-kitchen"
+    className="text-[#D4935D] font-semibold hover:underline"
+  >
+    Learn More →
+  </Link>
+
+</div>
+{/* Service 1: Pest Control Service */}
+<div className="bg-white rounded-lg p-6 shadow-md">
+
+  <Link href="/services/pest-control">
+
+    <h4 className="font-semibold text-gray-800 text-2xl mb-3 hover:text-[#D4935D] transition-colors cursor-pointer">
+      6. Pest Control Service
+    </h4>
+
+  </Link>
+
+
+  <p className="text-gray-700 mb-3 italic">
+    Protect your home and workplace with professional pest control solutions
+    for a clean, safe, and healthy environment.
+  </p>
+
+
+  <p className="text-gray-700 mb-3">
+    Our Pest Control Service provides effective pest management solutions
+    for residential, commercial, and industrial spaces. From inspection and
+    identification to treatment and prevention, we ensure complete protection
+    against unwanted pests.
+  </p>
+
+
+  <p className="text-gray-700 mb-3">
+    We use proper techniques and customized treatment plans to control common
+    pests while maintaining safety, hygiene, and long-term protection for your
+    property.
+  </p>
+
+
+  <div className="bg-[#EDF4F8] rounded p-4 mb-3">
+
+    <p className="text-gray-800 font-semibold text-center mb-2">
+      Our Pest Control Approach
+    </p>
+
+    <p className="text-gray-700 text-center italic">
+      "Identify • Treat • Protect."
+    </p>
+
+  </div>
+
+
+  <p className="text-gray-700 mb-3">
+    Our Pest Control service includes:
+  </p>
+
+
+  <ul className="space-y-2 text-gray-700 mb-3">
+
+    <li>• Complete property inspection and pest identification</li>
+
+    <li>• Cockroach, termite, mosquito, and rodent control</li>
+
+    <li>• Customized pest treatment solutions</li>
+
+    <li>• Professional application and safety procedures</li>
+
+    <li>• Prevention guidance for long-term protection</li>
+
+  </ul>
+
+
+  <p className="text-gray-700 mb-2 font-semibold">
+    Important Notes:
+  </p>
+
+
+  <ul className="space-y-2 text-gray-700 mb-3">
+
+    <li>• Suitable for residential and commercial properties</li>
+
+    <li>• Inspection is recommended before treatment</li>
+
+    <li>• Property details help us provide accurate solutions</li>
+
+    <li>• Regular maintenance options are available</li>
+
+  </ul>
+
+
+  <Link
+    href="/services/pest-control"
+    className="text-[#D4935D] font-semibold hover:underline"
+  >
+    Learn More →
+  </Link>
+
+</div>
             
 
             
