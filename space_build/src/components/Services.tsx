@@ -72,7 +72,7 @@ const Services: React.FC = () => {
           <p className="text-lg text-gray-600 max-w-7xl mx-auto leading-relaxed">
             At SPACE BUILD, we deliver a complete range of design solutions, spanning architecture, interiors, furniture, lighting, product design, and landscaping—offering clients a seamless and integrated experience. Led by SPACE BUILD’s refined vision, our team blends innovation, precision, and functionality to craft spaces that feel timeless, elegant, and personal. From material selection to colors, textures, and lighting, every detail is thoughtfully curated to create environments—be it homes, commercial spaces, or bespoke furniture—that inspire, engage, and leave a lasting impression.
 
-          </p>
+        </p>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
