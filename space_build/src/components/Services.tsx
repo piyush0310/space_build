@@ -18,14 +18,14 @@ const Services: React.FC = () => {
     image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783419078/8ef1e54938f4d6e27c32899b13b6da1c_e09pjm.jpg",
     alt: "Modern interior with artistic decor",
     description: "Integrating technology with elegant design",
-    link: "#",
+    link: "/services/vastu-construction",
   },
   {
     title: "INTERIOR DESIGNING",
     image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1782801422/IMG_20260630_112458.jpg_s8tdsa.jpg",
     alt: "Luxury pool with classical architecture",
     description: "Creating timeless architectural masterpieces",
-    link: "#",
+    link: "/services/interior-designing",
   },
   
   {
@@ -33,14 +33,14 @@ const Services: React.FC = () => {
     image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508093/5ee5666025888d7cdd2271f53610ad1f_t9kje4.jpg",
     alt: "Classical garden with pool and statues",
     description: "Crafting outdoor spaces that inspire",
-    link: "#",
+    link: "/services/vastu-renovation",
   },
   {
   title: "PROJECT MANAGEMENT CONSULTATION (PMC)",
   image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508412/IMG_20260708_162906.jpg_atgdaa.jpg",
   alt: "Professional project management consultation services",
   description: "Professional project management consultation by SPACE BUILD for efficient planning, execution, and delivery.",
-  link: "#",
+  link: "/services/project-management-consultation",
 },
 {
   title: "MODULER KITCHEN",
@@ -54,7 +54,7 @@ const Services: React.FC = () => {
   image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783504729/c7a4c1b3449132996089eba738fbdafb_srwqml.jpg",
   alt: "Professional pest control and pest management services",
   description: "Reliable pest control solutions by SPACE BUILD for homes, offices, and commercial spaces with effective treatment, protection, and hygiene-focused services.",
-  link: "/services/pest-control",
+  link: "/services/pest-control-services",
 },
   
   
