@@ -108,7 +108,7 @@ export default function Collaborators() {
         >
           {/* Hidden Fields */}
           <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_next" value="https://www.space build.com/thankyou" />
+          <input type="hidden" name="_next" value="https://www.spacebuild.co.in/thankyou" />
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <input

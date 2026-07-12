@@ -18,12 +18,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/about",
+    canonical: "https://www.spacebuild.co.in/about",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/about",
+    url: "https://www.spacebuild.co.in/about",
     title: "Space Build – About Us | Bespoke Interior Design & Spatial Flow Consultants",
     description:
       "Discover Space Build’s story – a team of expert designers and architects redefining residential and commercial interiors with timeless elegance, spatial harmony, and bespoke design solutions.",

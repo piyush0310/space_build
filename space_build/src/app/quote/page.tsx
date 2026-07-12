@@ -10,12 +10,12 @@ export const metadata: Metadata = {
     "space build quote form, interior design estimate, request quote interior design, luxury interior consultation, bespoke design cost, residential interiors quote, commercial interiors pricing, interior design services request",
 
   alternates: {
-    canonical: "https://www.space build.com/quote",
+    canonical: "https://www.spacebuild.co.in/quote",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/quote",
+    url: "https://www.spacebuild.co.in/quote",
     title: "space build – Request a Quote | Bespoke Interior Design Consultation",
     description:
       "Get a personalized quote for your dream residential or commercial interior design project with space build. Discover tailored solutions that blend luxury, elegance, and functionality.",

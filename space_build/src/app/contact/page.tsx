@@ -10,12 +10,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.space build.com/contact",
+    canonical: "https://www.spacebuild.co.in/contact",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/contact",
+    url: "https://www.spacebuild.co.in/contact",
     title: "space build – Contact Us | Get in Touch for Interior Design & Consultancy",
     description:
       "Reach out to space build for expert interior design, vastu consultation, smart home solutions, wedding design, and PMC services. Call ++919927611780 or email spacebuild.india@gmail.com.",

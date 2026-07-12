@@ -67,7 +67,7 @@ const Contact = () => {
       const result = await response.json();
 
       if (result.success) {
-        window.location.href = "https://www.space build.com/thankyou";
+        window.location.href = "https://www.spacebuild.co.in/thankyou";
       } else {
         throw new Error(result.message || "Submission failed.");
       }

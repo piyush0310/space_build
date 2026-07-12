@@ -138,7 +138,7 @@ export default function ConsultationPopup() {
 
       if (result.success) {
         setState(2, Date.now());
-        window.location.href = "https://www.space build.com/thankyou";
+        window.location.href = "https://www.spacebuild.co.in/thankyou";
       } else {
         throw new Error(result.message || "Submission failed.");
       }

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/certificates",
+    canonical: "https://www.spacebuild.co.in/certificates",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/certificates",
+    url: "https://www.spacebuild.co.in/certificates",
     title: "MahaVastu Certificates | MahaVastu Acharya Chitresh Jain Certification | Space Build",
     description:
       "View official MahaVastu certifications of MahaVastu Acharya Chitresh Jain, trained under Khushdeep Bansal. Trusted expertise with 15+ years of experience in Vastu consultation.",

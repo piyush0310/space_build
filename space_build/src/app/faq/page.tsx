@@ -10,12 +10,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.space build.com/faq",
+    canonical: "https://www.spacebuild.co.in/faq",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/faq",
+    url: "https://www.spacebuild.co.in/faq",
     title: "space build – FAQ | Interior Design & Consultancy Questions Answered",
     description:
       "Get clear answers about space build’s services – from interior design, vastu consultation, styling, smart homes to PMC services. Explore pricing, timelines, and online consultation options.",

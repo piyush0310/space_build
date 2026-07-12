@@ -18,12 +18,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.space build.com/portfolio",
+    canonical: "https://www.spacebuild.co.in/portfolio",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/portfolio",
+    url: "https://www.spacebuild.co.in/portfolio",
     title: "space build – Portfolio | Luxury Residential & Commercial Interior Design Projects",
     description:
       "Explore space build’s portfolio of bespoke interior design projects. From luxury homes to corporate spaces, discover timeless designs crafted with elegance and spatial harmony.",

@@ -11,12 +11,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/team",
+    canonical: "https://www.spacebuild.co.in/team",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/team",
+    url: "https://www.spacebuild.co.in/team",
     title: "Space Build – Our Team | Expert Craftsmen & Design Professionals",
     description:
       "Meet the talented team behind Space Build – skilled craftsmen, designers, and production experts dedicated to delivering exceptional interior solutions with precision and artistry.",

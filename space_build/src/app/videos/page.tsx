@@ -11,12 +11,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.space build.com/videos",
+    canonical: "https://www.spacebuild.co.in/videos",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/videos",
+    url: "https://www.spacebuild.co.in/videos",
     title: "space build – Project Videos | Interior Design Portfolio & Work Showcase",
     description:
       "Watch our project videos showcasing space build's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",

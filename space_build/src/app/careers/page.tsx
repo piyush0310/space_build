@@ -13,14 +13,14 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/careers",
+    canonical: "https://www.spacebuild.co.in/careers",
   },
 
   openGraph: {
     title: "Space Build – Careers | Join Our Team of Creative Interior Designers",
     description:
       "Build your career with Space Build. Join our team of architects, designers, and consultants shaping the future of bespoke interiors and innovative design solutions.",
-    url: "https://www.Space Build.com/careers",
+    url: "https://www.spacebuild.co.in/careers",
     siteName: "Space Build",
     images: [
       {

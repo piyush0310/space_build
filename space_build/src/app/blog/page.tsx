@@ -16,11 +16,11 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/blog",
+    canonical: "https://www.spacebuild.co.in/blog",
   },
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/blog",
+    url: "https://www.spacebuild.co.in/blog",
     title: "Space Build – Interior Design Blogs | Trends, Tips & Inspiration 2025",
     description:
       "Stay inspired with Space Build’s interior design blogs. Explore the latest trends, Vastu insights, styling tips, and expert advice for residential and commercial spaces.",

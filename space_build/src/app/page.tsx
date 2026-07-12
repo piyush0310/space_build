@@ -22,14 +22,14 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/",
+    canonical: "https://www.spacebuild.co.in/",
   },
 
   openGraph: {
     title: "Vastu Consultant & Interior Design Services in India | Space Build",
     description:
       "Space Build provides professional Vastu consultation and interior design services across India. We offer complete Vastu Shastra and interior solutions for homes, offices, and commercial spaces.",
-    url: "https://www.Space Build.com/",
+    url: "https://www.spacebuild.co.in/",
     siteName: "Space Build",
     images: [
       {

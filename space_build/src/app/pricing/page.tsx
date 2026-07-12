@@ -10,12 +10,12 @@ export const metadata: Metadata = {
     "mahavastu pricing, vastu consultation cost, vastu packages india, mahavastu plans, vastu consultant fees, vastu pricing plans, vastu for home cost",
 
   alternates: {
-    canonical: "https://www.space build.com/pricing",
+    canonical: "https://www.spacebuild.co.in/pricing",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/pricing",
+    url: "https://www.spacebuild.co.in/pricing",
     title: "MahaVastu Pricing Plans | space build Consultation Packages",
     description:
       "Explore MahaVastu consultation pricing plans by space build. Choose from Starter to Platinum packages for home, office & factory transformation.",

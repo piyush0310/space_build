@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   keywords:
     "why choose Space Build, best interior designer, luxury interior design company, comprehensive design services, Aparna interior designer, personalized design approach, quality interior design",
   alternates: {
-    canonical: "https://www.Space Build.com/why-choose-Space Build",
+    canonical: "https://www.spacebuild.co.in/why-choose-Space Build",
   },
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/why-choose-Space Build",
+    url: "https://www.spacebuild.co.in/why-choose-Space Build",
     title: "Why Choose Space Build | Expert Interior Design & Comprehensive Design Services",
     description:
       "Discover why clients trust Space Build for their design needs. Personalized approach, expert guidance, quality precision, and comprehensive services from concept to completion.",

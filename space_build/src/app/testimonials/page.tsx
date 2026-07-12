@@ -10,12 +10,12 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/testimonials",
+    canonical: "https://www.spacebuild.co.in/testimonials",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.Space Build.com/testimonials",
+    url: "https://www.spacebuild.co.in/testimonials",
     title: "Space Build – Client Testimonials | Trusted Interior Design Experts",
     description:
       "Discover what our clients say about Space Build. Read authentic testimonials and reviews from satisfied homeowners and businesses who trusted us to bring their interior dreams to life.",

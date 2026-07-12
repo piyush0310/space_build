@@ -13,14 +13,14 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/services/vastu-renovation",
+    canonical: "https://www.spacebuild.co.in/services/vastu-renovation",
   },
 
   openGraph: {
     title: "Vastu Renovation Services | Energy-Aligned Renovation - Space Build",
     description:
       "Renovate your home or office with MahaVastu-aligned planning, corrections & design guidance by Space Build for harmony and prosperity.",
-    url: "https://www.Space Build.com/services/vastu-renovation",
+    url: "https://www.spacebuild.co.in/services/vastu-renovation",
     siteName: "Space Build",
     images: [
       {

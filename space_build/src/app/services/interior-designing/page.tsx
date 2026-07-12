@@ -13,14 +13,14 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/services/interior-designing",
+    canonical: "https://www.spacebuild.co.in/services/interior-designing",
   },
 
   openGraph: {
     title: "Luxury Interior Design Studio | Vastu-Aligned Interiors - Space Build",
     description:
       "Space Build offers luxury interior design for homes, offices & commercial spaces, blending timeless aesthetics with MahaVastu principles.",
-    url: "https://www.Space Build.com/services/interior-designing",
+    url: "https://www.spacebuild.co.in/services/interior-designing",
     siteName: "Space Build",
     images: [
       {

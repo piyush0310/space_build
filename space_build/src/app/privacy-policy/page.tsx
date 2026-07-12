@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   description: "Read Space Build's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
   keywords: "space build privacy policy, website privacy policy India, interior design data privacy, vastu consultant privacy, client data protection, space build Delhi NCR",
   alternates: {
-    canonical: "https://www.space build.com/privacy-policy",
+    canonical: "https://www.spacebuild.co.in/privacy-policy",
   },
   openGraph: {
     type: "website",
-    url: "https://www.space build.com/privacy-policy",
+    url: "https://www.spacebuild.co.in/privacy-policy",
     siteName: "space build",
     title: "Privacy Policy | space build",
     description: "Read space build's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
@@ -58,7 +58,7 @@ export default function PrivacyPolicyPage() {
         <div className="prose prose-lg max-w-none">
           <div className="text-gray-700 leading-relaxed">
             <p className="mb-6">
-              Welcome to space build. Your privacy is important to us. This Privacy Policy explains how <strong>space build</strong> (<strong>&quot;we&quot;</strong>, <strong>&quot;us&quot;</strong>, <strong>&quot;our&quot;</strong>, <strong>&quot;space build&quot;</strong>) collects, uses, discloses, and protects information when you visit or interact with <a href="https://www.space build.com/" className="text-blue-600 hover:underline">https://www.space build.com/</a> (the <strong>&quot;Website&quot;</strong>) or use our services.
+              Welcome to space build. Your privacy is important to us. This Privacy Policy explains how <strong>space build</strong> (<strong>&quot;we&quot;</strong>, <strong>&quot;us&quot;</strong>, <strong>&quot;our&quot;</strong>, <strong>&quot;space build&quot;</strong>) collects, uses, discloses, and protects information when you visit or interact with <a href="https://www.spacebuild.co.in/" className="text-blue-600 hover:underline">https://www.spacebuild.co.in/</a> (the <strong>&quot;Website&quot;</strong>) or use our services.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Who We Are / Contact Information</h2>

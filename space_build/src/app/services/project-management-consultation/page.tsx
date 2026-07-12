@@ -24,14 +24,14 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.Space Build.com/services/project-management-consultation",
+    canonical: "https://www.spacebuild.co.in/services/project-management-consultation",
   },
 
   openGraph: {
     title: "Project Management Consultation for Interiors | Space Build",
     description:
       "Professional project management consultation for interior and renovation projects—covering planning, budgeting, timelines, and coordination.",
-    url: "https://www.Space Build.com/services/project-management-consultation",
+    url: "https://www.spacebuild.co.in/services/project-management-consultation",
     siteName: "Space Build",
     images: [
       {
