@@ -15,10 +15,10 @@ const ThankYou = () => {
         <p className="text-base text-gray-700 mb-6">
           For a quick query, call us:{" "}
           <a
-            href="tel:++919927611780"
+            href="tel:+919927611780"
             className="text-[#d47c36] underline hover:text-[#b56428] transition"
           >
-            ++919927611780
+            +919927611780
           </a>
         </p>
 
