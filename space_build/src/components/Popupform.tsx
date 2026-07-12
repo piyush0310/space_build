@@ -11,7 +11,7 @@ interface FormData {
   location: string;
 }
 
-const STORAGE_KEY = "vasterior_popup";
+const STORAGE_KEY = "space build_popup";
 
 function getState(): { count: number; lastClosed: number } {
   if (typeof window === "undefined") return { count: 0, lastClosed: 0 };
@@ -120,7 +120,7 @@ export default function ConsultationPopup() {
       mobile:      formData.mobile,
       projectType: formData.projectType,
       location:    formData.location,
-      subject:     `New Vasterior Inquiry from ${formData.name}`,
+      subject:     `New space build Inquiry from ${formData.name}`,
       // ← "redirect" removed: only works in HTML form POST, not JSON API
     };
 
@@ -138,7 +138,7 @@ export default function ConsultationPopup() {
 
       if (result.success) {
         setState(2, Date.now());
-        window.location.href = "https://www.vasterior.com/thankyou";
+        window.location.href = "https://www.space build.com/thankyou";
       } else {
         throw new Error(result.message || "Submission failed.");
       }

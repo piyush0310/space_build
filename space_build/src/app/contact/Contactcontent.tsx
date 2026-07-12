@@ -67,7 +67,7 @@ const Contact = () => {
       const result = await response.json();
 
       if (result.success) {
-        window.location.href = "https://www.vasterior.com/thankyou";
+        window.location.href = "https://www.space build.com/thankyou";
       } else {
         throw new Error(result.message || "Submission failed.");
       }
@@ -245,7 +245,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-white mb-1">Phone</h4>
-                    <p className="text-white text-sm">+917906086899</p>
+                    <p className="text-white text-sm">++919927611780</p>
                   </div>
                 </div>
 

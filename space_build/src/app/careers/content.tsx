@@ -7,19 +7,19 @@ const Careers = () => {
     {
       title: "Interior Designer",
       experience: "2+ years",
-      location: "Noida",
+      location: "Moradabad",
       link: "/" // Google Form link
     },
     {
       title: "3D Visualizer",
       experience: "1+ years",
-      location: "Remote",
+      location: "Moradabad",
       link: "/"// Google Form link
     },
     {
       title: "Project Manager",
       experience: "3+ years",
-      location: "Gurgaon",
+      location: "Moradabad",
       link: "/",// Google Form link
     },
   ];

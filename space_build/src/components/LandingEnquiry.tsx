@@ -56,7 +56,7 @@ const WeddingForm = () => {
       phone:      formData.phone,
       services:   formData.services,
       message:    formData.message,
-      subject:    `New Vasterior Inquiry from ${formData.name}`,
+      subject:    `New space build Inquiry from ${formData.name}`,
     };
 
     try {
@@ -72,7 +72,7 @@ const WeddingForm = () => {
       const result = await response.json();
 
       if (result.success) {
-        window.location.href = "https://www.vasterior.com/thankyou";
+        window.location.href = "https://www.space build.com/thankyou";
       } else {
         throw new Error(result.message || "Submission failed.");
       }

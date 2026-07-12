@@ -3,7 +3,7 @@ import Content from "./Content"
 
 // ✅ SEO Meta Tags
 export const metadata: Metadata = {
-  title: "Project Management Consultation for Interiors | Vasterior",
+  title: "Project Management Consultation for Interiors | space build",
   description:
     "Expert project management consultation for interior and renovation projects. Plan timelines, budgets, and vendor coordination with clarity—without execution stress.",
   keywords: [
@@ -24,21 +24,21 @@ export const metadata: Metadata = {
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.vasterior.com/services/project-management-consultation",
+    canonical: "https://www.space build.com/services/project-management-consultation",
   },
 
   openGraph: {
-    title: "Project Management Consultation for Interiors | Vasterior",
+    title: "Project Management Consultation for Interiors | space build",
     description:
       "Professional project management consultation for interior and renovation projects—covering planning, budgeting, timelines, and coordination.",
-    url: "https://www.vasterior.com/services/project-management-consultation",
-    siteName: "Vasterior",
+    url: "https://www.space build.com/services/project-management-consultation",
+    siteName: "space build",
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png",
         width: 1200,
         height: 630,
-        alt: "Project Management Consultation for Interiors | Vasterior",
+        alt: "Project Management Consultation for Interiors | space build",
       },
     ],
     locale: "en_US",
@@ -47,11 +47,11 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Project Management Consultation for Interiors | Vasterior",
+    title: "Project Management Consultation for Interiors | space build",
     description:
       "Expert consultation to plan and manage interior projects efficiently—without handling execution.",
     images: [
-      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+      "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png",
     ],
   },
 

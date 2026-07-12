@@ -327,7 +327,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               <h3 className="font-serif text-xl text-black">Share this story</h3>
               <div className="flex gap-4">
                 <a
-                  href={`https://www.facebook.com/sharer/sharer.php?u=https://www.vasterior.com/blog/${post.slug}`}
+                  href={`https://www.facebook.com/sharer/sharer.php?u=https://www.space build.com/blog/${post.slug}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 border text-black border-black rounded-md hover:bg-gray-100 transition-colors"
@@ -335,7 +335,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                   Facebook
                 </a>
                 <a
-                  href={`https://pinterest.com/pin/create/button/?url=https://www.vasterior.com/blog/${post.slug}&media=${encodeURIComponent(post.image)}&description=${encodeURIComponent(post.title)}`}
+                  href={`https://pinterest.com/pin/create/button/?url=https://www.space build.com/blog/${post.slug}&media=${encodeURIComponent(post.image)}&description=${encodeURIComponent(post.title)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 border text-black border-black rounded-md hover:bg-gray-100 transition-colors"
@@ -343,7 +343,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                   Pinterest
                 </a>
                 <a
-                  href="https://www.instagram.com/pradeepshukladecor"
+                  href="www.instagram.com/spacebuildindia?igsh=MWY4c3JvMTB5OGRjNA=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 border text-black border-black rounded-md hover:bg-gray-100 transition-colors"

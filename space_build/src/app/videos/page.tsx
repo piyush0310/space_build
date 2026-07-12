@@ -3,39 +3,39 @@ import ProjectVideo from "./ProjectVideo";
 
 
 export const metadata: Metadata = {
-  title: "Vasterior – Project Videos | Interior Design Portfolio & Work Showcase",
+  title: "space build – Project Videos | Interior Design Portfolio & Work Showcase",
   description:
-    "Watch our project videos showcasing Vasterior's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
+    "Watch our project videos showcasing space build's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
   keywords:
-    "Vasterior videos, interior design videos, project showcase, completed projects, interior design portfolio, carpentry videos, design process, interior transformation videos, Vasterior work showcase, home renovation videos",
+    "space build videos, interior design videos, project showcase, completed projects, interior design portfolio, carpentry videos, design process, interior transformation videos, space build work showcase, home renovation videos",
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.vasterior.com/videos",
+    canonical: "https://www.space build.com/videos",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/videos",
-    title: "Vasterior – Project Videos | Interior Design Portfolio & Work Showcase",
+    url: "https://www.space build.com/videos",
+    title: "space build – Project Videos | Interior Design Portfolio & Work Showcase",
     description:
-      "Watch our project videos showcasing Vasterior's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
+      "Watch our project videos showcasing space build's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
     images: [
       {
-        url: "ttps://res.cloudinary.com/df1v3yied/image/upload/v1756528800/vasteriorlogo_fpcrfw.png",
+        url: "ttps://res.cloudinary.com/df1v3yied/image/upload/v1756528800/space buildlogo_fpcrfw.png",
         width: 1200,
         height: 630,
-        alt: "Vasterior Project Videos – Interior Design Work Showcase",
+        alt: "space build Project Videos – Interior Design Work Showcase",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Vasterior – Project Videos | Interior Design Portfolio & Work Showcase",
+    site: "@space build",
+    title: "space build – Project Videos | Interior Design Portfolio & Work Showcase",
     description:
-      "Watch our project videos showcasing Vasterior's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
-    images: ["ttps://res.cloudinary.com/df1v3yied/image/upload/v1756528800/vasteriorlogo_fpcrfw.png"],
+      "Watch our project videos showcasing space build's interior design work, completed projects, and craftsmanship. See our expert team in action delivering exceptional interior solutions.",
+    images: ["ttps://res.cloudinary.com/df1v3yied/image/upload/v1756528800/space buildlogo_fpcrfw.png"],
   },
   icons: {
     icon: "/favicon.ico",

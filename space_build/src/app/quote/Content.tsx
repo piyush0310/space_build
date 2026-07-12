@@ -52,8 +52,8 @@ const GetQuotePage = () => {
             className="space-y-6"
           >
             {/* FormSubmit Configuration */}
-            <input type="hidden" name="_next" value="https://vasterior.com/thankyou" />
-            <input type="hidden" name="_subject" value="New Quote Request from Vasterior" />
+            <input type="hidden" name="_next" value="https://space build.com/thankyou" />
+            <input type="hidden" name="_subject" value="New Quote Request from space build" />
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_template" value="table" />
             

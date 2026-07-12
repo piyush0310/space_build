@@ -13,7 +13,7 @@ export default function WhyChooseSpaceBuildPage() {
       <section className="max-w-5xl mx-auto px-6 py-12">
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-serif text-center text-gray-800 mb-6">
-            Why Choose SPACE BUILD
+            Why Choose Space Build
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed">
             Selecting the right design partner is the foundation of creating spaces that are not only beautiful but also purposeful and inspiring. At Space Build, we go beyond traditional design to deliver experiences that merge functionality, elegance, and innovation. Every project is driven by creativity, precision, and personalization—ensuring that the final result reflects both beauty and individuality.
@@ -27,10 +27,10 @@ export default function WhyChooseSpaceBuildPage() {
         </div>
       </section>
 
-      {/* Why Clients Trust SPACE BUILD */}
+      {/* Why Clients Trust Space Build */}
       <section className="-12">
         <div className="max-w-5xl mx-auto px-6">
-          <h3 className="text-3xl font-serif text-gray-800 mb-8 text-center">Why Clients Trust SPACE BUILD</h3>
+          <h3 className="text-3xl font-serif text-gray-800 mb-8 text-center">Why Clients Trust Space Build</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="space-y-6">
               <div className="flex items-start gap-4">

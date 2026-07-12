@@ -12,7 +12,7 @@ const nextConfig = {
     'plus.unsplash.com',
     'i.pinimg.com',
     'www.psdecor.in',
-    'vasterior.com',
+    'space build.com',
   ],
   },
 

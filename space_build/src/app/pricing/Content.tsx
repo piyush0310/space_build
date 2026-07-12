@@ -67,7 +67,7 @@ const modalPlans: ModalPlan[] = [
   {
     id: "alignment-audit",
     title: "Home Alignment Audit",
-    subtitle: "Vasterior Home Alignment Check",
+    subtitle: "space build Home Alignment Check",
     price: "₹11,000",
     mode: "Online · 30 min call",
     icon: <Home size={28} strokeWidth={1.5} />,
@@ -1245,11 +1245,11 @@ export default function PricingPage() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
             <a
-              href="tel:+917906086899"
+              href="tel:++919927611780"
               className="flex items-center gap-2 bg-white/70 hover:bg-white px-5 py-3 rounded-xl text-gray-800 font-sans font-semibold text-sm border border-[#c9ad85] transition-all duration-200 shadow-sm hover:shadow"
             >
               <Phone size={15} className="text-[#8a6a42]" />
-              +917906086899
+              ++919927611780
             </a>
             <a
               href="mailto:spacebuild.india@gmail.com"

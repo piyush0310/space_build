@@ -2,33 +2,33 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Vasterior",
-  description: "Read Vasterior's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
-  keywords: "Vasterior privacy policy, website privacy policy India, interior design data privacy, vastu consultant privacy, client data protection, Vasterior Delhi NCR",
+  title: "Privacy Policy | space build",
+  description: "Read Space Build's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
+  keywords: "space build privacy policy, website privacy policy India, interior design data privacy, vastu consultant privacy, client data protection, space build Delhi NCR",
   alternates: {
-    canonical: "https://www.vasterior.com/privacy-policy",
+    canonical: "https://www.space build.com/privacy-policy",
   },
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/privacy-policy",
-    siteName: "Vasterior",
-    title: "Privacy Policy | Vasterior",
-    description: "Read Vasterior's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
+    url: "https://www.space build.com/privacy-policy",
+    siteName: "space build",
+    title: "Privacy Policy | space build",
+    description: "Read space build's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png",
         width: 1200,
         height: 630,
-        alt: "Vasterior Privacy Policy Page",
+        alt: "space build Privacy Policy Page",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
-    title: "Privacy Policy | Vasterior",
-    description: "Read Vasterior's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
-    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png"],
+    site: "@space build",
+    title: "Privacy Policy | space build",
+    description: "Read space build's Privacy Policy to understand how we collect, use, and protect your personal data. We ensure complete confidentiality and data security for all clients.",
+    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png"],
   },
   icons: {
     icon: "/favicon.ico",
@@ -45,7 +45,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p className="text-xl text-black mt-2">
-            Your privacy matters to us at Vasterior
+            Your privacy matters to us at space build
           </p>
           <p className="text-sm text-gray-600 mt-4">
             Effective Date: November 10, 2025
@@ -58,15 +58,15 @@ export default function PrivacyPolicyPage() {
         <div className="prose prose-lg max-w-none">
           <div className="text-gray-700 leading-relaxed">
             <p className="mb-6">
-              Welcome to Vasterior. Your privacy is important to us. This Privacy Policy explains how <strong>Vasterior</strong> (<strong>&quot;we&quot;</strong>, <strong>&quot;us&quot;</strong>, <strong>&quot;our&quot;</strong>, <strong>&quot;Vasterior&quot;</strong>) collects, uses, discloses, and protects information when you visit or interact with <a href="https://www.vasterior.com/" className="text-blue-600 hover:underline">https://www.vasterior.com/</a> (the <strong>&quot;Website&quot;</strong>) or use our services.
+              Welcome to space build. Your privacy is important to us. This Privacy Policy explains how <strong>space build</strong> (<strong>&quot;we&quot;</strong>, <strong>&quot;us&quot;</strong>, <strong>&quot;our&quot;</strong>, <strong>&quot;space build&quot;</strong>) collects, uses, discloses, and protects information when you visit or interact with <a href="https://www.space build.com/" className="text-blue-600 hover:underline">https://www.space build.com/</a> (the <strong>&quot;Website&quot;</strong>) or use our services.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Who We Are / Contact Information</h2>
             <div className="bg-gray-50 p-6 rounded-lg mb-6">
-              <p className="font-semibold text-gray-900 mb-2">Vasterior</p>
-              <p className="text-gray-700 mb-1"><strong>Office:</strong> Office No. A4, First Floor, Khosla Complex, Gagan Vihar Extension, Delhi – 110092</p>
+              <p className="font-semibold text-gray-900 mb-2">space build</p>
+              <p className="text-gray-700 mb-1"><strong>Office:</strong> Sector 13, B-25, near Ashoka Mart, New Moradabad, Moradabad, Uttar Pradesh 244001</p>
               <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gmail.com</p>
-              <p className="text-gray-700"><strong>Phone:</strong> +917906086899</p>
+              <p className="text-gray-700"><strong>Phone:</strong> +919927611780</p>
             </div>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">2. Information We Collect</h2>
@@ -176,10 +176,10 @@ export default function PrivacyPolicyPage() {
               For questions, requests, or privacy concerns, please contact:
             </p>
             <div className="bg-gray-50 p-6 rounded-lg mb-6">
-              <p className="font-semibold text-gray-900 mb-2">Vasterior</p>
+              <p className="font-semibold text-gray-900 mb-2">space build</p>
               <p className="text-gray-700 mb-1"><strong>Email:</strong> spacebuild.india@gmail.com</p>
-              <p className="text-gray-700 mb-1"><strong>Phone:</strong> +917906086899</p>
-              <p className="text-gray-700"><strong>Office:</strong> Office No. A4, First Floor, Khosla Complex, Gagan Vihar Extension, Delhi – 110092</p>
+              <p className="text-gray-700 mb-1"><strong>Phone:</strong> +919927611780</p>
+              <p className="text-gray-700"><strong>Office:</strong> Sector 13, B-25, near Ashoka Mart, New Moradabad, Moradabad, Uttar Pradesh 244001</p>
             </div>
           </div>
         </div>
@@ -192,7 +192,7 @@ export default function PrivacyPolicyPage() {
           <div className="grid md:grid-cols-3 gap-6">
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Phone</h3>
-              <p className="text-gray-600">+917906086899</p>
+              <p className="text-gray-600">+919927611780</p>
             </div>
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Email</h3>
@@ -200,7 +200,7 @@ export default function PrivacyPolicyPage() {
             </div>
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Office</h3>
-              <p className="text-gray-600">Office No. A4, First Floor, Khosla Complex, Gagan Vihar Extension, Delhi – 110092</p>
+              <p className="text-gray-600">Sector 13, B-25, near Ashoka Mart, New Moradabad, Moradabad, Uttar Pradesh 244001</p>
             </div>
           </div>
         </div>

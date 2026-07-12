@@ -1,337 +1,297 @@
 "use client";
-
-import React, { useState, useEffect } from "react";
-import { FaFacebook, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
-import { Mail, Phone } from "lucide-react";
+import React, { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
-import { useRouter, usePathname } from "next/navigation";
+import {
+  FaFacebook,
+  FaInstagram,
+  FaLinkedin,
+  FaWhatsapp,
+} from "react-icons/fa";
+import { Mail, Phone } from "lucide-react";
 
 interface FAQItem {
   question: string;
   answer: string;
-  link: string;
 }
-
+const faqData: FAQItem[] = [
+  {
+    question: "What services do you offer?",
+    answer:
+      "We provide complete interior designing, modular kitchen, furniture, architecture and turnkey solutions.",
+  },
+  {
+    question: "How can I book a consultation?",
+    answer:
+      "Simply call us or send an enquiry through our Contact page.",
+  },
+  {
+    question: "Do you provide customized designs?",
+    answer:
+      "Yes, every project is completely customized according to your needs.",
+  },
+  {
+    question: "How long does a project take?",
+    answer:
+      "Project duration depends on project size and scope.",
+  },
+  {
+    question: "Do you provide online consultation?",
+    answer:
+      "Yes, online consultations are available.",
+  },
+  {
+    question: "What is your pricing?",
+    answer:
+      "Pricing depends upon project requirements and materials.",
+  },
+];
 const Footer: React.FC = () => {
   const [faqOpen, setFaqOpen] = useState<number | null>(null);
-  const [pendingScroll, setPendingScroll] = useState<string | null>(null);
-  const router = useRouter();
-  const pathname = usePathname();
-
-  // Handle scrolling after navigation
-  useEffect(() => {
-    if (pendingScroll && pathname === '/') {
-      const timer = setTimeout(() => {
-        const element = document.getElementById(pendingScroll);
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth' });
-        }
-        setPendingScroll(null);
-      }, 100);
-
-      return () => clearTimeout(timer);
-    }
-  }, [pathname, pendingScroll]);
-
-  const toggleFAQ = (index: number): void => {
+  const toggleFAQ = (index: number) => {
     setFaqOpen(faqOpen === index ? null : index);
   };
-
-  const handleSectionClick = (sectionId: string): void => {
-    // If not on home page, navigate to home first, then scroll to section
-    if (pathname !== '/') {
-      setPendingScroll(sectionId);
-      router.push('/');
-    } else {
-      // Already on home page, just scroll to section
-      const element = document.getElementById(sectionId);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth' });
-      }
-    }
-  };
-
-  const faqData: FAQItem[] = [
-    { 
-      question: "What services do you offer?", 
-      answer: "At spacebuild, we provide a comprehensive range of design and consultancy services, including Interior Design,", 
-      link: "https://www.spacebuild.com/faq"
-    },
-    { 
-      question: "How can I book a consultation?", 
-      answer: "Booking with us is quick and easy. You can email us at spacebuild.india@gmail.com or call us directly ", 
-      link: "https://www.spacebuild.com/faq"
-    },
-    { 
-      question: "Do you provide customized interior designs?", 
-      answer: "Yes, we specialize in bespoke interior designs tailored to your lifestyle, preferences, and ", 
-      link: "https://www.spacebuild.com/faq"
-    },
-    { 
-      question: "How long does a project usually take?", 
-      answer: "Project timelines vary depending on the scope and complexity. Smaller styling or consultation projects ", 
-      link: "https://www.spacebuild.com/faq"
-    },
-    { 
-      question: "Do you provide online consultations?", 
-      answer: "Yes. For clients unable to meet in person, we offer online consultations through video calls, digital ", 
-      link: "https://www.spacebuild.com/faq"
-    },
-    { 
-      question: "What is your pricing structure?", 
-      answer: "Our pricing is project-specific and depends on the services required, scale of work, and material choices. We ", 
-      link: "https://www.spacebuild.com/faq"
-    },
-  ];
-
   return (
-    <footer className="bg-[#28344B] text-white py-12 md:py-16">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-20">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-10 items-start">
-          
-          {/* Brand & Address */}
-          <div className="col-span-1 md:col-span-2 lg:col-span-1">
-            <Link
-  href="/"
-  className="inline-block mb-2"
-  onClick={() => setPendingScroll(null)} // Clear pending scroll when going home
->
-  <h2 className="text-3xl sm:text-4xl font-serif font-bold tracking-[0.15em] text-white uppercase">
-    SPACE BUILD
-  </h2>
-</Link>
+    <footer className="bg-[#28344B] text-white py-14">
+      <div className="container mx-auto px-4 lg:px-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+          {/* Brand Section */}
+          <div>
+            <Link href="/" className="inline-block mb-3">
+              <h2 className="text-4xl font-serif font-bold tracking-[0.15em] uppercase">
+                SPACE BUILD
+              </h2>
+            </Link>
+            <p className="font-semibold mb-5">
+              Moradabad, Uttar Pradesh, India
+            </p>
 
-<p className="font-semibold text-sm sm:text-base mb-4">
-  Moradabad, Uttar Pradesh, India
-</p>
-
-            
             <div className="space-y-3">
-              <a 
-                href="mailto:spacebuild.india@gmail.com" 
-                className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
+              <a
+                href="mailto:spacebuild.india@gmail.com"
+                className="flex items-center gap-2 hover:text-yellow-500 transition"
               >
-                <Mail className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                <span className="break-all">spacebuild.india@gmail.com</span>
+                <Mail size={18} />
+                <span>spacebuild.india@gmail.com</span>
               </a>
-              <a 
-                href="tel:+919927611780" 
-                className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
+              <a
+                href="tel:+919927611780"
+                className="flex items-center gap-2 hover:text-yellow-500 transition"
               >
-                <Phone className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                +919927611780
+                <Phone size={18} />
+                <span>+91 9927611780</span>
               </a>
-              <a 
-                href="tel:+918077973797" 
-                className="flex items-center gap-2 hover:text-yellow-600 transition text-sm sm:text-base"
+              <a
+                href="tel:+918077973797"
+                className="flex items-center gap-2 hover:text-yellow-500 transition"
               >
-                <Phone className="w-4 h-4 sm:w-5 sm:h-5" /> 
-                +918077973797
+                <Phone size={18} />
+                <span>+91 8077973797</span>
               </a>
-              
-              {/* Social Media Icons */}
-              <div className="flex gap-3 sm:gap-4 mt-4">
-                <a 
-                  href="https://www.facebook.com/profile.php?id=61572940314974" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="text-xl sm:text-2xl hover:text-blue-600 transition"
-                  aria-label="Facebook"
-                >
-                  <FaFacebook />
-                </a>
-                <a 
-                  href="https://www.instagram.com/spacebuildindia?igsh=MWY4c3JvMTB5OGRjNA==" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="text-xl sm:text-2xl hover:text-pink-500 transition"
-                  aria-label="Instagram"
-                >
-                  <FaInstagram />
-                </a>
-                <a 
-                  href="https://wa.me/+919927611780,+918077973797"
-                   
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="text-xl sm:text-2xl hover:text-green-500 transition"
-                  aria-label="WhatsApp"
-                >
-                  <FaWhatsapp />
-                </a>
-                <a 
-                  href="https://in.linkedin.com/company/spacebuild" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="text-xl sm:text-2xl hover:text-blue-700 transition"
-                  aria-label="LinkedIn"
-                >
-                  <FaLinkedin />
-                </a>
-              </div>
+            </div>
+            <div className="flex gap-5 mt-6">
+              <a
+                href="https://www.facebook.com/profile.php?id=61572940314974"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-500 transition"
+              >
+                <FaFacebook size={24} />
+              </a>
+              <a
+                href="https://www.instagram.com/spacebuildindia"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-pink-500 transition"
+              >
+                <FaInstagram size={24} />
+              </a>
+              <a
+                href="https://wa.me/919927611780"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-green-500 transition"
+              >
+                <FaWhatsapp size={24} />
+              </a>
+              <a
+                href="https://in.linkedin.com/company/spacebuild"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-600 transition"
+              >
+                <FaLinkedin size={24} />
+              </a>
             </div>
           </div>
-
-          {/* Quick Links */}
-          <div className="col-span-1">
-            <h3 className="text-2xl sm:text-3xl font-serif mb-6 sm:mb-8">Quick Links</h3>
-            <ul className="space-y-2 sm:space-y-3">
+                    {/* Quick Links */}
+          <div>
+            <h3 className="text-3xl font-serif mb-6">
+              Quick Links
+            </h3>
+            <ul className="space-y-3">
               <li>
-                <Link 
-                  href="/" 
-                  className="hover:text-yellow-600 transition text-sm sm:text-base"
-                  onClick={() => setPendingScroll(null)}
+                <Link
+                  href="/"
+                  className="hover:text-yellow-500 transition"
                 >
                   Home
                 </Link>
               </li>
               <li>
-                <Link href="/" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/about"
+                  className="hover:text-yellow-500 transition"
+                >
+                  About Us
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/why-choose-space-build"
+                  className="hover:text-yellow-500 transition"
+                >
                   Why Choose
                 </Link>
               </li>
               <li>
-                <button 
-                  onClick={() => handleSectionClick("about")} 
-                  className="hover:text-yellow-600 transition text-left text-sm sm:text-base"
-                  suppressHydrationWarning={true}
+                <Link
+                  href="/services"
+                  className="hover:text-yellow-500 transition"
                 >
-                  About Us
-                </button>
-              </li>
-              <li>
-                <Link href="#services" className="hover:text-yellow-600 transition text-sm sm:text-base">
                   Services
                 </Link>
               </li>
               <li>
-                <button 
-                  onClick={() => handleSectionClick("portfolio")} 
-                  className="hover:text-yellow-600 transition text-left text-sm sm:text-base"
-                  suppressHydrationWarning={true}
+                <Link
+                  href="/portfolio"
+                  className="hover:text-yellow-500 transition"
                 >
                   Portfolio
-                </button>
+                </Link>
               </li>
-
-
               <li>
-                <Link href="/" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/team"
+                  className="hover:text-yellow-500 transition"
+                >
                   Team
                 </Link>
               </li>
-
               <li>
-                <Link href="/blog" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/blog"
+                  className="hover:text-yellow-500 transition"
+                >
                   Blog
                 </Link>
               </li>
-
               <li>
-                <Link href="/contact" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/contact"
+                  className="hover:text-yellow-500 transition"
+                >
                   Contact
                 </Link>
               </li>
               <li>
-                <Link href="/" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/careers"
+                  className="hover:text-yellow-500 transition"
+                >
                   Careers
                 </Link>
               </li>
               <li>
-                <button 
-                  onClick={() => handleSectionClick("#testimonials")} 
-                  className="hover:text-yellow-600 transition text-left text-sm sm:text-base"
-                  suppressHydrationWarning={true}
+                <Link
+                  href="/testimonials"
+                  className="hover:text-yellow-500 transition"
                 >
                   Testimonials
-                </button>
+                </Link>
               </li>
               <li>
-                <Link href="/" className="hover:text-yellow-600 transition text-sm sm:text-base">
+                <Link
+                  href="/faq"
+                  className="hover:text-yellow-500 transition"
+                >
                   FAQ
                 </Link>
               </li>
             </ul>
           </div>
-
           {/* FAQ Section */}
-          <div className="col-span-1 md:col-span-2 lg:col-span-1">
-            <h3 className="text-2xl sm:text-3xl font-serif mb-6">FAQs</h3>
+          <div>
+            <h3 className="text-3xl font-serif mb-6">
+              FAQs
+            </h3>
             <div className="space-y-3">
               {faqData.map((item, index) => (
-                <div key={index} className="border-b border-gray-600 pb-3">
+                <div
+                  key={index}
+                  className="border-b border-gray-600 pb-3"
+                >
                   <button
-                    className="w-full text-left font-semibold transition flex justify-between items-center text-sm sm:text-base"
                     onClick={() => toggleFAQ(index)}
-                    aria-expanded={faqOpen === index}
-                    suppressHydrationWarning={true}
+                    className="w-full flex justify-between items-center text-left font-medium"
                   >
-                    <span className="pr-2">{item.question}</span>
-                    <span className="text-lg flex-shrink-0">
+                    <span>{item.question}</span>
+                    <span className="text-xl">
                       {faqOpen === index ? "−" : "+"}
                     </span>
                   </button>
                   {faqOpen === index && (
-                    <div className="mt-3 text-sm sm:text-base">
-                      <p>
-                        {item.answer}{" "}
-                        <a 
-                          href={item.link} 
-                          target="_blank" 
-                          rel="noopener noreferrer" 
-                          className="text-blue-600 underline hover:text-blue-800"
-                        >
-                          Read more
-                        </a>
-                      </p>
-                    </div>
+                    <p className="mt-3 text-gray-300 leading-6">
+                      {item.answer}
+                      <Link
+                        href="/faq"
+                        className="text-yellow-400 ml-2 hover:underline"
+                      >
+                        Read More
+                      </Link>
+                    </p>
                   )}
                 </div>
               ))}
             </div>
           </div>
-
-          {/* Location Map */}
-          <div className="col-span-1 md:col-span-2 lg:col-span-1">
-            <h3 className="text-2xl sm:text-3xl font-serif mb-4 sm:mb-6">Our Location</h3>
-            <div className="w-full h-60 sm:h-72 lg:h-80 bg-gray-300 rounded-lg overflow-hidden shadow-lg">
+                    {/* Our Location */}
+          <div>
+            <h3 className="text-3xl font-serif mb-6">
+              Our Location
+            </h3>
+            <div className="overflow-hidden rounded-lg shadow-lg h-80">
               <iframe
                 className="w-full h-full"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.4038731146798!2d78.6941854756792!3d28.82683357555919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd8a21b57a23%3A0x3fac9d68c93d962a!2sSPACE%20BUILD%20%E2%80%93%20moduler%20Kitchen%20%26%20Interiors!5e0!3m2!1sen!2sin!4v1783318624067!5m2!1sen!2sin"
-                allowFullScreen
                 loading="lazy"
-                title="spacebuild Office Location"
+                allowFullScreen
+                title="SPACE BUILD Location"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.4038731146798!2d78.6941854756792!3d28.82683357555919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd8a21b57a23%3A0x3fac9d68c93d962a!2sSPACE%20BUILD%20%E2%80%93%20moduler%20Kitchen%20%26%20Interiors!5e0!3m2!1sen!2sin!4v1783318624067!5m2!1sen!2sin"
               />
             </div>
-            
-            
           </div>
         </div>
-
-        {/* Bottom Section - Copyright & Legal Links */}
-        <div className="mt-12 pt-8 border-t border-gray-600">
-          <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-            <div className="text-center sm:text-left">
-              <p className="text-sm sm:text-base">
-                © {new Date().getFullYear()} SPACE BUILD. All rights reserved.
-              </p>
-            </div>
-            
-            <div className="flex flex-wrap justify-center sm:justify-end gap-4 sm:gap-6 text-sm sm:text-base">
-              <Link href="#" className="hover:text-yellow-600 transition">
-                Privacy Policy
-              </Link>
-              <Link href="#" className="hover:text-yellow-600 transition">
-                Terms & Conditions
-              </Link>
-              
-            </div>
+        {/* Bottom Footer */}
+        <div className="mt-14 border-t border-gray-600 pt-8 flex flex-col md:flex-row justify-between items-center gap-5">
+          <p className="text-sm text-center md:text-left">
+            © {new Date().getFullYear()} SPACE BUILD. All Rights Reserved.
+          </p>
+          <div className="flex flex-wrap justify-center gap-6 text-sm">
+            <Link
+              href="/privacy-policy"
+              className="hover:text-yellow-500 transition"
+            >
+              Privacy Policy
+            </Link>
+            <Link
+              href="/terms-and-conditions"
+              className="hover:text-yellow-500 transition"
+            >
+              Terms & Conditions
+            </Link>
           </div>
         </div>
       </div>
     </footer>
   );
 };
-
 export default Footer;

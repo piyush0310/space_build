@@ -3,25 +3,25 @@ import Content from "./Content";
 
 // ✅ Metadata for Quote Form Page
 export const metadata: Metadata = {
-  title: "MahaVastu Pricing Plans | Vasterior Consultation Packages",
+  title: "MahaVastu Pricing Plans | space build Consultation Packages",
   description:
-    "Explore MahaVastu consultation pricing plans by Vasterior. Choose from Starter to Platinum packages for home, office & factory transformation.",
+    "Explore MahaVastu consultation pricing plans by space build. Choose from Starter to Platinum packages for home, office & factory transformation.",
   keywords:
     "mahavastu pricing, vastu consultation cost, vastu packages india, mahavastu plans, vastu consultant fees, vastu pricing plans, vastu for home cost",
 
   alternates: {
-    canonical: "https://www.vasterior.com/pricing",
+    canonical: "https://www.space build.com/pricing",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.vasterior.com/pricing",
-    title: "MahaVastu Pricing Plans | Vasterior Consultation Packages",
+    url: "https://www.space build.com/pricing",
+    title: "MahaVastu Pricing Plans | space build Consultation Packages",
     description:
-      "Explore MahaVastu consultation pricing plans by Vasterior. Choose from Starter to Platinum packages for home, office & factory transformation.",
+      "Explore MahaVastu consultation pricing plans by space build. Choose from Starter to Platinum packages for home, office & factory transformation.",
     images: [
       {
-        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png",
+        url: "https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png",
         width: 1200,
         height: 630,
         alt: "MahaVastu – Pricing Plans | Bespoke Interior Design Consultation",
@@ -31,11 +31,11 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@vasterior",
+    site: "@space build",
     title: "MahaVastu – Pricing Plans | Bespoke Interior Design Consultation",
     description:
-      "Explore MahaVastu consultation pricing plans by Vasterior. Choose from Starter to Platinum packages for home, office & factory transformation.",
-    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/vasteriorlogo_bmzk0r.png"],
+      "Explore MahaVastu consultation pricing plans by space build. Choose from Starter to Platinum packages for home, office & factory transformation.",
+    images: ["https://res.cloudinary.com/da12wzxoq/image/upload/v1764841085/space buildlogo_bmzk0r.png"],
   },
 
   icons: {

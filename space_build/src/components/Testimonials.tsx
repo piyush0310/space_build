@@ -20,7 +20,7 @@ export const featuredTestimonials: Testimonial[] = [
   {
     id: 2,
     name: "Mr. Rakesh & Mrs. Reena Jain",
-    location: "Studio Apartment, Noida Extension",
+    location: "",
     rating: 4,
     text: "SPACE BUILD perfectly blended aesthetics and Vastu, transforming our space into a harmonious, positive environment. It feels balanced, beautiful, and filled with positive energy. Their expertise and creativity exceeded expectations. Truly exceptional!",
     image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
@@ -28,7 +28,7 @@ export const featuredTestimonials: Testimonial[] = [
   {
     id: 3,
     name: "Mr. Raja Jain",
-    location: "Preet Vihar",
+    location: "",
     rating: 4,
     text: "The interior design completely transformed our space, making it more beautiful, comfortable, and perfectly styled. Every detail was thoughtfully designed, creating a warm and inviting atmosphere. Truly a wonderful and satisfying experience!",
     image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
