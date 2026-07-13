@@ -9,9 +9,40 @@ interface TeamMember {
 }
 
 const AboutUs: React.FC = () => {
-  const teamMembers: TeamMember[] = [
-
-  ];
+const teamMembers: TeamMember[] = [
+  {
+    id: 1,
+    name: "Mohd. Shafi",
+    image:
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926150/IMG_20260713_122604.jpg_ffy5fu.jpg",
+    description:
+      "Founder & Managing Director • Interior Designer • MahaVastu Expert",
+  },
+  {
+    id: 2,
+    name: "Shane Alam",
+    image:
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926148/IMG_20260713_122637.jpg_fh3n84.jpg",
+    description:
+      "Co-Founder • Director – Operations & Project Execution",
+  },
+    {
+    id: 3,
+    name: "Khusbu",
+    image:
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122406.jpg_xmahqg.jpg",
+    description:
+      "Front Office Executive",
+  },
+  {
+    id: 4,
+    name: "Sujeevan Singh",
+    image:
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122738.jpg_hhrw6z.jpg",
+    description:
+      "Senior Interior Designer",
+  },
+];
 
   return (
     <section id="aboutus" className="py-8 sm:py-6 lg:py-8 px-4 bg-[#EDF4F8]">
@@ -42,7 +73,7 @@ const AboutUs: React.FC = () => {
                 className="group relative bg-white rounded-xl sm:rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2"
               >
                 {/* Image */}
-                <div className="relative aspect-[4/5] overflow-hidden">
+                <div className="relative h-[320px] sm:h-[360px] md:h-[420px] overflow-hidden bg-gray-100">
                   <Image
                     src={member.image}
                     alt={member.name}
