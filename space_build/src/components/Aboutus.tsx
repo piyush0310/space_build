@@ -65,13 +65,13 @@ const teamMembers: TeamMember[] = [
           {teamMembers.map((member, index) => {
             const isOffset = index % 2 === 1;
             return (
-              <div
-                key={member.id}
-                style={{
-                  marginTop: isOffset ? '4rem' : '0rem',
-                }}
-                className="group relative bg-white rounded-xl sm:rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2"
-              >
+<div
+  key={member.id}
+  className={`group relative bg-white rounded-xl sm:rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2
+    ${isOffset ? "lg:mt-16" : ""}
+    ${member.id === 3 ? "mt-6 lg:mt-0" : ""}
+  `}
+>
                 {/* Image */}
                 <div className="relative h-[360px] sm:h-[360px] md:h-[420px] overflow-hidden bg-gray-100">
                   <Image
@@ -100,11 +100,16 @@ const teamMembers: TeamMember[] = [
                 </div>
 
                 {/* Name */}
-                <div className="p-4 text-center">
-                  <h3 className="text-sm sm:text-base lg:text-lg font-semibold text-gray-800">
-                    {member.name}
-                  </h3>
-                </div>
+<div className="p-4 text-center">
+  <h3 className="text-sm sm:text-base lg:text-lg font-semibold text-gray-800">
+    {member.name}
+  </h3>
+
+  {/* Mobile Description */}
+  <p className="block lg:hidden mt-2 text-xs text-gray-600 leading-relaxed">
+    {member.description}
+  </p>
+</div>
               </div>
             );
           })}
