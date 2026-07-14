@@ -67,20 +67,31 @@ const teamMembers: TeamMember[] = [
             return (
               <div
                 key={member.id}
-                style={{
-                  marginTop: isOffset ? '4rem' : '0rem',
-                }}
+style={{
+  marginTop:
+    typeof window !== "undefined" && window.innerWidth >= 1024 && isOffset
+      ? "4rem"
+      : "0rem",
+}}
                 className="group relative bg-white rounded-xl sm:rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2"
               >
                 {/* Image */}
-                <div className="relative h-[320px] sm:h-[360px] md:h-[420px] overflow-hidden bg-gray-100">
+                <div className="relative h-[360px] sm:h-[360px] md:h-[420px] overflow-hidden bg-gray-100">
                   <Image
-                    src={member.image}
-                    alt={member.name}
-                    fill
-                    className="object-cover transition-transform duration-500 group-hover:scale-110"
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-                  />
+  src={member.image}
+  alt={member.name}
+  fill
+  className={`object-cover transition-transform duration-500 group-hover:scale-110 ${
+    member.id === 2
+      ? "object-[center_25%]"
+      : member.id === 3
+      ? "object-[center_25%]"
+      : member.id === 4
+      ? "object-[center_25%]"
+      : "object-center"
+  }`}
+  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+/>
                   {/* Overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                   {/* Description */}
