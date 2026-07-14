@@ -54,12 +54,6 @@ export default function portfolio() {
   return (
     <div className="min-h-screen bg-[#FFF1E0]">
       <BlogPostPage />
-      
-      
-      
-      
-
-      
     </div>
   );
 }
