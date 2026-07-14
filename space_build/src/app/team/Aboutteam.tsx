@@ -5,13 +5,13 @@ const founders = [
 {
   name: "Mohd. Shafi",
   image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926150/IMG_20260713_122604.jpg_ffy5fu.jpg",
-  splitIndex: 4,
+  splitIndex: 3,
   role:
     "Founder & Managing Director • Interior Designer • MahaVastu Expert",
   bio: [
     "Raised in Hyderabad and rooted in the quiet power of design, Mohd. Shafi represents a rare blend of technical precision, spiritual sensitivity, and instinctive aesthetic intelligence. His journey began long before Space Build took shape, in the corridors of his family's tile and stone business, where textures, materials, and craftsmanship shaped his earliest memories of space.",
     "A Hyderabad boy through and through, Mohd. Shafi completed his schooling and BBA graduation there, carrying forward a deep appreciation for culture, structure, and disciplined work ethics. Soon after, he stepped into the family business ecosystem, gaining hands-on experience in tiles, stones, and later, the manufacturing of packaging materials and corrugated cardboard. These early chapters gave him a tactile understanding of materials, something that continues to define his design language today.",
-    "But his true calling emerged at the intersection of art, energy, and functionality.",
+    "But his true calling emerged at the intersection of art, energy, and functionality.With every project, Mohd. Shafi remains dedicated to setting new benchmarks in luxury interior design through thoughtful planning, uncompromising quality, and a deep understanding of each client's unique vision.",
     "Driven by curiosity, Mohd. Shafi began his journey in spatial designing and became a certified Interior Designer. Alongside mastering design principles and planning methodologies, he developed expertise in AutoCAD and gradually immersed himself in the science of spatial energy. His passion ultimately led him to become a certified MahaVastu Expert, enabling him to understand how direction, activity, elements, and energy influence human life and wellbeing.",
     "In 2023, this vision found its home in Space Build, co-founded with Shane Alam. Together, they established a design studio with one clear philosophy — every space should not only be visually stunning but also emotionally balanced, functional, and energetically aligned.",
     "As the Founder & Managing Director of Space Build, Mohd. Shafi is responsible for the company's vision, long-term strategy, business growth, financial planning, and overall leadership. His ability to combine creative thinking with practical business management has become one of the strongest pillars behind Space Build.",
@@ -42,7 +42,7 @@ const founders = [
  {
   name: "Shane Alam",
   image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926148/IMG_20260713_122637.jpg_fh3n84.jpg",
-  splitIndex: 5,
+  splitIndex: 3,
   role:
     "Co-Founder • Director – Operations & Project Execution • Interior Designer • Luxury Wedding Creative Director",
   bio: [
@@ -80,15 +80,13 @@ const founders = [
   name: "Khusbu",
   image:"https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122406.jpg_xmahqg.jpg",
   role: "Front Office Executive",
-  splitIndex: 7,
+  splitIndex: 5,
   bio: [
     "Khusbu serves as the Front Office Executive at Space Build and is the first point of contact for every client. With excellent communication skills, professionalism, and a welcoming personality, she ensures that every visitor enjoys a smooth and comfortable experience from their very first interaction with the company.",
     "She efficiently manages front office operations, appointment scheduling, client enquiries, and administrative coordination while maintaining a professional and organized workplace.",
     "Her ability to communicate effectively with clients, designers, project managers, and vendors helps ensure seamless coordination across different departments.",
     "From handling phone calls and WhatsApp enquiries to maintaining important records and supporting day-to-day office operations, Khusbu plays an essential role in keeping the organization efficient and client-focused.",
     "She believes that excellent customer service begins with clear communication, timely responses, and genuine care for every client, values that perfectly align with Space Build's commitment to customer satisfaction.",
-    "Beyond managing daily operations, Khusbu plays an important role in creating a warm, organized, and client-centric environment, ensuring every interaction reflects Space Build's values of professionalism, trust, and excellence.",
-    "Her dedication to efficiency, clear communication, and personalized client support makes her an integral part of Space Build's commitment to delivering an exceptional customer experience.",
     "With her approachable nature and strong organizational skills, Khusbu ensures that every client interaction reflects the warmth, professionalism, and attention to detail that define the Space Build experience.",
     "She works closely with different departments to ensure smooth internal communication, allowing projects and client interactions to progress efficiently without delays.She believes that every successful client relationship begins with trust, responsiveness, and a positive first impression, making customer satisfaction a priority in every interaction.",
     "Her commitment to professionalism, confidentiality, and attention to detail helps maintain a well-organized workplace that supports both the team and every valued client.By managing daily administrative responsibilities with dedication and precision, Khusbu contributes significantly to the seamless functioning of Space Build's office operations."
@@ -119,6 +117,7 @@ const founders = [
   name: "Sujeevan Singh",
   image:"https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122738.jpg_hhrw6z.jpg",
   role: "Senior Interior Designer",
+  splitIndex: 5,
   bio: [
     "Sujeevan Singh is the Senior Interior Designer at Space Build, bringing creativity, technical expertise, and practical execution together to deliver exceptional interior environments.",
     "With a strong passion for interior architecture and modern living spaces, he specializes in designing residential, commercial, office, hospitality, and luxury interiors that perfectly balance aesthetics with functionality.",
@@ -203,9 +202,9 @@ function KnowMore() {
 <Image
   src={founder.image}
   alt={founder.name}
-  width={600}
-  height={900}
-  className="w-full h-[700px] rounded-3xl object-cover"
+  width={400}
+  height={500}
+  className="w-full h-[500px] rounded-3xl object-cover"
 />
       </div>
     </div>
