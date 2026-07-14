@@ -67,12 +67,9 @@ const teamMembers: TeamMember[] = [
             return (
               <div
                 key={member.id}
-style={{
-  marginTop:
-    typeof window !== "undefined" && window.innerWidth >= 1024 && isOffset
-      ? "4rem"
-      : "0rem",
-}}
+                style={{
+                  marginTop: isOffset ? '4rem' : '0rem',
+                }}
                 className="group relative bg-white rounded-xl sm:rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2"
               >
                 {/* Image */}
