@@ -236,7 +236,6 @@ const Content = () => {
                   Space Build serves residential and commercial properties across Moradabad city and its surrounding areas.
                 </p>
               </div>
-
               <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
