@@ -7,232 +7,389 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Pest Control Services in Moradabad – Space Build
+              Pest Control Services in Moradabad: A Complete Service Guide by Space Build
             </h2>
 
             <p>
-              Pests such as termites, cockroaches, rodents, and mosquitoes are not just a nuisance; they can cause significant damage to property and pose serious health risks to families and employees. Moradabad&apos;s climate, combined with dense residential and commercial spaces, creates favorable conditions for pest infestations throughout the year. This makes regular, professional pest control an essential service for homes and businesses alike.
+              Every home and business has its own unique pest control needs, shaped by factors like building age,
+              location, surrounding environment, and the specific type of pest activity present. A one-size-fits-all
+              approach rarely delivers lasting results — which is why understanding the full range of available pest
+              control services, and how each one is applied, is essential for making informed decisions about protecting
+              your property.
             </p>
 
             <p>
-              Space Build offers comprehensive pest control services in Moradabad, using safe and effective treatments tailored to different types of infestations. This guide covers everything you need to know about pest control services, common pest problems in Moradabad, and how Space Build can help protect your property.
+              At Space Build Moradabad, we offer a comprehensive suite of pest control services designed to address the
+              specific challenges faced by homeowners, businesses, and industrial property owners across the city. In
+              this detailed guide, we&apos;ll walk through the different types of pest control services available, how
+              each one works, and how to determine which services are right for your particular situation.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Pest Control Is Important
+              The Range of Pest Control Services Available Today
             </h2>
 
+            <p>
+              Modern pest control has evolved far beyond simple spray treatments. Today&apos;s approach involves a
+              combination of inspection, targeted treatment, structural recommendations, and ongoing monitoring. Broadly,
+              pest control services can be categorized into the following types:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Protects the structural integrity of buildings from termite damage</li>
-              <li>Reduces health risks associated with pests like cockroaches and rodents</li>
-              <li>Prevents contamination of food and food storage areas</li>
-              <li>Minimizes allergy and disease risks caused by pest infestations</li>
-              <li>Preserves the value and hygiene standards of residential and commercial properties</li>
-              <li>Creates a safer and more comfortable living or working environment</li>
+              <li>Inspection and assessment services</li>
+              <li>Preventive treatment services</li>
+              <li>Curative or corrective treatment services</li>
+              <li>Specialized pest-specific services</li>
+              <li>Ongoing maintenance and monitoring contracts</li>
+              <li>Post-construction and renovation pest protection</li>
+            </ul>
+
+            <p>
+              Let&apos;s explore each of these service categories in detail, along with how Space Build approaches them
+              for our clients in Moradabad.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              1. Inspection and Assessment Services
+            </h2>
+
+            <p>
+              Before any treatment can be effective, a thorough inspection is essential to understand the type, extent,
+              and source of pest activity. Our inspection services typically include:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Visual inspection:</strong> A detailed walkthrough of the property to identify visible signs of
+                pest activity, such as droppings, damaged wood, nests, or mud tubes.
+              </li>
+              <li>
+                <strong>Moisture assessment:</strong> Since many pests, including termites and cockroaches, are attracted
+                to damp conditions, we assess areas with potential water leakage, poor drainage, or high humidity.
+              </li>
+              <li>
+                <strong>Structural assessment:</strong> For properties with suspected termite activity, we examine wooden
+                beams, door frames, furniture, and foundational elements for signs of damage.
+              </li>
+              <li>
+                <strong>Entry point identification:</strong> We look for cracks, gaps, and openings in walls,
+                foundations, and utility lines that may be providing pests easy access into the building.
+              </li>
+            </ul>
+
+            <p>
+              This assessment forms the foundation for any treatment plan, ensuring that the services we recommend are
+              targeted and appropriate for the specific situation at hand.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              2. Preventive Treatment Services
+            </h2>
+
+            <p>
+              Prevention is always more cost-effective than dealing with an established infestation. Our preventive
+              services are particularly valuable for new construction projects, recent renovations, or properties that
+              haven&apos;t yet experienced significant pest problems but are at risk due to environmental or structural
+              factors.
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Pre-Construction Soil Treatment:</strong> Applied before the foundation is laid, this treatment
+                creates a chemical barrier in the soil that helps prevent subterranean termites from entering the
+                structure from below.
+              </li>
+              <li>
+                <strong>Post-Construction Perimeter Treatment:</strong> After construction is complete, a treatment is
+                applied around the building&apos;s perimeter to reinforce protection against termites and other
+                soil-dwelling pests.
+              </li>
+              <li>
+                <strong>Sealing and Structural Recommendations:</strong> We identify and recommend sealing potential
+                entry points, such as gaps around pipes, cracks in walls, or poorly sealed windows and doors, to reduce
+                the risk of pest intrusion.
+              </li>
+              <li>
+                <strong>Moisture Control Recommendations:</strong> Since many pests are drawn to damp environments, we
+                provide recommendations for improving drainage, ventilation, and addressing any water leakage issues that
+                could attract pests over time.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Pests Found in Moradabad Homes and Businesses
+              3. Curative or Corrective Treatment Services
             </h2>
 
+            <p>
+              When an infestation is already present, curative treatments are necessary to eliminate the existing pest
+              population and prevent further damage. These services are tailored to the specific pest and severity of the
+              infestation.
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Termites: Cause significant damage to wooden furniture, doors, and structural elements</li>
-              <li>Cockroaches: Common in kitchens and washrooms, carrying disease-causing bacteria</li>
-              <li>Rodents: Damage electrical wiring, furniture, and contaminate stored food</li>
-              <li>Mosquitoes: Breed in stagnant water and pose risks of dengue, malaria, and other diseases</li>
-              <li>Bed Bugs: Infest mattresses and furniture, causing skin irritation and discomfort</li>
-              <li>Ants: Commonly found in kitchens, attracted to food particles and moisture</li>
-              <li>Spiders: While mostly harmless, certain species can pose risks in large numbers</li>
+              <li>
+                <strong>Chemical Treatment:</strong> Targeted application of approved pesticides or termiticides to
+                affected areas, applied by trained technicians who understand the correct concentration, method, and
+                safety precautions required.
+              </li>
+              <li>
+                <strong>Baiting Systems:</strong> Particularly effective for termites and certain ant species, bait
+                stations are placed strategically around the property. Pests feed on the bait and carry it back to the
+                colony, gradually eliminating the entire population over time.
+              </li>
+              <li>
+                <strong>Fumigation Services:</strong> For severe infestations, particularly involving drywood termites or
+                widespread insect activity, fumigation may be necessary to eliminate pests throughout an entire structure
+                or specific rooms.
+              </li>
+              <li>
+                <strong>Localized Wood Treatment:</strong> For furniture or wooden fixtures affected by termites or
+                wood-boring insects, direct injection or surface treatment can eliminate pests within the wood itself,
+                often avoiding the need for full replacement.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Pest Control Services Offered by Space Build
+              4. Specialized Pest-Specific Services
             </h2>
 
+            <p>
+              Different pests require different specialized approaches. Our team offers targeted services for the most
+              common pest problems in Moradabad:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Termite Control Treatment: Pre-construction and post-construction termite treatments for long-term protection</li>
-              <li>Cockroach Control Services: Gel-based and spray treatments targeting kitchen and washroom areas</li>
-              <li>Rodent Control Solutions: Trapping and baiting methods to eliminate rodent infestations safely</li>
-              <li>Mosquito Control Treatment: Fogging and larvicidal treatments to reduce mosquito breeding</li>
-              <li>Bed Bug Treatment: Targeted treatments for mattresses, furniture, and upholstery</li>
-              <li>General Pest Control: Comprehensive treatment covering ants, spiders, and other common household pests</li>
-              <li>Commercial Pest Control: Customized solutions for offices, restaurants, warehouses, and retail spaces</li>
+              <li>
+                <strong>Termite Control Services:</strong> Given the prevalence of subterranean termites in the region,
+                we offer comprehensive termite inspection, prevention, and treatment services, including soil treatment,
+                baiting systems, and structural monitoring.
+              </li>
+              <li>
+                <strong>Cockroach Control Services:</strong> Focused on kitchens, bathrooms, and food storage areas, our
+                cockroach control services combine chemical treatment with recommendations for improved sanitation and
+                moisture control.
+              </li>
+              <li>
+                <strong>Rodent Control Services:</strong> Including trapping, baiting, and entry point sealing, our
+                rodent control services help protect properties from the structural damage and health risks associated
+                with rats and mice.
+              </li>
+              <li>
+                <strong>Mosquito Control Services:</strong> Addressing standing water sources, applying larvicide
+                treatments, and recommending environmental modifications to reduce mosquito breeding grounds around the
+                property.
+              </li>
+              <li>
+                <strong>Bed Bug Treatment Services:</strong> Given how difficult bed bugs can be to eliminate, our
+                specialized treatment involves thorough inspection of mattresses, furniture, and hidden cracks, combined
+                with targeted chemical or heat treatment methods.
+              </li>
+              <li>
+                <strong>Ant Control Services:</strong> Identifying the specific ant species and their colony location,
+                followed by targeted baiting or treatment to eliminate the colony rather than just the visible trail.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Termite Control Services in Detail
+              5. Ongoing Maintenance and Monitoring Contracts
             </h2>
 
+            <p>
+              For many property owners, particularly commercial businesses and larger residential properties, a one-time
+              treatment isn&apos;t enough to ensure long-term protection. We offer ongoing maintenance contracts that
+              include:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Pre-Construction Treatment: Soil treatment applied before construction to prevent future termite entry</li>
-              <li>Post-Construction Treatment: Chemical barriers created around existing structures to control infestations</li>
-              <li>Wood Treatment: Direct treatment of wooden furniture and structural elements</li>
-              <li>Regular Monitoring: Periodic inspections to detect early signs of termite activity</li>
-              <li>Long-Term Warranty Options: Extended protection plans for continued peace of mind</li>
+              <li>
+                <strong>Scheduled periodic inspections:</strong> Regular visits to check for early signs of pest activity
+                before they become significant problems.
+              </li>
+              <li>
+                <strong>Preventive re-treatment:</strong> Periodic reapplication of preventive treatments, particularly
+                for termite protection, to maintain the effectiveness of the chemical barrier over time.
+              </li>
+              <li>
+                <strong>Monitoring station checks:</strong> For properties with bait stations or monitoring devices
+                installed, regular checks ensure continued effectiveness and early detection of renewed activity.
+              </li>
+              <li>
+                <strong>Seasonal adjustments:</strong> Adjusting treatment schedules and focus areas based on seasonal
+                pest patterns, such as increased mosquito activity during monsoon season.
+              </li>
+            </ul>
+
+            <p>
+              These ongoing services are particularly valuable for restaurants, hotels, warehouses, and other commercial
+              properties where maintaining a consistently pest-free environment is essential for both health compliance
+              and reputation.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              6. Post-Construction and Renovation Pest Protection
+            </h2>
+
+            <p>
+              Whenever a property undergoes renovation or expansion, new vulnerabilities can be introduced — fresh wood,
+              exposed foundations, or temporary gaps in the structure can all create new entry points or food sources for
+              pests. Our services in this category include:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Post-renovation inspection:</strong> Checking newly added structures or renovated areas for pest
+                vulnerabilities before finishing work is completed.
+              </li>
+              <li>
+                <strong>Treatment of new wooden installations:</strong> Ensuring any new wooden fixtures, frames, or
+                furniture are treated or protected against future termite activity.
+              </li>
+              <li>
+                <strong>Sealing of new entry points:</strong> Identifying and sealing any gaps created during construction
+                or renovation work that could provide pest access.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Cockroach Control Process
+              How Space Build Tailors Services to Each Property
             </h2>
 
+            <p>
+              No two properties are exactly alike, which is why we avoid generic, one-size-fits-all pest control packages.
+              Our approach begins with a detailed conversation with the property owner to understand:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Initial inspection to identify infestation levels and breeding areas</li>
-              <li>Application of gel baits in cracks, crevices, and hidden corners</li>
-              <li>Spray treatments for larger infestation areas, if required</li>
-              <li>Sealing of potential entry points to prevent future infestations</li>
-              <li>Follow-up visits to ensure complete elimination of the infestation</li>
+              <li>The type of property (residential, commercial, industrial)</li>
+              <li>The age and construction materials of the building</li>
+              <li>Any previous pest issues or ongoing concerns</li>
+              <li>
+                The surrounding environment, including nearby water sources, vegetation, or neighboring properties
+              </li>
+              <li>
+                Specific priorities, such as child or pet safety considerations for chemical treatments
+              </li>
+            </ul>
+
+            <p>
+              Based on this information, combined with our on-site inspection findings, we recommend a tailored
+              combination of services from the categories outlined above, ensuring our clients receive effective,
+              appropriately scaled solutions rather than unnecessary or excessive treatments.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Residential Service Packages
+            </h2>
+
+            <p>
+              For homeowners in Moradabad, we typically recommend a combination of:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Initial comprehensive inspection</li>
+              <li>
+                Preventive termite treatment, particularly for new constructions or properties with wooden structural
+                elements
+              </li>
+              <li>
+                Targeted treatment for any active pest issues identified during inspection
+              </li>
+              <li>
+                Sealing recommendations for entry points around doors, windows, and utility lines
+              </li>
+              <li>
+                Optional ongoing maintenance contracts for long-term protection, particularly in older properties or
+                areas with a history of pest activity
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Rodent Control Methods
+              Commercial Service Packages
             </h2>
 
+            <p>
+              For businesses, particularly those in the food service, hospitality, or warehousing sectors, our services
+              often include:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Baiting Stations: Strategically placed to attract and eliminate rodents</li>
-              <li>Trapping Solutions: Non-chemical methods for sensitive areas like kitchens</li>
-              <li>Entry Point Sealing: Identifying and sealing gaps that allow rodent entry</li>
-              <li>Sanitation Recommendations: Guidance on reducing food sources that attract rodents</li>
-              <li>Regular Monitoring: Follow-up visits to ensure long-term control</li>
+              <li>
+                Regular scheduled inspections to maintain compliance with health and hygiene standards
+              </li>
+              <li>
+                Comprehensive treatment plans addressing multiple pest types relevant to the specific business type
+              </li>
+              <li>
+                Documentation and reporting services, useful for businesses that require pest control records for
+                regulatory or client assurance purposes
+              </li>
+              <li>
+                Emergency response services for sudden pest activity that could impact business operations
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Mosquito Control Solutions
+              Choosing the Right Combination of Services
             </h2>
 
+            <p>
+              When deciding which pest control services are right for your property, consider the following factors:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Fogging Treatment: Effective for outdoor areas and large infestations</li>
-              <li>Larvicidal Treatment: Targets mosquito breeding grounds in stagnant water</li>
-              <li>Residual Spraying: Long-lasting treatment for walls and surfaces</li>
-              <li>Preventive Recommendations: Advice on eliminating stagnant water sources around the property</li>
+              <li>
+                <strong>Current pest activity:</strong> If you&apos;re already experiencing an active infestation,
+                curative treatment services should be prioritized alongside a plan for future prevention.
+              </li>
+              <li>
+                <strong>Property age and condition:</strong> Older properties, particularly those with wooden structural
+                elements, often benefit from more comprehensive preventive termite services.
+              </li>
+              <li>
+                <strong>Environmental risk factors:</strong> Properties near water bodies, dense vegetation, or with poor
+                drainage may require additional mosquito or moisture-related pest control measures.
+              </li>
+              <li>
+                <strong>Business requirements:</strong> Commercial properties, particularly in food service, may need
+                more frequent monitoring and documentation to meet health and safety standards.
+              </li>
+              <li>
+                <strong>Long-term goals:</strong> If long-term protection is a priority, investing in ongoing maintenance
+                contracts often provides better value than repeated one-time treatments.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential vs Commercial Pest Control Services
+              Why Space Build Offers a Complete Pest Control Solution
             </h2>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Residential Pest Control: Focuses on family safety, using child and pet-friendly treatment methods</li>
-              <li>Commercial Pest Control: Designed for larger spaces, often requiring more frequent and comprehensive treatments</li>
-              <li>Restaurant Pest Control: Strict hygiene-focused treatments to comply with food safety standards</li>
-              <li>Warehouse Pest Control: Addressing rodent and insect control for stored goods and inventory</li>
-              <li>Office Pest Control: Regular maintenance treatments to ensure a pest-free work environment</li>
-            </ul>
+            <p>
+              At Space Build, our pest control services are designed to work seamlessly alongside our construction and
+              renovation expertise, giving property owners in Moradabad a single, trusted partner for both building and
+              long-term property protection. Our team&apos;s combination of construction knowledge and pest management
+              expertise allows us to identify structural vulnerabilities that standalone pest control companies might
+              overlook, while also ensuring that any recommended structural adjustments are implemented correctly.
+            </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build for Pest Control Services
-            </h2>
+            <p>
+              Whether you need a one-time inspection, targeted treatment for an active infestation, or an ongoing
+              maintenance plan for long-term protection, our range of services is designed to be flexible, effective, and
+              tailored to the specific needs of your Moradabad property.
+            </p>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use of safe, government-approved chemicals and treatment methods</li>
-              <li>Trained and experienced pest control technicians</li>
-              <li>Customized treatment plans based on property type and infestation level</li>
-              <li>Transparent pricing with no hidden charges</li>
-              <li>Timely service scheduling and follow-up visits</li>
-              <li>Long-term prevention plans for ongoing pest management</li>
-              <li>Strong focus on customer safety and environmental responsibility</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs Your Property Needs Pest Control
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Presence of droppings or gnaw marks around the property</li>
-              <li>Visible damage to wooden furniture or structural elements</li>
-              <li>Unusual odors in kitchen or storage areas</li>
-              <li>Increased sightings of cockroaches, ants, or rodents</li>
-              <li>Bite marks or skin irritation, possibly indicating bed bugs</li>
-              <li>Accumulation of stagnant water attracting mosquitoes</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Preventive Measures to Reduce Pest Infestations
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Seal cracks and gaps in walls, doors, and windows</li>
-              <li>Store food items in airtight containers</li>
-              <li>Maintain proper drainage to avoid stagnant water accumulation</li>
-              <li>Dispose of garbage regularly and keep bins covered</li>
-              <li>Conduct regular cleaning of kitchen and storage areas</li>
-              <li>Schedule periodic pest inspections even without visible infestations</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How to Choose the Right Pest Control Company
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Check for experience and expertise in handling specific pest issues</li>
-              <li>Ensure the use of safe and approved chemicals for treatments</li>
-              <li>Ask about warranty or follow-up service policies</li>
-              <li>Review customer feedback and past service experiences</li>
-              <li>Confirm transparent pricing before finalizing the service</li>
-              <li>Evaluate their responsiveness for emergency pest control needs</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. What pest control services does Space Build offer in Moradabad?</h3>
-                <p>
-                  Space Build offers termite, cockroach, rodent, mosquito, bed bug, and general pest control services.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Are the pest control treatments safe for children and pets?</h3>
-                <p>
-                  Yes, Space Build uses safe, approved chemicals suitable for residential properties with families and pets.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. How often should pest control be done for homes?</h3>
-                <p>
-                  It is generally recommended to schedule pest control treatments every three to six months.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Does Space Build offer termite control before construction?</h3>
-                <p>
-                  Yes, pre-construction termite treatment is available to prevent future infestations.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can Space Build handle pest control for commercial properties?</h3>
-                <p>
-                  Yes, customized pest control solutions are available for offices, restaurants, and warehouses.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. How long does a pest control treatment usually take?</h3>
-                <p>
-                  Treatment duration varies by property size and infestation level, typically ranging from one to a few hours.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build provide follow-up visits after treatment?</h3>
-                <p>
-                  Yes, follow-up visits are included to ensure complete elimination of the infestation.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. What should I do to prepare my home before pest control treatment?</h3>
-                <p>
-                  It is recommended to clear kitchen surfaces, cover food items, and move pets to a safe area before treatment.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              To learn more about our full range of pest control services or to schedule an inspection, visit us at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                          <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -248,7 +405,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

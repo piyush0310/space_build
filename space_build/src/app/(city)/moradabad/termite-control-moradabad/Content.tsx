@@ -1,4 +1,5 @@
 import React from "react";
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -6,204 +7,361 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Termite Control in Moradabad – Space Build
+              Termite Control in Moradabad: A Complete Guide by Space Build
             </h2>
+
             <p>
-              Termites are often called silent destroyers because they can cause extensive damage to a property long before the infestation becomes visible. Wooden furniture, door frames, roof structures, and even building foundations can suffer serious harm if termite infestations are left untreated. Given Moradabad&apos;s climate and soil conditions, termite problems are fairly common across both new and old properties.
+              Termites are often called the &quot;silent destroyers&quot; — and for good reason. These tiny insects can
+              quietly eat through wooden furniture, doors, window frames, roof structures, and even paper-based materials
+              for months or years before any visible damage appears. By the time most homeowners notice the signs,
+              significant structural harm may have already been done. In a city like Moradabad, known for its humid
+              climate and dense residential construction, termite infestations are a common and serious concern for both
+              new and existing buildings.
             </p>
+
             <p>
-              Space Build offers specialized termite control services in Moradabad, using proven treatment methods to protect homes and commercial properties from termite damage. This guide explains everything you need to know about termites, treatment options, and how Space Build can help safeguard your property.
+              At Space Build Moradabad, we understand that protecting your property from termites isn&apos;t just about
+              pest control — it&apos;s about safeguarding your investment, your family&apos;s safety, and the long-term
+              structural integrity of your home or business. In this comprehensive guide, we&apos;ll explore everything
+              you need to know about termite control in Moradabad, from early warning signs to prevention strategies and
+              professional treatment options.
             </p>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding Termites and Their Behavior
+              Understanding Termites and Why They Thrive in Moradabad
             </h2>
+
+            <p>
+              Termites are social insects that live in large colonies, often hidden underground or within wooden
+              structures. They feed primarily on cellulose, which is found in wood, paper, cardboard, and even certain
+              fabrics. Moradabad&apos;s climate — with its warm temperatures and humid monsoon season — creates ideal
+              breeding conditions for termites, making the region particularly susceptible to infestations.
+            </p>
+
+            <p>
+              There are several types of termites commonly found in North Indian homes and buildings:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Termites often remain hidden within walls, furniture, or underground tunnels</li>
-              <li>They can cause damage over months or even years without visible signs</li>
-              <li>Colonies can range from a few thousand to millions of termites</li>
-              <li>Subterranean termites build mud tubes to travel between soil and wood</li>
-              <li>Drywood termites live directly within wooden structures without soil contact</li>
-              <li>Termite activity tends to increase during humid and warm weather conditions</li>
+              <li>
+                <strong>Subterranean termites:</strong> These live in underground colonies and build mud tubes to travel
+                between their nest and food sources. They are the most destructive type and are commonly found in
+                Moradabad due to the region&apos;s soil conditions and moisture levels.
+              </li>
+              <li>
+                <strong>Drywood termites:</strong> These infest dry wood directly, often found in furniture, wooden
+                beams, and door frames, without needing contact with soil.
+              </li>
+              <li>
+                <strong>Dampwood termites:</strong> These prefer moist, decaying wood and are often found in areas with
+                water leakage or poor drainage.
+              </li>
             </ul>
+
+            <p>
+              Understanding which type of termite is affecting your property is the first step toward choosing the right
+              treatment approach — something our team at Space Build carefully evaluates during every inspection.
+            </p>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Types of Termites Commonly Found in Moradabad
+              Why Termite Control Matters So Much in Construction
             </h2>
+
+            <p>
+              Many homeowners only think about termite control after they notice visible damage — but by then, the
+              infestation may have already spread extensively throughout the structure. This is why termite prevention
+              should be considered right from the construction stage, not as an afterthought. Here&apos;s why it matters
+              so much:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Subterranean Termites: Live in soil and build mud tubes to access wooden structures</li>
-              <li>Drywood Termites: Infest dry wood directly, commonly found in furniture and door frames</li>
-              <li>Dampwood Termites: Prefer moist wood, often found in areas with water leakage or dampness</li>
-              <li>Formosan Termites: Highly aggressive species capable of causing rapid structural damage</li>
+              <li>
+                <strong>Structural safety:</strong> Termites can weaken wooden beams, door frames, roof trusses, and
+                even furniture to the point of collapse if left untreated for extended periods.
+              </li>
+              <li>
+                <strong>Financial protection:</strong> Repairing termite damage can be significantly more expensive than
+                preventive treatment, especially if structural wood needs to be replaced.
+              </li>
+              <li>
+                <strong>Preserving property value:</strong> A termite-infested property can lose significant resale
+                value, and undisclosed infestations can lead to disputes during property transactions.
+              </li>
+              <li>
+                <strong>Health and safety:</strong> Some termite treatments involve chemicals that need to be applied
+                correctly and safely, which is why professional application is so important.
+              </li>
+              <li>
+                <strong>Long-term peace of mind:</strong> Proper termite control, whether during construction or as
+                ongoing maintenance, gives homeowners and business owners confidence that their investment is protected
+                for years to come.
+              </li>
             </ul>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs of Termite Infestation
+              Early Warning Signs of Termite Infestation
             </h2>
+
+            <p>
+              Recognizing the early signs of a termite problem can save you from extensive damage and costly repairs.
+              Here are some key indicators to watch for:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Presence of mud tubes along walls, foundations, or wooden structures</li>
-              <li>Hollow-sounding wood when tapped, indicating internal damage</li>
-              <li>Discarded termite wings near windows or doors</li>
-              <li>Small holes or tunnels visible on wooden furniture</li>
-              <li>Sagging floors or ceilings caused by structural weakening</li>
-              <li>Cracked or bubbling paint on wooden surfaces</li>
+              <li>
+                <strong>Mud Tubes:</strong> Subterranean termites build narrow mud tubes along walls, foundations, or
+                wooden structures to travel safely between their colony and food source while avoiding exposure to light
+                and predators. These pencil-thin tubes are one of the most reliable signs of an active infestation.
+              </li>
+              <li>
+                <strong>Hollow-Sounding Wood:</strong> When wood is infested, termites eat it from the inside out,
+                leaving a thin outer layer intact. Tapping on affected wood often produces a hollow sound, and the
+                surface may appear papery or blistered.
+              </li>
+              <li>
+                <strong>Discarded Wings:</strong> After swarming to establish new colonies, termites shed their wings.
+                Finding small, discarded wings near windowsills, doors, or light fixtures is a common sign that a nearby
+                colony has become active.
+              </li>
+              <li>
+                <strong>Frass (Termite Droppings):</strong> Drywood termites push their droppings, called frass, out of
+                small holes in infested wood. This frass often looks like tiny wood-colored pellets or fine sawdust
+                accumulating near furniture or wooden fixtures.
+              </li>
+              <li>
+                <strong>Sagging Floors or Ceilings:</strong> In severe infestations, structural wood can become so
+                weakened that floors, ceilings, or door frames begin to sag, warp, or become difficult to open and close
+                properly.
+              </li>
+              <li>
+                <strong>Visible Damage to Wooden Furniture:</strong> Cracked, crumbling, or blistered wood surfaces,
+                especially in furniture that hasn&apos;t been moved or inspected in a while, can indicate an underlying
+                termite problem.
+              </li>
             </ul>
+
+            <p>
+              If you notice any of these signs in your Moradabad property, it&apos;s important to contact a professional
+              pest control team promptly, as termite colonies can grow rapidly and cause extensive damage within a
+              relatively short period.
+            </p>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Termite Control Is Essential
+              Termite Control Strategies: Prevention vs. Treatment
             </h2>
+
+            <p>
+              Termite control generally falls into two categories: preventive measures taken during construction, and
+              treatment measures applied to control an existing infestation. Both are equally important, and at Space
+              Build, we offer expertise in both areas.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Preventive Termite Control During Construction
+            </h2>
+
+            <p>
+              The most effective and cost-efficient way to protect a building from termites is to implement preventive
+              measures right from the construction stage. This includes:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Prevents costly structural damage to walls, beams, and foundations</li>
-              <li>Protects wooden furniture, doors, and window frames from destruction</li>
-              <li>Maintains the overall market value of residential and commercial properties</li>
-              <li>Reduces the risk of sudden structural failures caused by long-term damage</li>
-              <li>Avoids the need for expensive repairs or replacements later</li>
-              <li>Provides peace of mind for homeowners and property investors</li>
+              <li>
+                <strong>Pre-construction soil treatment:</strong> Applying chemical termiticides to the soil before
+                laying the foundation creates a protective barrier that prevents subterranean termites from entering the
+                structure from below.
+              </li>
+              <li>
+                <strong>Post-construction treatment:</strong> After the building is complete, a follow-up treatment is
+                often applied around the foundation&apos;s perimeter to reinforce the barrier.
+              </li>
+              <li>
+                <strong>Proper site drainage:</strong> Ensuring good drainage around the foundation reduces moisture
+                accumulation, which can attract termites and other pests.
+              </li>
+              <li>
+                <strong>Use of termite-resistant materials:</strong> Where possible, using treated wood, steel framing,
+                or concrete alternatives for structural elements can reduce vulnerability to termite damage.
+              </li>
+              <li>
+                <strong>Sealing entry points:</strong> Cracks, gaps, and joints in the foundation and walls should be
+                properly sealed to prevent termites from finding easy access points.
+              </li>
+              <li>
+                <strong>Elevated wood placement:</strong> Avoiding direct contact between wooden structures and soil
+                reduces the risk of termite access.
+              </li>
             </ul>
+
+            <p>
+              At Space Build Moradabad, our construction teams incorporate these preventive measures as a standard part
+              of our building process, ensuring that new homes and commercial properties are protected from the very
+              beginning.
+            </p>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Termite Control Services Offered by Space Build
+              Treatment for Existing Termite Infestations
             </h2>
+
+            <p>
+              If a termite infestation has already taken hold in an existing structure, several treatment options are
+              available depending on the severity and type of infestation:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Pre-Construction Termite Treatment: Soil treatment applied before construction begins to prevent future infestations</li>
-              <li>Post-Construction Termite Treatment: Chemical barriers created around existing structures to control active infestations</li>
-              <li>Wood Treatment Services: Direct application on wooden furniture, doors, and structural elements</li>
-              <li>Termite Baiting Systems: Bait stations placed strategically to eliminate termite colonies</li>
-              <li>Anti-Termite Warranty Plans: Extended protection plans for long-term peace of mind</li>
-              <li>Periodic Inspection Services: Regular monitoring to detect early signs of termite activity</li>
+              <li>
+                <strong>Liquid termiticide treatment:</strong> Chemical barriers are injected into the soil around and
+                beneath the foundation to eliminate existing termites and prevent new ones from entering.
+              </li>
+              <li>
+                <strong>Termite baiting systems:</strong> Bait stations containing slow-acting toxicants are placed
+                strategically around the property. Termites feed on the bait and carry it back to the colony, gradually
+                eliminating the entire colony over time.
+              </li>
+              <li>
+                <strong>Wood treatment:</strong> For localized infestations in furniture or wooden fixtures, direct
+                chemical treatment or injection methods can be used to eliminate termites within the wood itself.
+              </li>
+              <li>
+                <strong>Fumigation:</strong> In severe cases, especially with drywood termites spread throughout a
+                structure, fumigation may be necessary to eliminate the infestation completely.
+              </li>
+              <li>
+                <strong>Replacement of severely damaged wood:</strong> In cases where structural wood has been
+                significantly compromised, replacement combined with treatment is often necessary to restore safety and
+                stability.
+              </li>
             </ul>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Pre-Construction Termite Treatment Process
+              Why Professional Termite Control is Essential
             </h2>
+
+            <p>
+              While DIY termite treatments and home remedies are widely available, they often fall short of fully
+              addressing the problem, particularly for larger or more established colonies. Professional termite control
+              offers several key advantages:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Soil treatment applied to the foundation area before laying the base</li>
-              <li>Chemical barriers created around plumbing and utility entry points</li>
-              <li>Treatment reapplied at various stages during the construction process</li>
-              <li>Ensures a continuous protective barrier beneath and around the structure</li>
-              <li>Provides long-term protection compared to treating an already-built structure</li>
+              <li>
+                <strong>Accurate identification:</strong> Professionals can correctly identify the termite species and
+                the extent of the infestation, ensuring the right treatment approach is used.
+              </li>
+              <li>
+                <strong>Proper chemical handling:</strong> Termiticides need to be applied at the correct concentration
+                and in the correct locations to be effective and safe. Professional teams are trained in safe handling
+                and application techniques.
+              </li>
+              <li>
+                <strong>Comprehensive treatment:</strong> Professionals treat not just visible signs but the entire
+                colony, including hidden nests that may not be immediately apparent.
+              </li>
+              <li>
+                <strong>Long-term monitoring:</strong> Many professional services include follow-up inspections to
+                ensure the treatment remains effective and to catch any new activity early.
+              </li>
+              <li>
+                <strong>Warranty and guarantees:</strong> Reputable termite control providers often offer service
+                warranties, giving property owners added confidence and protection.
+              </li>
             </ul>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Post-Construction Termite Treatment Process
+              Space Build&apos;s Approach to Termite Control in Moradabad
             </h2>
+
+            <p>
+              At Space Build, termite control is an integral part of our overall commitment to quality construction and
+              long-term property protection. Our approach includes:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Initial Inspection: Identifying the extent and source of termite infestation</li>
-              <li>Drilling and Treatment: Creating small holes along affected areas for chemical application</li>
-              <li>Chemical Barrier Formation: Establishing a continuous barrier around the structure&apos;s foundation</li>
-              <li>Wood Treatment: Direct treatment of infested furniture and wooden structures</li>
-              <li>Sealing Treated Areas: Properly sealing drilled points after treatment application</li>
-              <li>Follow-Up Inspection: Verifying complete elimination of the termite colony</li>
+              <li>
+                <strong>Comprehensive Property Inspection:</strong> Our team conducts a thorough inspection of the
+                property, checking foundations, wooden structures, furniture, and moisture-prone areas to identify
+                existing termite activity or conditions that could attract future infestations.
+              </li>
+              <li>
+                <strong>Customized Treatment Plans:</strong> Based on the inspection findings, we develop a tailored
+                treatment plan that addresses the specific type of termite involved, the extent of the infestation, and
+                the structural characteristics of the property.
+              </li>
+              <li>
+                <strong>Pre- and Post-Construction Treatment for New Builds:</strong> For clients building new homes or
+                commercial properties with Space Build, we integrate termite prevention treatments directly into the
+                construction process, ensuring long-term protection from the ground up.
+              </li>
+              <li>
+                <strong>Safe and Effective Application:</strong> Our treatments are applied by trained professionals
+                using industry-approved methods and products, balancing effectiveness with safety for occupants, pets,
+                and the surrounding environment.
+              </li>
+              <li>
+                <strong>Ongoing Maintenance and Monitoring:</strong> For existing properties, we offer periodic
+                inspection and monitoring services to catch any signs of termite activity early, minimizing the risk of
+                extensive damage over time.
+              </li>
             </ul>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Termite Control Methods Used by Space Build
+              Tips for Homeowners to Reduce Termite Risk
             </h2>
+
+            <p>
+              In addition to professional treatment, property owners in Moradabad can take several proactive steps to
+              reduce the risk of termite infestations:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Chemical Soil Treatment: Creating a protective barrier using approved termiticides</li>
-              <li>Baiting Systems: Attracting termites to bait stations that eliminate entire colonies</li>
-              <li>Wood Injection Treatment: Direct injection of chemicals into infested wooden structures</li>
-              <li>Foam Treatment: Effective for hard-to-reach cracks and crevices</li>
-              <li>Physical Barriers: Installation of termite-resistant materials during construction</li>
+              <li>
+                Regularly inspect wooden furniture, door frames, and window sills for early signs of damage.
+              </li>
+              <li>
+                Fix leaking pipes, taps, and drainage issues promptly, as excess moisture attracts termites.
+              </li>
+              <li>
+                Avoid storing firewood, cardboard, or wooden materials directly against exterior walls.
+              </li>
+              <li>
+                Ensure proper ventilation in basements, crawl spaces, and storage areas to reduce humidity levels.
+              </li>
+              <li>
+                Schedule periodic professional inspections, even if no visible signs of termites are present, especially
+                in older properties.
+              </li>
+              <li>
+                Avoid using untreated wood for renovations or repairs, opting instead for termite-resistant or treated
+                materials.
+              </li>
             </ul>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Termite Control Cost Factors in Moradabad
+              Protecting Your Property with Space Build
             </h2>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Property Size: Larger properties require more treatment area and materials</li>
-              <li>Infestation Severity: Heavily infested properties may require more extensive treatment</li>
-              <li>Treatment Type: Pre-construction treatments are generally more cost-effective than post-construction solutions</li>
-              <li>Warranty Duration: Extended warranty plans may involve additional costs</li>
-              <li>Property Type: Residential and commercial properties may have different pricing structures</li>
-            </ul>
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Choosing Space Build for Termite Control
-            </h2>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Experienced technicians trained in identifying and treating various termite species</li>
-              <li>Use of approved, safe termiticides suitable for residential properties</li>
-              <li>Customized treatment plans based on property type and infestation level</li>
-              <li>Transparent pricing with detailed cost breakdowns</li>
-              <li>Long-term warranty options for continued protection</li>
-              <li>Follow-up inspections to ensure lasting results</li>
-            </ul>
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Preventive Measures to Avoid Termite Infestation
-            </h2>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Avoid direct wood-to-soil contact during construction or landscaping</li>
-              <li>Fix water leakages promptly to reduce moisture that attracts termites</li>
-              <li>Store firewood and wooden items away from the house foundation</li>
-              <li>Ensure proper drainage around the property to avoid dampness</li>
-              <li>Schedule regular termite inspections, even without visible signs</li>
-              <li>Use termite-resistant materials for new construction or renovation projects</li>
-            </ul>
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              DIY Termite Control vs Professional Treatment
-            </h2>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>DIY Methods: Often provide only temporary relief and may not address the root colony</li>
-              <li>Professional Treatment: Targets the entire termite colony using specialized techniques</li>
-              <li>Chemical Safety: Professionals use approved chemicals with proper safety measures</li>
-              <li>Long-Term Results: Professional treatments typically come with warranty-backed protection</li>
-              <li>Accurate Diagnosis: Professionals can correctly identify termite species and infestation extent</li>
-            </ul>
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How to Choose the Right Termite Control Provider
-            </h2>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Check the company&apos;s experience in handling termite-specific treatments</li>
-              <li>Ask about the type of chemicals and treatment methods used</li>
-              <li>Confirm warranty terms and coverage details before finalizing service</li>
-              <li>Review customer feedback and past project experiences</li>
-              <li>Ensure transparent pricing without hidden charges</li>
-              <li>Evaluate their availability for follow-up inspections and support</li>
-            </ul>
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. How do I know if my property has a termite infestation?</h3>
-                <p>
-                  Signs include mud tubes, hollow-sounding wood, discarded wings, and visible tunnels in wooden structures.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. What is the difference between pre and post-construction termite treatment?</h3>
-                <p>
-                  Pre-construction treatment is applied before building, while post-construction treatment addresses existing infestations.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Are the termiticides used by Space Build safe for families and pets?</h3>
-                <p>
-                  Yes, Space Build uses approved, low-toxicity chemicals safe for residential use.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. How long does termite control treatment protection typically last?</h3>
-                <p>
-                  Protection duration varies by treatment type, with warranty plans available for extended coverage.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can termite control be done on already infested furniture?</h3>
-                <p>
-                  Yes, direct wood treatment methods are available for infested furniture and structural elements.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. How often should termite inspections be conducted?</h3>
-                <p>
-                  Annual inspections are generally recommended, even without visible signs of infestation.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer warranty on termite control services?</h3>
-                <p>
-                  Yes, extended warranty plans are available for long-term termite protection.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Is termite control necessary for new construction projects?</h3>
-                <p>
-                  Yes, pre-construction termite treatment is highly recommended to prevent future infestations.
-                </p>
-              </div>
-              <p>
+
+            <p>
+              Whether you&apos;re constructing a brand-new home, renovating an existing property, or dealing with a
+              suspected termite infestation, Space Build Moradabad offers comprehensive termite control solutions
+              designed to protect your investment for the long term. Our combination of construction expertise and pest
+              control knowledge allows us to address termite issues holistically — from foundational prevention during
+              new builds to targeted treatment for existing infestations.
+            </p>
+
+            <p>
+              To schedule a termite inspection or learn more about our preventive and treatment services in Moradabad,
+              visit us at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                          <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -219,9 +377,9 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
+
         <div className="w-[400px] lg:w-[500px] p-8 order-2 lg:order-2">
           <div className="lg:sticky lg:top-28"></div>
         </div>
@@ -229,4 +387,5 @@ const Content = () => {
     </div>
   );
 };
+
 export default Content;

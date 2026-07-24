@@ -7,181 +7,113 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Main Gate in Moradabad – Space Build
+              Vastu for Main Gate in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              The main gate of a home is considered the primary entry point for energy, prosperity, and opportunities according to Vastu Shastra. It is often referred to as the &quot;mouth of the house&quot; because it governs how positive energy flows into the living space. Many homeowners in Moradabad pay special attention to the direction, design, and placement of their main gate to ensure a harmonious and prosperous home environment.
+              The main gate of a home or commercial property is much more than just an entry point — according to Vastu Shastra, it is the primary channel through which energy, prosperity, and good fortune flow into a building. In a rapidly growing city like Moradabad, where new residential colonies, commercial complexes, and industrial units are coming up every year, homeowners and builders are increasingly paying attention to Vastu principles before finalizing their construction plans. At Space Build Moradabad, we frequently receive queries from clients who want to align their property&apos;s main gate with Vastu guidelines to ensure a harmonious, prosperous, and stress-free living or working environment.
             </p>
 
             <p>
-              Space Build incorporates traditional Vastu principles into its architectural and design projects, helping homeowners create main gates that align with Vastu guidelines while maintaining strong curb appeal. This guide explains essential Vastu tips for main gate design, covering direction, size, materials, colors, and common remedies.
+              This article explores everything you need to know about Vastu for the main gate, specifically tailored for homes and buildings in Moradabad, along with practical remedies, direction-wise analysis, and design tips that our team at Space Build incorporates into every project.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Importance of Vastu for the Main Gate
+              Why Main Gate Vastu Matters
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Considered the primary source of positive energy entering the household</li>
-              <li>Believed to influence the overall prosperity and well-being of residents</li>
-              <li>Sets the first impression of the home for visitors and guests</li>
-              <li>Plays a role in maintaining balance between the interior and exterior energy flow</li>
-              <li>Considered especially important during housewarming and other significant occasions</li>
-              <li>Helps create a welcoming and auspicious entrance to the property</li>
+              <li>In Vastu Shastra, the main gate or main entrance is considered the mouth of the house — it is the point where energy (both positive and negative) enters the premises.</li>
+              <li>A well-placed and well-designed main gate is believed to invite wealth, health, happiness, and success, while a poorly positioned one can lead to financial struggles, health issues, and general discord within the household.</li>
+              <li>Moradabad, being a city known for its brass industry, expanding real estate, and mix of traditional and modern architecture, presents unique challenges when it comes to plot shapes, road directions, and building orientations.</li>
+              <li>This is exactly where professional Vastu consultation combined with structural expertise — the kind Space Build offers — becomes invaluable.</li>
+              <li>Our architects and Vastu consultants work together to ensure that the gate placement doesn&apos;t just look good but also aligns with energy principles.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for Main Gate Placement
+              Understanding the Basics of Vastu Directions
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North Direction: Considered highly auspicious, associated with wealth and prosperity</li>
-              <li>East Direction: Favorable for allowing positive morning energy into the home</li>
-              <li>Northeast Direction: Considered one of the most ideal directions for the main gate</li>
-              <li>West Direction: Acceptable, though slightly less favorable than north or east</li>
-              <li>Avoid South Direction: Generally considered less auspicious for main gate placement</li>
-              <li>Avoid Southwest Direction: Associated with negative energy and generally avoided</li>
+              <li><strong>North (Uttar):</strong> Ruled by Kubera, the god of wealth. Highly auspicious for main gates as it invites prosperity.</li>
+              <li><strong>East (Purva):</strong> Ruled by Indra, associated with growth and new beginnings. Considered excellent for entrances as it receives the morning sun.</li>
+              <li><strong>North-East (Ishan):</strong> Ruled by Lord Shiva or considered the zone of the divine. Extremely auspicious for gates, doors, and even the placement of temples within the home.</li>
+              <li><strong>West (Paschim):</strong> Ruled by Varuna. Acceptable for gates when North, East, or North-East placements aren&apos;t feasible.</li>
+              <li><strong>South (Dakshin):</strong> Ruled by Yama, the god of death. Generally avoided for main gates unless specific remedies are applied.</li>
+              <li><strong>South-West (Nairutya):</strong> Ruled by Nirriti, associated with negative energy. Considered the most inauspicious direction for a main entrance.</li>
+              <li><strong>North-West (Vayavya):</strong> Ruled by Vayu, the wind god. Suitable for gates related to movement, travel, and business activities.</li>
+              <li><strong>South-East (Agneya):</strong> Ruled by Agni, the fire god. Can be used for gates in specific circumstances but requires careful balancing with other elements.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Main Gate Size and Proportion
+              Best Directions for Main Gates in Moradabad Homes
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>The main gate should be larger than other doors within the house</li>
-              <li>Maintain proportionate width and height in line with the overall entrance design</li>
-              <li>Avoid main gates that are too small compared to the size of the house</li>
-              <li>Ensure the gate opens smoothly without obstruction or excessive noise</li>
-              <li>Avoid uneven or irregularly shaped gate designs</li>
-              <li>Maintain symmetry in the design of double-door gates, if applicable</li>
+              <li><strong>North-Facing Main Gate:</strong> Considered one of the most favorable choices. It is believed to attract wealth and financial stability, making it a preferred choice for business owners and traders. If your plot allows for a north-facing gate, especially in the northern third of the wall (closer to the north-east corner), it is considered highly auspicious.</li>
+              <li><strong>East-Facing Main Gate:</strong> Equally popular and believed to bring positivity, good health, and mental peace to the household. Since the east direction receives the first rays of the sun, it is symbolically associated with new beginnings, clarity, and enlightenment.</li>
+              <li><strong>North-East Facing Main Gate:</strong> Known as the Ishan corner, this is considered the most sacred zone of any plot. A gate placed here is thought to invite divine blessings, spiritual growth, and overall well-being. However, care must be taken that the north-east zone is kept light, open, and clutter-free, as heavy structures in this direction can disturb the energy balance.</li>
+              <li><strong>North-West Facing Main Gate:</strong> This direction is favorable for those involved in trade, travel, or businesses that require frequent movement of goods and people. Given Moradabad&apos;s strong presence in the export and handicraft industry, several commercial establishments have chosen north-west facing entrances for their warehouses and showrooms.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Main Gate Materials
+              Directions to Avoid for Main Gates
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Wood: Considered one of the most auspicious materials for main gates</li>
-              <li>Iron or Metal: Acceptable, especially for security purposes, though wood is generally preferred</li>
-              <li>Avoid Damaged or Cracked Materials: Gates should be well-maintained and free from visible damage</li>
-              <li>Avoid Mixed Metal Designs: Combining multiple metals is generally not recommended</li>
-              <li>Sturdy Construction: The gate should be strong and stable, symbolizing security and stability</li>
+              <li><strong>South-West Facing Gate:</strong> This is considered the most inauspicious direction. It is associated with negative energy, financial instability, and health problems. If your plot&apos;s orientation forces a south-west gate, specific remedies such as adjusted door placement, color schemes, and symbolic elements can help neutralize the negative effects.</li>
+              <li><strong>South-Facing Gate:</strong> While not as severe as south-west, south-facing gates require careful planning. Certain sub-directions within the south (like south-south-east) are considered less harmful than others.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Main Gate Colors
+              Vastu Tips for Main Gate Design and Placement
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Brown and Wooden Tones: Commonly recommended for a warm and welcoming appearance</li>
-              <li>White: Symbolizes purity and is considered auspicious for main gates</li>
-              <li>Light Yellow: Associated with positivity and warmth</li>
-              <li>Green: Considered favorable, especially for gates facing the east direction</li>
-              <li>Avoid Black: Generally considered inauspicious for main gate color</li>
-              <li>Avoid Overly Bright or Clashing Colors: May disrupt the harmonious appearance of the entrance</li>
+              <li><strong>Size and Proportion:</strong> The main gate should be proportionate to the size of the house or building. An oversized gate on a small property, or vice versa, is believed to create energy imbalance. Vastu recommends that the main door be the largest door in the house, symbolizing it as the primary source of energy flow.</li>
+              <li><strong>Number of Doors and Shutters:</strong> Traditionally, Vastu recommends gates with an even number of shutters (two or four) rather than a single or three-shutter design, as even numbers are considered more balanced and auspicious.</li>
+              <li><strong>Direction of Opening:</strong> The main gate should ideally open inward and clockwise. This is believed to invite positive energy inside rather than pushing it away. A door that opens outward or in an anti-clockwise direction is generally discouraged.</li>
+              <li><strong>Threshold and Doorstep:</strong> A raised threshold at the entrance is considered auspicious as it is believed to prevent negative energy from entering while retaining positive energy inside. This is a small but significant design element that architects always factor into gate construction.</li>
+              <li><strong>Material Selection:</strong> Vastu recommends using natural, sturdy materials like wood or metal for main gates, avoiding materials that produce excessive noise (like squeaky hinges) since sound disturbances at the entrance are believed to disrupt harmony.</li>
+              <li><strong>Color of the Main Gate:</strong> Colors play an important role in Vastu. For north and east-facing gates, colors like blue, green, or white are recommended. For south-facing gates, red, orange, or maroon shades are considered more balancing.</li>
+              <li><strong>Lighting at the Entrance:</strong> Adequate lighting near the main gate is essential, both for practical safety reasons and Vastu principles. Well-lit entrances are believed to attract positive energy and ward off negativity. Consider installing warm, bright lights on either side of the gate.</li>
+              <li><strong>Avoiding Obstructions:</strong> The pathway leading to the main gate should be clear and free from obstructions like trees, electric poles, or debris directly in front of it. A tree directly blocking the main gate is considered particularly inauspicious as it obstructs the flow of energy.</li>
+              <li><strong>Nameplate and Symbols:</strong> Placing an auspicious symbol like Swastik, Om, or a small idol of Lord Ganesha near the main gate is a common practice believed to invite good fortune and remove obstacles. A well-designed nameplate also adds to the positive first impression of the property.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Main Gate Design Elements
+              Vastu Considerations for Commercial and Industrial Gates in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Install nameplates in an auspicious position near the main gate</li>
-              <li>Use traditional symbols like Om or Swastik at the entrance, if desired</li>
-              <li>Ensure adequate lighting near the main gate for visibility and positive energy</li>
-              <li>Avoid placing dustbins or waste near the main entrance</li>
-              <li>Maintain a clean and clutter-free approach path to the main gate</li>
-              <li>Consider a small threshold or step at the entrance, as recommended in traditional designs</li>
+              <li>Given Moradabad&apos;s status as a major hub for brass handicrafts, metalware exports, and growing commercial activity, many clients are business owners looking to apply Vastu principles to factories, showrooms, and office spaces.</li>
+              <li><strong>North and East-facing gates:</strong> Highly recommended for showrooms and retail outlets to attract customers and boost sales.</li>
+              <li><strong>North-West facing gates:</strong> Work well for warehouses and manufacturing units involved in the transport and export of goods.</li>
+              <li>The cash counter or billing area should ideally be placed in the north or north-east zone of the establishment, visible from the main entrance.</li>
+              <li>Avoid placing staircases or heavy machinery directly opposite or too close to the main entrance gate, as this can obstruct the smooth flow of energy and customers alike.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Main Gate Landscaping
+              Remedies for Vastu-Non-Compliant Main Gates
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Plant auspicious plants like tulsi or money plant near the entrance</li>
-              <li>Avoid large trees directly blocking the main gate</li>
-              <li>Maintain a clean and well-maintained pathway leading to the gate</li>
-              <li>Use potted plants symmetrically on either side of the gate, if space allows</li>
-              <li>Avoid thorny plants directly at the entrance area</li>
-              <li>Ensure proper drainage to avoid water accumulation near the gate</li>
+              <li><strong>Vastu Pyramids and Yantras:</strong> Placing specific Vastu pyramids or copper yantras near the entrance can help balance energy flow.</li>
+              <li><strong>Mirrors:</strong> Strategic placement of mirrors can help redirect energy in cases where the gate direction isn&apos;t ideal.</li>
+              <li><strong>Plants:</strong> Auspicious plants like Tulsi (holy basil) near the entrance are believed to purify the surrounding energy.</li>
+              <li><strong>Color Correction:</strong> Repainting the gate in colors associated with the ruling element of a more favorable direction can help balance energies.</li>
+              <li><strong>Threshold Adjustment:</strong> Adding a slightly raised threshold can help mitigate some negative effects of a less-than-ideal gate direction.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Mistakes to Avoid at the Main Gate
+              Why Choose Space Build for Vastu-Compliant Construction in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Positioning the main gate directly facing a T-junction or dead end</li>
-              <li>Allowing the gate to open inward with excessive force or noise</li>
-              <li>Placing the main gate in the southwest direction of the property</li>
-              <li>Ignoring proper maintenance, leading to a damaged or rusted gate</li>
-              <li>Overcrowding the entrance area with unnecessary clutter or decor</li>
-              <li>Positioning the main gate directly opposite a neighbor&apos;s main gate</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Main Gates with Design Limitations
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use auspicious symbols or nameplates to enhance positive energy</li>
-              <li>Incorporate plants like tulsi near a non-ideal directional gate</li>
-              <li>Use appropriate lighting to counterbalance less favorable placements</li>
-              <li>Maintain the gate in excellent condition to minimize negative effects</li>
-              <li>Consult a Vastu expert for personalized remedies based on the specific layout</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Main Gate Design Ideas for Modern Homes
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Wooden Panel Gates: Combining traditional material with contemporary design patterns</li>
-              <li>Metal and Glass Combinations: A modern aesthetic while maintaining structural strength</li>
-              <li>Decorative Grille Designs: Adding visual interest while ensuring security</li>
-              <li>Illuminated Nameplate Areas: Enhancing visibility and curb appeal during evening hours</li>
-              <li>Symmetrical Double-Door Gates: Creating a grand and balanced entrance appearance</li>
-              <li>Minimalist Gate Designs: Clean, simple styles suited for contemporary architecture</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Incorporates Vastu in Main Gate Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious planning during the initial architectural design phase</li>
-              <li>Guidance on ideal direction and placement based on plot layout</li>
-              <li>Recommendations on materials, colors, and design elements</li>
-              <li>Customized solutions for properties with layout constraints</li>
-              <li>Integration of modern security features within Vastu guidelines</li>
-              <li>Collaboration with Vastu consultants for specialized project requirements</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of a Vastu-Compliant Main Gate
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Enhanced sense of positive energy entering the household</li>
-              <li>Improved first impression for visitors and guests</li>
-              <li>Better alignment between traditional beliefs and modern architecture</li>
-              <li>A secure and well-maintained entrance to the property</li>
-              <li>A visually appealing gate that complements the overall home design</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Tips for Homeowners Planning a Vastu-Friendly Main Gate
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plan the main gate direction during the initial architectural design stage</li>
-              <li>Prioritize north, east, or northeast placement wherever feasible</li>
-              <li>Choose durable materials and auspicious colors for the gate</li>
-              <li>Maintain a clean and clutter-free entrance area</li>
-              <li>Consult with design experts who understand both aesthetics and Vastu principles</li>
-              <li>Consider practical remedies if the ideal direction is not achievable for your plot</li>
+              <li>At Space Build, we understand that every plot in Moradabad has its own unique orientation, shape, and surrounding environment.</li>
+              <li>Our team combines traditional Vastu wisdom with modern architectural and structural engineering practices to design main gates — and entire properties — that are both energetically balanced and visually striking.</li>
+              <li>Whether you&apos;re building a new home in Moradabad, renovating an existing property, or planning a commercial establishment, our experts work closely with you to assess your plot&apos;s specific Vastu requirements and translate them into a functional, beautiful design.</li>
+              <li>We also assist clients who are constrained by existing plot layouts, offering practical remedies that align with Vastu principles without requiring major structural changes.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -190,98 +122,90 @@ const Content = () => {
 
             <div className="space-y-6 mt-6">
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  1. Which direction is best for a main gate as per Vastu?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">1. Which direction is best for a main gate in Moradabad homes?</h3>
                 <p>
-                  North, east, and northeast are generally considered the most auspicious directions for a main gate.
+                  North, East, and North-East directions are considered the most auspicious for main gates, with North-East (Ishan corner) being the most sacred zone.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  2. What material is recommended for main gates according to Vastu?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">2. Should the main gate open inward or outward?</h3>
                 <p>
-                  Wood is generally considered the most auspicious material for main gates.
+                  The main gate should ideally open inward and clockwise, as this is believed to invite positive energy inside rather than pushing it away.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  3. What colors are recommended for main gates as per Vastu?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">3. What colors are recommended for main gates?</h3>
                 <p>
-                  Brown, white, light yellow, and green are commonly recommended main gate colors.
+                  For north and east-facing gates, colors like blue, green, or white are recommended. For south-facing gates, red, orange, or maroon shades are considered more balancing.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  4. Can the main gate face a T-junction?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">4. Is a south-west facing main gate acceptable?</h3>
                 <p>
-                  No, a main gate facing a T-junction is generally considered inauspicious as per Vastu.
+                  This is generally considered the most inauspicious direction. However, remedies such as adjusted door placement, color schemes, and symbolic elements can help neutralize negative effects.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  5. What if my main gate is not in an ideal Vastu direction?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">5. How important is lighting at the main gate?</h3>
                 <p>
-                  Remedies like auspicious symbols, plants, and proper lighting can help balance the energy.
+                  Adequate lighting is essential for both safety and Vastu principles. Well-lit entrances are believed to attract positive energy and ward off negativity.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  6. Should the main gate be larger than other doors in the house?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">6. Can Vastu remedies fix a non-compliant main gate?</h3>
                 <p>
-                  Yes, the main gate should ideally be larger and more prominent than other doors.
+                  Yes, remedies like Vastu pyramids, mirrors, auspicious plants, color correction, and threshold adjustments can help balance energy flow in non-ideal gate placements.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  7. Does Space Build offer Vastu consultation for main gate design?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu consultation for main gates?</h3>
                 <p>
-                  Yes, Space Build incorporates Vastu principles into its architectural design process.
+                  Yes, Space Build combines traditional Vastu wisdom with modern architectural practices to design Vastu-compliant main gates and entire properties across Moradabad.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  8. Why is the southwest direction avoided for main gates?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">8. How can I contact Space Build for a consultation?</h3>
                 <p>
-                  The southwest direction is generally associated with negative energy and is avoided as per Vastu.
+                  You can reach out to Space Build through our website or contact us directly to discuss your Vastu requirements for your property.
                 </p>
               </div>
 
-              <p>
+              <p className="mt-6">
+                📞 <strong>WhatsApp / Call:</strong>{" "}
+                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                  +91 9927611780
+                </a>
+                <br />
+                📧 <strong>Email:</strong>{" "}
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
+                </a>
+                <br />
+                🌐 <strong>Website:</strong>{" "}
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                  www.spacebuild.co.in
+                </a>
+              </p>
+                                        <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
                 </a>
                 <br />
                 📧 <strong>Email:</strong>{" "}
-                <a
-                  href="mailto:spacebuild.india@gmail.com"
-                  className="text-blue-600 hover:underline"
-                >
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
                   spacebuild.india@gmail.com
                 </a>
                 <br />
                 🌐 <strong>Website:</strong>{" "}
-                <a
-                  href="https://www.spacebuild.co.in/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline"
-                >
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                   www.spacebuild.co.in
                 </a>
               </p>

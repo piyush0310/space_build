@@ -7,15 +7,15 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Negative Energy Removal – Space Build
+              Vastu for Negative Energy Removal: A Complete Guide by Space Build, Moradabad
             </h2>
 
             <p>
-              Every home carries its own unique energy, shaped by its layout, direction, cleanliness, and the daily activities of its residents. According to Vastu Shastra, certain structural imbalances, clutter, or unfavorable placements can lead to the accumulation of negative energy within a living space, which is believed to affect mood, relationships, health, and overall prosperity. Many homeowners in Moradabad turn to traditional Vastu practices to identify and remove negative energy, creating a more positive and harmonious living environment.
+              Every home and workplace carries an energy of its own. Some spaces feel warm, welcoming, and peaceful the moment you step inside, while others feel heavy, restless, or draining without any obvious reason. According to the ancient science of Vastu Shastra, this difference in &quot;feel&quot; is not imagination — it is the result of how energy, or prana, flows through a structure. When this flow is blocked, reversed, or disturbed, it gives rise to what is commonly called negative energy. At Space Build, Moradabad, we work with homeowners, builders, and businesses every day to identify these disturbances and correct them using time-tested Vastu principles combined with practical modern construction knowledge.
             </p>
 
             <p>
-              Space Build shares practical Vastu insights and remedies believed to help homeowners reduce negative energy and restore balance within their homes. This guide explains common causes of negative energy, signs to watch for, and traditional remedies that can be incorporated into everyday living.
+              This guide explains what negative energy means in the context of Vastu, how to recognize its signs, the common causes behind it, and the remedies that can help restore balance, positivity, and prosperity to your space.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -23,38 +23,41 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Considered a traditional belief system focused on energy balance within living spaces</li>
-              <li>Believed to be influenced by directional alignment, cleanliness, and clutter</li>
-              <li>Associated with mood, relationships, and overall household harmony</li>
-              <li>Viewed as a practice that complements a well-organized and mindful lifestyle</li>
-              <li>Not a substitute for addressing practical or emotional concerns through appropriate means</li>
-              <li>Encourages homeowners to create a clean, organized, and harmonious living space</li>
+              <li>Vastu Shastra is based on the idea that every structure interacts with five natural elements — earth, water, fire, air, and space (akasha) — along with the directional pull of the sun, magnetic fields, and cosmic energy.</li>
+              <li>When a building is designed in harmony with these forces, positive energy circulates freely, supporting the health, wealth, relationships, and peace of mind of the people living or working there.</li>
+              <li>Negative energy, in Vastu terms, refers to any disruption in this natural flow. It is not necessarily a mystical or supernatural force; rather, it is often the cumulative effect of poor orientation, incorrect placement of rooms, structural defects, clutter, and even the history or usage pattern of a space.</li>
+              <li>Over time, this imbalance can manifest as stress, financial instability, poor sleep, recurring arguments, ill health, or a general sense of stagnation.</li>
+              <li>Vastu treats a building almost like a living organism. Just as blocked energy channels in the body are believed to cause discomfort, blocked energy pathways in a structure are believed to cause disturbances in the lives of its occupants.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Causes of Negative Energy in Homes
+              Common Signs of Negative Energy in a Home or Office
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Clutter and Disorganization: Excessive clutter is believed to trap stagnant energy</li>
-              <li>Poor Ventilation: Lack of fresh air circulation is associated with heavy, negative energy</li>
-              <li>Broken or Damaged Items: Cracked mirrors, broken furniture, or non-functional clocks are considered unfavorable</li>
-              <li>Incorrect Directional Placement: Rooms or fixtures placed in unfavorable directions may disrupt energy flow</li>
-              <li>Lack of Natural Light: Dark, poorly lit spaces are believed to accumulate negative energy</li>
-              <li>Unresolved Household Conflicts: Ongoing tension is believed to contribute to a heavier home atmosphere</li>
+              <li>Frequent, unexplained arguments or tension among family members or colleagues</li>
+              <li>Persistent financial difficulties despite reasonable income or effort</li>
+              <li>Restlessness, insomnia, or disturbed sleep patterns</li>
+              <li>A heavy, stale, or oppressive feeling in certain rooms</li>
+              <li>Frequent illnesses or lingering fatigue without clear medical cause</li>
+              <li>Doors, windows, or drawers that stick or make unusual noises</li>
+              <li>Plants that fail to thrive despite proper care</li>
+              <li>A general sense of stagnation in career, business, or personal growth</li>
+              <li>Rooms that always feel colder, darker, or more uncomfortable than the rest of the house</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs That May Indicate Negative Energy at Home
+              Common Causes of Negative Energy According to Vastu
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>A persistent feeling of heaviness or discomfort in certain rooms</li>
-              <li>Frequent arguments or misunderstandings among family members</li>
-              <li>Difficulty sleeping or restlessness, particularly in the bedroom</li>
-              <li>A general sense of stagnation in personal or professional life</li>
-              <li>Plants that repeatedly fail to thrive despite proper care</li>
-              <li>A recurring feeling of unease upon entering specific areas of the home</li>
+              <li><strong>Incorrect Plot and Building Orientation:</strong> The direction a plot faces, and how the building is positioned on it, plays a foundational role in Vastu. Irregularly shaped plots, missing corners, or extensions in inauspicious directions can disturb the natural energy balance of the entire structure.</li>
+              <li><strong>Wrong Placement of Rooms:</strong> Each room in a home or office has an ideal direction according to Vastu. For instance, the kitchen is traditionally recommended in the southeast, the master bedroom in the southwest, and the pooja or prayer room in the northeast. When rooms are placed contrary to these principles, it is believed to create persistent energy imbalances.</li>
+              <li><strong>Structural Defects and Clutter:</strong> Broken furniture, leaking taps, cracked walls, and accumulated clutter are not just aesthetic issues. In Vastu, they are seen as physical representations of blocked or stagnant energy. A cluttered home restricts the free movement of air and light, which in turn is believed to trap negative energy.</li>
+              <li><strong>Poor Ventilation and Natural Light:</strong> Spaces that lack adequate sunlight and cross-ventilation tend to feel heavier and more stagnant. Vastu places strong emphasis on allowing natural light and air to circulate freely, particularly from the north and east directions.</li>
+              <li><strong>Past Usage and History of the Property:</strong> Properties that have witnessed prolonged illness, financial loss, disputes, or emotional distress are sometimes believed to retain a residual negative imprint, even after the original occupants have moved on.</li>
+              <li><strong>Water and Drainage Issues:</strong> Water is a powerful element in Vastu. Stagnant water, poorly placed underground water tanks, or drainage systems that don&apos;t follow Vastu-recommended directions can significantly affect the energy of a property.</li>
+              <li><strong>Mirrors and Sharp Structural Elements:</strong> Incorrectly placed mirrors, especially those facing the bed, and sharp architectural elements like exposed beams or pillars pointing directly at seating or sleeping areas are considered sources of disruptive energy in Vastu.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -62,111 +65,30 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Regular Decluttering: Removing unused or broken items to allow energy to flow freely</li>
-              <li>Salt Water Cleansing: Placing a bowl of sea salt in corners to absorb negative energy, as per traditional belief</li>
-              <li>Burning Incense or Camphor: Used traditionally to purify the air and space</li>
-              <li>Opening Windows Regularly: Allowing fresh air and natural light to circulate throughout the home</li>
-              <li>Repairing Broken Items: Fixing or replacing damaged furniture, mirrors, and fixtures</li>
-              <li>Rearranging Furniture: Ensuring furniture placement supports smooth energy flow</li>
+              <li><strong>Decluttering and Cleaning:</strong> This is the simplest yet most effective first step. Removing broken items, unused furniture, and accumulated junk allows energy to flow more freely. Regular cleaning, especially of corners and under furniture where dust and stagnant air tend to gather, is strongly recommended.</li>
+              <li><strong>Salt Water Remedy:</strong> Placing a bowl of rock salt (sea salt) mixed with water in the corners of a room is a widely used Vastu remedy. Salt is believed to absorb negative energy from the surroundings. The water should be changed regularly, ideally every few days, and disposed of outside the home rather than down household drains.</li>
+              <li><strong>Sea Salt in Cleaning Water:</strong> Adding a small amount of rock salt to the water used for mopping floors is another common practice believed to help neutralize negative vibrations accumulated on surfaces.</li>
+              <li><strong>Proper Placement of Mirrors:</strong> Mirrors should never directly face the main bed, the main entrance door, or the kitchen stove. Correctly placed mirrors, particularly on the north or east walls of a living space, are believed to amplify positive energy rather than disrupt it.</li>
+              <li><strong>Using Natural Light and Ventilation:</strong> Wherever structurally possible, increasing the number of windows or skylights, especially on the north and east sides, helps sunlight and fresh air enter the home. This is one of the most effective long-term remedies for reducing stagnant, heavy energy.</li>
+              <li><strong>Indoor Plants:</strong> Certain plants, such as Tulsi (holy basil), money plant, bamboo, and areca palm, are considered powerful purifiers of both air and energy in Vastu. They are typically placed near entrances, balconies, or windows rather than directly inside bedrooms.</li>
+              <li><strong>Wind Chimes:</strong> Metal wind chimes, particularly hollow ones, are often hung near entrances or in the northwest direction to disperse stagnant energy and encourage a more dynamic, positive flow through the space.</li>
+              <li><strong>Salt Lamps and Himalayan Rock Salt Lamps:</strong> These are increasingly popular for their soft, warm light and their believed ability to purify the surrounding energy field, especially in living rooms and bedrooms.</li>
+              <li><strong>Yantras and Symbolic Remedies:</strong> Vastu Yantras, particularly the Vastu Dosh Nivaran Yantra, are sometimes installed at the main entrance or in the northeast zone of a property to correct underlying energy defects that cannot be fixed structurally.</li>
+              <li><strong>Correcting the Northeast Zone:</strong> The northeast corner of any property is considered the most sacred and energy-sensitive zone in Vastu. It should ideally be kept light, open, clean, and free of heavy furniture, storage, or toilets. If this zone is currently misused, even a partial correction can have a noticeable impact.</li>
+              <li><strong>Sound and Aromatic Remedies:</strong> Playing soft devotional music, ringing bells during the morning and evening, and burning natural incense like camphor or sandalwood are traditional practices believed to cleanse the energetic environment of a home.</li>
+              <li><strong>Structural Corrections:</strong> In cases where the imbalance stems from serious structural issues — such as a missing northeast corner, a toilet placed in the wrong direction, or a staircase built in an inauspicious zone — more involved remedies may be necessary. These can range from minor modifications to complete redesigns, depending on the severity of the dosha (defect).</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Role of Plants in Removing Negative Energy
+              How Space Build Approaches Vastu-Based Construction and Correction
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Tulsi (Holy Basil): Considered highly effective for purifying home energy</li>
-              <li>Money Plant: Believed to attract positive energy and prosperity</li>
-              <li>Areca Palm: Known for improving air quality and freshness</li>
-              <li>Snake Plant: Believed to absorb negative energy, especially when placed near entrances</li>
-              <li>Avoid Dried or Wilted Plants: These are believed to contribute to stagnant energy</li>
-              <li>Avoid Thorny Plants Indoors: Cacti and similar plants are generally avoided inside living spaces</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Cleansing the Main Entrance
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the entrance area clean, well-lit, and free from clutter</li>
-              <li>Avoid placing shoes or waste bins directly near the main door</li>
-              <li>Use fresh flowers or rangoli patterns to enhance positive energy at the entrance</li>
-              <li>Ensure the main door opens smoothly without creaking or obstruction</li>
-              <li>Regularly clean and maintain the doormat and surrounding area</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Practices for Cleansing the Bedroom
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Declutter the bedroom regularly, especially under the bed and in storage areas</li>
-              <li>Avoid keeping broken items or unused electronics in the bedroom</li>
-              <li>Use calming colors and soft lighting to support restful energy</li>
-              <li>Keep windows open periodically to allow fresh air circulation</li>
-              <li>Avoid placing mirrors directly facing the bed</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Practices for Cleansing the Kitchen
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the kitchen clean and free from unnecessary clutter</li>
-              <li>Regularly dispose of expired or unused food items</li>
-              <li>Ensure proper ventilation to avoid stagnant cooking odors</li>
-              <li>Repair leaking taps promptly, as they are believed to represent energy loss</li>
-              <li>Maintain organized storage for utensils and cooking essentials</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Traditional Practices for Overall Home Cleansing
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Regular use of incense or dhoop during specific times of the day</li>
-              <li>Playing soft, calming music to enhance the home&apos;s atmosphere</li>
-              <li>Keeping doors and windows open periodically for fresh air circulation</li>
-              <li>Performing regular deep cleaning beyond routine daily cleaning</li>
-              <li>Decluttering storage spaces like attics, basements, and garages periodically</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips to Prevent Accumulation of Negative Energy
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain a regular cleaning and decluttering schedule</li>
-              <li>Address minor repairs and maintenance issues promptly</li>
-              <li>Encourage open communication among family members to reduce household tension</li>
-              <li>Ensure adequate natural light and ventilation throughout the home</li>
-              <li>Avoid accumulating unnecessary or unused items over time</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Supports Vastu-Conscious Home Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious layout planning during the initial design phase</li>
-              <li>Guidance on directional placement for key rooms and fixtures</li>
-              <li>Recommendations on colors, materials, and décor elements</li>
-              <li>Customized solutions for properties with existing layout constraints</li>
-              <li>Collaboration with Vastu consultants for specialized project requirements</li>
-              <li>Integration of Vastu principles alongside modern, functional design</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Practical Tips for Homeowners Seeking a More Positive Home
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Begin with a thorough decluttering of all rooms, especially storage areas</li>
-              <li>Repair or replace broken items throughout the home</li>
-              <li>Introduce calming colors and natural elements like plants</li>
-              <li>Maintain cleanliness and organization at the main entrance</li>
-              <li>Ensure adequate natural light and ventilation in every room</li>
-              <li>Consult a Vastu expert for a detailed assessment if defects are suspected</li>
+              <li>At Space Build, Moradabad, we believe Vastu should not be treated as an afterthought bolted onto a finished structure, but as an integral part of the planning process from the very beginning.</li>
+              <li>Our approach typically includes a detailed site visit and energy assessment of the existing structure or plot, direction-wise mapping of rooms, entrances, and utilities against Vastu principles, and identification of specific doshas (defects) contributing to negative energy.</li>
+              <li>We provide a prioritized remedy plan — starting with low-cost, non-structural fixes and moving to structural recommendations only where necessary.</li>
+              <li>We integrate Vastu guidelines into new construction, renovation, and interior design projects, offering practical, buildable solutions that respect both traditional Vastu wisdom and modern architectural and engineering requirements.</li>
+              <li>Whether you are planning to build a new home, renovate an existing property, or simply want to understand why a particular space feels persistently uncomfortable, a professional Vastu consultation can offer valuable clarity.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -175,62 +97,78 @@ const Content = () => {
 
             <div className="space-y-6 mt-6">
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. What are common signs of negative energy in a home?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">1. What are the common signs of negative energy in a home?</h3>
                 <p>
-                  Persistent discomfort, frequent arguments, restlessness, and struggling plants are commonly associated signs.
+                  Common signs include frequent unexplained arguments, persistent financial difficulties, restlessness or insomnia, a heavy feeling in certain rooms, frequent illnesses, plants that fail to thrive, and a general sense of stagnation in career or personal growth.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Which plants are believed to help remove negative energy?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">2. What is the simplest remedy for negative energy?</h3>
                 <p>
-                  Tulsi, money plant, areca palm, and snake plant are commonly recommended for this purpose.
+                  Decluttering and deep cleaning is the simplest yet most effective first step. Removing broken items, unused furniture, and accumulated junk allows energy to flow more freely throughout the space.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Does clutter contribute to negative energy according to Vastu?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">3. How does the salt water remedy work?</h3>
                 <p>
-                  Yes, clutter is traditionally believed to trap stagnant, negative energy within a home.
+                  Placing a bowl of rock salt mixed with water in the corners of a room is believed to absorb negative energy. The water should be changed regularly every few days and disposed of outside the home.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. How can the main entrance be cleansed of negative energy?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">4. Which direction is best for natural light and ventilation?</h3>
                 <p>
-                  Keeping it clean, well-lit, and free from clutter, along with fresh flowers, is commonly recommended.
+                  The north and east directions are associated with positive, rejuvenating energy in Vastu. Increasing windows or skylights on these sides helps sunlight and fresh air enter the home effectively.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Are broken items considered a source of negative energy?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">5. Which zone is most important to keep clean and open?</h3>
                 <p>
-                  Yes, broken mirrors, furniture, and non-functional items are traditionally associated with negative energy.
+                  The northeast corner of any property is considered the most sacred and energy-sensitive zone in Vastu. It should ideally be kept light, open, clean, and free of heavy furniture, storage, or toilets.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Can burning incense help with negative energy removal?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">6. Can indoor plants help remove negative energy?</h3>
                 <p>
-                  Yes, burning incense or camphor is a traditional practice believed to purify home energy.
+                  Yes, certain plants like Tulsi (holy basil), money plant, bamboo, and areca palm are considered powerful purifiers of both air and energy in Vastu. They are typically placed near entrances, balconies, or windows.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu consultation for home cleansing practices?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">7. What are Vastu Yantras and how do they help?</h3>
                 <p>
-                  Yes, Space Build incorporates Vastu principles into its design process to support positive energy flow.
+                  Vastu Yantras, particularly the Vastu Dosh Nivaran Yantra, are sometimes installed at the main entrance or in the northeast zone to correct underlying energy defects that cannot be fixed structurally.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. How often should decluttering be done to maintain positive energy?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">8. How can I contact Space Build for a consultation?</h3>
                 <p>
-                  Regular, periodic decluttering is recommended, ideally as part of a routine home maintenance schedule.
+                  You can reach out to Space Build through our website or contact us directly to discuss your Vastu requirements for your property.
                 </p>
               </div>
 
-              <p>
+              <p className="mt-6">
+                📞 <strong>WhatsApp / Call:</strong>{" "}
+                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                  +91 9927611780
+                </a>
+                <br />
+                📧 <strong>Email:</strong>{" "}
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
+                </a>
+                <br />
+                🌐 <strong>Website:</strong>{" "}
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                  www.spacebuild.co.in
+                </a>
+              </p>
+                                        <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780

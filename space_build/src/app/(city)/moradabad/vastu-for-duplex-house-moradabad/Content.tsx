@@ -7,239 +7,229 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Duplex House in Moradabad – Space Build
+              Vastu for Duplex House in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              Duplex houses have become increasingly popular in Moradabad due to their efficient use of vertical space, modern design appeal, and ability to accommodate joint or growing families across two floors. Given the multi-level structure of a duplex home, applying Vastu Shastra principles requires careful planning across both floors, particularly regarding room placement, staircase design, and the connection between the two levels. Many homeowners now consider Vastu guidelines from the initial design stage to ensure balanced energy throughout their duplex home.
+              Duplex homes have become an increasingly popular choice among families in Moradabad who want the space
+              and privacy of an independent house without the land requirements of a larger bungalow. A duplex, with its
+              two-level design, offers natural separation between shared family areas and private zones, along with the
+              flexibility to design distinct spaces for different generations of a family. But this same two-story
+              structure also introduces additional layers of complexity from a Vastu perspective — since energy flow,
+              room placement, and directional balance now need to be considered not just across a single floor, but
+              vertically, between the ground and upper levels as well.
             </p>
 
             <p>
-              Space Build integrates traditional Vastu principles into its architectural and interior design projects, helping homeowners create duplex homes that are both structurally sound and energetically balanced. This guide explains essential Vastu tips for duplex house design, covering floor planning, staircase placement, and room distribution across levels.
+              At Space Build, Moradabad, duplex construction and renovation form a significant part of our work, and
+              Vastu planning is something we integrate from the earliest design stages rather than treating it as an
+              afterthought. This guide covers the key Vastu principles specific to duplex homes, common design mistakes
+              to avoid, and remedies for duplex structures that don&apos;t perfectly align with traditional guidelines.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding Vastu Considerations Unique to Duplex Homes
+              What Makes Duplex Vastu Different
+            </h2>
+
+            <p>
+              In a single-story home, Vastu correction largely revolves around the horizontal placement of rooms across
+              one floor. In a duplex, the same principles apply, but with an added vertical dimension — the relationship
+              between what sits directly above and below each zone becomes just as important as its horizontal position.
+              A kitchen placed correctly on the ground floor but sitting directly beneath a bathroom on the upper floor,
+              for instance, is considered a Vastu concern that wouldn&apos;t exist in a single-story layout.
+            </p>
+
+            <p>
+              This added complexity means duplex Vastu planning benefits significantly from being incorporated at the
+              architectural design stage, when room placement across both floors can be planned holistically, rather
+              than being corrected after construction is already complete.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Ideal Vastu Layout for a Duplex Home
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Involves coordinating room placement across both ground and upper floors</li>
-              <li>Requires careful staircase design to connect levels without disrupting energy flow</li>
-              <li>Considers the distribution of family members across different floors</li>
-              <li>Involves balancing structural weight and design between levels</li>
-              <li>Requires attention to how energy flows vertically through the home</li>
-              <li>Considered especially important during the initial architectural planning stage</li>
+              <li>
+                <strong>1. Ground Floor Layout:</strong> The ground floor of a duplex typically houses the more active,
+                frequently used spaces of the home. According to Vastu: the living room and guest reception area are
+                ideally placed in the north or east zone of the ground floor, welcoming visitors into a bright, positive
+                space; the kitchen works best in the southeast corner, aligned with the fire element; a staircase
+                leading to the upper floor is traditionally recommended in the south, west, or southwest zone, and
+                should ideally not begin directly in the center of the home (the Brahmasthan) or directly facing the
+                main entrance; the northeast zone of the ground floor should be kept as open and light as possible —
+                ideally used for a small prayer area, seating space, or simply left uncluttered, and never used for a
+                toilet, staircase, or heavy storage.
+              </li>
+              <li>
+                <strong>2. First Floor / Upper Level Layout:</strong> The upper floor of a duplex is generally
+                associated with rest, privacy, and personal space: the master bedroom is ideally located in the
+                southwest zone of the upper floor, mirroring its ideal ground-floor placement and reinforcing stability
+                for the head of the household; children&apos;s bedrooms work well in the west or north zones; a second
+                living or family area, if included, is well-suited to the north or east zone of the upper floor;
+                bathrooms on the upper floor should avoid the northeast corner and should ideally not sit directly above
+                the kitchen or the prayer area on the ground floor.
+              </li>
+              <li>
+                <strong>3. Vertical Alignment Between Floors:</strong> One of the most distinctive aspects of duplex
+                Vastu is ensuring harmony between what is placed above and below across both levels: avoid placing a
+                toilet directly above the kitchen or prayer room; avoid placing heavy structural elements, such as a
+                water tank, directly above bedrooms where family members sleep for extended periods; the staircase
+                location should remain consistent in its directional zone across both floors, rather than shifting
+                position between levels; keeping the northeast corner open on both floors, rather than just the ground
+                floor, is considered important for maintaining consistent positive energy throughout the home.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for Duplex House Orientation
+              Common Vastu Mistakes in Duplex Construction
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North-Facing Duplex: Considered highly favorable, associated with prosperity</li>
-              <li>East-Facing Duplex: Also considered auspicious, allowing positive morning energy</li>
-              <li>Northeast-Facing Entrances: Regarded as favorable for the main entrance location</li>
-              <li>West-Facing Duplex: Acceptable with proper interior layout planning</li>
-              <li>Ensure both floors maintain consistent directional alignment with the overall plot orientation</li>
+              <li>
+                <strong>1. Staircase in the Northeast or Center:</strong> A staircase positioned in the northeast
+                corner, or running through the central Brahmasthan of the home, is one of the most common and most
+                significant Vastu mistakes in duplex design. This placement is believed to disturb the home&apos;s core
+                energy balance across both floors simultaneously.
+              </li>
+              <li>
+                <strong>2. Bathroom Directly Above the Kitchen:</strong> Because duplex homes stack rooms vertically,
+                it&apos;s easy to end up with a bathroom on the upper floor directly above the ground-floor kitchen,
+                purely due to plumbing convenience. This overlap is traditionally discouraged, as it is believed to
+                compromise the purity of the fire element in the kitchen below.
+              </li>
+              <li>
+                <strong>3. Master Bedroom on the Ground Floor Instead of Upper Level:</strong> While not a strict rule,
+                many traditional Vastu guidelines favor placing the master bedroom on an upper floor when the home has
+                more than one level, reserving the ground floor for more active, communal spaces.
+              </li>
+              <li>
+                <strong>4. Overhead Beams Running Through Bedrooms:</strong> In duplex construction, structural beams
+                supporting the upper floor sometimes run directly through the ceiling of a ground-floor room or the
+                floor of an upper-floor bedroom. Sleeping or sitting directly beneath such a beam is generally
+                discouraged in Vastu.
+              </li>
+              <li>
+                <strong>5. Mismatched Staircase Direction Between Floors:</strong> A staircase that shifts direction or
+                zone between the ground and upper floor — for instance, starting in the south on the ground floor but
+                connecting to a hallway in the north on the upper floor — can create a sense of disjointed energy flow
+                through the home.
+              </li>
+              <li>
+                <strong>6. Heavy Construction Concentrated on One Side:</strong> Duplex homes sometimes end up
+                structurally heavier on one side due to staircase placement, balconies, or additional rooms. An
+                imbalance where the southwest is left light and open while the northeast carries heavier construction is
+                considered particularly unfavorable, as it inverts the ideal weight distribution recommended in Vastu.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Ground Floor Room Placement
+              Vastu Remedies for Duplex Homes
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Position the living room in the north, east, or northeast direction of the ground floor</li>
-              <li>Place the kitchen in the southeast or northwest corner of the ground floor</li>
-              <li>Position the dining area in the west or south direction, adjacent to the kitchen</li>
-              <li>Consider placing a guest bedroom in the northwest direction, if included on the ground floor</li>
-              <li>Keep the pooja room in the northeast corner of the ground floor, if space allows</li>
+              <li>
+                <strong>1. Reposition or Redesign the Staircase:</strong> Where feasible during renovation, relocating a
+                staircase away from the northeast or center toward the south, west, or southwest zone is one of the
+                most effective long-term corrections for duplex homes.
+              </li>
+              <li>
+                <strong>2. Add a False Ceiling to Manage Beam Exposure:</strong> For rooms affected by structural beams
+                running overhead, a false ceiling can help visually and energetically soften their impact, particularly
+                in bedrooms and living areas.
+              </li>
+              <li>
+                <strong>3. Keep the Bathroom Above the Kitchen Well-Sealed and Ventilated:</strong> If relocating an
+                upper-floor bathroom away from directly above the kitchen isn&apos;t structurally possible, ensuring
+                excellent waterproofing, strong exhaust ventilation, and keeping the bathroom door closed when not in
+                use are commonly recommended partial remedies.
+              </li>
+              <li>
+                <strong>4. Balance Weight Distribution Between Zones:</strong> During renovation or extension work,
+                prioritizing lighter construction, larger openings, or gardens in the northeast, while allowing slightly
+                heavier construction in the south and west, helps bring the overall structure closer to ideal Vastu
+                weight distribution.
+              </li>
+              <li>
+                <strong>5. Reinforce the Northeast Corner on Both Floors:</strong> Keeping the northeast zone open,
+                clutter-free, and well-lit on both the ground and upper floors — even if this simply means a small
+                seating nook or prayer space — helps maintain consistency in the home&apos;s most sensitive energy zone.
+              </li>
+              <li>
+                <strong>6. Use Vertical Gardens or Light Wells:</strong> In compact duplex plots common in growing
+                colonies around Moradabad, incorporating a vertical garden or a light well running through both floors,
+                ideally positioned in the north or east, can help bring natural light and ventilation deeper into the
+                home, supporting overall positive energy flow.
+              </li>
+              <li>
+                <strong>7. Align Prayer Spaces Vertically:</strong> If a prayer room exists on the ground floor,
+                ensuring the space directly above it on the upper floor is used for something equally respectful — such
+                as a study, meditation corner, or simply open space — rather than a bathroom or storage area, helps
+                maintain the sanctity of this zone throughout the vertical structure.
+              </li>
+              <li>
+                <strong>8. Correct Water Tank Placement:</strong> Overhead water tanks are ideally placed in the
+                southwest or west zone of the roof, avoiding direct positioning above bedrooms, especially those used
+                for extended rest, such as the master or children&apos;s bedroom.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for First Floor Room Placement
+              Planning a New Duplex? Start With Vastu at the Design Stage
+            </h2>
+
+            <p>
+              For families in Moradabad currently planning a new duplex construction, the most effective and
+              cost-efficient approach is to integrate Vastu principles from the very first architectural sketches,
+              rather than attempting corrections after the structure is complete. This allows staircase placement, room
+              zoning, and vertical alignment between floors to be planned holistically, avoiding many of the common
+              mistakes outlined above without any compromise on modern design, functionality, or aesthetics.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              How Space Build Approaches Duplex Vastu Planning
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Position the master bedroom in the southwest direction of the first floor</li>
-              <li>Place children&apos;s bedrooms in the west or south direction of the upper level</li>
-              <li>Consider a study or home office in the northeast or east direction, if included upstairs</li>
-              <li>Position any additional bathrooms in the northwest direction of the first floor</li>
-              <li>Maintain a balcony or open space in the north or east direction of the upper floor, if possible</li>
+              <li>
+                At Space Build, Moradabad, duplex Vastu consultation is woven directly into our architectural design and
+                construction process. Our approach typically includes:
+              </li>
+              <li>
+                Vastu-informed zoning of both ground and upper floors from the initial design stage.
+              </li>
+              <li>
+                Careful vertical alignment planning, ensuring compatible use of space directly above and below across
+                both levels.
+              </li>
+              <li>
+                Structural weight distribution planning to support ideal southwest-to-northeast balance.
+              </li>
+              <li>
+                Practical, staged remedy recommendations for existing duplex homes that need correction without full
+                reconstruction.
+              </li>
+              <li>
+                Seamless integration of Vastu principles with contemporary duplex design trends, ensuring the final home
+                is both energetically balanced and visually modern.
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Staircase Placement in Duplex Homes
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position the staircase in the south, west, or southwest direction of the home</li>
-              <li>Ensure the staircase ascends from north to south or east to west</li>
-              <li>Avoid placing the staircase in the exact center of the home</li>
-              <li>Avoid staircases directly facing the main entrance door</li>
-              <li>Maintain an odd number of steps, such as 17 or 21, for the staircase</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Vertical Alignment Between Floors
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Try to align the kitchen on both floors, if a kitchenette exists upstairs</li>
-              <li>Avoid placing a bathroom directly above the kitchen or pooja room</li>
-              <li>Maintain consistent structural alignment for load-bearing walls across floors</li>
-              <li>Avoid placing bedrooms directly above the living room entrance area</li>
-              <li>Ensure the pooja room, if present on both floors, maintains consistent directional placement</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Balconies and Terraces in Duplex Homes
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position balconies in the north or east direction of the first floor</li>
-              <li>Keep the terrace space open and uncluttered wherever possible</li>
-              <li>Use auspicious plants like tulsi or money plant in suitable balcony directions</li>
-              <li>Avoid heavy structures or excessive furniture that block natural light and air</li>
-              <li>Maintain proper drainage on terraces to avoid water accumulation</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Common Areas Across Floors
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Ensure adequate natural light and ventilation on both floors</li>
-              <li>Maintain consistent color schemes that support harmony between levels</li>
-              <li>Keep common areas like the living room and family lounge clutter-free</li>
-              <li>Ensure smooth movement and connectivity between the ground and upper floors</li>
-              <li>Avoid overcrowding either floor with excessive furniture or storage</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Mistakes to Avoid in Duplex House Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Placing the staircase in the northeast corner of the home</li>
-              <li>Positioning bedrooms directly above the kitchen or pooja room</li>
-              <li>Ignoring vertical alignment of plumbing and structural elements between floors</li>
-              <li>Constructing a staircase that directly faces the main entrance</li>
-              <li>Overcrowding either floor with excessive furniture, reducing open space</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Duplex Homes with Design Limitations
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use interior décor and color adjustments to balance non-ideal room placements</li>
-              <li>Incorporate plants and natural elements to enhance energy flow between floors</li>
-              <li>Use lighting strategically to highlight and balance the staircase area</li>
-              <li>Rearrange furniture within fixed room layouts to align with Vastu principles</li>
-              <li>Consult a Vastu expert for personalized remedies based on the specific duplex layout</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Duplex House Design Ideas for Modern Homes
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Open-Concept Ground Floor: Combining living, dining, and kitchen areas for a spacious feel</li>
-              <li>Floating or Glass Railing Staircases: Modern aesthetics while maintaining Vastu-compliant placement</li>
-              <li>Private Upper-Floor Family Zones: Separating bedrooms from common areas for added privacy</li>
-              <li>Rooftop Terrace Gardens: Utilizing upper-level open spaces for relaxation and greenery</li>
-              <li>Statement Lighting Near Staircases: Enhancing both aesthetics and energy flow</li>
-              <li>Balcony Extensions: Adding functional outdoor spaces on the first floor</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Incorporates Vastu in Duplex House Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious planning during the initial architectural design phase</li>
-              <li>Guidance on room distribution across both ground and first floors</li>
-              <li>Recommendations on staircase placement and vertical alignment</li>
-              <li>Customized solutions for duplex homes with layout constraints</li>
-              <li>Integration of modern design elements within Vastu guidelines</li>
-              <li>Collaboration with Vastu consultants for specialized project requirements</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Tips for Homeowners Planning a Vastu-Friendly Duplex Home
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plan room distribution across both floors during the initial design stage</li>
-              <li>Prioritize staircase placement and direction before finalizing other design elements</li>
-              <li>Choose consistent colors and materials that support harmony across levels</li>
-              <li>Avoid overcrowding either floor with unnecessary furniture or decor</li>
-              <li>Consult with design experts who understand both aesthetics and Vastu principles</li>
-              <li>Consider practical remedies if ideal placements are not achievable in your layout</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Which direction is best for a duplex house as per Vastu?</h3>
-                <p>
-                  North or east-facing duplex homes are generally considered the most favorable.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Where should the staircase be placed in a duplex home?</h3>
-                <p>
-                  The staircase should ideally be placed in the south, west, or southwest direction.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Should the master bedroom be on the ground or first floor?</h3>
-                <p>
-                  The master bedroom is generally recommended on the first floor, in the southwest direction.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Can a bathroom be placed above the kitchen in a duplex home?</h3>
-                <p>
-                  No, placing a bathroom directly above the kitchen is generally avoided as per Vastu.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. What if my duplex home&apos;s staircase is not in an ideal direction?</h3>
-                <p>
-                  Remedies like proper lighting, colors, and decluttering can help balance the energy.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Is it necessary to align the kitchen on both floors in a duplex?</h3>
-                <p>
-                  It is preferred but not mandatory; alignment helps maintain overall energy balance.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu consultation for duplex house design?</h3>
-                <p>
-                  Yes, Space Build incorporates Vastu principles into its architectural design process for duplex homes.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Why is the northeast direction avoided for staircases in duplex homes?</h3>
-                <p>
-                  The northeast is considered a sacred zone in Vastu and is generally not recommended for staircases.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              Whether you&apos;re planning a new duplex from scratch or looking to improve the Vastu balance of an
+              existing two-story home in Moradabad, our team can guide you through a practical, design-integrated
+              approach. Reach out through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -255,7 +245,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

@@ -7,387 +7,259 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu Consultation Fees in Moradabad
+              Vastu Consultation Fees in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              Finding the right Vastu consultant is an important decision for anyone planning a new home, office, shop, or commercial project. While many people search for Vastu consultation fees in Moradabad, the actual cost depends on several factors such as property size, project type, consultation method, and the level of analysis required. Instead of choosing the lowest price, it is always better to select an experienced consultant who provides practical and customized guidance.
+              One of the most common questions we receive from homeowners, business owners, and builders across
+              Moradabad is a simple one: how much does a Vastu consultation actually cost? It&apos;s a fair question,
+              but also one without a single straightforward answer, because Vastu consultation fees vary considerably
+              depending on the type of property involved, the scope of the assessment, the stage of construction, and
+              the depth of remedy planning required. Rather than quoting a single number that wouldn&apos;t apply fairly
+              to every situation, this guide walks through the different factors that influence Vastu consultation
+              pricing, the various types of consultations available, and what to expect at each stage of the process, so
+              you can better estimate what a consultation suited to your specific needs might involve.
             </p>
 
             <p>
-              At Space Build, we offer professional Vastu consultation for residential, commercial, and industrial properties. Our experts carefully study your property&apos;s layout, direction, surroundings, and functionality before suggesting practical solutions. Whether you are constructing a new building, buying a plot, renovating an existing property, or facing problems in your current space, our consultation is designed to help you make informed decisions with confidence.
+              At Space Build, Moradabad, we believe transparency in pricing is just as important as transparency in the
+              recommendations we provide. This guide is meant to help you understand the landscape of Vastu consultation
+              costs before reaching out for a personalized quote.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Professional Vastu Consultation is Important
+              Why Vastu Consultation Fees Vary So Widely
+            </h2>
+
+            <p>
+              Unlike many standardized services, Vastu consultation isn&apos;t a one-size-fits-all offering. A quick
+              phone consultation about a single room is a fundamentally different service from a full-day, on-site
+              assessment of a large industrial facility with detailed vertical and horizontal zoning analysis. Because of
+              this, fees are typically structured around several key variables rather than a flat rate: the type of
+              property (residential, commercial, industrial, institutional); the size of the property being assessed;
+              whether the consultation is for a plot before purchase, a property under construction, or an existing
+              completed structure; whether the consultant needs to visit the site in person or can work from
+              architectural drawings and photographs; the depth of the report provided, ranging from a verbal walkthrough
+              to a detailed written report with diagrams and remedy plans; whether follow-up visits or ongoing
+              consultation throughout a construction project are included; and the experience level and reputation of
+              the consultant or firm being engaged.
+            </p>
+
+            <p>
+              Understanding these variables helps explain why two people asking &quot;how much does Vastu consultation
+              cost&quot; can receive very different answers depending on what exactly they need.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Types of Vastu Consultations and What They Typically Involve
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Helps avoid planning mistakes</li>
-              <li>Provides customized recommendations</li>
-              <li>Improves property functionality</li>
-              <li>Supports long-term planning</li>
+              <li>
+                <strong>1. Basic Phone or Video Consultation:</strong> For smaller queries — a single room&apos;s
+                layout, a specific dosha concern, or general guidance based on a floor plan shared digitally — a phone
+                or video consultation is often the most economical option. This typically involves the client describing
+                or sharing images of the space, with the consultant offering guidance and remedies without a physical
+                site visit.
+              </li>
+              <li>
+                <strong>2. Plot or Property Evaluation Before Purchase:</strong> This type of consultation focuses
+                specifically on evaluating a plot or existing property before a purchase decision is finalized. It
+                usually includes an assessment of the plot&apos;s shape, direction, slope, surrounding environment, and
+                any existing structural features, helping the buyer make an informed decision before committing
+                financially.
+              </li>
+              <li>
+                <strong>3. Pre-Construction Design Consultation:</strong> For those planning new construction, this
+                consultation integrates Vastu principles directly into the architectural design process, working
+                alongside architects and structural engineers to plan room placement, entrance direction, and overall
+                zoning from the very first design drafts. This tends to be a more involved, ongoing engagement compared
+                to a one-time assessment.
+              </li>
+              <li>
+                <strong>4. On-Site Assessment of an Existing Property:</strong> This is the most common type of
+                consultation for homeowners and business owners looking to understand and correct Vastu concerns in a
+                property they already occupy. It typically involves a physical site visit, a room-by-room and
+                direction-by-direction assessment, and a written or verbal report outlining identified doshas along with
+                recommended remedies.
+              </li>
+              <li>
+                <strong>5. Commercial and Industrial Vastu Consultation:</strong> Given the added complexity of
+                commercial layouts — cash counter placement, kitchen zoning, machinery placement, or furnace positioning
+                in an industrial setting — these consultations often require more time and specialized attention, and
+                are priced accordingly based on the size and complexity of the facility.
+              </li>
+              <li>
+                <strong>6. Ongoing Construction-Phase Consultation:</strong> For larger residential or commercial
+                projects under construction, some clients prefer ongoing Vastu guidance throughout the building process,
+                with periodic site visits at key construction milestones rather than a single assessment. This is
+                typically structured as a project-based engagement rather than a one-time fee.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Determines Vastu Consultation Fees?
+              Key Factors That Influence Overall Consultation Cost
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Size of the property</li>
-              <li>Type of project</li>
-              <li>Consultation method</li>
-              <li>Site visit requirements</li>
+              <li>
+                <strong>1. Property Size:</strong> Naturally, a larger property requires more time to assess thoroughly.
+                A small one-bedroom flat involves considerably less analysis than a multi-story independent house, a
+                large commercial complex, or an industrial facility spanning several acres.
+              </li>
+              <li>
+                <strong>2. Site Visit Requirements:</strong> Consultations that require the consultant to travel to the
+                property, particularly for locations outside the immediate city area, may involve additional
+                travel-related considerations compared to consultations conducted remotely using shared floor plans and
+                photographs.
+              </li>
+              <li>
+                <strong>3. Complexity of the Property:</strong> A straightforward, regularly shaped residential plot
+                typically requires less analysis than an irregularly shaped commercial property, a multi-level duplex
+                with vertical zoning considerations, or an industrial facility involving specialized elements like
+                furnaces and heavy machinery.
+              </li>
+              <li>
+                <strong>4. Stage of the Project:</strong> Consultations for a plot still under consideration for
+                purchase, or for a home in early architectural planning, often allow for more flexible, less intensive
+                guidance compared to a fully constructed property requiring detailed remedy planning to work around
+                existing structural constraints.
+              </li>
+              <li>
+                <strong>5. Depth of Reporting:</strong> A brief verbal consultation naturally costs less than a
+                comprehensive written report complete with diagrams, room-by-room breakdowns, and a prioritized remedy
+                action plan.
+              </li>
+              <li>
+                <strong>6. Number of Follow-Up Visits:</strong> Some situations are resolved in a single visit, while
+                others — particularly larger commercial or industrial projects — benefit from multiple follow-up visits
+                as remedies are implemented and re-assessed over time.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential Vastu Consultation
+              What to Look for Beyond Just the Fee
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Independent houses</li>
-              <li>Villas and duplexes</li>
-              <li>Apartments and flats</li>
-              <li>Farmhouses</li>
+              <li>
+                <strong>1. Practical, Buildable Recommendations:</strong> A good consultation should result in remedies
+                that are realistically implementable within your budget and structural constraints, rather than a long
+                list of expensive or impractical changes.
+              </li>
+              <li>
+                <strong>2. Clarity and Prioritization:</strong> Look for a consultant who clearly prioritizes which
+                issues are most significant and which are minor, rather than presenting every observation as equally
+                urgent, which can lead to unnecessary expense and confusion.
+              </li>
+              <li>
+                <strong>3. Integration With Construction and Design Expertise:</strong> Particularly for new
+                construction or renovation projects, a consultant who understands both traditional Vastu principles and
+                practical architectural or construction realities can offer more useful, implementable guidance than a
+                purely theoretical assessment.
+              </li>
+              <li>
+                <strong>4. Transparency Before the Visit:</strong> A reliable consultation service should be able to
+                give you a clear sense of what the visit will cover and roughly how the fee structure works before you
+                commit, based on your specific property type and requirements.
+              </li>
+              <li>
+                <strong>5. Written Documentation:</strong> For any significant investment in Vastu consultation, having
+                a written report or documented remedy plan is valuable for future reference, especially for larger
+                projects where remedies may be implemented gradually over time.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Commercial Vastu Consultation
+              How Fees Are Typically Structured Across the Industry
+            </h2>
+
+            <p>
+              Broadly speaking, Vastu consultation fees across most markets, including Moradabad, tend to fall into a
+              few general structures: a flat consultation fee (a fixed charge for a defined scope, such as a
+              single-property assessment or a plot evaluation, regardless of exactly how long the visit takes); a
+              per-visit fee (charged separately for each site visit, useful for ongoing projects requiring multiple
+              assessments at different construction stages); a project-based fee (a single agreed cost covering the
+              entire scope of a larger project, from initial design consultation through to construction-phase guidance,
+              often used for new residential or commercial construction); or a per-square-foot or size-based fee (some
+              consultants scale their fee based on the size of the property being assessed, particularly relevant for
+              larger commercial or industrial facilities).
+            </p>
+
+            <p>
+              Because these structures vary between consultants and depend heavily on the specifics of each property,
+              it&apos;s always best to discuss your particular situation directly rather than relying on a generic,
+              one-size-fits-all figure.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Making the Most of Your Vastu Consultation Investment
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Shops and showrooms</li>
-              <li>Office buildings</li>
-              <li>Restaurants and hotels</li>
-              <li>Commercial complexes</li>
+              <li>
+                <strong>Prepare your property details in advance:</strong> Having floor plans, plot dimensions, and
+                photographs ready before the consultation helps the consultant provide more accurate, efficient guidance.
+              </li>
+              <li>
+                <strong>Be clear about your specific concerns:</strong> Whether it&apos;s a recurring health issue, a
+                stalled business, or simply wanting to confirm a new home&apos;s layout is well-balanced, sharing your
+                specific concerns helps focus the consultation appropriately.
+              </li>
+              <li>
+                <strong>Ask about prioritization:</strong> Request that the consultant clearly separate urgent
+                structural concerns from minor, low-cost adjustments, so you can plan your remedy budget sensibly.
+              </li>
+              <li>
+                <strong>Clarify what&apos;s included:</strong> Before committing, confirm whether the fee includes a
+                written report, follow-up visits, or ongoing support during implementation.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Office Vastu Consultation
+              How Space Build Structures Vastu Consultation Services in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Reception planning</li>
-              <li>Cabin placement</li>
-              <li>Workstation layout</li>
-              <li>Meeting room guidance</li>
+              <li>
+                At Space Build, we tailor our Vastu consultation approach to the specific type, size, and stage of each
+                property, rather than applying a one-size-fits-all fee structure. Our process typically includes:
+              </li>
+              <li>
+                An initial discussion to understand your property type, concerns, and consultation goals.
+              </li>
+              <li>
+                A clear explanation of what the recommended consultation scope will involve before any commitment is
+                made.
+              </li>
+              <li>
+                Practical, prioritized recommendations focused on what genuinely matters for your specific situation.
+              </li>
+              <li>
+                Transparent guidance on follow-up visits or ongoing support for larger construction and renovation
+                projects.
+              </li>
+              <li>
+                A combination of traditional Vastu expertise with practical construction and design knowledge, ensuring
+                remedies are realistic and buildable.
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Plot Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plot direction analysis</li>
-              <li>Site evaluation</li>
-              <li>Entrance planning</li>
-              <li>Future construction guidance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Factory Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Production area planning</li>
-              <li>Machinery placement</li>
-              <li>Storage guidance</li>
-              <li>Office layout planning</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Apartment Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Entrance evaluation</li>
-              <li>Kitchen assessment</li>
-              <li>Bedroom planning</li>
-              <li>Balcony guidance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Consultation Before Construction
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Better layout planning</li>
-              <li>Proper room allocation</li>
-              <li>Efficient space usage</li>
-              <li>Reduced future modifications</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Consultation During Renovation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Interior redesign guidance</li>
-              <li>Better ventilation planning</li>
-              <li>Improved lighting</li>
-              <li>Space optimization</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Online Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Convenient scheduling</li>
-              <li>Layout review</li>
-              <li>Video consultation</li>
-              <li>Digital recommendations</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              On-Site Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Property inspection</li>
-              <li>Direction analysis</li>
-              <li>Layout evaluation</li>
-              <li>Personalized guidance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What is Included in Our Consultation?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Complete property assessment</li>
-              <li>Vastu analysis</li>
-              <li>Layout review</li>
-              <li>Improvement recommendations</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Choosing Space Build
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Experienced professionals</li>
-              <li>Customized consultation</li>
-              <li>Practical solutions</li>
-              <li>Reliable support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Vastu Consultation Fees May Vary
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Property size and layout</li>
-              <li>Type of consultation required</li>
-              <li>Residential or commercial project</li>
-              <li>Site visit and travel requirements</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Our Vastu Consultation Process
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Initial discussion about your requirements</li>
-              <li>Property and layout analysis</li>
-              <li>Vastu evaluation and observations</li>
-              <li>Customized consultation report</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Properties We Cover
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Houses and villas</li>
-              <li>Flats and apartments</li>
-              <li>Shops and offices</li>
-              <li>Factories and warehouses</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Advantages of Early Vastu Planning
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Reduces construction errors</li>
-              <li>Saves renovation costs</li>
-              <li>Improves space planning</li>
-              <li>Supports better functionality</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Homeowners Choose Space Build
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Personalized consultation</li>
-              <li>Easy-to-follow suggestions</li>
-              <li>Practical planning approach</li>
-              <li>Professional project support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Businesses Trust Space Build
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Better business planning</li>
-              <li>Improved customer experience</li>
-              <li>Efficient space utilization</li>
-              <li>Professional commercial guidance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential Projects We Handle
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Independent homes</li>
-              <li>Duplex houses</li>
-              <li>Luxury villas</li>
-              <li>Residential apartments</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Commercial Projects We Handle
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Offices and corporate spaces</li>
-              <li>Retail shops</li>
-              <li>Hotels and restaurants</li>
-              <li>Commercial buildings</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              What Makes Our Consultation Different?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Detailed property assessment</li>
-              <li>Customized recommendations</li>
-              <li>Practical implementation</li>
-              <li>Long-term planning support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Affordable Vastu Consultation in Moradabad
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Transparent consultation process</li>
-              <li>Customized service plans</li>
-              <li>Value-focused recommendations</li>
-              <li>Professional assistance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Who Can Benefit from Vastu Consultation?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Homeowners</li>
-              <li>Business owners</li>
-              <li>Property investors</li>
-              <li>Builders and developers</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              When Should You Book a Consultation?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Before buying a plot</li>
-              <li>Before construction starts</li>
-              <li>During renovation</li>
-              <li>Before purchasing a commercial property</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Experienced Vastu professionals</li>
-              <li>Residential and commercial expertise</li>
-              <li>Site inspection services</li>
-              <li>Reliable customer support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Book Your Vastu Consultation Today
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Easy appointment booking</li>
-              <li>Online and offline consultation</li>
-              <li>Customized property analysis</li>
-              <li>Complete project guidance</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. What are the Vastu consultation fees in Moradabad?</h3>
-                <p>
-                  The consultation fee depends on the property type, size, location, and the level of analysis required. Contact Space Build for a customized quotation based on your project.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Do you provide online Vastu consultation?</h3>
-                <p>
-                  Yes. We offer online consultations through layout reviews, video discussions, and digital reports for clients who cannot schedule an on-site visit.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Is there a fixed consultation fee for every property?</h3>
-                <p>
-                  No. Consultation charges vary depending on factors such as property size, project complexity, and whether the consultation is online or on-site.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Do you provide Vastu consultation for commercial properties?</h3>
-                <p>
-                  Yes. Space Build offers Vastu consultation for offices, shops, hotels, restaurants, factories, warehouses, and other commercial buildings.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can I consult before buying a plot?</h3>
-                <p>
-                  Yes. Plot evaluation before purchase helps identify whether the land is suitable for your future construction plans according to Vastu principles.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Do you provide Vastu consultation during renovation?</h3>
-                <p>
-                  Yes. Renovation is an ideal time to improve the layout, ventilation, room planning, and overall functionality of an existing property.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Do you visit properties in Moradabad?</h3>
-                <p>
-                  Yes. Our experts provide on-site Vastu consultation across Moradabad and nearby areas for residential and commercial projects.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Why should I choose Space Build for Vastu consultation?</h3>
-                <p>
-                  Space Build offers practical, customized, and professional Vastu consultation backed by construction knowledge, helping clients make informed decisions for long-term property planning.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              Since every property and every client&apos;s needs are different, the most accurate way to understand what
+              a Vastu consultation for your specific home, business, or industrial facility will cost is to reach out
+              directly for a personalized discussion. You can connect with our team through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>{" "}
+              to discuss your requirements and receive a tailored quote.
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -403,7 +275,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

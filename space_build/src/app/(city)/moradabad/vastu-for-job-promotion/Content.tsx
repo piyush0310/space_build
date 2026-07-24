@@ -7,250 +7,158 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Job Promotion – Space Build
+              Vastu for Job Promotion: A Complete Guide by Space Build, Moradabad
             </h2>
 
             <p>
-              Career growth and professional success are shaped primarily by hard work, skill development, consistent performance, and strong professional relationships. Alongside these practical efforts, many individuals in Moradabad also turn to traditional Vastu Shastra practices, believing that a well-balanced home environment can support mental clarity, confidence, and focus, which may complement their professional journey. Vastu principles related to career growth are widely followed as part of a holistic approach to personal well-being and workplace confidence.
+              Career growth depends on many factors — hard work, skill, timing, and the opportunities available within an organization. But many professionals who work diligently for years still find themselves passed over for promotions, stuck in the same role, or facing unexpected setbacks just as recognition seems within reach. According to Vastu Shastra, the physical environment of a person&apos;s home, particularly the direction they sleep in, the placement of their study or work area, and the overall energy balance of the house, can quietly influence career momentum, confidence, and the recognition a person receives at work.
             </p>
 
             <p>
-              Space Build shares traditional Vastu insights believed to support a positive and focused mindset for career-related goals. This guide explains common Vastu beliefs associated with professional growth, along with home design practices that individuals may consider alongside their professional efforts.
+              At Space Build, Moradabad, we frequently meet working professionals who describe a similar frustration: strong performance at work that somehow never translates into the growth they expect. In many such cases, a Vastu review of the home reveals specific directional or structural imbalances that may be working against career progress. This guide explores the Vastu principles connected to professional growth, common home layout mistakes that can slow down promotions, and the remedies traditionally recommended to support career advancement.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Important Note on Vastu and Career Success
+              The Vastu Connection Between Home and Career
+            </h2>
+
+            <p>
+              Vastu Shastra treats the home as more than just a place to rest — it is considered the energetic foundation from which a person draws confidence, clarity, and momentum for every other area of life, including their career. Two directions are particularly significant when it comes to professional growth: the north, associated with career, opportunity, and financial growth, and the south, linked to recognition, authority, and the ability to be seen and valued for one&apos;s work.
+            </p>
+
+            <p>
+              When these zones are correctly balanced within a home, they are believed to support steady career progress, recognition from superiors, and the confidence needed to take on greater responsibility. When they are disturbed — through incorrect room placement, clutter, or structural defects — career growth is believed to slow down, sometimes despite consistent hard work and strong performance.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Common Signs That Vastu May Be Affecting Career Growth
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu Shastra is a traditional belief system focused on energy balance within living spaces</li>
-              <li>It is not a substitute for hard work, skill development, or professional performance</li>
-              <li>Career growth depends primarily on individual effort, competence, and opportunities</li>
-              <li>Vastu practices are considered by some as a complementary source of confidence and focus</li>
-              <li>This content is shared for informational purposes based on traditional beliefs only</li>
+              <li>Consistently strong performance reviews that never seem to translate into promotion</li>
+              <li>A feeling of being repeatedly &quot;overlooked&quot; despite putting in significant effort</li>
+              <li>Sudden, unexpected obstacles that arise just as a promotion or opportunity seems close</li>
+              <li>Difficulty gaining visibility or recognition from senior management</li>
+              <li>A general lack of confidence or motivation that seems to have crept in gradually</li>
+              <li>Career stagnation that started around the same time as a house move or renovation</li>
+              <li>Frequent last-minute changes in plans, projects, or reporting structures that disrupt progress</li>
             </ul>
 
+            <p>
+              If several of these patterns feel familiar, particularly if they intensified after moving into the current home, it may be worth examining the property&apos;s layout from a Vastu perspective, alongside continued professional effort and skill-building.
+            </p>
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding the Vastu Perspective on Career Growth
+              Vastu Factors That May Be Slowing Down Career Growth
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Considered a traditional practice focused on creating a balanced living environment</li>
-              <li>Believed to support improved concentration and workplace confidence</li>
-              <li>Associated particularly with the home office, study area, and main entrance</li>
-              <li>Viewed as a complementary practice alongside professional skill-building efforts</li>
-              <li>Encourages a calm, organized, and positive home atmosphere to support daily focus</li>
+              <li>
+                <strong>1. Incorrect Placement of the Study or Home Office:</strong> The room where a person studies, plans, or handles work-related tasks at home carries particular significance in Vastu. Ideally located in the north, east, or northeast zone of the house, a study placed in the southwest or under a staircase is generally considered less favorable, believed to create subtle obstacles to clear thinking and career momentum.
+              </li>
+              <li>
+                <strong>2. Desk Facing the Wrong Direction:</strong> Even within a well-placed study, the direction a person faces while working matters. Facing east or north while working at a desk is traditionally recommended, as these directions are associated with growth and opportunity. Facing south while working is generally discouraged.
+              </li>
+              <li>
+                <strong>3. Clutter in the North Zone:</strong> Since the north is closely associated with career and financial growth, this zone of the home is ideally kept open, clean, and well-lit. Storage rooms, toilets, or heavy, unused furniture placed in the north are believed to restrict the flow of opportunities and recognition.
+              </li>
+              <li>
+                <strong>4. Main Door Facing an Unfavorable Direction:</strong> The main entrance plays a significant role in determining how much positive energy — including career-related opportunities — enters a home. A main door that faces certain inauspicious directions according to traditional Vastu charts, or one that sticks or is difficult to open, is believed to slow down the arrival of new opportunities.
+              </li>
+              <li>
+                <strong>5. Sleeping in the Wrong Direction:</strong> For working professionals, the direction of sleep is considered particularly important. Sleeping with the head toward the east is traditionally associated with ambition, growth, and career-related success, while sleeping with the head toward the north is generally discouraged, as it is believed to drain energy and motivation over time.
+              </li>
+              <li>
+                <strong>6. Weak or Missing Southwest Zone:</strong> While the north and south are directly linked to career and recognition, the southwest zone, associated with stability and steady effort, also plays a supporting role. A missing or weak southwest corner is sometimes linked to inconsistency in effort or difficulty sustaining long-term progress toward a goal.
+              </li>
+              <li>
+                <strong>7. Broken or Non-Functional Items in the Study:</strong> Broken chairs, non-working lamps, or damaged shelving in the study or home office area are seen as physical representations of stalled progress, believed to subtly reflect and reinforce a sense of professional stagnation.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for a Home Office or Work Desk
+              Vastu Remedies to Support Career Growth and Promotion
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North Direction: Considered highly favorable, associated with career growth and opportunities</li>
-              <li>East Direction: A good alternative, believed to support fresh energy and focus</li>
-              <li>Northeast Direction: Also considered suitable for a home office setup</li>
-              <li>Position the desk so the individual faces north or east while working</li>
-              <li>Ensure the chair has a solid wall behind it for a sense of support and stability</li>
+              <li>
+                <strong>1. Reposition the Study or Work Desk:</strong> Where possible, setting up a study or home office in the north, east, or northeast zone of the home is one of the most emphasized remedies for supporting career growth. If relocating the entire room isn&apos;t feasible, simply repositioning the desk within the existing space to face east or north can offer a meaningful improvement.
+              </li>
+              <li>
+                <strong>2. Keep the North Zone Open and Clutter-Free:</strong> Clearing out unused storage, broken items, and unnecessary clutter from the north zone of the home is considered an important and immediately actionable step. This area should ideally remain bright, open, and well-maintained.
+              </li>
+              <li>
+                <strong>3. Adjust Sleeping Direction:</strong> Where structurally possible, adjusting the bed so the sleeper&apos;s head points east is a commonly recommended remedy for professionals seeking to boost ambition, motivation, and career momentum.
+              </li>
+              <li>
+                <strong>4. Repair the Main Door:</strong> Ensuring the main door opens and closes smoothly, keeping it clean, and avoiding obstruction directly in front of it are simple steps believed to support the smoother arrival of new opportunities.
+              </li>
+              <li>
+                <strong>5. Place a Career-Boosting Yantra or Symbol:</strong> Vastu practitioners sometimes recommend placing a Kuber Yantra or similar symbol associated with growth and prosperity in the north zone of the home or workspace, intended to reinforce the supportive qualities of this direction.
+              </li>
+              <li>
+                <strong>6. Use Motivating Colors in the Study:</strong> Light greens, blues, and soft yellows are generally recommended for study or office spaces, as they are associated with growth, clarity, and confidence, as opposed to overly dark or heavy colors that may create a sense of stagnation.
+              </li>
+              <li>
+                <strong>7. Introduce a Healthy Plant Near the Workspace:</strong> Plants such as money plant or bamboo, placed near a home study or office area, are traditionally believed to support steady growth and a positive, forward-moving energy in one&apos;s professional life.
+              </li>
+              <li>
+                <strong>8. Strengthen the Southwest Zone:</strong> Ensuring the southwest corner of the home is structurally solid, without irregular cuts or extensions, and ideally used for the master bedroom, is believed to support consistency and follow-through, both important qualities when working toward a promotion.
+              </li>
+              <li>
+                <strong>9. Keep a Small Mirror Facing the Workspace (Not the Person):</strong> A small mirror placed to reflect the workspace, positioned so it does not directly face the person while working, is sometimes used in Vastu to symbolically &quot;double&quot; productive energy and visibility in one&apos;s professional efforts.
+              </li>
+              <li>
+                <strong>10. Light a Lamp in the North Zone Regularly:</strong> A simple, consistent practice of lighting a small lamp in the north direction of the home, especially in the early morning, is commonly recommended as a way of gradually reinforcing the career-supporting qualities of this zone.
+              </li>
+              <li>
+                <strong>11. Repair or Replace Broken Furniture in the Study:</strong> Fixing or discarding broken chairs, tables, and non-functional equipment in the study is a straightforward way to remove physical symbols of stagnation from the professional workspace.
+              </li>
+              <li>
+                <strong>12. Maintain a Clean, Organized Desk:</strong> Beyond direction and placement, simply keeping the work desk organized, with important documents and tools within easy reach, supports the sense of clarity and readiness that Vastu principles aim to encourage.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Work Desk Placement
+              A Balanced Perspective on Vastu and Career Success
+            </h2>
+
+            <p>
+              As with all areas of life, Vastu remedies are best viewed as a supportive practice rather than a substitute for genuine skill-building, consistent effort, and strong professional relationships. A well-aligned home is traditionally believed to remove unnecessary obstacles and support clarity and confidence, but it works best when combined with continued dedication and performance at work.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              How Space Build Supports Career-Focused Vastu Corrections
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Avoid placing the desk directly facing a wall with no open space ahead</li>
-              <li>Ensure the desk is not positioned directly under a beam or overhead structure</li>
-              <li>Keep the desk away from direct alignment with the room&apos;s entrance door</li>
-              <li>Maintain an organized and clutter-free desk surface</li>
-              <li>Avoid sitting with your back directly facing a window or door</li>
+              <li>
+                At Space Build, Moradabad, we work closely with working professionals looking to align their home environment with their career goals. Our approach typically includes:
+              </li>
+              <li>A detailed assessment of the north, south, and southwest zones of the home, along with the study or home office area</li>
+              <li>Identification of specific directional or structural factors that may be affecting career momentum</li>
+              <li>
+                A practical, prioritized remedy plan, starting with simple furniture and placement adjustments before recommending structural changes
+              </li>
+              <li>Guidance for professionals setting up a home office or study space from scratch</li>
+              <li>
+                Thoughtful integration of Vastu principles into modern home design, ensuring remedies are both effective and visually cohesive with the rest of the home
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Home Office Colors
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Light Green: Associated with growth and new opportunities</li>
-              <li>Light Yellow: Encourages positivity and mental alertness</li>
-              <li>White: Symbolizes clarity and is considered favorable for professional spaces</li>
-              <li>Light Blue: Promotes calmness, helpful for maintaining focus under pressure</li>
-              <li>Avoid Dark Colors: Colors like black or dark red are generally avoided in work areas</li>
-              <li>Avoid Overly Bright Shades: Excessively vibrant colors may cause distraction</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Career-Related Symbols and Décor
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Money Plant: Believed to attract prosperity and career growth</li>
-              <li>Images of Mountains: Associated with stability and steady career progress</li>
-              <li>Avoid Water Features Behind the Desk: Considered less favorable for career focus</li>
-              <li>Avoid Clutter on the Desk: A clean workspace is believed to support clear thinking</li>
-              <li>Fresh Flowers: Believed to bring positive energy into the workspace</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Storing Certificates and Professional Documents
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Store important documents in the south or southwest direction of the home</li>
-              <li>Use a sturdy, well-organized cabinet or drawer for document storage</li>
-              <li>Keep certificates and achievements displayed in the north or east area of the office</li>
-              <li>Avoid storing documents in cluttered or disorganized spaces</li>
-              <li>Maintain documents in a clean, dry area to prevent damage</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for the Main Entrance and Career Energy
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the entrance area clean, well-lit, and free from clutter</li>
-              <li>Ensure the main door opens smoothly without obstruction</li>
-              <li>Use fresh flowers or traditional symbols to enhance a welcoming atmosphere</li>
-              <li>Avoid placing shoes or waste bins directly near the main entrance</li>
-              <li>Maintain adequate lighting at the entrance, especially during evening hours</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Improving Focus and Confidence at Work
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain a clean and organized home office throughout the week</li>
-              <li>Ensure adequate natural light and ventilation in the workspace</li>
-              <li>Practice a consistent daily routine to support mental clarity and discipline</li>
-              <li>Avoid working in cluttered or chaotic environments</li>
-              <li>Incorporate calming colors and natural elements like plants in the workspace</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Mistakes to Avoid for Career Growth
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Placing the work desk directly facing a blank wall</li>
-              <li>Positioning the home office in the south or southwest direction</li>
-              <li>Using dark colors or excessive clutter in the workspace</li>
-              <li>Sitting with your back facing the door while working</li>
-              <li>Ignoring proper lighting and ventilation in the office area</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Career-Related Challenges
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Rearranging the work desk to align with recommended directional guidelines</li>
-              <li>Decluttering the home office to support clearer thinking</li>
-              <li>Introducing calming and growth-associated colors in the workspace</li>
-              <li>Displaying certificates and achievements in a well-lit, organized manner</li>
-              <li>Keeping fresh plants or flowers near the work area to enhance positive energy</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Role of Professional Effort in Career Growth
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Career growth depends on consistent performance, skill development, and networking</li>
-              <li>Vastu practices should be viewed as a complementary source of mental focus</li>
-              <li>Continuous learning and professional development remain essential for growth</li>
-              <li>Building strong professional relationships plays a significant role in career advancement</li>
-              <li>A balanced approach combining professional effort and personal well-being practices is recommended</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Supports Vastu-Conscious Home Office Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious layout planning for home offices and study areas</li>
-              <li>Guidance on ideal desk placement and room direction</li>
-              <li>Recommendations on colors and décor elements believed to support growth</li>
-              <li>Customized solutions for properties with existing layout constraints</li>
-              <li>Collaboration with Vastu consultants for specialized project requirements</li>
-              <li>Integration of Vastu principles alongside modern, functional office design</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Practical Tips for Individuals Seeking Career Growth
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Set up your home office or study area facing north or east, if possible</li>
-              <li>Keep your workspace clean, organized, and clutter-free</li>
-              <li>Introduce calming and growth-associated colors in your work area</li>
-              <li>Store important documents systematically for easy access</li>
-              <li>Continue focusing on skill development and professional networking</li>
-              <li>Consult a Vastu expert for additional guidance alongside your career efforts</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Can Vastu guarantee a job promotion?</h3>
-                <p>
-                  No, Vastu is a traditional belief system and career growth primarily depends on individual performance and effort.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Which direction is recommended for a home office as per Vastu?</h3>
-                <p>
-                  The north or east direction is generally considered favorable for a home office or work desk.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. What colors are believed to support career growth?</h3>
-                <p>
-                  Light green, light yellow, and white are commonly associated with growth and positivity.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Where should professional certificates be stored as per Vastu?</h3>
-                <p>
-                  The south or southwest direction is traditionally recommended for storing important documents.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Does a cluttered workspace affect focus according to Vastu?</h3>
-                <p>
-                  Yes, clutter is traditionally believed to disrupt clear thinking and reduce focus.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Should I rely only on Vastu for career advancement?</h3>
-                <p>
-                  No, professional skill development and consistent performance remain the primary drivers of career growth.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu consultation for home office design?</h3>
-                <p>
-                  Yes, Space Build incorporates Vastu principles into its design process for home offices and study areas.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Can plants in the home office support positive energy for career growth?</h3>
-                <p>
-                  Yes, plants like the money plant are traditionally believed to attract positive energy and growth.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              If your career growth has felt stalled despite consistent effort, a professional Vastu assessment of your home may offer useful insight alongside your continued professional efforts. For personalized Vastu consultation and home design services in Moradabad and the surrounding region, reach out to our team through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -266,7 +174,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

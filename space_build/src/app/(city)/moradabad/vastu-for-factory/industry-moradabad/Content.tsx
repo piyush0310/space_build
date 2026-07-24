@@ -7,249 +7,266 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Factory/Industry in Moradabad – Space Build
+              Vastu for Factory/Industry in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              Moradabad, known for its brass and metal industry, is home to numerous factories and manufacturing units that form the backbone of the local economy. While operational efficiency, machinery quality, workforce management, and market demand remain the primary drivers of industrial success, many factory owners in Moradabad also consider Vastu Shastra principles while planning their facilities, believing that proper direction and layout can support smoother operations and a safer working environment.
+              Moradabad&apos;s industrial identity is closely tied to its reputation as the &quot;Brass City,&quot; home
+              to thousands of manufacturing units, foundries, and export-oriented industries producing metalware,
+              handicrafts, and engineering goods for global markets. For factory owners here, operational efficiency,
+              machinery layout, and workforce management are naturally the primary concerns. But many industrial units —
+              from small foundries to larger plants — are also planned or renovated with Vastu Shastra principles in
+              mind, aiming to support smoother operations, worker safety, and long-term business stability.
             </p>
 
             <p>
-              Space Build shares traditional Vastu insights believed to support industrial spaces through thoughtful facility design. This guide explains essential Vastu tips for factories and industrial units, including machinery placement, entrance direction, and other layout considerations relevant to Moradabad&apos;s manufacturing sector.
+              At Space Build, Moradabad, we work with industrial clients across the city&apos;s manufacturing and export
+              sector, helping them plan new factory layouts and evaluate existing units through a Vastu lens. This
+              guide covers the key Vastu principles relevant to factories, common layout mistakes, and practical
+              remedies suited to real-world industrial constraints.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Important Note on Vastu and Industrial Success
+              Why Vastu Matters in an Industrial Setting
+            </h2>
+
+            <p>
+              Factory Vastu differs meaningfully from residential or retail Vastu because of the unique elements
+              involved — heavy machinery, furnaces, molten metal, chemical processes, and continuous production cycles.
+              Here, Vastu focuses heavily on the placement of fire-related processes, the direction of machinery
+              operation, worker safety zones, and the position of administrative and financial functions relative to the
+              production floor.
+            </p>
+
+            <p>
+              Given Moradabad&apos;s concentration of foundries, casting units, and metal-finishing workshops, all
+              involving significant heat and fire elements, Vastu&apos;s traditional emphasis on correct placement of
+              fire (Agni) is especially relevant to the industries dominant in this region.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Ideal Vastu Layout for a Factory or Industrial Unit
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu Shastra is a traditional belief system focused on energy balance within spaces</li>
-              <li>It is not a substitute for proper safety protocols, quality machinery, and skilled management</li>
-              <li>Industrial success depends primarily on operational efficiency and market factors</li>
-              <li>Vastu practices are considered by some as a complementary source of workplace harmony</li>
-              <li>This content is shared for informational purposes based on traditional beliefs only</li>
+              <li>
+                <strong>1. Overall Plot and Building Orientation:</strong> As with residential and commercial
+                properties, a square or rectangular plot is preferred for industrial construction, offering more
+                balanced energy distribution and generally simpler, more cost-effective structural planning. The main
+                factory gate is ideally positioned in the north, east, or northeast, allowing positive energy and
+                opportunity to enter the premises directly.
+              </li>
+              <li>
+                <strong>2. Placement of Furnaces, Foundries, and Heat-Based Processes:</strong> Given the prevalence of
+                casting and metal-melting operations in Moradabad&apos;s industries, correct placement of furnaces and
+                heat-intensive processes is one of the most important Vastu considerations. These are ideally located in
+                the southeast zone of the factory, aligned with the fire element (Agni), which is traditionally
+                associated with this direction. Placing furnaces in the northeast — the zone meant to remain the
+                lightest and most energetically pure — is generally considered highly unfavorable and is best avoided
+                wherever possible.
+              </li>
+              <li>
+                <strong>3. Heavy Machinery Placement:</strong> Heavy machinery, industrial presses, and large production
+                equipment are best positioned in the south, southwest, or west zones of the factory floor. This aligns
+                with the general Vastu principle that heavier elements and structures should be concentrated toward the
+                south and west, supporting overall structural and energetic stability.
+              </li>
+              <li>
+                <strong>4. Raw Material and Finished Goods Storage:</strong> Raw material storage works well in the west
+                or south zones, close to where primary processing occurs, while finished goods ready for dispatch are
+                ideally stored in the north or northwest, supporting smoother movement toward eventual sale and
+                distribution.
+              </li>
+              <li>
+                <strong>5. Administrative Office and Owner&apos;s Cabin:</strong> The main administrative office, along
+                with the owner&apos;s or managing director&apos;s cabin, is ideally located in the southwest zone of the
+                industrial premises, echoing the same stability and authority associations found in residential master
+                bedroom placement. The owner should ideally sit facing north or east while working.
+              </li>
+              <li>
+                <strong>6. Accounts and Finance Department:</strong> Similar to the cash counter principle in retail
+                Vastu, the accounts and finance department of a factory is best placed in the south or southwest, with
+                staff facing north or east while handling financial transactions and records.
+              </li>
+              <li>
+                <strong>7. Worker Facilities and Rest Areas:</strong> Worker rest areas, canteens, and washroom
+                facilities are generally best placed in the northwest or west zones, associated with movement,
+                transition, and rest, keeping them appropriately separate from the core production and administrative
+                zones.
+              </li>
+              <li>
+                <strong>8. Water Storage and Effluent Treatment:</strong> Water storage tanks and, where applicable,
+                effluent treatment facilities are ideally positioned in the northeast for fresh water storage, while
+                wastewater and effluent discharge points work better toward the southeast or south, keeping the flow of
+                water moving away from the plant&apos;s most sensitive energy zone.
+              </li>
+              <li>
+                <strong>9. Electrical Panels and Generator Rooms:</strong> Electrical installations, transformers, and
+                generator rooms, being associated with the fire element due to their heat and energy output, are best
+                placed in the southeast zone, similar to furnaces and other heat-intensive equipment.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Importance of Vastu for Factories and Industrial Units
+              Common Vastu Mistakes in Industrial Layouts
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Believed to influence overall productivity and workplace harmony</li>
-              <li>Considered important for maintaining a safe and organized industrial environment</li>
-              <li>Associated particularly with machinery placement, entrance direction, and storage areas</li>
-              <li>Viewed as a complementary practice alongside strong operational management</li>
-              <li>Encourages a well-organized and systematically planned industrial facility</li>
+              <li>
+                <strong>1. Furnace or Heat Source in the Northeast:</strong> This is one of the most significant and
+                most commonly seen Vastu mistakes in industrial units, particularly in smaller foundries where space
+                constraints sometimes force furnace placement without full consideration of directional zoning.
+              </li>
+              <li>
+                <strong>2. Main Gate Facing South or West Without Correction:</strong> While not automatically
+                unfavorable, a south or west-facing main gate requires more careful planning of the internal layout to
+                compensate, and is often overlooked in factories that expand incrementally over time without an overall
+                design plan.
+              </li>
+              <li>
+                <strong>3. Owner&apos;s Cabin Placed in the Northeast:</strong> Just as with furnace placement,
+                situating the owner&apos;s or senior management&apos;s cabin in the northeast zone — rather than
+                reserving this space for openness and light — is considered a common oversight that may affect
+                decision-making clarity and business stability.
+              </li>
+              <li>
+                <strong>4. Heavy Machinery Concentrated in the North or East:</strong> Since heavier structures and
+                equipment are traditionally associated with the south and west, factories that place their heaviest
+                machinery toward the north or east are believed to create an inverted energy distribution that works
+                against the plant&apos;s natural stability.
+              </li>
+              <li>
+                <strong>5. Blocked or Cluttered Northeast Zone:</strong> As in residential and commercial Vastu, a
+                northeast zone cluttered with unused equipment, scrap material, or waste storage is considered
+                particularly detrimental to the overall energy of the facility.
+              </li>
+              <li>
+                <strong>6. Irregular Plot Shape With Missing Corners:</strong> Many industrial plots, especially those
+                expanded over time through additional land purchases, end up with irregular shapes or missing corners,
+                which is generally considered less favorable and may require targeted remedies to offset.
+              </li>
+              <li>
+                <strong>7. Poor Ventilation and Natural Light in Production Areas:</strong> Beyond the specific
+                directional placements, an overall lack of natural light and fresh air circulation on the factory floor
+                is considered a general Vastu concern, believed to affect both worker wellbeing and the smooth flow of
+                operational energy.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for Factory Entrance
+              Vastu Remedies for Existing Industrial Units
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North Direction: Considered highly favorable, associated with growth and prosperity</li>
-              <li>East Direction: Also considered auspicious, allowing positive morning energy</li>
-              <li>Northeast Direction: Regarded as favorable for the main entrance and reception area</li>
-              <li>West Direction: Acceptable for secondary entrances or loading areas</li>
-              <li>Avoid South-Facing Main Entrances Without Remedies: May require additional design adjustments</li>
+              <li>
+                <strong>1. Correcting Furnace or Heat Source Placement:</strong> Where full relocation of a furnace
+                isn&apos;t feasible due to existing infrastructure investment, remedies such as installing additional
+                ventilation, ensuring adequate distance from the northeast boundary, and using copper or brass elements
+                (a material closely tied to Moradabad&apos;s own industry) in the surrounding area are commonly
+                recommended partial corrections.
+              </li>
+              <li>
+                <strong>2. Reposition the Owner&apos;s Cabin:</strong> If administrative offices currently sit in the
+                northeast, relocating the owner&apos;s or senior management&apos;s cabin to the southwest, even as a
+                phased change during future expansion or renovation, is considered a valuable long-term correction.
+              </li>
+              <li>
+                <strong>3. Balance Machinery Distribution:</strong> During any factory floor redesign or equipment
+                upgrade, gradually shifting the heaviest machinery toward the south and west zones, while lightening
+                the north and east areas, can help bring the facility&apos;s overall energy distribution closer to
+                Vastu-recommended balance.
+              </li>
+              <li>
+                <strong>4. Clear and Maintain the Northeast Zone:</strong> Regularly clearing scrap material, unused
+                equipment, and waste from the northeast zone, and where possible dedicating this area to open space, a
+                small garden, or a well-lit walkway, is one of the most cost-effective remedies available to industrial
+                units of any size.
+              </li>
+              <li>
+                <strong>5. Improve Natural Ventilation and Lighting:</strong> Adding skylights, roof ventilators, or
+                additional windows to production areas, particularly on the north and east sides of the building,
+                supports both better working conditions and improved Vastu balance.
+              </li>
+              <li>
+                <strong>6. Use Boundary Walls to Correct Irregular Plot Shapes:</strong> For plots with missing corners
+                or irregular boundaries, extending boundary walls or using landscaped buffer zones can help visually and
+                energetically &quot;complete&quot; the plot&apos;s shape where regulations and space permit.
+              </li>
+              <li>
+                <strong>7. Introduce Water Features Near the Northeast Entrance:</strong> A small, well-maintained
+                water feature near the northeast entrance of the facility, kept clean and free-flowing, is a commonly
+                used remedy believed to support smoother energy circulation into the production environment.
+              </li>
+              <li>
+                <strong>8. Place Protective Symbols Near the Main Gate:</strong> Many industrial units across Moradabad
+                follow the practice of placing an image or symbol associated with protection and prosperity near the
+                main factory gate, a simple, low-cost measure believed to support smoother day-to-day operations.
+              </li>
+              <li>
+                <strong>9. Maintain Clear Pathways Between Zones:</strong> Keeping walkways between raw material
+                storage, production areas, and finished goods sections clear and unobstructed supports not only
+                workplace safety but also the smoother energetic flow that Vastu principles emphasize throughout an
+                industrial facility.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Machinery Placement
+              Planning a New Factory? Start With Vastu at the Design Stage
+            </h2>
+
+            <p>
+              For entrepreneurs and established manufacturers planning new industrial construction in or around
+              Moradabad, integrating Vastu principles from the initial architectural and engineering design stage offers
+              far greater flexibility than attempting corrections after construction and machinery installation are
+              complete. This is particularly valuable for units involving furnaces, foundries, and other fixed heavy
+              infrastructure, where post-construction relocation is often impractical or prohibitively expensive.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              How Space Build Supports Industrial Vastu Planning in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Position heavy machinery in the south or southwest direction of the factory</li>
-              <li>Keep lighter equipment and workstations in the north or east direction</li>
-              <li>Avoid placing machinery directly in the center of the factory floor</li>
-              <li>Ensure adequate space around machinery for safe movement and maintenance access</li>
-              <li>Position furnaces or heat-generating equipment in the southeast direction</li>
+              <li>
+                At Space Build, we bring together practical industrial construction expertise with Vastu-informed design
+                planning, tailored to the specific needs of Moradabad&apos;s manufacturing and export sector. Our
+                approach typically includes:
+              </li>
+              <li>
+                Vastu-informed zoning for new factory and industrial unit construction, from the earliest design stage.
+              </li>
+              <li>
+                On-site assessment of existing industrial layouts, identifying key directional and structural concerns.
+              </li>
+              <li>
+                Specialized guidance for foundries, casting units, and metal-finishing operations common in the local
+                industry.
+              </li>
+              <li>
+                Practical, phased remedy recommendations that respect existing infrastructure investment and operational
+                continuity.
+              </li>
+              <li>
+                Integration of worker safety, operational efficiency, and Vastu principles into a single, cohesive
+                facility design.
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Raw Material Storage
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Store raw materials in the south or southwest section of the facility</li>
-              <li>Keep finished goods storage in the northwest direction, ready for dispatch</li>
-              <li>Maintain organized and clutter-free storage areas throughout the facility</li>
-              <li>Ensure proper ventilation in storage areas to maintain material quality</li>
-              <li>Avoid overcrowding storage areas, which may create both safety and energy imbalances</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Factory Office and Administrative Areas
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position the owner&apos;s or manager&apos;s office in the southwest direction of the facility</li>
-              <li>Ensure the manager faces north or east while seated at their desk</li>
-              <li>Keep administrative areas separate from heavy machinery zones for reduced noise and disruption</li>
-              <li>Maintain organized filing and documentation systems within the office area</li>
-              <li>Ensure proper lighting and ventilation within administrative spaces</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Worker Safety and Workspace Organization
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain clear pathways and organized workstations to reduce accident risks</li>
-              <li>Ensure proper lighting throughout the factory floor for worker safety</li>
-              <li>Position emergency exits in easily accessible locations, ideally facing north or east</li>
-              <li>Keep walkways free from clutter and obstruction at all times</li>
-              <li>Maintain clean and organized restrooms and break areas for workers</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Factory Boundary and Layout
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain a rectangular or square-shaped facility layout wherever possible</li>
-              <li>Ensure the boundary wall is complete and well-maintained around the property</li>
-              <li>Position the factory&apos;s tallest structures in the south or southwest direction</li>
-              <li>Keep the north and east sections of the facility relatively open and lower in height</li>
-              <li>Avoid irregular or asymmetrical facility layouts, if possible during initial planning</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Colors in Industrial Facilities
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Light Yellow: Associated with positivity and operational efficiency</li>
-              <li>White: Symbolizes clarity and works well for administrative areas</li>
-              <li>Light Grey: Practical and professional, suitable for factory floors</li>
-              <li>Light Green: Believed to promote a sense of balance and calm</li>
-              <li>Avoid Excessive Dark Colors: Generally considered less favorable for industrial spaces</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Water and Fire Elements in Factories
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position water storage tanks or bore wells in the north or northeast direction</li>
-              <li>Keep fire-related equipment, boilers, or furnaces in the southeast direction</li>
-              <li>Maintain adequate distance between water and fire-related installations</li>
-              <li>Ensure proper safety protocols are followed alongside directional placement</li>
-              <li>Avoid placing water storage directly beneath fire-related equipment</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Mistakes to Avoid in Factory Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Placing heavy machinery in the northeast direction of the factory</li>
-              <li>Positioning the main entrance in the south without proper remedies</li>
-              <li>Overcrowding storage areas with excessive raw materials or finished goods</li>
-              <li>Ignoring proper ventilation and lighting throughout the facility</li>
-              <li>Placing the administrative office directly amid heavy machinery zones</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Factories with Design Limitations
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use appropriate lighting to enhance clarity in the workspace</li>
-              <li>Incorporate organizational systems to reduce clutter and improve efficiency</li>
-              <li>Use plants in administrative areas to enhance a calming atmosphere</li>
-              <li>Maintain regular facility maintenance to minimize any negative effects of design limitations</li>
-              <li>Consult a Vastu expert for personalized remedies based on the specific facility layout</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Incorporates Vastu in Factory Design
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious planning during the initial architectural design phase</li>
-              <li>Guidance on machinery placement and facility layout</li>
-              <li>Recommendations on colors, lighting, and administrative area design</li>
-              <li>Customized solutions for factories with layout constraints</li>
-              <li>Integration of modern industrial design elements within Vastu guidelines</li>
-              <li>Collaboration with Vastu consultants for specialized project requirements</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Practical Tips for Factory Owners Considering Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plan the factory entrance and machinery placement during the initial design stage</li>
-              <li>Prioritize north, east, or northeast placement wherever feasible</li>
-              <li>Maintain organized storage and clutter-free workspaces throughout the facility</li>
-              <li>Combine Vastu practices with strong operational management and safety protocols</li>
-              <li>Consult with design experts who understand both industrial functionality and Vastu principles</li>
-              <li>Consider practical remedies if ideal placements are not achievable in your facility</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Which direction is best for a factory entrance as per Vastu?</h3>
-                <p>
-                  North, east, and northeast are generally considered the most favorable directions for a factory entrance.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Where should heavy machinery be placed in a factory?</h3>
-                <p>
-                  Heavy machinery is generally recommended in the south or southwest direction of the facility.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. What colors are recommended for factory interiors as per Vastu?</h3>
-                <p>
-                  Light yellow, white, and light grey are commonly recommended for industrial spaces.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Where should fire-related equipment be positioned in a factory?</h3>
-                <p>
-                  Fire-related equipment like boilers and furnaces are generally recommended in the southeast direction.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. What if my factory layout is not ideal as per Vastu?</h3>
-                <p>
-                  Remedies like proper lighting, organization, and regular maintenance can help balance the energy.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Does Space Build offer Vastu consultation for industrial facilities?</h3>
-                <p>
-                  Yes, Space Build incorporates Vastu principles into its design process for factories and industrial units.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Should factory owners rely only on Vastu for operational success?</h3>
-                <p>
-                  No, strong operational management, safety protocols, and market factors remain essential alongside Vastu practices.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Why is proper storage organization important in factory Vastu planning?</h3>
-                <p>
-                  Organized storage supports both practical efficiency and traditional energy balance within the facility.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              If you&apos;re planning a new industrial unit or looking to improve the Vastu balance of your existing
+              factory in Moradabad, our team can offer practical, experience-based guidance suited to the specific
+              demands of your industry. Reach out through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -265,7 +282,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

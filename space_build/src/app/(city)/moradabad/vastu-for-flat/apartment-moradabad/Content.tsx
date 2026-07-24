@@ -7,237 +7,264 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Flat/Apartment in Moradabad – Space Build
+              Vastu for Flat/Apartment in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              With growing urbanization, more homeowners in Moradabad are choosing flats and apartments over independent houses due to convenience, security, and modern amenities. However, since apartment living involves shared spaces, fixed structures, and limited scope for major structural changes, many residents find it challenging to apply traditional Vastu principles designed originally for independent homes. Fortunately, Vastu Shastra offers practical adaptations suited specifically for flats and apartment living.
+              As Moradabad continues to grow, more families are choosing flats and apartments over independent houses,
+              drawn by convenience, security, and often better connectivity to markets, schools, and workplaces. But
+              apartment living comes with a unique challenge from a Vastu perspective: unlike an independent plot, where
+              the owner controls every aspect of orientation and layout, a flat is a fixed unit within a larger
+              building, with limited scope to change its fundamental direction or structure. This raises a common
+              question among apartment buyers and residents — can Vastu principles still be meaningfully applied to a
+              flat, and if so, how?
             </p>
 
             <p>
-              Space Build helps homeowners in Moradabad apply Vastu-friendly practices within the constraints of apartment living, focusing on floor selection, room direction, and interior adjustments. This guide explains essential Vastu tips for flats and apartments, including floor selection, layout considerations, and remedies for common limitations.
+              At Space Build, Moradabad, we work with many apartment owners and buyers who want to understand how to
+              make the most of their flat&apos;s existing layout, and what practical adjustments can help balance any
+              directional limitations. This guide explains how Vastu applies specifically to flats and apartments, what
+              to look for when selecting a unit, and the remedies available for units that don&apos;t perfectly match
+              traditional Vastu ideals.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding Vastu Challenges in Apartment Living
+              How Vastu Applies Differently to Flats Compared to Independent Homes
+            </h2>
+
+            <p>
+              In an independent house, Vastu correction can involve everything from the plot&apos;s shape and slope to
+              the exact placement of every room. In a flat, many of these large structural elements — the building&apos;s
+              overall orientation, the position of shared walls, the location of the lift and staircase — are already
+              fixed by the builder and cannot be changed by an individual owner.
+            </p>
+
+            <p>
+              Because of this, Vastu for flats focuses more heavily on choosing the most favorably oriented unit
+              available within a building at the time of purchase; optimizing the internal layout and furniture
+              placement within the fixed structure; applying targeted remedies for specific directional imbalances that
+              cannot be structurally corrected; and making the most of movable elements — colors, decor, plants, and
+              furniture arrangement — to support better energy flow.
+            </p>
+
+            <p>
+              This doesn&apos;t mean Vastu becomes less relevant for flat owners; it simply means the focus shifts from
+              structural planning to selection and optimization.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Key Factors to Consider When Selecting a Flat
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Limited control over the building&apos;s overall orientation and structure</li>
-              <li>Fixed placement of plumbing, electrical points, and load-bearing walls</li>
-              <li>Shared walls and common areas with neighboring flats</li>
-              <li>Restrictions on major structural modifications within a rented or owned unit</li>
-              <li>Multiple units within a single building may not all have ideal directional alignment</li>
-              <li>Requires practical adaptations rather than complete structural changes</li>
+              <li>
+                <strong>1. Facing Direction of the Main Door:</strong> The direction the flat&apos;s main entrance faces
+                is one of the most important factors to evaluate. North and east-facing entrances are generally
+                considered the most favorable, associated with positive energy, growth, and opportunity. South-facing
+                entrances, while sometimes approached cautiously in folk belief, can work well when the interior layout
+                is planned correctly. If choosing between multiple available units in the same building, an east or
+                north-facing unit is often preferred when other factors are comparable.
+              </li>
+              <li>
+                <strong>2. Floor Level Within the Building:</strong> While floor level is often chosen for practical
+                reasons such as view, ventilation, or ease of access, Vastu also considers middle floors generally more
+                balanced in terms of energy, neither too close to the ground&apos;s heavier, denser energy nor too high,
+                where a sense of disconnection from the earth element can sometimes be felt.
+              </li>
+              <li>
+                <strong>3. Position of the Kitchen Within the Unit:</strong> Since builders design the internal layout
+                of most flats, buyers typically have limited ability to move the kitchen. However, a kitchen located in
+                the southeast corner of the flat is considered ideal, while a kitchen placed directly opposite the main
+                entrance or in the northeast is generally viewed as less favorable and may benefit from remedial
+                measures.
+              </li>
+              <li>
+                <strong>4. Placement of the Master Bedroom:</strong> Similarly, checking whether the master bedroom
+                falls in the southwest zone of the flat&apos;s layout — the most favorable position according to Vastu —
+                can be a useful comparison point when evaluating multiple available units.
+              </li>
+              <li>
+                <strong>5. Location of the Toilet in Relation to the Rest of the Unit:</strong> Toilets placed in the
+                northeast corner of a flat are considered particularly unfavorable in Vastu, as this zone is meant to
+                remain the lightest and most energetically pure part of any living space. Since toilet locations are
+                usually fixed in pre-built flats, this is an important factor to check before finalizing a purchase, as
+                it is difficult to relocate later.
+              </li>
+              <li>
+                <strong>6. Balcony Direction:</strong> Balconies facing north or east are traditionally preferred, as
+                they allow the entry of favorable morning sunlight and are associated with positive energy. A balcony
+                facing south or west can still work well when balanced with appropriate remedies such as light-colored
+                curtains or strategically placed plants.
+              </li>
+              <li>
+                <strong>7. Shape of the Unit:</strong> Just as with independent plots, a square or rectangular flat
+                layout is considered more balanced than an irregularly shaped one. Builders sometimes create angular or
+                oddly shaped units to maximize the use of an irregular building footprint, and these units may carry
+                more directional imbalance than standard rectangular layouts.
+              </li>
+              <li>
+                <strong>8. Position Relative to Lifts and Staircases:</strong> A flat located directly opposite a lift
+                shaft or staircase is generally considered less favorable in Vastu, as this constant movement of people
+                and machinery close to the main door is believed to disturb the entrance&apos;s energy. Corner units, or
+                those set slightly back from direct lift and staircase access, are often preferred where available.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Floor Selection as per Vastu
+              Common Vastu Challenges Specific to Apartment Living
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Lower to Middle Floors: Generally considered more grounded and stable</li>
-              <li>Avoid Extremely High Floors: Some traditional beliefs suggest excessive height may create a sense of instability</li>
-              <li>Avoid Ground Floor Units Facing Directly onto Busy Roads: Considered less favorable due to noise and energy disruption</li>
-              <li>Corner Units: Can be favorable if the corner aligns with auspicious directions</li>
-              <li>Consider Building Orientation: The overall direction the building faces is as important as the specific unit&apos;s position</li>
+              <li>
+                <strong>1. Fixed Layouts With Limited Structural Flexibility:</strong> Since most of the flat&apos;s
+                internal walls are load-bearing or shared with adjoining units, buyers usually cannot relocate the
+                kitchen, bathroom, or bedroom walls significantly. This makes remedy selection an important skill,
+                focusing on what can realistically be adjusted.
+              </li>
+              <li>
+                <strong>2. Shared Walls and Neighboring Units:</strong> Unlike an independent house, a flat&apos;s
+                energy is also influenced by what exists on the other side of shared walls — a neighboring kitchen,
+                bathroom, or storage area can indirectly affect a room&apos;s Vastu profile, something worth considering
+                when evaluating persistent, unexplained discomfort in a particular room.
+              </li>
+              <li>
+                <strong>3. Building Orientation Versus Unit Orientation:</strong> In some buildings, the overall
+                structure faces one direction, while individual units on different sides face different directions.
+                It&apos;s important to evaluate the specific unit&apos;s orientation rather than assuming it matches the
+                building&apos;s primary facing direction.
+              </li>
+              <li>
+                <strong>4. Limited Control Over Common Areas:</strong> Elements like the main building entrance, the
+                placement of the overhead water tank, or the location of the parking area are typically outside an
+                individual owner&apos;s control, even though they can influence the overall energy of the building as
+                experienced by residents.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for Apartment Unit Selection
+              Vastu Remedies for Flats and Apartments
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North-Facing Units: Considered highly favorable, associated with prosperity</li>
-              <li>East-Facing Units: Also considered auspicious, allowing positive morning energy</li>
-              <li>Northeast-Facing Balconies or Windows: Regarded as favorable for natural light and energy</li>
-              <li>West-Facing Units: Acceptable, particularly with proper interior layout planning</li>
-              <li>Avoid South-Facing Main Entrances Without Remedies: May require additional design adjustments</li>
+              <li>
+                <strong>1. Correcting a North-East Toilet:</strong> If the northeast zone contains a toilet and cannot
+                be relocated, remedies include keeping the door permanently closed when not in use, placing a bowl of
+                rock salt inside to absorb negative energy, using bright lighting, and ensuring strong exhaust
+                ventilation.
+              </li>
+              <li>
+                <strong>2. Balancing a Southeast or Northeast Kitchen:</strong> For kitchens not ideally placed,
+                ensuring the cook faces east while preparing food, and placing a small mirror behind the stove
+                (reflecting the cooking surface, believed to symbolically double abundance) are commonly recommended
+                partial corrections.
+              </li>
+              <li>
+                <strong>3. Adjusting Bed Placement Within a Fixed Room:</strong> Even when the bedroom&apos;s location
+                within the flat cannot be changed, repositioning the bed within that room — ideally against the south or
+                west wall, with the head pointing south or east — can meaningfully improve the room&apos;s energy for
+                the occupant.
+              </li>
+              <li>
+                <strong>4. Using Color and Light to Offset Directional Imbalances:</strong> Soft, appropriate wall
+                colors matched to each zone&apos;s associated element — light blues and greens in the east and north,
+                warm earth tones in the southwest — can help visually and energetically balance rooms that fall in less
+                favorable directions.
+              </li>
+              <li>
+                <strong>5. Strategic Mirror Placement:</strong> Mirrors placed on the north or east walls of the living
+                room are believed to amplify positive energy entering through favorably placed windows or balconies,
+                useful in compact flats where structural changes aren&apos;t possible.
+              </li>
+              <li>
+                <strong>6. Indoor Plants Near Balconies and Windows:</strong> Money plant, bamboo, and areca palm placed
+                near south or west-facing balconies can help soften the more intense energy sometimes associated with
+                these directions, while also improving indoor air quality in a compact living space.
+              </li>
+              <li>
+                <strong>7. Wind Chimes at the Entrance:</strong> A metal wind chime hung near the main door of the flat,
+                particularly if the unit faces south or west, is a simple, non-structural remedy believed to encourage
+                smoother energy flow into the home.
+              </li>
+              <li>
+                <strong>8. Keeping the Northeast Corner Light and Open:</strong> Even within a small flat, keeping the
+                northeast corner of the living area free from heavy furniture or storage, and ideally used for a small
+                prayer corner or simply left open, is one of the most impactful remedies available to apartment
+                residents.
+              </li>
+              <li>
+                <strong>9. Addressing Direct Lift or Staircase Alignment:</strong> For units directly facing a lift or
+                staircase, a small decorative screen, plant, or thoughtfully placed furniture just inside the entrance
+                can help buffer the direct energetic exposure without requiring any structural changes.
+              </li>
+              <li>
+                <strong>10. Choosing Furniture Placement to Support Better Flow:</strong> Arranging furniture to avoid
+                blocking natural pathways through the flat, keeping walkways clear, and avoiding overcrowding any single
+                room are simple, universally applicable practices that support smoother energy circulation in any
+                apartment layout.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Apartment Entrance and Foyer
+              Practical Advice for Prospective Flat Buyers in Moradabad
+            </h2>
+
+            <p>
+              Given the fixed nature of most apartment layouts, the most effective time to apply Vastu principles is
+              before finalizing a purchase, when multiple unit options are still available for comparison within the
+              same building or project. Comparing entrance direction, kitchen and toilet placement, and overall shape
+              across a few available units can make a meaningful difference, even when a perfectly ideal unit
+              isn&apos;t available.
+            </p>
+
+            <p>
+              For those who have already purchased or moved into a flat with some directional imbalances, the good news
+              is that most common issues have practical, non-structural remedies that can meaningfully improve the
+              space&apos;s overall energy without requiring major renovation.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              How Space Build Helps With Apartment Vastu in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the entrance door well-lit, clean, and clutter-free</li>
-              <li>Avoid placing shoes or waste bins directly near the entrance</li>
-              <li>Use a doormat and small decorative elements to create a welcoming space</li>
-              <li>Ensure the door opens smoothly without obstruction or excessive noise</li>
-              <li>Avoid entrance doors directly facing the elevator or another unit&apos;s door, where possible</li>
+              <li>
+                At Space Build, we assist both prospective buyers and current residents of flats and apartments across
+                Moradabad with practical, realistic Vastu guidance. Our services typically include:
+              </li>
+              <li>
+                Pre-purchase evaluation of available flat units, comparing entrance direction, room placement, and
+                overall shape.
+              </li>
+              <li>
+                On-site assessment of existing flats to identify specific directional imbalances and their severity.
+              </li>
+              <li>
+                Practical, non-structural remedy recommendations suited to the constraints of apartment living.
+              </li>
+              <li>
+                Guidance on furniture arrangement, color selection, and decor choices to support better energy flow
+                within a fixed layout.
+              </li>
+              <li>
+                Ongoing consultation for apartment owners planning interior renovation or redesign.
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Interior Room Placement in Flats
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use the room facing northeast or east as a pooja room or study area, if available</li>
-              <li>Position the master bedroom in the southwest-facing room, if available within the unit</li>
-              <li>Use the room facing north as a living or guest room, where possible</li>
-              <li>Keep the kitchen in the southeast or northwest corner of the unit, if flexible</li>
-              <li>Adapt existing room functions to align with directional guidelines wherever feasible</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Recommendations for Apartment Balconies
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position seating and plants in the east or north-facing balcony areas</li>
-              <li>Keep the balcony open and uncluttered wherever possible</li>
-              <li>Use auspicious plants like tulsi or money plant in suitable directions</li>
-              <li>Avoid overcrowding the balcony with heavy furniture or storage items</li>
-              <li>Maintain cleanliness and proper drainage on the balcony floor</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Shared Walls and Common Areas
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Avoid placing the bed directly against a shared wall with a neighboring kitchen or bathroom</li>
-              <li>Use curtains or partitions to create a sense of privacy near shared walls, if needed</li>
-              <li>Maintain cleanliness in common corridors and shared entrance areas</li>
-              <li>Avoid storing personal clutter in shared hallway spaces</li>
-              <li>Respect community guidelines while making minor Vastu-friendly adjustments to your unit</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Kitchen Placement in Flats
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use the southeast corner of the flat for the kitchen, if available</li>
-              <li>Position the cooking stove so the person cooks while facing east</li>
-              <li>Ensure proper ventilation within the kitchen, especially in compact apartment layouts</li>
-              <li>Avoid placing the kitchen directly opposite the main entrance</li>
-              <li>Keep the kitchen organized and clutter-free to support positive energy flow</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Bedroom Placement in Apartments
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Position the bed so the head faces south or west while sleeping</li>
-              <li>Avoid placing the bed directly under a beam, if present in the ceiling design</li>
-              <li>Use the southwest-facing room for the master bedroom, if available</li>
-              <li>Keep the bedroom organized and free from unnecessary clutter</li>
-              <li>Adapt bed placement within the room to align with directional guidelines, even if the room itself is fixed</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Limitations in Apartment Living
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Fixed plumbing and electrical points restrict major layout changes</li>
-              <li>Limited ability to modify the building&apos;s overall orientation</li>
-              <li>Shared walls with neighboring units may not align with ideal directions</li>
-              <li>Compact layouts may not allow for ideal room-to-room spacing</li>
-              <li>Building design decisions are made collectively, not by individual residents</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Apartments with Layout Constraints
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use furniture arrangement and interior décor to align with directional guidelines</li>
-              <li>Incorporate calming colors and natural elements like plants within the unit</li>
-              <li>Use mirrors and lighting thoughtfully to enhance the sense of space and energy</li>
-              <li>Consult a Vastu expert for interior-specific remedies suited to apartment living</li>
-              <li>Focus on cleanliness, organization, and functional layout as core adjustments</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Choosing the Right Apartment
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Prioritize north or east-facing units wherever possible</li>
-              <li>Evaluate the overall building orientation and surrounding environment</li>
-              <li>Consider floor selection based on personal preference and traditional beliefs</li>
-              <li>Assess the placement of the kitchen, bedrooms, and entrance within the unit</li>
-              <li>Consult a Vastu expert for a detailed evaluation before finalizing your choice</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Supports Vastu-Conscious Apartment Interiors
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu-conscious interior planning for flats and apartments</li>
-              <li>Guidance on furniture arrangement and room usage optimization</li>
-              <li>Recommendations on colors, materials, and décor elements</li>
-              <li>Customized solutions tailored to apartment-specific layout constraints</li>
-              <li>Collaboration with Vastu consultants for specialized interior assessments</li>
-              <li>Integration of Vastu principles alongside modern, functional apartment design</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Can Vastu principles be applied to flats and apartments?</h3>
-                <p>
-                  Yes, while structural changes are limited, interior adjustments and furniture placement can help align with Vastu principles.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Which floor is considered best for apartment living as per Vastu?</h3>
-                <p>
-                  Lower to middle floors are generally considered more grounded and stable.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Which direction is best for an apartment unit?</h3>
-                <p>
-                  North or east-facing units are generally considered the most favorable.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. What if my kitchen is not in the ideal Vastu direction in my flat?</h3>
-                <p>
-                  Adjusting the stove position and cooking direction can help partially balance the energy.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can shared walls in apartments affect Vastu balance?</h3>
-                <p>
-                  Yes, shared walls with neighboring units may require careful furniture placement to maintain balance.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Should I avoid high-floor apartments as per Vastu?</h3>
-                <p>
-                  Some traditional beliefs suggest moderate floors are more grounded, though personal preference also plays a role.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu consultation for apartment interiors?</h3>
-                <p>
-                  Yes, Space Build provides Vastu-conscious interior design solutions specifically for flats and apartments.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. What is the best way to balance Vastu limitations in a rented flat?</h3>
-                <p>
-                  Focus on furniture arrangement, colors, cleanliness, and organization, since structural changes are usually not possible in rented units.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              If you are currently evaluating flats in Moradabad or looking to improve the Vastu balance of your
+              existing apartment, our team can offer practical, tailored guidance suited to the realities of apartment
+              living. Reach out through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -253,7 +280,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

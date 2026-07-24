@@ -7,240 +7,301 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Certified Vastu Expert in Moradabad – Space Build
+              Certified Vastu Expert in Moradabad: What It Means and Why It Matters for Your Construction Project
             </h2>
 
             <p>
-              As Vastu Shastra continues to gain popularity among homeowners and businesses, many people specifically search for a &quot;certified vastu expert&quot; to ensure they are working with someone who has received proper training and possesses genuine knowledge of this traditional discipline. Unlike some professions with a single standardized licensing authority, Vastu Shastra training and certification are typically offered through specialized institutes, gurukuls, and professional courses that focus on traditional texts combined with practical application.
+              When it comes to building a home or commercial space that brings health, prosperity, and peace of mind, the
+              qualifications of the person guiding your Vastu decisions matter enormously. In recent years, Vastu Shastra
+              has become a popular buzzword, with countless self-styled advisors offering opinions based on incomplete
+              knowledge or internet research. This is exactly why more homeowners and business owners in Moradabad are
+              actively searching for a certified Vastu expert — someone whose knowledge is grounded in authentic
+              training, practical experience, and a proven track record.
             </p>
 
             <p>
-              Space Build works with knowledgeable and trained vastu experts who bring both traditional education and hands-on practical experience to every consultation in Moradabad. This guide explains what certification typically means in the field of Vastu Shastra, why proper training matters, and how Space Build ensures reliable, knowledgeable guidance for its clients.
+              At Space Build Moradabad, we take pride in offering certified Vastu expertise as an integral part of our
+              construction and design services. In this article, we&apos;ll explain what it truly means to work with a
+              certified Vastu expert, why certification and experience matter, and how our team applies this expertise
+              to residential and commercial projects across Moradabad.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding Vastu Certification and Training
+              What Does &quot;Certified Vastu Expert&quot; Actually Mean?
             </h2>
 
+            <p>
+              A certified Vastu expert is someone who has undergone structured training in the principles of Vastu
+              Shastra, often through recognized institutions, gurukul-style learning under experienced masters, or
+              specialized courses that combine traditional texts with modern application. Certification typically
+              indicates that the consultant has studied:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Training is typically offered through specialized institutes, courses, or traditional gurukul systems</li>
-              <li>Certification generally reflects completion of structured coursework in Vastu principles</li>
-              <li>No single universal government licensing body exists for Vastu consultation in India</li>
-              <li>Reputable training programs combine traditional texts with practical, real-world application</li>
-              <li>Experience working on actual properties is equally important alongside formal training</li>
-              <li>Clients should look for a combination of proper training and demonstrated practical expertise</li>
+              <li>The foundational texts and principles of Vastu Shastra</li>
+              <li>The significance of the eight directions and the central zone (Brahmasthan)</li>
+              <li>The five elements (Panchabhutas) and their influence on architecture</li>
+              <li>
+                Practical application of Vastu principles to different plot shapes, building types, and construction
+                scenarios
+              </li>
+              <li>Remedial measures for existing structures with Vastu imbalances</li>
+            </ul>
+
+            <p>
+              While Vastu Shastra doesn&apos;t have a single universal governing body issuing certifications in the same
+              way as, say, engineering or medicine, credibility in this field is built through a combination of formal
+              training, mentorship under experienced practitioners, years of hands-on consultation experience, and a
+              strong portfolio of successfully completed projects. This is the standard our team at Space Build holds
+              itself to.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Why Working With a Genuinely Qualified Expert Matters
+            </h2>
+
+            <p>
+              Construction is a significant financial and emotional investment. Whether you&apos;re building your dream
+              home or expanding your business premises, the stakes are high. Here&apos;s why working with a properly
+              trained and experienced Vastu expert — rather than relying on guesswork or unqualified advice — makes such
+              a difference:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>1. Accuracy in Directional Analysis:</strong> Determining true north (as opposed to magnetic
+                north) is a fundamental and often overlooked step in Vastu analysis. An untrained advisor may rely on
+                approximate readings, leading to inaccurate zone calculations for the entire building. A qualified expert
+                uses proper instruments and methods to ensure precision from the very first step.
+              </li>
+              <li>
+                <strong>2. Correct Application of Elemental Principles:</strong> Vastu Shastra is built around the
+                balance of earth, water, fire, air, and space. A well-trained consultant understands how these elements
+                interact with each other — for instance, why the kitchen (fire) and the water storage areas should never
+                be placed in direct opposition, or why the north-east zone (associated with water and openness) should
+                remain light and uncluttered.
+              </li>
+              <li>
+                <strong>3. Practical, Buildable Recommendations:</strong> Some inexperienced advisors offer
+                recommendations that sound good in theory but are impossible or impractical to implement given a
+                plot&apos;s actual shape, size, or local building regulations. A certified expert with real construction
+                experience — like our team at Space Build — bridges this gap, offering solutions that are both
+                Vastu-compliant and structurally sound.
+              </li>
+              <li>
+                <strong>4. Avoiding Superstition-Based Overcorrection:</strong> Unfortunately, some self-proclaimed
+                Vastu practitioners lean heavily into fear-based tactics, suggesting expensive and unnecessary remedies
+                for issues that don&apos;t significantly impact the overall energy balance of a home. A properly trained
+                expert distinguishes between major Vastu principles that genuinely matter and minor details that can be
+                reasonably adjusted without excessive cost or disruption.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Proper Training Matters for Vastu Consultation
+              The Space Build Difference: Certified Expertise Backed by Construction Experience
             </h2>
 
+            <p>
+              What sets Space Build Moradabad apart is the rare combination of certified Vastu knowledge and hands-on
+              construction expertise under one roof. Many Vastu consultants work independently of the construction
+              process, offering advice that architects and builders must then interpret and implement — sometimes
+              imperfectly. At Space Build, our Vastu experts work directly alongside our architects, engineers, and site
+              supervisors throughout the entire project lifecycle.
+            </p>
+
+            <p>This integrated approach means:</p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Ensures a solid foundational understanding of traditional Vastu Shastra principles</li>
-              <li>Provides a structured approach to assessing directional and structural elements</li>
-              <li>Reduces the risk of receiving inconsistent or contradictory advice</li>
-              <li>Supports more accurate identification of genuine Vastu defects</li>
-              <li>Helps ensure recommendations are grounded in established traditional knowledge</li>
+              <li>
+                Vastu recommendations are considered from the very first sketch of the floor plan, not added as an
+                afterthought
+              </li>
+              <li>
+                Structural feasibility and Vastu compliance are balanced simultaneously, avoiding costly redesigns
+              </li>
+              <li>
+                On-site execution is closely monitored to ensure that Vastu-critical elements — such as water tank
+                placement, staircase direction, and room positioning — are built exactly as planned
+              </li>
+              <li>
+                Clients receive a single, cohesive point of contact for both construction and Vastu guidance, rather
+                than juggling separate consultants with potentially conflicting advice
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Qualities to Look for in a Trained Vastu Expert
+              Our Certified Vastu Expert Consultation Process
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Structured Knowledge Base: A clear understanding of traditional Vastu texts and principles</li>
-              <li>Practical Application Experience: Hands-on experience assessing real properties</li>
-              <li>Consistent Methodology: A clear, structured approach to evaluating each property</li>
-              <li>Ability to Explain Reasoning: Willingness to explain the traditional basis for recommendations</li>
-              <li>Balanced Perspective: Combining traditional principles with practical construction realities</li>
-              <li>Continuous Learning: Staying updated with evolving interpretations and modern applications</li>
+              <li>
+                <strong>Step 1: Comprehensive Site Visit:</strong> Our certified expert visits the plot in person to
+                assess its shape, orientation, slope, and surrounding environment. Precise directional readings are
+                taken to establish the true cardinal directions.
+              </li>
+              <li>
+                <strong>Step 2: Client Needs Assessment:</strong> We discuss the client&apos;s family structure,
+                lifestyle, business requirements, and design preferences to ensure the Vastu plan aligns with real-world
+                needs, not just theoretical ideals.
+              </li>
+              <li>
+                <strong>Step 3: Vastu-Compliant Design Development:</strong> Working closely with our architectural
+                team, the Vastu expert helps shape a floor plan that respects directional zones for key areas — the main
+                entrance, kitchen, bedrooms, pooja room, staircase, and bathrooms — while maintaining a modern,
+                functional layout.
+              </li>
+              <li>
+                <strong>Step 4: Detailed Client Walkthrough:</strong> We present the proposed design to our clients with
+                clear explanations of each Vastu-based decision, ensuring transparency and helping clients make informed
+                choices, including any necessary trade-offs.
+              </li>
+              <li>
+                <strong>Step 5: On-Site Implementation Monitoring:</strong> Throughout construction, our team ensures
+                that Vastu-critical placements — such as the position of the overhead tank, the direction of the main
+                door, and the location of heavy structural elements — are executed precisely according to plan.
+              </li>
+              <li>
+                <strong>Step 6: Post-Handover Guidance:</strong> Even after construction is complete, our certified
+                expert remains available to advise on interior arrangement, color palettes, and furniture placement to
+                further strengthen the Vastu harmony of the finished space.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Space Build&apos;s Approach to Vastu Expertise
+              Residential Projects: Where Certified Expertise Makes a Real Difference
             </h2>
+
+            <p>
+              For homeowners, small details can have a significant cumulative effect on the overall energy of a home. Our
+              certified Vastu expert pays close attention to:
+            </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Consultants with structured training in traditional Vastu Shastra principles</li>
-              <li>Extensive hands-on experience assessing residential, commercial, and industrial properties</li>
-              <li>A consistent, methodical approach applied to every property assessment</li>
-              <li>Clear communication of the traditional reasoning behind each recommendation</li>
-              <li>Integration of Vastu expertise with practical interior design and construction knowledge</li>
-              <li>Ongoing learning and refinement of practices based on real-world project experience</li>
+              <li>
+                <strong>Main entrance orientation:</strong> Ensuring the door is placed in an auspicious zone and pada
+                (sub-division) according to the Vastu Purusha Mandala.
+              </li>
+              <li>
+                <strong>Kitchen placement and stove direction:</strong> Positioning the kitchen in the south-east and
+                ensuring the cook faces east while preparing meals.
+              </li>
+              <li>
+                <strong>Master bedroom location:</strong> Placing it in the south-west for stability and a sense of
+                authority within the household.
+              </li>
+              <li>
+                <strong>Pooja room placement:</strong> Keeping this sacred space in the north-east, free from clutter
+                and heavy furniture.
+              </li>
+              <li>
+                <strong>Staircase design:</strong> Ensuring stairs are built in the south, south-west, or west, avoiding
+                the north-east zone entirely.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Types of Vastu Training and Educational Backgrounds
+              Commercial Projects: Certified Expertise for Business Growth
             </h2>
+
+            <p>
+              For business owners, working with a certified Vastu expert can influence not just the physical layout but
+              potentially the overall energy and productivity of a workplace. Our expert consultation for commercial
+              spaces includes:
+            </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Formal Vastu Courses: Structured programs covering traditional texts and principles</li>
-              <li>Traditional Gurukul Learning: Knowledge passed down through experienced practitioners</li>
-              <li>Architectural Background: Some experts combine formal architecture education with Vastu studies</li>
-              <li>Practical Apprenticeship: Learning through hands-on experience alongside experienced consultants</li>
-              <li>Continuing Education: Ongoing study of traditional texts and evolving practical applications</li>
+              <li>
+                <strong>Office and workstation layout:</strong> Positioning employee seating, cabins, and meeting rooms
+                according to directional principles believed to support productivity and harmony.
+              </li>
+              <li>
+                <strong>Retail store design:</strong> Advising on entrance placement, product display zones, and cash
+                counter positioning to create a welcoming environment for customers.
+              </li>
+              <li>
+                <strong>Industrial and factory planning:</strong> Guiding the placement of heavy machinery, raw material
+                storage, and finished goods areas according to elemental balance.
+              </li>
+              <li>
+                <strong>Owner&apos;s cabin positioning:</strong> Typically recommended in the south-west zone to
+                symbolize stability and leadership.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Practical Experience Complements Formal Training
+              How to Evaluate a Vastu Expert Before Hiring
             </h2>
+
+            <p>
+              If you&apos;re comparing different Vastu consultants in Moradabad, here are some practical questions to
+              ask before making your decision:
+            </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Real properties often present unique challenges not covered in textbook scenarios</li>
-              <li>Practical experience helps consultants develop judgment for balancing tradition with feasibility</li>
-              <li>Hands-on work builds familiarity with common structural limitations and workable remedies</li>
-              <li>Experience across diverse property types broadens a consultant&apos;s practical knowledge base</li>
-              <li>Real-world feedback from client properties helps refine consultation approaches over time</li>
+              <li>
+                <strong>What is your training background, and who did you learn from?</strong> A credible expert should
+                be able to clearly explain their educational path and any mentorship they received.
+              </li>
+              <li>
+                <strong>Can you show examples of completed projects?</strong> A strong portfolio demonstrates real-world
+                application, not just theoretical knowledge.
+              </li>
+              <li>
+                <strong>How do you determine true north for a plot?</strong> This reveals whether the consultant follows
+                proper technical methods or relies on guesswork.
+              </li>
+              <li>
+                <strong>Do you collaborate with architects and builders, or work in isolation?</strong> Integrated
+                expertise, like what we offer at Space Build, typically leads to smoother execution.
+              </li>
+              <li>
+                <strong>How do you handle plots or homes with existing Vastu challenges?</strong> Look for practical,
+                proportionate remedies rather than expensive, fear-driven suggestions.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How to Verify a Vastu Expert&apos;s Credentials and Experience
+              Why Space Build is Moradabad&apos;s Trusted Choice
             </h2>
+
+            <p>
+              Space Build has built long-standing relationships with families and businesses across Moradabad by
+              offering certified Vastu expertise fully integrated with our construction services. Our clients benefit
+              from:
+            </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Ask about their specific educational background or training programs completed</li>
-              <li>Inquire about the number of years and types of properties they have assessed</li>
-              <li>Request examples of previous projects or client testimonials, if available</li>
-              <li>Ask them to explain the traditional basis for a sample recommendation</li>
-              <li>Assess their ability to communicate clearly and answer follow-up questions</li>
+              <li>A single, accountable team handling both design and Vastu consultation</li>
+              <li>
+                Transparent, well-explained recommendations grounded in authentic Vastu knowledge
+              </li>
+              <li>Practical solutions tailored to real plot conditions and client lifestyles</li>
+              <li>
+                A strong track record of successful residential and commercial projects across the city
+              </li>
+              <li>Ongoing support even after the project is handed over</li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Services Offered by Space Build&apos;s Vastu Experts
-            </h2>
+            <p>
+              Our goal is simple: to help you build a space that not only looks beautiful and functions efficiently but
+              also carries the balanced, positive energy that comes from thoughtful, expert-guided Vastu planning.
+            </p>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Residential Property Assessment: For homes, apartments, and duplex properties</li>
-              <li>Commercial Property Consultation: For shops, offices, and retail spaces</li>
-              <li>Industrial Facility Guidance: For factories, warehouses, and manufacturing units</li>
-              <li>Plot Evaluation Services: Assessing land characteristics before purchase</li>
-              <li>New Construction Planning: Integrating Vastu principles from the design stage</li>
-              <li>Renovation Consultation: Identifying practical corrections for existing properties</li>
-            </ul>
+            <p>
+              To speak with our certified Vastu expert about your upcoming residential or commercial project in Moradabad,
+              visit us at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Consultation Process Followed by Trained Vastu Experts
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Initial Discussion: Understanding the client&apos;s concerns and property background</li>
-              <li>Site Assessment: Conducting a thorough on-site evaluation of the property</li>
-              <li>Directional Measurement: Using traditional tools to assess accurate orientation</li>
-              <li>Defect Identification: Applying trained knowledge to identify genuine imbalances</li>
-              <li>Practical Recommendations: Providing remedies grounded in traditional principles and real-world feasibility</li>
-              <li>Client Explanation: Clearly communicating the reasoning behind each recommendation</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Clients Prefer Working with Trained Vastu Experts
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Greater confidence in the accuracy and consistency of recommendations</li>
-              <li>Reduced risk of receiving generic or contradictory advice from multiple sources</li>
-              <li>A structured, professional approach to property assessment</li>
-              <li>Better ability to balance traditional guidelines with practical construction realities</li>
-              <li>A more trustworthy and transparent overall consultation experience</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Misconceptions About Vastu Certification
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>There is no single, universally recognized government certification body for Vastu experts</li>
-              <li>A certificate alone does not guarantee practical competence without real-world experience</li>
-              <li>Genuine expertise often reflects a combination of structured training and hands-on practice</li>
-              <li>Claims of certification should be evaluated alongside demonstrated experience and client feedback</li>
-              <li>A thoughtful, transparent consultant will openly discuss their training and experience background</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Ensures Reliable Vastu Guidance
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Clear communication regarding the background and experience of consulting professionals</li>
-              <li>A structured, consistent methodology applied across all property assessments</li>
-              <li>Integration of traditional Vastu knowledge with modern construction and design expertise</li>
-              <li>Transparent discussion of the reasoning behind every recommendation provided</li>
-              <li>Ongoing commitment to refining practices based on real-world project experience</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Tips for Choosing a Knowledgeable Vastu Expert
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Ask directly about the consultant&apos;s training background and years of practical experience</li>
-              <li>Request examples of previous work or client references, if available</li>
-              <li>Evaluate their ability to explain recommendations in a clear, understandable manner</li>
-              <li>Confirm their experience with property types similar to yours</li>
-              <li>Prioritize consultants who combine formal knowledge with demonstrated practical expertise</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q1. Is there a government certification required to practice as a Vastu expert?</h3>
-                <p>
-                  No, Vastu Shastra is a traditional discipline without a single, universal government certification body.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q2. What should I look for instead of just a certificate?</h3>
-                <p>
-                  Look for a combination of structured training, practical experience, and clear communication of reasoning.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q3. Does Space Build&apos;s team have formal Vastu training?</h3>
-                <p>
-                  Yes, Space Build works with professionals who have structured training combined with extensive practical experience.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q4. Can practical experience make up for limited formal training?</h3>
-                <p>
-                  Practical experience is valuable, but a combination of both training and experience generally offers the most reliable guidance.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q5. How can I verify a vastu expert&apos;s credentials before hiring them?</h3>
-                <p>
-                  Ask about their training background, years of experience, and request examples of previous work.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q6. Does Space Build offer consultation for both homes and businesses?</h3>
-                <p>
-                  Yes, Space Build&apos;s vastu experts provide consultation for residential, commercial, and industrial properties.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q7. Will a trained vastu expert always recommend major changes?</h3>
-                <p>
-                  No, many recommendations involve practical adjustments suited to the property&apos;s existing structure.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Q8. What is the best way to evaluate a vastu expert&apos;s expertise?</h3>
-                <p>
-                  Ask them to explain the traditional basis for their recommendations and review their practical project experience.
-                </p>
-              </div>
-
-              <p>
+                          <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -256,7 +317,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

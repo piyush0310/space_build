@@ -7,15 +7,15 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu Solution for Health Problems in Moradabad – Space Build
+              Vastu Defects for Health Problems in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              According to Vastu Shastra, the design, direction, and layout of a home are believed to have a direct impact on the health and well-being of its residents. When a home has certain structural or directional imbalances, commonly referred to as Vastu defects or Vastu dosh, it is believed to disrupt the natural flow of energy, potentially contributing to recurring health issues among family members. Many homeowners in Moradabad are now paying closer attention to these Vastu principles when experiencing unexplained or persistent health concerns.
+              Health is one of the most fundamental aspects of life that Vastu Shastra addresses through its principles of directional energy, spatial harmony, and elemental balance. While modern medicine focuses on physical, biological, and environmental causes of illness, Vastu Shastra offers a complementary perspective, suggesting that the layout, orientation, and design of our living spaces can significantly influence our physical and mental well-being. In Moradabad, where residential construction continues to expand rapidly across areas like Ram Ganga Vihar, Kanth Road, Civil Lines, and Delhi Road, many families are increasingly attentive to how their home&apos;s design might be contributing to recurring health issues within the household.
             </p>
 
             <p>
-              Space Build helps homeowners identify potential Vastu defects within their homes and offers practical remedies aligned with traditional principles. This guide explains the connection between Vastu defects and health problems, common issues to watch for, and remedies that may help restore balance within the home.
+              At Space Build Moradabad, we often work with clients who are experiencing persistent health concerns and are looking to identify and correct potential Vastu defects within their homes. This article explores the most common Vastu defects associated with health problems, their typical locations within a home, and practical remedies — all tailored specifically for residential properties in Moradabad.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -23,162 +23,74 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Considered a traditional practice focused on balancing energy within a home</li>
-              <li>Believed to influence sleep quality, digestion, and overall vitality</li>
-              <li>Associated with mental clarity, stress levels, and emotional stability</li>
-              <li>Complements medical treatment rather than replacing professional healthcare advice</li>
-              <li>Considered a supportive practice alongside proper medical consultation for health issues</li>
-              <li>Encourages homeowners to create a calm, organized, and well-balanced living environment</li>
+              <li>According to Vastu Shastra, every home is influenced by the five natural elements — earth, water, fire, air, and space — each governing specific zones and directions within a property.</li>
+              <li>When these elements are balanced and properly aligned with a home&apos;s layout, the result is believed to be positive energy flow that supports physical vitality, mental clarity, and emotional stability.</li>
+              <li>When these elements are disrupted due to poor room placement, incorrect directional alignment, or structural defects, it&apos;s believed to manifest as various health issues among the residents.</li>
+              <li>While Vastu should never be considered a substitute for proper medical diagnosis and treatment, many of our clients in Moradabad view Vastu corrections as a complementary approach to supporting overall family wellness alongside conventional healthcare.</li>
+              <li>Our team at Space Build combines structural expertise with Vastu consultation to help identify and address potential energy imbalances within a home.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Defects Linked to Health Problems
+              Common Vastu Defects Associated with Health Problems
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Incorrect Bed Placement: Believed to affect sleep quality and overall rest</li>
-              <li>Bathroom in the Northeast: Associated with digestive and health-related imbalances</li>
-              <li>Kitchen in the Wrong Direction: Believed to affect appetite and digestive health</li>
-              <li>Cluttered or Blocked Entrances: Considered to restrict positive energy flow into the home</li>
-              <li>Missing Corners in the Southwest: Associated with instability and reduced vitality</li>
-              <li>Excessive Mirrors Facing the Bed: Believed to disrupt restful sleep patterns</li>
+              <li><strong>Bedroom in the South-East Direction:</strong> The south-east zone is governed by the fire element and is traditionally reserved for the kitchen. A bedroom positioned in this direction is believed to disturb sleep patterns, increase irritability, and contribute to issues related to excess heat in the body.</li>
+              <li><strong>Master Bedroom Not in the South-West Direction:</strong> The south-west zone is considered the most stable and grounding direction for the master bedroom. When positioned elsewhere — particularly in the north-east zone — it&apos;s believed to disrupt sleep quality, increase stress levels, and contribute to chronic fatigue.</li>
+              <li><strong>Toilet or Bathroom in the North-East Zone:</strong> A toilet positioned in the sacred north-east corner is considered one of the most serious Vastu defects, believed to be directly linked to chronic health issues, particularly those affecting the head, respiratory system, and overall vitality.</li>
+              <li><strong>Kitchen in the North-East Direction:</strong> The kitchen should ideally be positioned in the south-east zone. When placed in the north-east direction instead, this is believed to create a conflict between fire and the sacred energy of Ishan, potentially leading to digestive issues and headaches.</li>
+              <li><strong>Heavy Structures in the North-East Corner:</strong> Any heavy structure — such as a staircase, storage unit, or thick pillar — positioned in the north-east corner is considered a significant Vastu defect. This zone should ideally remain light and open.</li>
+              <li><strong>Missing or Extended Corners:</strong> Missing corners, particularly in the north-east (associated with head and mental health) or south-west (associated with bone health and stability), are believed to correspond to specific health vulnerabilities among residents.</li>
+              <li><strong>Center of the House (Brahmasthan) Obstructed:</strong> The exact center of a home is considered the most vital energy point. Constructing walls, staircases, bathrooms, or heavy furniture in this central zone is believed to significantly disrupt overall family health and vitality.</li>
+              <li><strong>Beds Positioned Under Beams:</strong> Sleeping under an exposed structural beam is considered a significant Vastu defect, believed to create pressure points that can lead to headaches, restless sleep, and chronic stress.</li>
+              <li><strong>Sleeping Direction Issues:</strong> Sleeping with the head towards the south is generally considered ideal for restful sleep and longevity, while sleeping with the head towards the north is often discouraged, as it&apos;s believed to disrupt the body&apos;s natural magnetic alignment.</li>
+              <li><strong>Water Storage or Leakage in the Wrong Zones:</strong> Water storage tanks positioned in the south-west or south-east zones are considered problematic. Additionally, any water leakage or dampness issues, particularly in the north-east zone, are believed to correspond to declining health.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Defects Related to Bedroom Design
+              Room-by-Room Health-Related Vastu Analysis
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Sleeping with the head positioned towards the north is generally avoided</li>
-              <li>Beds placed directly under a beam are believed to cause discomfort during sleep</li>
-              <li>Mirrors directly facing the bed are considered disruptive to restful sleep</li>
-              <li>Bedrooms located in the southeast direction are associated with restlessness</li>
-              <li>Cluttered bedrooms are believed to create stagnant energy affecting overall well-being</li>
+              <li><strong>Bedroom Health Considerations:</strong> A mirror directly facing the bed is considered a significant Vastu defect, believed to disturb sleep and create restlessness. Excessive electronic equipment near the head of the bed is believed to disrupt sleep quality. Storing excessive clutter under the bed is believed to trap stagnant energy.</li>
+              <li><strong>Kitchen Health Considerations:</strong> The cook should ideally face east while preparing meals. The gas stove (fire element) and sink (water element) should never be placed directly adjacent to or facing each other. The refrigerator should ideally be placed in the south-west or north-west zone of the kitchen.</li>
+              <li><strong>Living Room Health Considerations:</strong> Placing bulky furniture or entertainment units in the north-east corner of the living room is believed to obstruct positive energy flow. Living rooms with inadequate windows or ventilation are considered Vastu-non-compliant and can contribute to a stagnant living environment.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Defects Related to Kitchen Placement
+              Health-Specific Vastu Corrections by Ailment Type
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Kitchens located in the northeast direction are generally considered unfavorable</li>
-              <li>Cooking while facing north or west is believed to affect digestive health</li>
-              <li>Kitchens directly opposite the main entrance are considered less favorable</li>
-              <li>Improper ventilation in the kitchen is associated with health and hygiene concerns</li>
-              <li>Water and fire elements placed too close together in the kitchen are believed to create imbalance</li>
+              <li><strong>Respiratory and Head-Related Issues:</strong> Often linked to defects in the north-east zone, such as bathrooms, heavy storage, or missing corners. Correcting these zones by decluttering, improving ventilation, and ensuring adequate natural light is often recommended.</li>
+              <li><strong>Digestive Issues:</strong> Frequently associated with kitchen placement problems, particularly kitchens positioned in the north-east or improperly aligned cooking stoves. Repositioning the stove or cook&apos;s facing direction is a common recommendation.</li>
+              <li><strong>Sleep Disorders and Fatigue:</strong> Often linked to bedroom placement issues, beds positioned under beams, incorrect sleeping directions, or mirrors facing the bed. Simple corrections like repositioning the bed or covering mirrors at night are frequently suggested.</li>
+              <li><strong>Stress and Anxiety:</strong> Associated with cluttered living spaces, obstructed central zones (Brahmasthan), or poor lighting throughout the home. General decluttering, improved lighting, and opening up central areas are common recommendations.</li>
+              <li><strong>Joint and Bone Health:</strong> Traditionally linked to the south-west zone, particularly if this direction has missing corners, is too light in construction, or lacks the grounding stability Vastu recommends.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Defects Related to Bathroom Placement
+              General Remedies for Health-Related Vastu Defects
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Bathrooms located in the northeast direction are considered particularly unfavorable</li>
-              <li>Bathrooms placed directly above the kitchen or pooja room are associated with imbalance</li>
-              <li>Poor ventilation in bathrooms is linked to hygiene and health-related concerns</li>
-              <li>Leaking taps or plumbing issues are believed to represent energy loss within the home</li>
-              <li>Bathrooms directly facing the main entrance are considered less favorable</li>
+              <li><strong>Decluttering and Deep Cleaning:</strong> Regularly clearing out unused items, particularly from the north-east zone and under beds, is one of the simplest and most universally recommended remedies across all Vastu health concerns.</li>
+              <li><strong>Improving Natural Light and Ventilation:</strong> Ensuring all rooms, particularly bedrooms and living spaces, receive adequate natural light and fresh air circulation is both a practical health measure and a core Vastu principle.</li>
+              <li><strong>Repositioning Furniture:</strong> Where structurally feasible, repositioning beds away from direct beam exposure, ensuring mirrors don&apos;t face sleeping areas, and adjusting cooking stove orientation can address several common defects without requiring major renovation.</li>
+              <li><strong>Salt Water Remedy:</strong> Placing a bowl of rock salt dissolved in water in affected corners of the home, particularly the north-east zone, is a traditional remedy believed to help absorb negative energy, with the solution replaced regularly.</li>
+              <li><strong>Vastu Pyramids and Copper Items:</strong> Small copper pyramids or vessels placed in problematic zones are commonly used to help rebalance disrupted energy without structural changes.</li>
+              <li><strong>Indoor Plants:</strong> Incorporating air-purifying plants like money plant, areca palm, or peace lily throughout the home is believed to enhance overall energy quality while also providing genuine air quality benefits.</li>
+              <li><strong>Structural Corrections:</strong> For more serious Vastu defects, such as toilets in the north-east zone or significantly missing corners, structural renovation guided by both architectural and Vastu expertise may be necessary.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Defects Related to Main Entrance and Doors
+              Why Choose Space Build for Vastu Health Assessments in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Main doors that stick, creak, or do not open smoothly are considered unfavorable</li>
-              <li>Entrances blocked by clutter or obstacles are believed to restrict positive energy</li>
-              <li>Main doors directly facing a staircase are considered less favorable</li>
-              <li>Doors that are significantly smaller than surrounding structures are associated with reduced positive energy flow</li>
-              <li>Dark or poorly lit entrances are believed to affect the overall energy of the home</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Defects Related to Missing Corners
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Missing Southwest Corner: Associated with instability and reduced overall vitality</li>
-              <li>Missing Northeast Corner: Believed to affect mental clarity and spiritual balance</li>
-              <li>Missing Southeast Corner: Associated with imbalances related to energy and vitality</li>
-              <li>Irregular Plot Shapes: Considered less favorable compared to regular, symmetrical layouts</li>
-              <li>Extensions in Unfavorable Directions: May create additional imbalances within the home</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs That May Indicate a Vastu Defect
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Persistent, unexplained fatigue among family members</li>
-              <li>Difficulty sleeping or frequent disturbances during rest</li>
-              <li>Recurring minor illnesses without a clear medical cause</li>
-              <li>A general sense of restlessness or discomfort within certain areas of the home</li>
-              <li>Frequent arguments or tension among family members</li>
-              <li>A feeling of stagnation or lack of progress in daily life</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Common Health-Related Defects
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Rearranging the bed to avoid sleeping with the head towards the north</li>
-              <li>Ensuring proper ventilation and lighting in bathrooms and kitchens</li>
-              <li>Keeping the main entrance clean, well-lit, and free from obstructions</li>
-              <li>Fixing leaking taps and addressing plumbing issues promptly</li>
-              <li>Using mirrors thoughtfully, avoiding direct reflection of the bed</li>
-              <li>Incorporating indoor plants to enhance freshness and positive energy</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Improving Overall Home Energy
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain cleanliness and organization throughout the house</li>
-              <li>Ensure adequate natural light and ventilation in all rooms</li>
-              <li>Avoid clutter accumulation, especially near entrances and corners</li>
-              <li>Use calming colors in bedrooms and living areas</li>
-              <li>Keep the kitchen and dining areas clean and well-organized</li>
-              <li>Regularly declutter and organize storage spaces throughout the home</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Helps Identify and Correct Vastu Defects
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Detailed assessment of the home&apos;s layout and directional alignment</li>
-              <li>Identification of common defects related to bedroom, kitchen, and bathroom placement</li>
-              <li>Practical recommendations for correcting identified imbalances</li>
-              <li>Customized remedies suited to existing construction constraints</li>
-              <li>Collaboration with Vastu consultants for specialized assessments</li>
-              <li>Integration of Vastu principles into renovation and design projects</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Importance of Professional Medical Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Vastu remedies are considered a complementary practice, not a medical treatment</li>
-              <li>Persistent health concerns should always be discussed with a qualified doctor</li>
-              <li>Vastu adjustments may support a sense of well-being alongside proper medical care</li>
-              <li>Homeowners should not delay medical consultation while attempting Vastu remedies</li>
-              <li>A balanced approach combining medical advice and traditional practices is generally recommended</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Practical Steps for Homeowners Concerned About Vastu Defects
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Conduct a room-by-room review of your home&apos;s layout and directional alignment</li>
-              <li>Address any obvious structural issues like leaking taps or blocked entrances</li>
-              <li>Consult with a Vastu expert for a detailed assessment, if desired</li>
-              <li>Prioritize proper medical consultation for any ongoing health concerns</li>
-              <li>Make gradual improvements to lighting, ventilation, and organization within the home</li>
-              <li>Consider professional design support for larger renovation or correction projects</li>
+              <li>Every home in Moradabad has its own unique history, layout, and set of structural characteristics that may be contributing to recurring health concerns within the household.</li>
+              <li>At Space Build, our team combines architectural and structural expertise with Vastu consultation to conduct thorough assessments of existing properties, identifying potential defects and recommending practical, feasible corrections.</li>
+              <li>Whether you&apos;re renovating an existing home to address suspected Vastu-related health concerns, or planning a new construction project with health and wellness as a priority from the outset, our team can guide you through a comprehensive evaluation and design process.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -187,62 +99,78 @@ const Content = () => {
 
             <div className="space-y-6 mt-6">
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Can Vastu defects really cause health problems?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">1. Which Vastu defect is most serious for health problems?</h3>
                 <p>
-                  Vastu Shastra is a traditional belief system, and while many homeowners follow it, persistent health issues should always be addressed through medical consultation.
+                  A toilet or bathroom in the north-east zone is considered one of the most serious Vastu defects, believed to be directly linked to chronic health issues affecting the head, respiratory system, and overall vitality.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Which bathroom placement is considered a Vastu defect for health?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">2. Which direction is best for the master bedroom?</h3>
                 <p>
-                  A bathroom located in the northeast direction is generally considered unfavorable as per Vastu.
+                  The south-west zone is considered the most stable and grounding direction for the master bedroom, promoting better sleep quality and reduced stress levels.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Does bed placement affect health according to Vastu?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">3. Is sleeping with head towards north bad?</h3>
                 <p>
-                  Yes, sleeping with the head towards the north is generally avoided as per traditional Vastu beliefs.
+                  Yes, sleeping with the head towards the north is generally discouraged in Vastu, as it&apos;s believed to disrupt the body&apos;s natural magnetic alignment and potentially affect sleep quality and overall health.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Can missing corners in a home cause Vastu-related imbalances?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">4. Can mirrors in the bedroom affect health?</h3>
                 <p>
-                  Yes, missing corners, especially in the southwest, are considered significant Vastu defects.
+                  Yes, a mirror directly facing the bed is considered a significant Vastu defect, believed to disturb sleep and create restlessness or anxiety.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. What remedies are suggested for kitchen-related Vastu defects?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">5. What is Brahmasthan and why should it be kept open?</h3>
                 <p>
-                  Ensuring proper ventilation, cooking while facing east, and maintaining cleanliness are common recommendations.
+                  The Brahmasthan is the exact center of a home, considered the most vital energy point. Constructing walls, staircases, or placing heavy furniture here is believed to significantly disrupt overall family health.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Should I stop medical treatment and rely only on Vastu remedies?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">6. Can Vastu remedies help with health issues?</h3>
                 <p>
-                  No, Vastu remedies should complement, not replace, professional medical consultation for health concerns.
+                  Yes, remedies like decluttering, improving ventilation, salt water remedy, Vastu pyramids, and indoor plants can help balance energy. However, Vastu should complement, not replace, proper medical care.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer Vastu assessments for existing homes?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">7. Which zone is associated with digestive issues?</h3>
                 <p>
-                  Yes, Space Build provides guidance to identify and correct potential Vastu defects in existing properties.
+                  Digestive issues are frequently associated with kitchen placement problems, particularly kitchens positioned in the north-east instead of the ideal south-east zone.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Can clutter near the main entrance affect home energy?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">8. How can I contact Space Build for a consultation?</h3>
                 <p>
-                  Yes, clutter near entrances is believed to restrict positive energy flow according to Vastu principles.
+                  You can reach out to Space Build through our website or contact us directly to discuss your Vastu requirements for your property.
                 </p>
               </div>
 
-              <p>
+              <p className="mt-6">
+                📞 <strong>WhatsApp / Call:</strong>{" "}
+                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                  +91 9927611780
+                </a>
+                <br />
+                📧 <strong>Email:</strong>{" "}
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
+                </a>
+                <br />
+                🌐 <strong>Website:</strong>{" "}
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                  www.spacebuild.co.in
+                </a>
+              </p>
+                                        <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780

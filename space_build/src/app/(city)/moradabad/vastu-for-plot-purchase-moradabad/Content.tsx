@@ -7,229 +7,194 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Plot Purchase in Moradabad – Space Build
+              Vastu for Plot Purchase in Moradabad: A Complete Guide by Space Build
             </h2>
 
             <p>
-              Purchasing a plot of land is one of the most significant financial and lifelong decisions for any individual or family. Beyond legal documentation, location, and pricing, many homebuyers in Moradabad also consider Vastu Shastra principles while selecting a plot, believing that the shape, direction, and natural characteristics of the land can influence the overall harmony and prosperity of the future home built upon it.
+              Buying a plot of land is one of the biggest financial and emotional decisions a family makes. It&apos;s the
+              foundation — quite literally — on which a home, a business, or an entire future is built. While location,
+              legal clearances, price, and connectivity are the factors most buyers focus on first, Vastu Shastra adds
+              another important dimension to this decision: the shape, direction, slope, and surrounding environment of
+              the land itself, all of which are believed to influence the prosperity, health, and harmony of everyone
+              who eventually lives or works there.
             </p>
 
             <p>
-              Space Build shares practical Vastu insights to help homeowners make informed decisions while purchasing a plot in Moradabad. This guide explains essential Vastu guidelines related to plot shape, direction, road facing, soil quality, and other important considerations before finalizing a land purchase.
+              At Space Build, Moradabad, we assist a large number of families and investors evaluating plots across the
+              city and surrounding areas before they finalize a purchase. Because a plot&apos;s fundamental characteristics
+              — its shape, orientation, and natural features — are far more difficult and expensive to correct after
+              construction than before, we strongly recommend a Vastu assessment as part of the due diligence process,
+              well before signing any purchase agreement. This guide walks through the key Vastu principles to consider
+              when buying a plot, common red flags to watch for, and remedies available for plots that don&apos;t perfectly
+              match traditional guidelines.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Importance of Vastu Before Plot Purchase
+              Why Vastu for Plot Purchase Matters More Than People Realize
+            </h2>
+
+            <p>
+              Many buyers assume Vastu only becomes relevant once construction begins, but by that stage, the plot&apos;s
+              fundamental shape, direction, and orientation are already fixed. Correcting a poorly shaped or badly
+              oriented plot after purchase often means expensive redesigns, wasted usable area, or remedies that can
+              only partially offset the underlying issue. Evaluating a plot&apos;s Vastu characteristics before purchase
+              allows buyers to make a fully informed decision, factoring in not just price and location but the
+              long-term energetic suitability of the land for a home or business.
+            </p>
+
+            <p>
+              For a growing city like Moradabad, where new residential layouts and colonies continue to expand alongside
+              established neighborhoods, buyers today have considerable choice. This makes it all the more worthwhile
+              to be selective and apply Vastu principles as one of several filters when comparing plots.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Key Vastu Factors to Evaluate Before Buying a Plot
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Helps identify plots believed to support positive energy and prosperity</li>
-              <li>Assists in avoiding irregularly shaped or problematic land parcels</li>
-              <li>Considered important for long-term stability and family well-being</li>
-              <li>Complements practical factors like legal clearance, location, and infrastructure</li>
-              <li>Helps homeowners plan future construction with fewer Vastu-related compromises</li>
-              <li>Encourages a thoughtful, informed approach to a major property investment</li>
+              <li>
+                <strong>1. Shape of the Plot:</strong> A square or rectangular plot is considered the most favorable
+                shape in Vastu, as it allows for balanced energy distribution and straightforward, symmetrical
+                construction. Irregular shapes — such as triangular, L-shaped, or plots with multiple odd angles — are
+                generally considered less favorable, as they often result in missing corners or unusable energy zones
+                that are difficult to correct later.
+              </li>
+              <li>
+                <strong>2. Direction the Plot Faces:</strong> The direction a plot faces significantly influences the
+                design possibilities for the main entrance, room placement, and overall energy flow of the eventual
+                structure. Broadly speaking: east-facing plots are associated with positivity, health, and new
+                beginnings; north-facing plots are traditionally linked with wealth and financial growth; south-facing
+                plots can be auspicious when designed correctly; west-facing plots are considered favorable for
+                stability and long-term growth.
+              </li>
+              <li>
+                <strong>3. Slope of the Land:</strong> Land that slopes downward from south to north, or from west to
+                east, is generally considered favorable, as it is believed to align water and energy flow in a naturally
+                beneficial direction. A plot that slopes downward toward the south or west is traditionally considered
+                less favorable and may require additional groundwork or leveling before construction.
+              </li>
+              <li>
+                <strong>4. Road Position Relative to the Plot:</strong> Roads on the north or east side of a plot are
+                generally considered favorable, particularly for residential construction, as they support a
+                well-placed, auspicious main entrance. A plot with its only road access from the south or west can still
+                be developed successfully, but requires more careful entrance planning.
+              </li>
+              <li>
+                <strong>5. Surrounding Environment:</strong> Vastu also takes into account what surrounds a plot.
+                Proximity to temples, open green spaces, or calm surroundings is generally viewed positively. Plots
+                located directly opposite a T-junction, near a graveyard or cremation ground, adjacent to a large
+                electrical transformer, or backing directly onto a religious structure of a different faith than the
+                buyer&apos;s, are traditionally approached with more caution.
+              </li>
+              <li>
+                <strong>6. Missing or Cut Corners:</strong> Plots with a missing corner — for example, an L-shaped plot
+                where one corner has been cut away, often due to road-widening or irregular land division — are
+                considered to have a directional weakness corresponding to that missing zone. A missing northeast corner
+                is considered particularly unfavorable, while a missing southwest corner may create instability in the
+                eventual structure.
+              </li>
+              <li>
+                <strong>7. Water Bodies and Natural Features Nearby:</strong> A plot located near a flowing water body
+                such as a river, positioned to the north or east of the property, is traditionally considered auspicious.
+                Stagnant water bodies, particularly to the south or west, are generally viewed less favorably and may
+                require additional consideration during planning.
+              </li>
+              <li>
+                <strong>8. Elevation Relative to Neighboring Plots:</strong> Ideally, a plot should be level or slightly
+                elevated compared to the surrounding road and neighboring properties, particularly toward the south and
+                west. A plot significantly lower than its surroundings, especially prone to waterlogging, is generally
+                considered less favorable from both a practical and Vastu perspective.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Plot Shapes as per Vastu
+              Common Red Flags to Watch For When Evaluating a Plot
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Square Plots: Considered the most auspicious and balanced shape</li>
-              <li>Rectangular Plots: Also favorable, provided the length-to-width ratio remains reasonable</li>
-              <li>Avoid Triangular Plots: Generally considered less favorable due to irregular corners</li>
-              <li>Avoid L-Shaped Plots: Associated with potential structural and energy imbalances</li>
-              <li>Avoid Plots with Missing Corners: Irregular boundaries are generally avoided</li>
-              <li>Avoid Circular or Curved Plots: Considered unconventional and less favorable as per traditional Vastu</li>
+              <li>Highly irregular shapes with several sharp angles or multiple missing corners.</li>
+              <li>A plot significantly lower than the surrounding road level, prone to water accumulation.</li>
+              <li>Direct alignment with a T-junction or dead-end road facing the plot.</li>
+              <li>Immediate proximity to a cremation ground, graveyard, or similarly inauspicious site.</li>
+              <li>A plot surrounded on three or more sides by much taller existing structures, restricting natural light and ventilation.</li>
+              <li>Land with a history of prolonged vacancy, disputes, or unresolved legal issues.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ideal Direction for Plot Selection
+              Vastu-Friendly Practices When Finalizing a Plot Purchase
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>North-Facing Plots: Considered highly favorable, associated with prosperity</li>
-              <li>East-Facing Plots: Also considered auspicious, allowing positive morning energy</li>
-              <li>Northeast-Facing Plots: Regarded as one of the most favorable orientations</li>
-              <li>West-Facing Plots: Acceptable, particularly with proper design planning</li>
-              <li>South-Facing Plots: Can also be favorable when designed correctly, though require careful planning</li>
+              <li>
+                <strong>1. Prioritize Regular, Symmetrical Shapes:</strong> Where possible, choosing a square or
+                rectangular plot over an irregular one simplifies both construction and long-term Vastu compliance,
+                often saving significant redesign costs later.
+              </li>
+              <li>
+                <strong>2. Evaluate the Entrance Potential Early:</strong> Before finalizing a plot, it helps to mentally
+                map out where the main entrance and key rooms would ideally sit, based on the plot&apos;s road access and
+                orientation, to confirm the layout can accommodate a well-planned, Vastu-compliant design.
+              </li>
+              <li>
+                <strong>3. Get a Soil and Slope Assessment:</strong> Beyond visual inspection, a basic soil test and
+                slope assessment can confirm the plot&apos;s natural drainage pattern, helping verify whether it aligns
+                with favorable Vastu slope directions.
+              </li>
+              <li>
+                <strong>4. Consult Before, Not After:</strong> The most valuable time for a Vastu consultation is before
+                the purchase agreement is signed, when there is still flexibility to choose between multiple available
+                plots or negotiate based on identified concerns.
+              </li>
+              <li>
+                <strong>5. Consider Corrective Landscaping for Minor Issues:</strong> For plots with minor slope or shape
+                imperfections that don&apos;t rule out purchase entirely, corrective landscaping — such as strategic
+                leveling, boundary wall adjustments, or planned green buffers — can help mitigate some Vastu concerns
+                during the construction planning phase.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Road-Facing Plots
+              Remedies for Plots With Vastu Imperfections
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Plots with roads on the north or east side are generally considered favorable</li>
-              <li>Corner plots with roads on two sides can be favorable if planned correctly</li>
-              <li>Avoid plots where the road ends directly at the plot boundary, known as a T-junction</li>
-              <li>Avoid plots facing a dead-end road, as this may restrict positive energy flow</li>
-              <li>Ensure the road width is proportionate to the size of the plot for practical and energetic balance</li>
+              <li>For missing corners: Extending a boundary wall or using landscaping to visually and energetically &quot;complete&quot; the missing zone, where local regulations permit.</li>
+              <li>For unfavorable slopes: Careful leveling and grading during the foundation stage to correct minor slope issues before construction begins.</li>
+              <li>For T-junction facing plots: Strategic placement of a boundary wall, decorative element, or thoughtfully designed entrance to buffer the direct alignment.</li>
+              <li>For irregular shapes: Designing the building footprint as a regular shape within the irregular plot boundary, using the leftover space for gardens, parking, or utility areas rather than living spaces.</li>
+              <li>For plots with restricted natural light: Incorporating skylights, light wells, and open courtyards into the building design to compensate for surrounding structures blocking direct sunlight.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Considerations for Plot Slope and Elevation
+              How Space Build Assists With Plot Evaluation in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Slope Towards North or East: Considered highly favorable for water drainage and energy flow</li>
-              <li>Avoid Slope Towards South or West: Generally considered less favorable</li>
-              <li>Higher Elevation in the Southwest: Considered auspicious for stability</li>
-              <li>Lower Elevation in the Northeast: Believed to support positive energy entry</li>
-              <li>Avoid plots with uneven or unpredictable slopes across the land</li>
+              <li>At Space Build, we regularly help clients across Moradabad evaluate potential plots before they commit to a purchase. Our process typically includes:</li>
+              <li>An on-site visit to assess the plot&apos;s shape, direction, slope, and immediate surroundings.</li>
+              <li>Direction-wise mapping against classical Vastu guidelines to identify strengths and potential concerns.</li>
+              <li>A clear, practical report outlining whether identified issues are minor and correctable, or significant enough to warrant reconsideration.</li>
+              <li>Guidance on how a favorable or imperfect plot can best be utilized for construction, including entrance placement and room layout planning.</li>
+              <li>Ongoing support through the construction planning phase, ensuring the final structure makes the most of the plot&apos;s natural strengths.</li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for Soil Quality and Land Characteristics
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Fertile, well-draining soil is generally considered favorable</li>
-              <li>Avoid plots with waterlogging issues or poor drainage</li>
-              <li>Rocky or excessively hard soil may require additional structural planning</li>
-              <li>Avoid plots previously used for burial grounds or associated with negative history</li>
-              <li>Consider soil testing for both practical construction stability and traditional evaluation</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Tips for Surrounding Environment
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Avoid plots located directly opposite temples, cremation grounds, or hospitals</li>
-              <li>Avoid plots surrounded by dense, overgrown vegetation without proper clearing</li>
-              <li>Plots near water bodies like rivers or lakes are generally considered favorable, in moderation</li>
-              <li>Avoid plots directly facing electrical substations or transformers</li>
-              <li>Consider the overall neighborhood development and future growth potential</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Defects to Avoid While Purchasing a Plot
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plots with irregular or missing corners</li>
-              <li>Land with a slope towards the southwest direction</li>
-              <li>Plots situated at the end of a T-junction road</li>
-              <li>Land previously associated with disputes or negative history</li>
-              <li>Plots with poor drainage or persistent waterlogging issues</li>
-              <li>Excessively narrow or elongated plot dimensions</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Plots with Minor Limitations
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Adjusting the internal layout of the future home to compensate for plot orientation</li>
-              <li>Using landscaping and boundary wall design to balance irregular shapes</li>
-              <li>Incorporating specific colors and materials during construction to offset limitations</li>
-              <li>Consulting a Vastu expert early in the design phase for tailored solutions</li>
-              <li>Prioritizing proper drainage and soil treatment during construction preparation</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Checklist Before Finalizing a Plot Purchase
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Confirm the plot shape is regular, ideally square or rectangular</li>
-              <li>Verify the plot&apos;s directional orientation and road-facing position</li>
-              <li>Assess the natural slope and elevation of the land</li>
-              <li>Evaluate soil quality and drainage characteristics</li>
-              <li>Review the surrounding environment and neighborhood development</li>
-              <li>Consult a Vastu expert for a detailed on-site assessment, if desired</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Assists with Plot Evaluation and Planning
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Detailed assessment of plot shape, direction, and orientation</li>
-              <li>Guidance on road-facing considerations and slope evaluation</li>
-              <li>Recommendations for construction planning based on plot characteristics</li>
-              <li>Customized solutions for plots with minor Vastu-related limitations</li>
-              <li>Collaboration with Vastu consultants for specialized assessments</li>
-              <li>End-to-end support from plot evaluation to final construction planning</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Practical Tips for Homeowners Purchasing a Plot
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Verify all legal documentation and clearances before considering Vastu factors</li>
-              <li>Visit the plot in person to assess its shape, slope, and surroundings</li>
-              <li>Consider both practical infrastructure and traditional Vastu guidelines</li>
-              <li>Consult with a Vastu expert for a detailed evaluation, if desired</li>
-              <li>Plan your future construction layout considering the plot&apos;s specific characteristics</li>
-              <li>Work with experienced professionals to address any minor limitations through design</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. What is the most auspicious plot shape as per Vastu?</h3>
-                <p>
-                  A square or rectangular plot is generally considered the most auspicious shape.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Which direction is considered best for plot facing?</h3>
-                <p>
-                  North, east, and northeast-facing plots are generally considered the most favorable.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Should a plot with a T-junction road be avoided?</h3>
-                <p>
-                  Yes, plots situated at the end of a T-junction road are generally considered unfavorable as per Vastu.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. What slope direction is recommended for a plot?</h3>
-                <p>
-                  A slope towards the north or east is generally considered favorable for drainage and energy flow.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can plots with minor Vastu defects still be purchased?</h3>
-                <p>
-                  Yes, minor limitations can often be addressed through thoughtful construction planning and remedies.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Why are irregularly shaped plots generally avoided?</h3>
-                <p>
-                  Irregular shapes with missing corners are believed to create imbalance in energy flow.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build offer plot evaluation services in Moradabad?</h3>
-                <p>
-                  Yes, Space Build provides guidance on plot evaluation from both practical and Vastu perspectives.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Should soil quality be considered along with Vastu principles?</h3>
-                <p>
-                  Yes, soil quality is important both for practical construction stability and traditional evaluation.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              Choosing the right plot is a decision that shapes every future project built upon it. If you are currently
+              evaluating land in or around Moradabad and want an informed second opinion before finalizing your
+              purchase, our team can help you assess both the practical and Vastu dimensions of your options. Reach out
+              through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -245,7 +210,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 

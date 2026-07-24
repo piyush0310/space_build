@@ -7,391 +7,285 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Vastu for Hotel and Restaurant
+              Vastu for Hotel and Restaurant: A Complete Guide by Space Build, Moradabad
             </h2>
 
             <p>
-              Hotels and restaurants are places where customer satisfaction, comfort, hygiene, and positive experiences are the foundation of success. Along with excellent service and quality food, the layout and energy of the property also play an important role. According to Vastu Shastra, a well-planned hotel or restaurant can create a welcoming atmosphere, improve business opportunities, support staff efficiency, and provide a pleasant experience for guests.
+              The hospitality industry runs on guest experience — comfort, service, ambience, and the overall feeling a
+              visitor takes away from their stay or meal. While interior design, menu quality, staff training, and
+              location remain the core drivers of success for any hotel or restaurant, many owners in the hospitality
+              space also turn to Vastu Shastra to help shape an environment that feels naturally welcoming, encourages
+              guests to stay longer or return often, and supports smooth day-to-day operations behind the scenes.
             </p>
 
             <p>
-              At Space Build, we provide professional Vastu consultation for hotels, restaurants, cafés, resorts, banquet halls, and other hospitality businesses. Our experts combine practical planning with Vastu principles to create spaces that are functional, attractive, and suitable for long-term business growth.
+              At Space Build, Moradabad, we work with hotel owners, restaurant operators, and hospitality entrepreneurs
+              to plan and refine spaces that balance strong commercial design with traditional Vastu principles. This
+              guide covers the key Vastu considerations for hotels and restaurants, common layout mistakes specific to
+              the hospitality sector, and practical remedies for properties working within existing structural
+              limitations.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Importance of Vastu for Hotels and Restaurants
+              Why Vastu Matters in the Hospitality Business
+            </h2>
+
+            <p>
+              Hospitality businesses depend heavily on repeat guests, word-of-mouth reputation, and the subtle, often
+              unspoken impressions a space leaves on visitors. A guest may not consciously notice the direction a
+              reception desk faces or where the kitchen sits relative to the dining area, but Vastu principles suggest
+              that these underlying structural choices influence the overall energy of a space in ways that shape guest
+              comfort, staff efficiency, and even financial performance over time.
+            </p>
+
+            <p>
+              For a hotel, this translates into questions around guest room placement, reception design, and the flow of
+              movement through lobbies and corridors. For a restaurant, it centers heavily on kitchen placement, seating
+              arrangement, and the position of the cash counter — all areas where Vastu and good commercial design
+              frequently overlap.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Ideal Vastu Layout for a Hotel
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Creates a positive atmosphere</li>
-              <li>Improves customer satisfaction</li>
-              <li>Supports smooth daily operations</li>
-              <li>Encourages business growth</li>
-              <li>Builds a strong business reputation</li>
+              <li>
+                <strong>1. Main Entrance and Reception:</strong> The main entrance of a hotel is ideally positioned
+                facing north or east, associated with positive energy and a welcoming first impression for arriving
+                guests. The reception desk works best in the north zone, with staff facing east or north while greeting
+                and checking in guests.
+              </li>
+              <li>
+                <strong>2. Guest Room Placement:</strong> Guest rooms are best distributed across the west, northwest,
+                and south zones of the building, with the more premium or larger suites ideally located toward the
+                southwest, associated with stability and comfort. Within each room, beds should ideally allow guests to
+                sleep with their heads toward the south or east.
+              </li>
+              <li>
+                <strong>3. Dining and Restaurant Area (Within a Hotel):</strong> An in-house restaurant or dining hall
+                works well in the east or north zone, benefiting from natural light and a bright, appetite-friendly
+                atmosphere during breakfast and daytime service.
+              </li>
+              <li>
+                <strong>4. Kitchen:</strong> The hotel kitchen, like any commercial kitchen, is ideally placed in the
+                southeast zone, aligned with the fire element, supporting both practical efficiency and traditional
+                Vastu guidance.
+              </li>
+              <li>
+                <strong>5. Owner&apos;s Office and Administrative Areas:</strong> The general manager&apos;s office and
+                core administrative functions are best located in the southwest zone, echoing the same stability and
+                authority principles found in other commercial and industrial Vastu applications.
+              </li>
+              <li>
+                <strong>6. Swimming Pool and Water Features:</strong> If the property includes a swimming pool or
+                decorative water feature, the northeast zone is traditionally considered the most favorable placement,
+                supporting a sense of freshness and positive energy near the property&apos;s most energetically
+                significant corner.
+              </li>
+              <li>
+                <strong>7. Parking and Service Areas:</strong> Parking areas, luggage storage, and back-of-house service
+                zones work well in the northwest, associated with movement and transition, keeping these functional areas
+                separate from guest-facing zones.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Hotel and Restaurant Vastu
+              Ideal Vastu Layout for a Restaurant
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Better customer experience</li>
-              <li>Improved staff productivity</li>
-              <li>Positive working environment</li>
-              <li>Better financial stability</li>
-              <li>Increased customer retention</li>
+              <li>
+                <strong>1. Main Entrance:</strong> A restaurant&apos;s main entrance is ideally positioned facing north
+                or east, allowing natural light and positive energy to welcome guests as they arrive. The entrance
+                should remain clear, well-lit, and free from clutter or obstruction.
+              </li>
+              <li>
+                <strong>2. Kitchen Placement:</strong> As with hotels, the restaurant kitchen belongs in the southeast
+                zone, aligned with the fire element. The cooking range within the kitchen should ideally be positioned
+                so the chef faces east while cooking, and the kitchen should never be placed directly opposite the main
+                entrance.
+              </li>
+              <li>
+                <strong>3. Seating Arrangement:</strong> The main dining and seating area works best in the north, east,
+                or central zone of the restaurant, offering guests a bright, open, comfortable space to enjoy their
+                meal. Seating arranged so guests generally face north or east while dining is considered particularly
+                favorable.
+              </li>
+              <li>
+                <strong>4. Cash Counter:</strong> The billing or cash counter is ideally placed in the south or
+                southwest zone, with staff facing north or east while completing transactions, mirroring the same
+                principle applied in retail commercial Vastu.
+              </li>
+              <li>
+                <strong>5. Storage and Inventory:</strong> Raw material and inventory storage, including cold storage
+                units, work well in the south or west zones, keeping supplies organized and away from the
+                restaurant&apos;s most guest-visible areas.
+              </li>
+              <li>
+                <strong>6. Washroom Placement:</strong> Guest washrooms are best located in the northwest zone, kept
+                clean, well-ventilated, and clearly separated from the dining and kitchen areas.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Main Entrance Vastu
+              Common Vastu Mistakes in Hotels and Restaurants
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the entrance clean</li>
-              <li>Ensure proper lighting</li>
-              <li>Remove unnecessary obstacles</li>
-              <li>Display clear business signage</li>
-              <li>Maintain easy customer access</li>
+              <li>
+                <strong>1. Kitchen Facing the Main Entrance:</strong> A kitchen positioned directly opposite the main
+                entrance, whether in a hotel or restaurant, is generally discouraged, as it is believed to create an
+                unbalanced first impression and disrupt the smooth flow of energy into the establishment.
+              </li>
+              <li>
+                <strong>2. Reception or Cash Counter Facing South:</strong> Staff seated facing south at either a hotel
+                reception desk or restaurant billing counter is traditionally discouraged, associated with reduced
+                clarity and less favorable financial energy compared to north or east-facing arrangements.
+              </li>
+              <li>
+                <strong>3. Guest Rooms in the Northeast:</strong> Placing premium guest rooms or suites in the northeast
+                zone, rather than reserving this area for openness and light, is considered a missed opportunity to make
+                the most of the building&apos;s most energetically significant corner.
+              </li>
+              <li>
+                <strong>4. Cluttered or Obstructed Lobbies and Waiting Areas:</strong> A hotel lobby or restaurant
+                waiting area crowded with unnecessary furniture, signage, or decor is believed to restrict both the
+                physical flow of guests and the overall positive energy of the space, in addition to being a poor first
+                impression practically speaking.
+              </li>
+              <li>
+                <strong>5. Toilets or Waste Storage in the Northeast:</strong> As with all commercial properties,
+                placing washrooms, waste disposal areas, or heavy storage in the northeast zone of a hotel or restaurant
+                is considered a significant Vastu concern.
+              </li>
+              <li>
+                <strong>6. Overhead Beams Above Dining Tables or Reception Desks:</strong> Structural beams running
+                directly above a restaurant&apos;s dining tables or a hotel&apos;s reception desk are generally
+                discouraged, believed to create a subtle sense of pressure that can affect guest comfort and staff
+                confidence.
+              </li>
+              <li>
+                <strong>7. Irregular or Cramped Kitchen Layouts:</strong> Beyond directional placement, a cramped,
+                poorly ventilated, or awkwardly shaped commercial kitchen is considered a Vastu concern in addition to
+                an operational one, believed to affect both food quality consistency and staff wellbeing during long
+                service hours.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Reception Area Vastu
+              Vastu Remedies for Existing Hotels and Restaurants
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the reception clutter-free</li>
-              <li>Maintain proper lighting</li>
-              <li>Arrange comfortable seating</li>
-              <li>Use pleasant décor</li>
-              <li>Ensure smooth customer movement</li>
+              <li>
+                <strong>1. Reposition the Cash Counter or Reception Desk:</strong> Where feasible, repositioning the
+                reception desk or cash counter so staff face north or east is one of the simplest and most commonly
+                recommended corrections for existing properties.
+              </li>
+              <li>
+                <strong>2. Add a Screen or Partition Near a South-Facing Kitchen Entrance:</strong> If the kitchen cannot
+                be relocated away from facing the main entrance, a decorative screen, partition, or well-placed greenery
+                near the kitchen entrance can help visually and energetically buffer the direct alignment.
+              </li>
+              <li>
+                <strong>3. Declutter Lobbies, Waiting Areas, and Corridors:</strong> Regularly clearing unnecessary
+                furniture, signage, and decor from guest-facing areas supports both a stronger first impression and
+                better overall energy flow through the property.
+              </li>
+              <li>
+                <strong>4. Add False Ceilings to Manage Overhead Beams:</strong> For dining areas or reception zones
+                affected by structural beams, a false ceiling is a straightforward way to soften their visual and
+                energetic impact without requiring major renovation.
+              </li>
+              <li>
+                <strong>5. Keep the Northeast Zone Light and Open:</strong> Dedicating the northeast corner of the
+                property to a small seating nook, a water feature, or simply an open, well-lit space, rather than
+                storage or washrooms, is one of the most impactful remedies available to hospitality properties of any
+                size.
+              </li>
+              <li>
+                <strong>6. Improve Kitchen Ventilation and Layout:</strong> Where a full kitchen relocation isn&apos;t
+                practical, improving ventilation, reorganizing workflow to reduce congestion, and ensuring the cooking
+                range faces east wherever possible are effective partial corrections.
+              </li>
+              <li>
+                <strong>7. Introduce Calming, Appetite-Friendly Colors in Dining Areas:</strong> Warm, inviting tones
+                such as soft yellows, warm oranges, and light greens are traditionally recommended for restaurant
+                interiors, associated with encouraging appetite and positive guest energy, in contrast to overly dark or
+                cold color palettes.
+              </li>
+              <li>
+                <strong>8. Use Indoor Plants and Natural Elements in Guest Areas:</strong> Plants such as money plant,
+                areca palm, or bamboo, placed in lobbies, hallways, and dining areas, are commonly used to introduce a
+                sense of freshness and natural positivity throughout guest-facing spaces.
+              </li>
+              <li>
+                <strong>9. Maintain a Clean, Well-Lit Main Entrance:</strong> Ensuring the main entrance signage is
+                well-maintained, the doorway is unobstructed, and lighting is bright and welcoming, especially during
+                evening hours, supports both practical guest experience and Vastu-aligned energy flow.
+              </li>
+              <li>
+                <strong>10. Place a Small Water Feature or Fountain Near the Entrance:</strong> A small, clean,
+                well-maintained water feature near the entrance of a hotel or restaurant is a popular remedy in
+                hospitality Vastu, believed to support a sense of freshness and welcome for arriving guests.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Restaurant Dining Area Vastu
+              Planning a New Hotel or Restaurant? Start With Vastu at the Design Stage
+            </h2>
+
+            <p>
+              For entrepreneurs planning a new hospitality venture in Moradabad, integrating Vastu principles from the
+              earliest architectural and interior design stage allows for far more effective planning of kitchen
+              placement, guest room zoning, and reception design, without the compromises that come with retrofitting an
+              existing structure after construction is complete.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              How Space Build Supports Hospitality Vastu Planning in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Keep tables properly arranged</li>
-              <li>Maintain enough walking space</li>
-              <li>Use balanced lighting</li>
-              <li>Keep the dining area clean</li>
-              <li>Provide comfortable seating</li>
+              <li>
+                At Space Build, we bring together commercial and hospitality design expertise with Vastu-informed
+                planning, tailored to the specific needs of hotels, restaurants, and cafes across Moradabad. Our
+                approach typically includes:
+              </li>
+              <li>
+                Vastu-informed zoning for new hotel and restaurant construction, from the initial design stage.
+              </li>
+              <li>
+                On-site assessment of existing hospitality properties, identifying key directional and layout concerns.
+              </li>
+              <li>
+                Specialized guidance for kitchen placement, guest room design, and reception area planning.
+              </li>
+              <li>
+                Practical, phased remedy recommendations that respect ongoing business operations and guest experience.
+              </li>
+              <li>
+                Integration of guest comfort, operational efficiency, and Vastu principles into a single, cohesive
+                design plan.
+              </li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Kitchen Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Ensure proper ventilation</li>
-              <li>Keep cooking equipment organized</li>
-              <li>Maintain cleanliness</li>
-              <li>Store food properly</li>
-              <li>Separate washing and cooking areas</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Cash Counter Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep documents arranged</li>
-              <li>Maintain proper lighting</li>
-              <li>Avoid unnecessary clutter</li>
-              <li>Secure cash properly</li>
-              <li>Ensure smooth payment operations</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Hotel Room Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain proper ventilation</li>
-              <li>Ensure natural lighting</li>
-              <li>Keep rooms clean</li>
-              <li>Arrange furniture neatly</li>
-              <li>Maintain comfortable interiors</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Interior Design Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Choose pleasant colours</li>
-              <li>Avoid damaged furniture</li>
-              <li>Use attractive decorations</li>
-              <li>Maintain comfortable temperature</li>
-              <li>Keep interiors well maintained</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Lighting Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maximize natural light</li>
-              <li>Eliminate dark corners</li>
-              <li>Use warm lighting</li>
-              <li>Maintain decorative lights</li>
-              <li>Replace damaged fixtures</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Washroom Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep washrooms clean</li>
-              <li>Ensure proper ventilation</li>
-              <li>Prevent water leakage</li>
-              <li>Maintain fresh fragrance</li>
-              <li>Check drainage regularly</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Hotel Lobby Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep the lobby spacious</li>
-              <li>Arrange comfortable seating</li>
-              <li>Maintain attractive décor</li>
-              <li>Ensure proper ventilation</li>
-              <li>Keep flooring clean</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Parking Area Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Provide proper lighting</li>
-              <li>Keep parking organized</li>
-              <li>Install clear direction signs</li>
-              <li>Maintain security measures</li>
-              <li>Keep pathways obstruction-free</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Banquet Hall Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plan spacious seating</li>
-              <li>Ensure proper ventilation</li>
-              <li>Maintain bright lighting</li>
-              <li>Keep decoration balanced</li>
-              <li>Allow smooth guest movement</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Café Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Arrange comfortable seating</li>
-              <li>Use attractive interiors</li>
-              <li>Maintain clean service counters</li>
-              <li>Keep lighting pleasant</li>
-              <li>Ensure proper ventilation</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Resort Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain green surroundings</li>
-              <li>Ensure open spaces</li>
-              <li>Keep pathways clean</li>
-              <li>Improve natural ventilation</li>
-              <li>Maintain peaceful surroundings</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Staircase and Lift Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Keep staircases well-lit</li>
-              <li>Maintain safety railings</li>
-              <li>Service lifts regularly</li>
-              <li>Display clear directions</li>
-              <li>Keep passages clean</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Ventilation Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Increase natural airflow</li>
-              <li>Install proper exhaust systems</li>
-              <li>Reduce indoor humidity</li>
-              <li>Keep windows functional</li>
-              <li>Maintain air quality</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Storage Area Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Arrange materials systematically</li>
-              <li>Remove unused items</li>
-              <li>Maintain cleanliness</li>
-              <li>Store food safely</li>
-              <li>Label storage properly</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Defects
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Blocked entrance</li>
-              <li>Poor ventilation</li>
-              <li>Cluttered kitchen</li>
-              <li>Dark interiors</li>
-              <li>Water leakage problems</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs You Need Hotel Vastu Consultation
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Declining customer visits</li>
-              <li>Low occupancy rate</li>
-              <li>Frequent employee issues</li>
-              <li>Increasing maintenance costs</li>
-              <li>Lack of business growth</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Hotel Construction Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Plan the layout carefully</li>
-              <li>Improve natural lighting</li>
-              <li>Allocate spaces efficiently</li>
-              <li>Ensure smooth customer movement</li>
-              <li>Prepare for future expansion</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Hotel Renovation Vastu
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Upgrade interiors</li>
-              <li>Improve customer flow</li>
-              <li>Enhance ventilation</li>
-              <li>Modernize the kitchen</li>
-              <li>Improve lighting quality</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build?
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Professional Vastu consultation</li>
-              <li>Hotel and restaurant planning</li>
-              <li>Site inspection services</li>
-              <li>Renovation guidance</li>
-              <li>Construction support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Our Vastu Consultation Process
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Property assessment</li>
-              <li>Layout analysis</li>
-              <li>Vastu evaluation</li>
-              <li>Customized recommendations</li>
-              <li>Ongoing consultation support</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Hospitality Businesses We Serve
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Hotels and Resorts</li>
-              <li>Restaurants and Cafés</li>
-              <li>Banquet Halls</li>
-              <li>Guest Houses</li>
-              <li>Food Courts</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. Why is Vastu important for hotels and restaurants?</h3>
-                <p>
-                  Vastu helps create a balanced environment that supports customer satisfaction, employee productivity, and smooth business operations.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. Can Vastu improve hotel business?</h3>
-                <p>
-                  Many hotel owners believe proper Vastu planning creates a welcoming atmosphere that contributes to customer trust and business growth.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Is Vastu useful for existing restaurants?</h3>
-                <p>
-                  Yes. Existing restaurants can benefit from practical Vastu recommendations without requiring major structural changes.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. Does Space Build provide hotel Vastu consultation?</h3>
-                <p>
-                  Yes. Space Build offers professional Vastu consultation for hotels, restaurants, cafés, resorts, banquet halls, and other hospitality businesses.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can Vastu be followed during hotel construction?</h3>
-                <p>
-                  Yes. Planning Vastu before construction helps create a well-organized and efficient property from the beginning.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Is renovation a good time for Vastu improvements?</h3>
-                <p>
-                  Yes. Renovation provides an excellent opportunity to improve layout, interiors, lighting, ventilation, and overall functionality.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Do you provide commercial Vastu services?</h3>
-                <p>
-                  Yes. We offer Vastu consultation for various commercial properties, including hotels, restaurants, offices, shops, and hospitality businesses.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">8. Can Space Build visit the project site?</h3>
-                <p>
-                  Yes. Our experts provide on-site inspections, property analysis, and customized Vastu recommendations based on your project&apos;s requirements.
-                </p>
-              </div>
-
-              <p>
+            <p>
+              If you&apos;re planning a new hotel or restaurant or looking to improve the Vastu balance of your existing
+              hospitality property in Moradabad, our team can offer practical, experience-based guidance suited to the
+              specific needs of your business. Reach out through our website at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+              .
+            </p>
+                                      <p>
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
                   +919927611780
@@ -407,7 +301,6 @@ const Content = () => {
                   www.spacebuild.co.in
                 </a>
               </p>
-            </div>
           </div>
         </div>
 
