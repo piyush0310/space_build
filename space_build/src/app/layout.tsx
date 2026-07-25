@@ -21,6 +21,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Space Build",
   description: "Space Build",
+
+  verification: {
+    google: "u5B0uW9-E9SjJOb1T0Tzs3Cqh8y-56tc4fHOmEvDTvs",
+  },
+
   robots: {
     index: true,
     follow: true,
@@ -35,6 +40,7 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
+
   other: {
     bingbot: "index,follow",
   },
