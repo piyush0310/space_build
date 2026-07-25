@@ -172,7 +172,7 @@ const Header: React.FC = () => {
                           <Link
                             key={index}
                             href={about.href}
-                            className="block px-4 py-2 text-sm text-black hover:bg-[#EDF4F8] hover:text-gray-900 transition-colors duration-200"
+                            className="block px-4 py-2 text-sm text-black hover:bg-[#EDF4F8] hover:text-gray-900 transition-colors duration-500"
                             onClick={handleAboutClick}
                           >
                             {about.name}

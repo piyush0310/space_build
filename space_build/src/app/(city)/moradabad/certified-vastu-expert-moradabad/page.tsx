@@ -37,7 +37,7 @@ export const metadata = {
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
   icons: {
-    icon: "/favicon-v2.ico",
+    icon: "/favicon.ico",
   },
 };
 export default function Page() {
