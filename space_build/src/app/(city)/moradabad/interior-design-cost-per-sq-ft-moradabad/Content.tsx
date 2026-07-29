@@ -7,177 +7,169 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Interior Design Company in Moradabad – Space Build
+              Interior Design Cost Per Sq Ft in Moradabad – Space Build
             </h2>
 
             <p>
-              Choosing the right interior design company can make the difference between a space that simply looks decorated and one that truly works for the people using it. Space Build is an established interior design company in Moradabad, known for delivering thoughtful, functional, and visually appealing interiors for homes, offices, showrooms, and commercial establishments. With Moradabad growing rapidly as a business and residential hub, the demand for professional interior design services has increased, and Space Build has positioned itself as a reliable name in this space.
+              One of the most common questions homeowners and business owners ask when planning an interior design project in Moradabad is simple: &quot;How much will this cost per square foot?&quot; It&apos;s a fair question, but also one without a single straightforward answer, since interior design costs depend on a wide range of factors — the scope of work, materials chosen, level of customization, and the specific rooms or areas being designed. At Space Build, we believe in complete transparency when it comes to pricing, helping clients understand exactly what influences interior design costs in Moradabad so they can plan their budgets with confidence and clarity.
             </p>
 
             <p>
-              Unlike local contractors who focus only on execution, Space Build combines design thinking, technical planning, and skilled execution to deliver interiors that are practical, durable, and aesthetically strong. From concept to completion, the company manages every stage of the project, giving clients a stress-free experience.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Hiring a Professional Interior Design Company Matters
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Ensures better space utilization compared to random furniture placement.</li>
-              <li>Brings design expertise that balances aesthetics with functionality.</li>
-              <li>Helps avoid costly mistakes during construction or renovation.</li>
-              <li>Coordinates multiple trades like civil, electrical, and carpentry under one roof.</li>
-              <li>Saves time through structured planning and project management.</li>
-              <li>Increases property value through quality finishes and layouts.</li>
-              <li>Provides access to updated design trends and material options.</li>
-            </ul>
-
-            <p>
-              Many people attempt interior work through untrained local labor, which often leads to mismatched designs, wasted materials, and repeated rework. A professional company like Space Build eliminates these issues through proper planning and supervision.
+              Understanding cost per square foot pricing is particularly useful during the early planning stages of a project, as it allows homeowners to get a rough sense of the investment required before committing to detailed designs. However, it&apos;s important to recognize that per-square-foot pricing is only a starting reference point — actual costs can vary significantly based on the choices made throughout the design and execution process.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Services Offered by Space Build
+              Why Interior Design Costs Vary So Much
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Residential interior design (homes, apartments, villas).</li>
-              <li>Office and corporate interior design.</li>
-              <li>Showroom and retail space design.</li>
-              <li>False ceiling and lighting design.</li>
-              <li>Modular kitchen design.</li>
-              <li>Wardrobe and storage solutions.</li>
-              <li>Living room and bedroom interiors.</li>
-              <li>Flooring and wall finishes.</li>
-              <li>Furniture design and manufacturing.</li>
-              <li>Turnkey interior projects (design + execution).</li>
-              <li>Renovation and remodeling of existing spaces.</li>
+              <li><strong>Scope of work:</strong> A full home interior project involving every room will naturally cost more than designing a single space, such as just the living room or kitchen.</li>
+              <li><strong>Material selection:</strong> Premium materials like natural stone, solid wood, or high-end finishes cost significantly more than standard laminate or engineered alternatives.</li>
+              <li><strong>Level of customization:</strong> Fully customized, bespoke furniture and fittings cost more than modular or semi-customized solutions.</li>
+              <li><strong>Civil work requirements:</strong> Projects requiring structural changes, plumbing modifications, or extensive electrical rework will have higher costs compared to purely cosmetic updates.</li>
+              <li><strong>Brand and vendor choices:</strong> Premium appliance brands, designer fixtures, and imported materials add to overall project costs.</li>
+              <li><strong>Design complexity:</strong> Intricate ceiling designs, multiple accent walls, or elaborate lighting setups increase both material and labor costs.</li>
             </ul>
 
             <p>
-              This broad service range allows clients to rely on a single company for their entire interior journey, rather than coordinating separately with designers, contractors, and furniture suppliers.
+              Many first-time clients are surprised to learn that interior design costs can vary dramatically even within the same city or similar-sized homes. This variation comes down to several key factors that influence the final project cost. At Space Build, we walk clients through each of these factors during the initial consultation, ensuring they understand exactly what drives the cost of their specific project.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Space Build&apos;s Design and Execution Process
+              General Cost Categories in Interior Design
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Initial meeting to understand requirements, budget, and timeline.</li>
-              <li>Site visit and measurement of the space.</li>
-              <li>Concept design and material moodboard preparation.</li>
-              <li>2D floor plans and 3D visual presentations.</li>
-              <li>Finalization of design, materials, and cost estimate.</li>
-              <li>Execution with dedicated site supervision.</li>
-              <li>Regular progress updates shared with the client.</li>
-              <li>Final quality check and handover.</li>
+              <li><strong>Basic or Economy Range:</strong> This category focuses on functional, budget-conscious design using standard materials like laminate finishes, particle board furniture, and simple lighting solutions. It&apos;s ideal for clients prioritizing affordability and practicality over elaborate customization.</li>
+              <li><strong>Mid-Range or Standard Design:</strong> This is the most commonly chosen category among Moradabad homeowners, balancing quality materials with reasonable customization. It typically includes modular furniture, good-quality laminates or acrylic finishes, and moderate lighting and ceiling design work.</li>
+              <li><strong>Premium or Luxury Design:</strong> This category involves high-end materials such as natural stone, solid wood, designer fixtures, and fully customized furniture. It&apos;s suited for clients seeking a truly bespoke, high-quality finish throughout their home or office.</li>
             </ul>
 
             <p>
-              This structured approach reduces confusion, prevents budget overruns, and ensures that the final result matches what was promised at the design stage.
+              Interior design projects in Moradabad typically fall into a few broad cost categories, each offering different levels of finish, material quality, and customization. While exact pricing depends on the specific project, understanding these categories can help homeowners set realistic expectations. Space Build works across all three categories, helping clients choose the right balance of quality and cost based on their specific priorities and budget.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Core Elements Space Build Focuses On
+              Factors That Influence Cost Per Square Foot
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Layout Planning: Ensuring smooth movement and functional zoning of spaces.</li>
-              <li>Lighting Design: Balancing natural light with ambient and task lighting.</li>
-              <li>Material Selection: Choosing durable, low-maintenance materials suited to daily use.</li>
-              <li>Color Palette: Colors that reflect personality or brand identity while staying practical.</li>
-              <li>Furniture Design: Custom and modular furniture built for the specific space.</li>
-              <li>Storage Solutions: Maximizing storage without compromising on visual appeal.</li>
-              <li>Ventilation and Comfort: Designing for airflow, temperature, and acoustic comfort.</li>
+              <li><strong>Flooring choice:</strong> Vitrified tiles, natural stone, engineered wood, or laminate flooring each come with significantly different price points.</li>
+              <li><strong>False ceiling complexity:</strong> Simple flat ceilings cost less than multi-level or heavily detailed POP and gypsum designs.</li>
+              <li><strong>Modular furniture scope:</strong> The number of rooms requiring modular wardrobes, kitchen units, or storage solutions directly impacts overall costs.</li>
+                            <li><strong>Electrical and lighting work:</strong> The complexity of lighting design, including layered ambient, task, and accent lighting, affects both material and labor costs.</li>
+              <li><strong>Wall treatments:</strong> Simple paint finishes are more economical compared to wallpaper, textured finishes, or paneling.</li>
+              <li><strong>Kitchen and bathroom fittings:</strong> The choice between standard and premium fixtures, faucets, and sanitaryware significantly affects overall project costs.</li>
+            </ul>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Room-Wise Cost Considerations
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li><strong>Living Room:</strong> Furniture, false ceiling, and lighting design typically make up the largest portion of living room costs. Accent walls or entertainment unit designs can add to the overall cost depending on complexity.</li>
+              <li><strong>Kitchen:</strong> Modular kitchens tend to have a higher cost per square foot compared to other rooms due to the combination of cabinetry, countertops, and appliance integration. Costs vary significantly based on the choice between laminate, acrylic, or premium finishes for cabinetry.</li>
+              <li><strong>Bedrooms:</strong> Wardrobe design, bed back panels, and lighting are the primary cost drivers in bedroom interior design. Master bedrooms with attached dressing areas or walk-in closets typically involve higher costs than standard bedrooms.</li>
+              <li><strong>Bathrooms:</strong> Tiling, sanitaryware, and fittings are the main cost components in bathroom design. Premium features like rain showers or freestanding tubs can significantly increase costs compared to standard fittings.</li>
             </ul>
 
             <p>
-              By focusing on these fundamentals, Space Build ensures interiors are not just visually pleasing but genuinely comfortable to live or work in.
+              Different rooms in a home typically require different levels of investment based on their complexity and functional requirements. Space Build helps clients understand these room-wise cost considerations during the planning phase.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential Interior Design Highlights
+              Residential vs. Commercial Interior Design Costs
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Living rooms designed for both comfort and entertaining guests.</li>
-              <li>Bedrooms focused on relaxation with smart storage integration.</li>
-              <li>Modular kitchens designed for efficient cooking workflows.</li>
-              <li>Kids&apos; rooms combining safety, functionality, and creativity.</li>
-              <li>Pooja rooms designed with traditional aesthetics and proper placement.</li>
-              <li>Balconies and small spaces optimized for maximum usability.</li>
+              <li><strong>Residential projects:</strong> Typically involve more emphasis on personalized aesthetics, comfort-focused furniture, and detailed finishes across bedrooms, living areas, and kitchens.</li>
+              <li><strong>Commercial projects:</strong> Often prioritize functional efficiency, durability, and brand-aligned design elements, with costs influenced heavily by factors like workstation quantity, reception design, and signage requirements.</li>
+              <li><strong>Retail and showroom interiors:</strong> May involve additional costs related to display fixtures, lighting for product visibility, and branded design elements.</li>
+              <li><strong>Office interiors:</strong> Often require budgeting for acoustic treatments, ergonomic furniture, and technology integration alongside standard design elements.</li>
             </ul>
 
             <p>
-              Each residential project is customized based on family size, lifestyle, and personal preferences, ensuring the home reflects the people living in it.
+              Cost structures for residential and commercial interior design projects in Moradabad differ due to their distinct functional requirements. Space Build helps clients understand these differences when planning their respective projects.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Commercial and Office Interior Design Highlights
+              How to Get an Accurate Cost Estimate
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Reception and lobby design that creates a strong first impression.</li>
-              <li>Workstation and cabin layouts that support productivity.</li>
-              <li>Meeting and conference room design for professional interactions.</li>
-              <li>Showroom interiors that enhance product display and customer experience.</li>
-              <li>Retail store layouts optimized for footfall and sales conversion.</li>
-              <li>Restaurant and café interiors balancing ambiance with operational efficiency.</li>
+              <li><strong>Share your space details:</strong> Providing accurate room dimensions and layouts helps in preparing a more precise cost estimate.</li>
+              <li><strong>Clarify your priorities:</strong> Identifying which rooms or elements matter most allows for better budget allocation across the project.</li>
+              <li><strong>Discuss material preferences:</strong> Sharing preferences for specific materials, finishes, or brands helps refine cost estimates early in the process.</li>
+              <li><strong>Request a detailed breakdown:</strong> A proper cost estimate should break down costs by category — civil work, furniture, electrical, and finishes — rather than providing a single lump sum figure.</li>
+              <li><strong>Account for contingencies:</strong> Setting aside 10–15% of the total budget for unexpected costs or changes during execution is a wise practice for any interior design project.</li>
             </ul>
 
             <p>
-              This dual expertise in residential and commercial design makes Space Build a versatile choice for a wide range of clients in Moradabad.
+              Since interior design costs can vary so significantly based on individual choices, Space Build recommends the steps above to help clients get an accurate, personalized cost estimate for their specific project. At Space Build, we provide clients with detailed, itemized cost estimates rather than vague per-square-foot figures, ensuring complete transparency throughout the project.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Popular Interior Design Styles Space Build Works With
+              Ways to Manage and Optimize Interior Design Costs
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Modern Contemporary: Clean lines, neutral tones, minimal clutter.</li>
-              <li>Traditional Indian: Warm colors, classic furniture, cultural elements.</li>
-              <li>Industrial Style: Exposed textures, metal accents, raw finishes.</li>
-              <li>Minimalist Design: Functional spaces with limited but purposeful elements.</li>
-              <li>Luxury Interiors: Premium materials, statement lighting, refined detailing.</li>
-              <li>Fusion Design: A blend of traditional and modern elements for a unique look.</li>
+              <li><strong>Phasing the project:</strong> Completing high-priority rooms first and other areas in later phases allows for better cash flow management.</li>
+              <li><strong>Mixing material grades:</strong> Using premium materials in high-visibility areas while opting for more economical choices in less visible spaces.</li>
+              <li><strong>Choosing modular over fully customized solutions:</strong> Modular furniture often provides a good balance between cost and quality compared to fully bespoke carpentry.</li>
+              <li><strong>Avoiding mid-project design changes:</strong> Finalizing designs before execution begins helps avoid costly rework and material wastage.</li>
+              <li><strong>Working with an experienced design team:</strong> Professional guidance often helps avoid costly mistakes that can arise from unplanned, piecemeal renovation approaches.</li>
             </ul>
 
             <p>
-              Rather than pushing a single design philosophy, Space Build listens to client preferences and builds designs around their vision.
+              Space Build works closely with clients across Moradabad to help them manage their interior design budgets effectively without compromising on overall quality. The strategies above are commonly recommended to optimize costs while still achieving a high-quality result.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build as Your Interior Design Company
+              Common Pricing Myths in Interior Design
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Strong local presence and understanding of Moradabad&apos;s market and vendors.</li>
-              <li>Team of experienced designers, architects, and site supervisors.</li>
-              <li>Transparent pricing with no hidden costs.</li>
-              <li>Use of quality, durable materials for long-term performance.</li>
-              <li>Complete project management from design to handover.</li>
-              <li>Proven track record across residential and commercial projects.</li>
-              <li>After-project support for minor adjustments and maintenance guidance.</li>
+              <li><strong>&quot;A single per-square-foot rate applies to every project&quot;:</strong> In reality, costs vary significantly based on material choices, customization levels, and room-specific requirements.</li>
+              <li><strong>&quot;Cheaper always means lower quality&quot;:</strong> With smart material selection and value engineering, budget-friendly designs can still achieve a high-quality look and durable finish.</li>
+              <li><strong>&quot;Modular furniture is always cheaper than customized furniture&quot;:</strong> While generally more affordable, modular solutions can sometimes match or exceed customized options in cost, depending on the specific design and finish chosen.</li>
+              <li><strong>&quot;Cost estimates don&apos;t change once finalized&quot;:</strong> Costs can shift if clients make changes to materials, layouts, or scope during execution, which is why clear communication throughout the project is essential.</li>
             </ul>
 
             <p>
-              Space Build&apos;s combination of design sensibility and execution discipline has helped it build long-term relationships with clients across Moradabad, many of whom return for additional projects or refer the company to others.
+              There are several misconceptions homeowners in Moradabad often have when it comes to interior design pricing. Space Build aims to clarify these common myths so clients can make informed decisions.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Budget-Friendly Interior Design Options
+              Why Choose Space Build for Transparent Interior Design Pricing in Moradabad
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Phase-wise execution to spread costs over time.</li>
-              <li>Smart material substitutions that maintain look without high cost.</li>
-              <li>Modular furniture options that offer flexibility and reusability.</li>
-              <li>Prioritizing high-visibility areas first within a limited budget.</li>
-              <li>Transparent cost breakdowns to help clients make informed decisions.</li>
+              <li>Detailed, itemized cost estimates rather than vague, generalized per-square-foot figures.</li>
+              <li>Clear communication about how material choices and customization levels affect overall project costs.</li>
+              <li>No hidden charges or unexpected cost additions during project execution.</li>
+              <li>Flexible design options across economy, mid-range, and premium categories to suit different budgets.</li>
+              <li>Experienced project management that helps avoid costly mistakes and unnecessary rework.</li>
+              <li>A strong track record of delivering projects within agreed budgets and timelines across Moradabad.</li>
             </ul>
 
             <p>
-              This flexibility ensures that both budget-conscious clients and those looking for premium interiors can find suitable solutions with Space Build.
+              We understand that cost is one of the most important considerations for any interior design project, and our goal at Space Build is to ensure our clients have complete clarity and confidence in their investment from the very first consultation.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Our Pricing and Consultation Services Include
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Free initial consultation with a detailed cost breakdown</li>
+              <li>Transparent, itemized pricing across civil work, furniture, and finishes</li>
+              <li>Flexible design options across various budget categories</li>
+              <li>No hidden charges throughout the project execution</li>
+              <li>Expert guidance on cost-saving strategies without compromising quality</li>
+            </ul>
+
+            <p>
+              Space Build remains committed to helping homeowners and business owners across Moradabad plan their interior design investments with clarity, ensuring every rupee spent contributes meaningfully to the final result. You can explore more about our pricing approach, project portfolio, and service offerings by visiting our website.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -186,92 +178,60 @@ const Content = () => {
 
             <div className="space-y-6 mt-6">
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  1. What types of projects does Space Build handle?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">1. Why do interior design costs vary so much per sq ft?</h3>
                 <p>
-                  Space Build handles residential, office, retail, and commercial interior design projects across Moradabad.
+                  Costs vary due to scope of work, material selection, level of customization, civil work requirements, brand choices, and design complexity. Two homes of the same size can have very different budgets depending on these factors.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  2. How much does interior design cost with Space Build?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">2. Is per-square-foot pricing enough to plan my budget?</h3>
                 <p>
-                  Cost varies based on space size, materials, and design complexity. A custom quote is provided after consultation.
+                  Per-square-foot pricing is useful as an initial reference, but actual costs depend on detailed choices. A proper itemized estimate by category (civil, furniture, electrical, finishes) gives a much clearer picture.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  3. Does Space Build provide 3D designs before starting work?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">3. Which rooms usually cost the most to design?</h3>
                 <p>
-                  Yes, 3D visualizations are shared so clients can review designs before execution begins.
+                  Kitchens and living rooms typically have the highest cost per sq ft due to modular cabinetry, countertops, appliances, false ceiling work, and layered lighting. Master bedrooms with walk-in wardrobes also tend to be higher than standard rooms.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  4. How long does a typical interior project take?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">4. Can I control costs without compromising too much on quality?</h3>
                 <p>
-                  Depending on scope, projects usually take 4 to 10 weeks to complete.
+                  Yes. Strategies include phasing the project, mixing premium and standard materials, choosing modular solutions, avoiding mid-project changes, and working with an experienced design team for value engineering.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  5. Can Space Build renovate an existing home or office?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">5. Do residential and commercial projects have different cost structures?</h3>
                 <p>
-                  Yes, renovation and remodeling services are available for existing spaces.
+                  Yes. Residential projects focus more on personalization and comfort, while commercial projects prioritize durability, brand alignment, workstation planning, and specialized elements like signage or acoustic treatment.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  6. Is furniture manufacturing included in the service?
-                </h3>
+                <h3 className="font-semibold text-gray-900 mb-3">6. Does Space Build provide detailed cost breakdowns before starting work?</h3>
                 <p>
-                  Yes, Space Build designs and manufactures custom and modular furniture as part of its services.
+                  Yes. We provide detailed, itemized cost estimates before execution begins so clients know exactly where their money is going, with no hidden charges later in the project.
                 </p>
               </div>
 
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  7. Does Space Build work within a fixed budget?
-                </h3>
-                <p>
-                  Yes, designs and material choices can be adjusted to fit a client&apos;s specific budget.
-                </p>
-              </div>
-
-              <p>
+              <p className="mt-6">
                 📞 <strong>WhatsApp / Call:</strong>{" "}
-                <a
-                  href="tel:+919927611780"
-                  className="text-blue-600 hover:underline"
-                >
-                  +919927611780
+                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                  +91 9927611780
                 </a>
                 <br />
                 📧 <strong>Email:</strong>{" "}
-                <a
-                  href="mailto:spacebuild.india@gmail.com"
-                  className="text-blue-600 hover:underline"
-                >
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
                   spacebuild.india@gmail.com
                 </a>
                 <br />
                 🌐 <strong>Website:</strong>{" "}
-                <a
-                  href="https://www.spacebuild.co.in/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline"
-                >
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                   www.spacebuild.co.in
                 </a>
               </p>
