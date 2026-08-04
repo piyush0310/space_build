@@ -244,6 +244,23 @@ const Content = () => {
             <p>
               More information about false ceiling design services, material options, and past project examples handled by Space Build Moradabad is available at [https://www.spacebuild.co.in/](https://www.spacebuild.co.in/).
             </p>
+
+                      <p>
+                📞 <strong>WhatsApp / Call:</strong>{" "}
+                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                  +919927611780
+                </a>
+                <br />
+                📧 <strong>Email:</strong>{" "}
+                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
+                  spacebuild.india@gmail.com
+                </a>
+                <br />
+                🌐 <strong>Website:</strong>{" "}
+                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                  www.spacebuild.co.in
+                </a>
+              </p>
           </div>
         </div>
 

@@ -12,7 +12,7 @@ const AboutUs: React.FC = () => {
 const teamMembers: TeamMember[] = [
   {
     id: 1,
-    name: "Mohd. Shafi",
+    name: "",
     image:
       "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926150/IMG_20260713_122604.jpg_ffy5fu.jpg",
     description:
@@ -20,7 +20,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: 2,
-    name: "Shane Alam",
+    name: "",
     image:
       "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926148/IMG_20260713_122637.jpg_fh3n84.jpg",
     description:
@@ -28,7 +28,7 @@ const teamMembers: TeamMember[] = [
   },
     {
     id: 3,
-    name: "Khusbu",
+    name: "",
     image:
       "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122406.jpg_xmahqg.jpg",
     description:
@@ -36,7 +36,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: 4,
-    name: "Sujeevan Singh",
+    name: "",
     image:
       "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926146/IMG_20260713_122738.jpg_hhrw6z.jpg",
     description:
