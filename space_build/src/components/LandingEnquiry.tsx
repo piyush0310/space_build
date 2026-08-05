@@ -79,7 +79,7 @@ const WeddingForm = () => {
 
     try {
       const response = await fetch(
-        "https://formsubmit.co/dhruvkaushik150@gmail.com",
+        "https://formsubmit.co/spacebuild0@gmail.com",
         {
           method: "POST",
           body: form,
