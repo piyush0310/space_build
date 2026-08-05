@@ -3,8 +3,8 @@ import React from "react";
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
-      <div className="flex flex-col">
-        <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
+      <div className="flex flex-col lg:flex-row max-w-7xl mx-auto gap-8">
+        <div className="w-full lg:w-[70%] px-4 sm:px-8 py-0 order-1">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
               Pest Control Company: Protecting Your Home and Business with Expert Solutions
