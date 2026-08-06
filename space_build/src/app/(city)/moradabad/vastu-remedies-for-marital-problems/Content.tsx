@@ -1,5 +1,6 @@
 import React from "react";
 import LandingEnquiry from "@/components/LandingEnquiry";
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -11,100 +12,183 @@ const Content = () => {
             </h2>
 
             <p>
-              A harmonious marriage is built on communication, trust, and mutual respect, but according to Vastu Shastra, the physical environment of a home can also play a significant role in either supporting or straining the relationship between husband and wife. From the direction a couple&apos;s bedroom faces to the placement of furniture, mirrors, and even colors within the room, Vastu principles offer a range of guidelines believed to promote marital harmony and reduce conflict within the household. In Moradabad, where joint families and multi-generational homes remain common alongside newer nuclear family setups, many couples experiencing recurring disagreements or emotional distance are turning to Vastu consultation as a complementary approach to strengthening their relationship.
+              A happy, stable marriage is the foundation of a peaceful home, yet many couples silently struggle with recurring arguments, misunderstandings, emotional distance, or a general lack of harmony that seems to have no clear cause. While counselling and open communication are always important, ancient Indian science of architecture — Vastu Shastra — offers a complementary and time-tested approach to restoring balance in married life. According to Vastu, the energy flow within a home directly influences the emotional and mental state of the people living in it, and even small architectural imbalances can silently contribute to tension between husband and wife.
             </p>
 
             <p>
-              At Space Build Moradabad, we regularly assist clients who want to identify and correct potential Vastu defects within their homes that may be contributing to marital discord. This article explores the most common Vastu-related factors associated with marital problems, along with practical remedies and design recommendations tailored specifically for homes in Moradabad.
+              At Space Build Moradabad, we have worked with countless families across Moradabad and the surrounding region, helping them identify Vastu doshas (defects) responsible for disturbed relationships and offering practical, non-invasive remedies to correct them. This article explores the most common Vastu-related causes of marital discord and the remedies that can help restore love, trust, and stability in your relationship.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Understanding the Vastu-Marriage Connection
+              Understanding the Connection Between Vastu and Marital Life
+            </h2>
+
+            <p>
+              Vastu Shastra is based on the five natural elements — earth, water, fire, air, and space — and their balanced placement within a structure. When these elements are disturbed due to incorrect room placement, wrong directions, or improper object positioning, they create negative energy patterns known as &quot;Vastu dosh.&quot; These imbalances are believed to manifest as stress, irritability, ego clashes, financial strain, and emotional disconnect between partners.
+            </p>
+
+            <p>
+              It is important to understand that Vastu does not claim to be a replacement for communication, therapy, or mutual effort in a relationship. Instead, it works alongside these efforts by creating a supportive environment that encourages calmness, positivity, and emotional bonding. A home aligned with Vastu principles naturally promotes better sleep, reduced stress, and a more harmonious atmosphere — all of which contribute to a healthier marital relationship.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Common Vastu Doshas That Affect Marital Harmony
+            </h2>
+
+            <p>
+              Before applying remedies, it is essential to identify the root causes. Some of the most frequently observed Vastu defects linked to marital problems include:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Bedroom placed in the wrong direction</strong> — A bedroom located in the South-East (fire zone) often triggers anger and frequent arguments between couples.
+              </li>
+              <li>
+                <strong>Mirror facing the bed</strong> — A mirror reflecting the sleeping couple is said to invite a &quot;third presence&quot; into the relationship, often linked to trust issues or extramarital influences.
+              </li>
+              <li>
+                <strong>Broken or uneven bed</strong> — A wobbly, cracked, or mismatched bed disturbs the stability of the relationship on a subconscious level.
+              </li>
+              <li>
+                <strong>Cluttered or disorganized bedroom</strong> — Stagnant, cluttered energy directly correlates with stagnant emotional connection.
+              </li>
+              <li>
+                <strong>Toilet attached to or above the bedroom</strong> — This is believed to drain positive energy from the relationship.
+              </li>
+              <li>
+                <strong>Heavy beams above the bed</strong> — Overhead beams are said to create a feeling of pressure and unease, translating into stress within the marriage.
+              </li>
+              <li>
+                <strong>Wrong colours in the bedroom</strong> — Dark, aggressive colours like black or deep red can increase irritability and conflict.
+              </li>
+              <li>
+                <strong>Photographs of deceased ancestors in the bedroom</strong> — This is considered inappropriate as per Vastu and may disturb the emotional balance of the couple.
+              </li>
+              <li>
+                <strong>Water elements like fountains or aquariums in the bedroom</strong> — Since bedrooms belong to the fire and earth elements, water features here can create emotional instability.
+              </li>
+            </ul>
+
+            <p>
+              Identifying which of these apply to your home is the first step, and this is where a professional Vastu consultation from Space Build Moradabad can make a significant difference.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Effective Vastu Remedies for Marital Problems
+            </h2>
+
+            <ol className="list-decimal pl-6 space-y-2">
+              <li>
+                <strong>Correct Bedroom Direction</strong>
+                <br />
+                The ideal direction for the master bedroom is the South-West corner of the house, as it represents stability, strength, and permanence — qualities essential for a lasting marriage. If relocating the bedroom is not possible, remedies such as placing a heavy object (like a wooden almirah) in the South-West corner of the existing room can help simulate the stabilizing effect.
+              </li>
+              <li>
+                <strong>Sleeping Direction Matters</strong>
+                <br />
+                Couples should ideally sleep with their heads towards the South or East direction. Sleeping with the head towards the North is generally discouraged in Vastu as it may disturb sleep quality and increase restlessness, indirectly affecting the relationship.
+              </li>
+              <li>
+                <strong>Remove or Cover Mirrors Facing the Bed</strong>
+                <br />
+                If a mirror is unavoidably positioned facing the bed, it should be covered with a cloth at night or relocated to a side wall. This simple remedy is one of the most commonly recommended fixes and often shows noticeable improvement in relationship harmony.
+              </li>
+              <li>
+                <strong>Use of Rose Quartz Crystals</strong>
+                <br />
+                Rose quartz is widely regarded in Vastu and crystal healing traditions as the stone of love and emotional healing. Placing a pair of rose quartz hearts or a rose quartz crystal cluster in the South-West corner of the bedroom is believed to strengthen romantic bonding and reduce misunderstandings.
+              </li>
+              <li>
+                <strong>Fresh Flowers and Soft Lighting</strong>
+                <br />
+                Keeping fresh flowers (avoid artificial or dried ones) in a vase near the bedroom entrance brings positive, nurturing energy into the space. Soft, warm lighting instead of harsh white tube lights also creates a soothing atmosphere conducive to emotional closeness.
+              </li>
+              <li>
+                <strong>Avoid Keeping Electronic Gadgets Near the Bed</strong>
+                <br />
+                Televisions, laptops, and mobile phones near the sleeping area disturb the natural energy field and are known to increase distractions and reduce quality time between couples. It is advisable to keep such devices at least a few feet away or in a separate room altogether.
+              </li>
+              <li>
+                <strong>Pair Symbols and Décor</strong>
+                <br />
+                Vastu recommends decorating the bedroom with pair symbols such as two birds (like mandarin ducks), a pair of elephants, or twin candles, symbolizing togetherness and unity. Avoid single or odd-numbered decorative items in the bedroom, as they may unconsciously reinforce a sense of separation.
+              </li>
+              <li>
+                <strong>Colour Correction</strong>
+                <br />
+                Soft, calming shades such as light pink, peach, cream, or pastel blue are recommended for bedroom walls and linens. These colours promote relaxation and emotional warmth, replacing aggressive or overly bright tones that can subconsciously fuel irritability.
+              </li>
+              <li>
+                <strong>Keep the North-East Corner Clean and Clutter-Free</strong>
+                <br />
+                The North-East zone of the house is considered the seat of positive spiritual energy. Keeping this area clean, uncluttered, and free from heavy storage or shoes helps maintain overall harmony in the household, including marital relationships.
+              </li>
+              <li>
+                <strong>Address the Kitchen Placement</strong>
+                <br />
+                An often-overlooked factor, the kitchen ideally should be located in the South-East direction. A misplaced kitchen — particularly one positioned in the North-East — is believed to create friction and health-related stress that can spill over into the relationship between spouses.
+              </li>
+              <li>
+                <strong>Salt Water Remedy</strong>
+                <br />
+                Placing a bowl of rock salt mixed with water in the corner of the bedroom (changed weekly) is a traditional Vastu remedy believed to absorb negative energy and reduce tension within the household.
+              </li>
+              <li>
+                <strong>Yantras and Sacred Symbols</strong>
+                <br />
+                Many Vastu practitioners recommend installing a Vastu Dosh Nivaran Yantra or a Kuber Yantra near the main entrance to neutralize existing doshas that may be silently affecting family relationships, including that of husband and wife.
+              </li>
+            </ol>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Additional Lifestyle Tips Aligned with Vastu Principles
             </h2>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>According to Vastu Shastra, the bedroom shared by a married couple is considered one of the most energetically significant spaces within a home, directly influencing emotional intimacy, communication, and overall relationship harmony.</li>
-              <li>The placement, direction, and design of this room — along with several other areas of the house — are believed to either nurture or disrupt the energy flow between partners.</li>
-              <li>While Vastu should never replace open communication, counseling, or professional relationship guidance when addressing serious marital issues, many of our clients in Moradabad find value in ensuring their home&apos;s design supports rather than works against their relationship goals.</li>
-              <li>Our team at Space Build combines interior design expertise with Vastu consultation to help couples create living spaces that foster connection and reduce unnecessary sources of tension.</li>
+              <li>Avoid heated arguments in the bedroom; keep this space reserved strictly for rest, intimacy, and peace.</li>
+              <li>Light a diya (oil lamp) or incense in the North-East corner of the home every evening.</li>
+              <li>Keep the main entrance well-lit and free from obstructions, as it represents the flow of opportunities and positivity into the home.</li>
+              <li>Avoid storing broken items, old unused furniture, or non-functional clocks anywhere in the house, as these are believed to store stagnant, negative energy.</li>
+              <li>Ensure proper ventilation and natural light in the bedroom to keep the energy fresh and dynamic.</li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Vastu Defects Associated with Marital Problems
+              Why Choose Space Build Moradabad for Vastu Consultation
             </h2>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Master Bedroom Not in the South-West Direction:</strong> The south-west zone is considered the most stable and grounding direction for the master bedroom, ideal for fostering commitment and long-term stability between partners. When positioned in other directions, particularly the north-east or south-east, it&apos;s believed to create instability and frequent misunderstandings.</li>
-              <li><strong>Bedroom in the South-East Direction:</strong> The south-east zone is governed by the fire element, and a bedroom in this direction is believed to increase irritability, short-temperedness, and frequent arguments between partners due to the excess &quot;heat&quot; this placement introduces.</li>
-              <li><strong>Mirrors Facing the Bed:</strong> A mirror positioned directly facing the bed is one of the most commonly cited Vastu defects related to marital problems. This placement is believed to introduce a third, disruptive energy into the relationship, sometimes associated with trust issues.</li>
-              <li><strong>Separate or Uneven Bed Frames:</strong> Vastu recommends that couples sleep on a single, unified bed frame rather than two separate mattresses or bed frames pushed together. Uneven or divided sleeping surfaces are believed to symbolically create emotional distance.</li>
-              <li><strong>Beds Positioned Under a Beam:</strong> Sleeping under an exposed structural beam, particularly one running directly across the middle of the bed, is considered a significant Vastu defect, believed to create a sense of pressure and tension within the marital relationship.</li>
-              <li><strong>Cluttered or Disorganized Bedroom:</strong> A bedroom filled with clutter, unused items, or disorganized belongings is believed to trap stagnant energy that can manifest as unresolved tension or miscommunication between partners.</li>
-              <li><strong>Incorrect Color Choices in the Bedroom:</strong> Overly bright, aggressive colors like bright red or black are generally discouraged, while soft, soothing tones are recommended to promote calmness and connection.</li>
-              <li><strong>Toilet Attached Directly to the Bedroom Without Proper Separation:</strong> A bathroom door that directly faces the bed, or a poorly sealed connection between the two spaces, is believed to allow negative energy to seep into the couple&apos;s personal space.</li>
-              <li><strong>Photos or Décor Depicting Conflict or Sadness:</strong> Artwork, photographs, or décor items within the bedroom that depict sadness, conflict, solitary figures, or aggressive imagery are generally discouraged. Instead, images depicting togetherness or peaceful scenes are recommended.</li>
-              <li><strong>Broken or Non-Functional Items in the Bedroom:</strong> Broken clocks, non-functional electronics, or damaged furniture within the bedroom are believed to symbolically represent stagnation or disruption within the relationship and should be repaired or removed promptly.</li>
-            </ul>
+            <p>
+              Every home is unique, and so is every couple&apos;s relationship dynamic. What works as a remedy for one household may not be suitable for another, depending on the exact layout, direction, and existing architectural features of the property. This is why a personalized, on-site Vastu assessment is far more effective than generic online tips.
+            </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Guidelines for a Harmonious Marital Bedroom
-            </h2>
+            <p>
+              Space Build Moradabad brings together experienced Vastu consultants and architectural designers who understand both traditional Vastu principles and modern construction realities. Whether you are planning a new home, renovating an existing one, or simply want targeted remedies without breaking walls or undertaking major renovation, our team offers practical, customized solutions suited to your specific property and family needs.
+            </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Bed Placement:</strong> The bed should be positioned so that the headboard is against the south or west wall, allowing the couple to sleep with their heads facing south, which is considered ideal for restful sleep and stable relationship energy.</li>
-              <li><strong>Symmetrical Nightstands:</strong> Placing matching nightstands or side tables on both sides of the bed, each with similar lighting fixtures, is believed to represent balance and equality within the relationship.</li>
-              <li><strong>Avoiding a View of the Door from Bed:</strong> While the bed should ideally have a clear view of the room&apos;s entrance for a sense of security, it should not be positioned in the direct line facing the door, as this is believed to create a subtle sense of unease.</li>
-              <li><strong>Fresh Flowers and Plants:</strong> Incorporating fresh flowers, particularly in soft pink or red hues, is a widely recommended Vastu practice for enhancing romantic and marital energy within the bedroom. However, avoid keeping any plants directly on the nightstand overnight.</li>
-              <li><strong>Soft, Warm Lighting:</strong> Harsh, overly bright lighting in the bedroom is generally discouraged. Soft, warm-toned lighting is recommended to create a calming atmosphere conducive to open communication and emotional closeness.</li>
-              <li><strong>Pair-Themed Décor:</strong> Many Vastu practitioners recommend incorporating symbols or décor items that represent pairs and togetherness — such as a pair of mandarin ducks, twin decorative items, or artwork depicting couples in harmony.</li>
+              <li>Detailed on-site Vastu evaluation of your home or under-construction property</li>
+              <li>Direction-wise analysis of bedroom, kitchen, entrance, and common living areas</li>
+              <li>Non-structural remedies that do not require demolition or heavy renovation</li>
+              <li>Guidance on colour, furniture placement, and décor as per Vastu principles</li>
+              <li>End-to-end support for new home construction with Vastu-compliant planning from the design stage itself</li>
+              <li>Transparent, honest consultation without unnecessary fear-based selling of remedies</li>
             </ul>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Considerations Beyond the Bedroom
-            </h2>
+            <p>
+              If you are experiencing persistent tension, communication gaps, or unexplained stress in your married life, and suspect that your home&apos;s energy may be playing a role, we encourage you to reach out for a proper Vastu consultation rather than relying solely on generic remedies found online. A trained eye can often spot the exact source of imbalance and suggest the most effective, minimal-intervention fix.
+            </p>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li><strong>North-East Zone (Ishan):</strong> Keeping the sacred north-east corner of the home light, open, and free from clutter is believed to invite overall positive energy that benefits all relationships within the household, including marriage.</li>
-              <li><strong>Kitchen Harmony:</strong> A poorly positioned or disorganized kitchen — particularly one located in the north-east zone rather than the recommended south-east — is believed to indirectly contribute to household tension, including marital stress.</li>
-              <li><strong>Living Room and Shared Spaces:</strong> Shared family spaces like the living room should be designed to encourage togetherness rather than isolation. Seating arrangements that face each other are believed to promote better communication among all household members.</li>
-              <li><strong>Main Entrance Energy:</strong> A well-maintained, brightly lit, and properly directed main entrance is believed to invite overall positive energy into the home, which in turn supports harmony in all household relationships, including marriage.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Vastu Remedies for Existing Marital Tension
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Cover or Remove Bedroom Mirrors:</strong> If a mirror in the bedroom faces the bed, either repositioning it or covering it with a cloth during nighttime hours is a simple and immediately actionable remedy.</li>
-              <li><strong>Combine Separate Mattresses:</strong> Couples currently using two separate mattresses or bed frames pushed together are advised to transition to a single, unified bed frame and mattress where possible, symbolically and practically reinforcing unity.</li>
-              <li><strong>Declutter the Bedroom:</strong> Thoroughly decluttering the bedroom, removing unused items, old clothing, or unnecessary storage boxes, is one of the most universally recommended remedies for improving the emotional energy of the space.</li>
-              <li><strong>Introduce Rose Quartz:</strong> Rose quartz crystals are widely associated with love, harmony, and emotional healing. Placing a small rose quartz piece on a shared nightstand is a commonly suggested remedy.</li>
-              <li><strong>Repair or Replace Broken Items:</strong> Promptly fixing or removing any broken clocks, non-functional lamps, or damaged furniture within the bedroom or shared living spaces can help eliminate a source of symbolic stagnation.</li>
-              <li><strong>Repaint with Soothing Colors:</strong> If the bedroom currently features overly bright, dark, or aggressive color schemes, repainting with soft, neutral, or pastel tones is a relatively simple renovation that can meaningfully shift the room&apos;s overall energy.</li>
-              <li><strong>Reposition the Bed:</strong> Where structurally feasible, repositioning the bed to align with the recommended south or west wall placement, ensuring the headboard is against a solid wall rather than a window, can help address several common Vastu defects.</li>
-              <li><strong>Yantras and Symbolic Remedies:</strong> Placing a small Kamdev-Rati Yantra, believed in traditional practice to specifically support marital harmony and romantic connection, is a remedy some couples choose to incorporate, typically placed in the south-west zone of the bedroom.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Mistakes Couples Make When Addressing Vastu for Marriage
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Focusing solely on the bedroom while neglecting the rest of the home:</strong> While the bedroom is significant, overall household harmony also depends on the broader energy flow throughout the property, including the kitchen, living room, and entrance areas.</li>
-              <li><strong>Making drastic structural changes without professional guidance:</strong> Attempting major renovations, such as relocating an entire bedroom, without proper architectural and Vastu consultation can create new structural or energy-related issues.</li>
-              <li><strong>Ignoring communication and counseling in favor of Vastu alone:</strong> Vastu remedies work best as a complementary approach alongside open communication, mutual effort, and, where needed, professional relationship counseling — not as a standalone solution.</li>
-              <li><strong>Overcrowding the bedroom with too many symbolic remedies:</strong> Adding numerous crystals, yantras, and symbolic items all at once, without proper understanding of their placement and purpose, can create a cluttered space that works against the very harmony these remedies are meant to promote.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build for Vastu-Compliant Home Design in Moradabad
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Every home and every relationship is unique, and identifying the specific Vastu factors that may be contributing to marital tension requires a thoughtful, personalized assessment of your property&apos;s layout and design.</li>
-              <li>At Space Build, our architects and Vastu consultants work together to help couples in Moradabad create living spaces that support emotional connection, communication, and long-term relationship harmony.</li>
-              <li>Whether you&apos;re renovating your existing bedroom to address suspected Vastu imbalances, planning a new home with marital harmony as a design priority, or simply seeking guidance on practical remedies for your current living space, our team can provide the expertise you need.</li>
-            </ul>
+            <p>
+              Visit us at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>{" "}
+              to learn more about our Vastu consultation services, home design solutions, and construction expertise in Moradabad, or to book a personalized site visit with our team.
+            </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Frequently Asked Questions (FAQs)
@@ -114,7 +198,7 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">1. Which direction is best for the master bedroom?</h3>
                 <p>
-                  The south-west zone is considered the most stable and grounding direction for the master bedroom, ideal for fostering commitment and long-term stability between partners.
+                  The South-West corner of the house is considered the most stable and grounding direction for the master bedroom, ideal for fostering commitment and long-term stability between partners.
                 </p>
               </div>
 
@@ -128,35 +212,35 @@ const Content = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">3. What colors are best for a marital bedroom?</h3>
                 <p>
-                  Soft, soothing tones like light pink, light blue, cream, or off-white are recommended. Overly bright, aggressive colors like bright red or black are generally discouraged.
+                  Soft, soothing tones like light pink, peach, cream, or pastel blue are recommended. Dark, aggressive colours like black or deep red are generally discouraged.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">4. Can separate beds affect marriage?</h3>
                 <p>
-                  Yes, Vastu recommends that couples sleep on a single, unified bed frame rather than two separate mattresses or bed frames pushed together, as divided sleeping surfaces are believed to create emotional distance.
+                  Yes, a wobbly, cracked, or mismatched bed disturbs the stability of the relationship on a subconscious level. Vastu recommends a stable, unified bed for couples.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">5. What should the head direction be while sleeping?</h3>
                 <p>
-                  The bed should be positioned so that the couple sleeps with their heads facing south, which is considered ideal for restful sleep and stable relationship energy.
+                  Couples should ideally sleep with their heads towards the South or East direction. Sleeping with the head towards the North is generally discouraged in Vastu.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">6. Can Vastu remedies help with marital problems?</h3>
                 <p>
-                  Yes, remedies like decluttering the bedroom, covering mirrors, combining separate mattresses, introducing rose quartz, and repainting with soothing colors can help. However, Vastu works best alongside open communication and counseling.
+                  Yes, remedies like correct bedroom direction, covering mirrors facing the bed, using rose quartz crystals, colour correction, and keeping the North-East corner clean can help. However, Vastu works best alongside open communication and counselling.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">7. What décor items promote marital harmony?</h3>
                 <p>
-                  Symbols or décor items that represent pairs and togetherness — such as a pair of mandarin ducks, twin decorative items, or artwork depicting couples in harmony — are recommended to reinforce the energy of partnership.
+                  Pair symbols such as two birds (like mandarin ducks), a pair of elephants, or twin candles are recommended to reinforce the energy of partnership and togetherness.
                 </p>
               </div>
 
@@ -179,23 +263,12 @@ const Content = () => {
                 </a>
                 <br />
                 🌐 <strong>Website:</strong>{" "}
-                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                  www.spacebuild.co.in
-                </a>
-              </p>
-                                        <p>
-                📞 <strong>WhatsApp / Call:</strong>{" "}
-                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
-                  +919927611780
-                </a>
-                <br />
-                📧 <strong>Email:</strong>{" "}
-                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gmail.com
-                </a>
-                <br />
-                🌐 <strong>Website:</strong>{" "}
-                <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                <a
+                  href="https://www.spacebuild.co.in/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:underline"
+                >
                   www.spacebuild.co.in
                 </a>
               </p>

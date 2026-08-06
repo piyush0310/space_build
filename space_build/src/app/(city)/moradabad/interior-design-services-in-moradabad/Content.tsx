@@ -8,177 +8,211 @@ const Content = () => {
         <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Interior Design services in Moradabad - Space Build
+              Interior Design Services in Moradabad: Complete Guide by Space Build Moradabad
             </h2>
 
             <p>
-              Choosing the right interior design company can make the difference between a space that simply looks decorated and one that truly works for the people using it. Space Build is an established interior design company in Moradabad, known for delivering thoughtful, functional, and visually appealing interiors for homes, offices, showrooms, and commercial establishments. With Moradabad growing rapidly as a business and residential hub, the demand for professional interior design services has increased, and Space Build has positioned itself as a reliable name in this space.
+              Your home or workplace is far more than just walls and furniture — it is a reflection of your personality, lifestyle, and aspirations. Whether you are moving into a new apartment, renovating an ageing house, or setting up a new office space, the way that space is designed has a direct impact on your comfort, productivity, and overall quality of life. In a growing city like Moradabad, known for its rich craftsmanship heritage, the demand for professional, thoughtfully executed interior design has risen significantly over the past few years, as residents increasingly seek homes and workspaces that combine functionality with aesthetic appeal.
             </p>
 
             <p>
-              Unlike local contractors who focus only on execution, Space Build combines design thinking, technical planning, and skilled execution to deliver interiors that are practical, durable, and aesthetically strong. From concept to completion, the company manages every stage of the project, giving clients a stress-free experience.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Hiring a Professional Interior Design Company Matters
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Ensures better space utilization compared to random furniture placement.</li>
-              <li>Brings design expertise that balances aesthetics with functionality.</li>
-              <li>Helps avoid costly mistakes during construction or renovation.</li>
-              <li>Coordinates multiple trades like civil, electrical, and carpentry under one roof.</li>
-              <li>Saves time through structured planning and project management.</li>
-              <li>Increases property value through quality finishes and layouts.</li>
-              <li>Provides access to updated design trends and material options.</li>
-            </ul>
-
-            <p>
-              Many people attempt interior work through untrained local labor, which often leads to mismatched designs, wasted materials, and repeated rework. A professional company like Space Build eliminates these issues through proper planning and supervision.
+              Space Build Moradabad has established itself as a trusted name for comprehensive interior design services in the region, offering end-to-end solutions that take a project from initial concept through to final execution. This article explores the full scope of interior design services available in Moradabad, what to expect from a professional design process, and why choosing the right interior partner makes all the difference to the final outcome.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Services Offered by Space Build
+              Why Professional Interior Design Matters
             </h2>
 
+            <p>
+              Many homeowners initially consider handling interior work on their own, relying on local carpenters or piecing together furniture and décor without an overarching design plan. While this approach may seem cost-effective at first, it often results in mismatched aesthetics, inefficient use of space, and higher long-term costs due to design errors or the need for later corrections. Professional interior design offers several distinct advantages:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Residential interior design (homes, apartments, villas).</li>
-              <li>Office and corporate interior design.</li>
-              <li>Showroom and retail space design.</li>
-              <li>False ceiling and lighting design.</li>
-              <li>Modular kitchen design.</li>
-              <li>Wardrobe and storage solutions.</li>
-              <li>Living room and bedroom interiors.</li>
-              <li>Flooring and wall finishes.</li>
-              <li>Furniture design and manufacturing.</li>
-              <li>Turnkey interior projects (design and execution).</li>
-              <li>Renovation and remodeling of existing spaces.</li>
+              <li>Optimal space utilization, particularly important in urban apartments and compact commercial units where every square foot needs to serve a purpose.</li>
+              <li>Cohesive design language across all rooms, ensuring colours, materials, and furniture styles complement rather than clash with one another.</li>
+              <li>Better budget planning, as professional designers can accurately estimate costs upfront and help avoid unexpected expenses mid-project.</li>
+              <li>Access to skilled vendors and contractors, built through years of working relationships, ensuring quality execution.</li>
+              <li>Time efficiency, as an experienced design team manages coordination between multiple trades — carpentry, electrical, plumbing, painting — reducing delays.</li>
+              <li>Long-term durability, since professionally designed interiors typically use better-planned layouts and quality materials suited to daily wear and tear.</li>
             </ul>
 
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Our Range of Interior Design Services in Moradabad
+            </h2>
+
             <p>
-              This broad service range allows clients to rely on a single company for their entire interior journey, rather than coordinating separately with designers, contractors, and furniture suppliers.
+              Space Build Moradabad offers a comprehensive suite of interior design services catering to both residential and commercial clients across the city and surrounding areas.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900 mt-4">
+              Residential Interior Design
+            </h3>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Full home interior design covering living rooms, bedrooms, kitchens, bathrooms, and balconies</li>
+              <li>Modular kitchen design and installation, tailored to available space and cooking habits</li>
+              <li>Wardrobe and storage solutions, including walk-in closets and space-saving modular units</li>
+              <li>False ceiling design with integrated lighting for enhanced ambiance</li>
+              <li>Living and dining room design, balancing comfort with visual appeal</li>
+              <li>Children&apos;s room and study area design, focused on functionality and safety</li>
+              <li>Pooja room design, respecting traditional aesthetics while integrating modern materials</li>
+              <li>Balcony and terrace styling, transforming underutilized outdoor spaces into relaxing corners</li>
+            </ul>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900 mt-4">
+              Commercial Interior Design
+            </h3>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Office interior design, including workstation planning, cabin layouts, and collaborative spaces</li>
+              <li>Retail and showroom interiors, designed to enhance customer experience and product visibility</li>
+              <li>Restaurant and café interior design, blending ambiance with operational efficiency</li>
+              <li>Clinic and healthcare facility interiors, focused on hygiene, comfort, and patient flow</li>
+              <li>Reception and lobby design, creating strong first impressions for visitors and clients</li>
+            </ul>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900 mt-4">
+              Turnkey Interior Solutions
+            </h3>
+
+            <p>
+              For clients who prefer a hassle-free experience, Space Build Moradabad offers turnkey interior packages that cover everything from initial design concepts to final handover, including civil work, electrical fittings, carpentry, painting, and décor — managed entirely by our team under one roof.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Space Build&apos;s Design and Execution Process
+              Our Interior Design Process
             </h2>
 
+            <p>
+              A well-structured process is key to delivering interiors that are both beautiful and practical. Here is how our design journey typically unfolds:
+            </p>
+
+            <ol className="list-decimal pl-6 space-y-2">
+              <li>
+                <strong>Initial Consultation</strong>
+                <br />
+                We begin by understanding the client&apos;s requirements, lifestyle, budget, and design preferences through a detailed discussion, often supported by a site visit to assess the existing space.
+              </li>
+              <li>
+                <strong>Concept Development</strong>
+                <br />
+                Based on the initial discussion, our design team develops preliminary concepts, including mood boards, colour palettes, and material suggestions that align with the client&apos;s vision and the character of the space.
+              </li>
+              <li>
+                <strong>2D Layout and 3D Visualization</strong>
+                <br />
+                Detailed floor plans and photorealistic 3D renderings are shared with the client, allowing them to visualize the final look and feel of each room before any physical work begins. This step significantly reduces the chances of last-minute changes during execution.
+              </li>
+              <li>
+                <strong>Material and Finish Selection</strong>
+                <br />
+                Clients are guided through a curated selection of materials, finishes, fittings, and furniture options, balancing aesthetic preferences with durability and budget considerations.
+              </li>
+              <li>
+                <strong>Detailed Costing and Timeline</strong>
+                <br />
+                A transparent cost breakdown and realistic project timeline are shared upfront, helping clients plan their budget and schedule without hidden surprises later in the process.
+              </li>
+              <li>
+                <strong>Execution and Site Management</strong>
+                <br />
+                Our on-ground team manages the entire execution process, coordinating carpenters, electricians, painters, and other tradespeople, while maintaining quality checks at every stage.
+              </li>
+              <li>
+                <strong>Final Styling and Handover</strong>
+                <br />
+                Once construction and installation work is complete, our team handles final styling — including soft furnishings, artwork placement, and décor accessories — before handing over a fully finished, move-in-ready space.
+              </li>
+            </ol>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Popular Interior Design Styles We Work With
+            </h2>
+
+            <p>
+              Every client has a unique aesthetic preference, and our team is experienced across a wide range of interior design styles, including:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Initial meeting to understand requirements, budget, and timeline.</li>
-              <li>Site visit and measurement of the space.</li>
-              <li>Concept design and material moodboard preparation.</li>
-              <li>2D floor plans and 3D visual presentations.</li>
-              <li>Finalization of design, materials, and cost estimate.</li>
-              <li>Execution with dedicated site supervision.</li>
-              <li>Regular progress updates shared with the client.</li>
-              <li>Final quality check and handover.</li>
+              <li><strong>Modern minimalist</strong> — clean lines, neutral palettes, and clutter-free spaces</li>
+              <li><strong>Contemporary</strong> — a blend of current trends with timeless design elements</li>
+              <li><strong>Traditional Indian</strong> — rich textures, warm colours, and cultural motifs</li>
+              <li><strong>Industrial</strong> — exposed materials, metal accents, and raw finishes</li>
+              <li><strong>Scandinavian</strong> — light woods, soft colours, and functional simplicity</li>
+              <li><strong>Fusion</strong> — a customized mix of traditional and modern elements tailored to individual taste</li>
             </ul>
 
             <p>
-              This structured approach reduces confusion, prevents budget overruns, and ensures that the final result matches what was promised at the design stage.
+              Our design team works closely with each client to identify the style that best suits their personality and the practical needs of their space, rather than pushing a one-size-fits-all template.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Core Elements Space Build Focuses On
+              Materials and Quality Standards
             </h2>
 
+            <p>
+              Quality of materials plays a significant role in the longevity and finish of any interior project. At Space Build Moradabad, we prioritize:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Layout Planning: Ensuring smooth movement and functional zoning of spaces.</li>
-              <li>Lighting Design: Balancing natural light with ambient and task lighting.</li>
-              <li>Material Selection: Choosing durable, low-maintenance materials suited to daily use.</li>
-              <li>Color Palette: Colors that reflect personality or brand identity while staying practical.</li>
-              <li>Furniture Design: Custom and modular furniture built for the specific space.</li>
-              <li>Storage Solutions: Maximizing storage without compromising on visual appeal.</li>
-              <li>Ventilation and Comfort: Designing for airflow, temperature, and acoustic comfort.</li>
+              <li>Branded plywood and laminates for carpentry work, ensuring durability against moisture and daily wear</li>
+              <li>Quality hardware fittings (hinges, channels, handles) from trusted manufacturers for smooth, long-lasting functionality</li>
+              <li>Certified electrical components for all wiring and fixture installations, ensuring safety compliance</li>
+              <li>Water-resistant and easy-to-maintain materials for kitchens and bathrooms</li>
+              <li>Eco-friendly paint options with low VOC content for healthier indoor air quality</li>
+            </ul>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Budget-Friendly Interior Solutions
+            </h2>
+
+            <p>
+              We understand that not every client has the same budget, and our team is skilled at designing beautiful, functional interiors across a range of price points. Whether you are looking for a complete luxury home makeover or practical, budget-conscious solutions for a rental property or starter home, our design approach adapts to:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>High-end, fully customized interior packages using premium materials and bespoke furniture</li>
+              <li>Mid-range solutions balancing quality and cost-effectiveness for growing families</li>
+              <li>Essential, budget-friendly packages focused on functional improvements without compromising on safety or basic aesthetics</li>
             </ul>
 
             <p>
-              By focusing on these fundamentals, Space Build ensures interiors are not just visually pleasing but genuinely comfortable to live or work in.
+              Clients are given clear options at each budget level, allowing them to make informed decisions without feeling pressured into unnecessary upgrades.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential Interior Design Highlights
+              Why Choose Space Build Moradabad for Interior Design
             </h2>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Living rooms designed for both comfort and entertaining guests.</li>
-              <li>Bedrooms focused on relaxation with smart storage integration.</li>
-              <li>Modular kitchens designed for efficient cooking workflows.</li>
-              <li>Kids&apos; rooms combining safety, functionality, and creativity.</li>
-              <li>Pooja rooms designed with traditional aesthetics and proper placement.</li>
-              <li>Balconies and small spaces optimized for maximum usability.</li>
-            </ul>
-
             <p>
-              Each residential project is customized based on family size, lifestyle, and personal preferences, ensuring the home reflects the people living in it.
+              Selecting the right interior design partner can significantly influence not just the final look of your space, but also your overall experience throughout the project. Here is what sets Space Build Moradabad apart:
             </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Commercial and Office Interior Design Highlights
-            </h2>
-
             <ul className="list-disc pl-6 space-y-2">
-              <li>Reception and lobby design that creates a strong first impression.</li>
-              <li>Workstation and cabin layouts that support productivity.</li>
-              <li>Meeting and conference room design for professional interactions.</li>
-              <li>Showroom interiors that enhance product display and customer experience.</li>
-              <li>Retail store layouts optimized for footfall and sales conversion.</li>
-              <li>Restaurant and café interiors balancing ambiance with operational efficiency.</li>
+              <li>Local expertise with a citywide presence — years of experience serving residential and commercial clients across Moradabad and nearby areas</li>
+              <li>In-house design and execution team — reducing dependency on multiple external vendors and ensuring accountability at every stage</li>
+              <li>Transparent pricing — detailed quotations with no hidden costs, shared upfront before project commencement</li>
+              <li>3D visualization before execution — helping clients confidently approve designs before any construction begins</li>
+              <li>Timely project delivery — structured project management to minimize delays and disruptions</li>
+              <li>Post-completion support — assistance with minor adjustments, maintenance guidance, and warranty support after handover</li>
+              <li>Integration with Vastu principles — for clients who wish to combine interior aesthetics with traditional Vastu Shastra guidelines for a harmonious living or working environment</li>
             </ul>
 
             <p>
-              This dual expertise in residential and commercial design makes Space Build a versatile choice for a wide range of clients in Moradabad.
+              Whether you are planning a complete home renovation, setting up a new office, or simply looking to refresh a single room, our team is equipped to guide you through every step of the process, from the first concept sketch to the final styling touch.
             </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Popular Interior Design Styles Space Build Works With
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Modern Contemporary: Clean lines, neutral tones, minimal clutter.</li>
-              <li>Traditional Indian: Warm colors, classic furniture, cultural elements.</li>
-              <li>Industrial Style: Exposed textures, metal accents, raw finishes.</li>
-              <li>Minimalist Design: Functional spaces with limited but purposeful elements.</li>
-              <li>Luxury Interiors: Premium materials, statement lighting, refined detailing.</li>
-              <li>Fusion Design: A blend of traditional and modern elements for a unique look.</li>
-            </ul>
-
             <p>
-              Rather than pushing a single design philosophy, Space Build listens to client preferences and builds designs around their vision.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build as Your Interior Design Company
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Strong local presence and understanding of Moradabad&apos;s market and vendors.</li>
-              <li>Team of experienced designers, architects, and site supervisors.</li>
-              <li>Transparent pricing with no hidden costs.</li>
-              <li>Use of quality, durable materials for long-term performance.</li>
-              <li>Complete project management from design to handover.</li>
-              <li>Proven track record across residential and commercial projects.</li>
-              <li>After-project support for minor adjustments and maintenance guidance.</li>
-            </ul>
-
-            <p>
-              Space Build&apos;s combination of design sensibility and execution discipline has helped it build long-term relationships with clients across Moradabad, many of whom return for additional projects or refer the company to others.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Budget-Friendly Interior Design Options
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Phase-wise execution to spread costs over time.</li>
-              <li>Smart material substitutions that maintain look without high cost.</li>
-              <li>Modular furniture options that offer flexibility and reusability.</li>
-              <li>Prioritizing high-visibility areas first within a limited budget.</li>
-              <li>Transparent cost breakdowns to help clients make informed decisions.</li>
-            </ul>
-
-            <p>
-              This flexibility ensures that both budget-conscious clients and those looking for premium interiors can find suitable solutions with Space Build.
+              Visit us at{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>{" "}
+              to explore our interior design portfolio, request a consultation, or discuss your project requirements with our team in Moradabad.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
@@ -187,58 +221,65 @@ const Content = () => {
 
             <div className="space-y-6 mt-6">
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">1. What types of projects does Space Build handle?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">1. What interior design services do you offer in Moradabad?</h3>
                 <p>
-                  Space Build handles residential, office, retail, and commercial interior design projects across Moradabad.
+                  We offer full home interior design, modular kitchens, wardrobes, false ceilings, living and dining room design, children&apos;s rooms, pooja rooms, balcony styling, as well as commercial interiors for offices, retail spaces, restaurants, clinics, and lobbies.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">2. How much does interior design cost with Space Build?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">2. Do you provide turnkey interior solutions?</h3>
                 <p>
-                  Cost varies based on space size, materials, and design complexity. A custom quote is provided after consultation.
+                  Yes, we offer turnkey interior packages that cover everything from design concepts to final handover, including civil work, electrical, carpentry, painting, and décor — all managed by our in-house team.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">3. Does Space Build provide 3D designs before starting work?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">3. Will I get to see the design before work starts?</h3>
                 <p>
-                  Yes, 3D visualizations are shared so clients can review designs before execution begins.
+                  Yes, we provide detailed 2D floor plans and photorealistic 3D renderings so you can visualize the final look and feel of each room before any physical work begins.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">4. How long does a typical interior project take?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">4. What interior design styles do you work with?</h3>
                 <p>
-                  Depending on scope, projects usually take 4 to 10 weeks to complete.
+                  We work with modern minimalist, contemporary, traditional Indian, industrial, Scandinavian, and fusion styles, tailoring the design to each client&apos;s personality and practical needs.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">5. Can Space Build renovate an existing home or office?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">5. Do you offer budget-friendly interior options?</h3>
                 <p>
-                  Yes, renovation and remodeling services are available for existing spaces.
+                  Yes, we design across all budget levels — from high-end luxury packages to mid-range and essential budget-friendly solutions — without compromising on safety or basic aesthetics.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">6. Is furniture manufacturing included in the service?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">6. How long does an interior design project take?</h3>
                 <p>
-                  Yes, Space Build designs and manufactures custom and modular furniture as part of its services.
+                  The timeline varies based on scope and complexity. After the initial consultation and design approval, we share a realistic project timeline upfront so you can plan accordingly.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-semibold text-gray-900 mb-3">7. Does Space Build work within a fixed budget?</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">7. Can you integrate Vastu principles into the interior design?</h3>
                 <p>
-                  Yes, designs and material choices can be adjusted to fit a client&apos;s specific budget.
+                  Yes, for clients who wish to combine interior aesthetics with traditional Vastu Shastra guidelines, we offer design solutions that align with Vastu principles for a harmonious living or working environment.
                 </p>
               </div>
 
-              <p>
+              <div>
+                <h3 className="font-semibold text-gray-900 mb-3">8. How can I contact Space Build for an interior design consultation?</h3>
+                <p>
+                  You can reach out to Space Build through our website or contact us directly to discuss your interior design requirements and schedule a consultation.
+                </p>
+              </div>
+
+              <p className="mt-6">
                 📞 <strong>WhatsApp / Call:</strong>{" "}
                 <a href="tel:+919927611780" className="text-blue-600 hover:underline">
-                  +919927611780
+                  +91 9927611780
                 </a>
                 <br />
                 📧 <strong>Email:</strong>{" "}
