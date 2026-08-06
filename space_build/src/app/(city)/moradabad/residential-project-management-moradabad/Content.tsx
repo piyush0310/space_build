@@ -1,59 +1,48 @@
+import LandingEnquiry from "@/components/LandingEnquiry";
 import React from "react";
 
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
-      <div className="flex flex-col">
-        <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
+      <div className="flex flex-col lg:flex-row max-w-[1800px] mx-auto gap-8">
+        <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
               Residential Project Management in Moradabad
             </h2>
-
             <p>
               Building a home is one of the most personal and emotional investments a family will ever make. It is not just about walls, floors, and a roof — it is about creating a space where memories are built, where children grow up, and where years of hard work and savings come together in a physical form. Yet, for most homeowners, the process of actually constructing that home is filled with uncertainty, unfamiliar terminology, and the risk of dealing with unreliable contractors. This is precisely why residential project management has become such an important service in a growing city like Moradabad, and why Space Build has emerged as a name homeowners trust for exactly this purpose.
             </p>
-
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               What Is Residential Project Management?
             </h2>
-
             <p>
               Residential project management refers to the professional oversight of a home construction project from the very first idea to the final handover of keys. Unlike a traditional contractor who may simply execute construction tasks as instructed, a residential project manager takes end-to-end responsibility for planning, budgeting, scheduling, quality control, and coordination between architects, engineers, vendors, and labor teams.
             </p>
-
             <p>
               For homeowners, this means having a single point of contact who understands the full picture of the project — someone who can answer questions, resolve issues, and keep the build moving forward without the homeowner having to personally manage dozens of moving parts.
             </p>
-
             <p>
               In Moradabad, where residential development is expanding steadily across both established neighborhoods and newer colonies, homeowners are increasingly looking for construction partners who bring structure and professionalism to what has traditionally been an unorganized process. Space Build was built to meet exactly this need.
             </p>
-
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Why Homeowners in Moradabad Need Professional Project Management
             </h2>
-
             <p>
               Many families in Moradabad have either experienced or heard stories about residential construction gone wrong — labor contractors disappearing mid-project, costs quietly increasing well beyond the original estimate, poor-quality materials being used without the owner's knowledge, or timelines stretching from a few months into a year or more.
             </p>
-
             <p>
               These problems typically arise not because construction itself is impossible to manage, but because there is no single accountable party overseeing the process. When a homeowner has to separately manage a mason, an electrician, a plumber, a material supplier, and a labor contractor, small miscommunications quickly snowball into major delays and disputes.
             </p>
-
             <p>
               A dedicated residential project manager like Space Build eliminates this fragmented approach. Instead of homeowners chasing multiple people for updates, one team is responsible for the entire journey — and for making sure it stays on time, on budget, and to the promised quality standard.
             </p>
-
             <p>
               You can explore Space Build's residential project portfolio and services at their official website: <a href="https://www.spacebuild.co.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">https://www.spacebuild.co.in/</a>.
             </p>
-
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Space Build's Approach to Residential Projects
             </h2>
-
             <ol className="list-decimal pl-6 space-y-4">
               <li>
                 <span className="font-semibold">Understanding the Family's Needs:</span> Every home is different because every family is different. Space Build begins each residential project by understanding how the family actually lives — the number of bedrooms needed, whether a home office or study room is required, how much natural light and ventilation matters, whether there are elderly family members who need ground-floor accessibility, and how the family envisions using outdoor or terrace space. This initial conversation shapes everything that follows.
@@ -231,8 +220,10 @@ const Content = () => {
           </div>
         </div>
 
-        <div className="w-[400px] lg:w-[500px] p-8 order-2 lg:order-2">
-          <div className="lg:sticky lg:top-28"></div>
+        <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
+          <div className="lg:sticky lg:top-28">
+            <LandingEnquiry />
+          </div>
         </div>
       </div>
     </div>

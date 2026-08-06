@@ -1,10 +1,10 @@
 import React from "react";
-
+import LandingEnquiry from "@/components/LandingEnquiry";
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
-      <div className="flex flex-col">
-        <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1">
+      <div className="flex flex-col lg:flex-row max-w-[1800px] mx-auto gap-8">
+        <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
               Kitchen Chimney Installation in Moradabad – Space Build
@@ -434,11 +434,37 @@ const Content = () => {
               </a>
               , where technical precision and thoughtful kitchen design come together for homes across Moradabad.
             </p>
+             <p>
+              📞 <strong>WhatsApp / Call:</strong>{" "}
+              <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                +919927611780
+              </a>
+              <br />
+              📧 <strong>Email:</strong>{" "}
+              <a
+                href="mailto:spacebuild.india@gmail.com"
+                className="text-blue-600 hover:underline"
+              >
+                spacebuild.india@gmail.com
+              </a>
+              <br />
+              🌐 <strong>Website:</strong>{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+            </p>
           </div>
         </div>
 
-        <div className="w-[400px] lg:w-[500px] p-8 order-2 lg:order-2">
-          <div className="lg:sticky lg:top-28"></div>
+        <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
+          <div className="lg:sticky lg:top-28">
+            <LandingEnquiry />
+          </div>
         </div>
       </div>
     </div>

@@ -1,5 +1,5 @@
 import React from "react";
-
+import LandingEnquiry from "@/components/LandingEnquiry";
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -244,9 +244,10 @@ const Content = () => {
             </div>
           </div>
         </div>
-
-        <div className="w-[400px] lg:w-[500px] p-8 order-2 lg:order-2">
-          <div className="lg:sticky lg:top-28"></div>
+        <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
+          <div className="lg:sticky lg:top-28">
+            <LandingEnquiry />
+          </div>
         </div>
       </div>
     </div>

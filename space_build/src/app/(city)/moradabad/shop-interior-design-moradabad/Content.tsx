@@ -1,5 +1,5 @@
 import React from "react";
-
+import LandingEnquiry from "@/components/LandingEnquiry";
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -216,11 +216,36 @@ const Content = () => {
             <p>
               From storefront design to product displays, lighting, and checkout planning, every element of a shop&apos;s interior contributes to the overall customer journey. Business owners who invest in professional, strategically planned interior design are often better positioned to build customer loyalty, increase average transaction value, and stand out within Moradabad&apos;s growing commercial landscape.
             </p>
+             <p>
+              📞 <strong>WhatsApp / Call:</strong>{" "}
+              <a href="tel:+919927611780" className="text-blue-600 hover:underline">
+                +919927611780
+              </a>
+              <br />
+              📧 <strong>Email:</strong>{" "}
+              <a
+                href="mailto:spacebuild.india@gmail.com"
+                className="text-blue-600 hover:underline"
+              >
+                spacebuild.india@gmail.com
+              </a>
+              <br />
+              🌐 <strong>Website:</strong>{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
+            </p>
           </div>
         </div>
-
-        <div className="w-[400px] lg:w-[500px] p-8 order-2 lg:order-2">
-          <div className="lg:sticky lg:top-28"></div>
+        <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
+          <div className="lg:sticky lg:top-28">
+            <LandingEnquiry />
+          </div>
         </div>
       </div>
     </div>
