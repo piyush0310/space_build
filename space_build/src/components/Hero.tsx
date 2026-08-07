@@ -124,7 +124,7 @@ const HeroSection: React.FC = () => {
       </section>
 
       {/* MOBILE VERSION */}
-      <section className="block md:hidden hero-mobile relative w-full overflow-hidden" style={{ height: '20vh', minHeight: '40dvh' }}>
+      <section className="block md:hidden hero-mobile relative w-full overflow-hidden" style={{ height: '20vh', minHeight: '20dvh' }}>
         {slides.map((slide, index) => (
           <div
             key={`mobile-${index}`}

@@ -7,7 +7,6 @@ import { useRouter, usePathname } from "next/navigation";
 import TopBar from "@/components/Topbar";
 import { Phone, Home } from "lucide-react";
 
-
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isServicesDropdownOpen, setIsServicesDropdownOpen] = useState(false);
@@ -21,7 +20,15 @@ const Header: React.FC = () => {
       const timer = setTimeout(() => {
         const element = document.querySelector(pendingScroll);
         if (element) {
-          element.scrollIntoView({ behavior: 'smooth' });
+          const y =
+  element.getBoundingClientRect().top +
+  window.pageYOffset -
+  100;
+
+window.scrollTo({
+  top: y,
+  behavior: "smooth",
+});
         }
         setPendingScroll(null);
       }, 100);
@@ -88,12 +95,12 @@ const Header: React.FC = () => {
   return (
     <>
       {/* Sticky TopBar */}
-      <div className="sticky top-0 z-50">
+      <div className="fixed left-0 right-0 z-[9999]">
         <TopBar />
       </div>
 
       {/* Sticky Main Header below TopBar */}
-      <header className="sticky top-[1.5rem] z-40 bg-[#28344B] px-4 py-3 shadow-md">
+      <header className="fixed left-0 right-0 top-[30px] z-[9998] bg-[#28344B] px-4 py-3 shadow-md">
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-2">
 
 
@@ -299,7 +306,7 @@ onMouseLeave={() => {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="md:hidden mt-4 py-4 border-t border-gray-300">
+  <div className="md:hidden fixed left-0 right-0 top-[96px] bg-[#28344B] py-4 border-t border-gray-300 z-[9997] max-h-[calc(100vh-96px)] overflow-y-auto">
             <nav className="flex flex-col space-y-4">
               {navigationItems.map((item) => (
                 <div key={item.name}>

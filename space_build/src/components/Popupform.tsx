@@ -218,7 +218,7 @@ export default function ConsultationPopup() {
           ].join(" ")}
         >
           {/* Header */}
-          <div className="relative bg-[#1a1a1a] rounded-t-xl px-6 py-5 text-center overflow-hidden">
+          <div className="relative bg-[#28344B] rounded-t-xl px-6 py-5 text-center overflow-hidden">
             <div className="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-[#c9a84c] to-transparent" />
 
             <h2 className="sm:text-2xl md:text-3xl font-serif text-white leading-tight tracking-wide">
@@ -371,7 +371,7 @@ export default function ConsultationPopup() {
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="w-full py-3 bg-[#1a1a1a] text-white text-sm font-semibold rounded-lg hover:bg-[#2e2e2e] active:scale-[0.99] transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed tracking-wide"
+                className="w-full py-3 bg-[#28344B] text-white text-sm font-semibold rounded-lg hover:bg-[#2e2e2e] active:scale-[0.99] transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed tracking-wide"
               >
                 {isSubmitting ? "Submitting…" : "Submit →"}
               </button>
