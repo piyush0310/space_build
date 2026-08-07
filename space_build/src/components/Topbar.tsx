@@ -26,9 +26,9 @@ const TopBar: React.FC = () => {
                   className="w-4 h-4 sm:w-5 sm:h-5 text-black"
                   aria-hidden="true"
                 />
-                <span className="text-xs sm:text-sm">
-                  +91 9927611780
-                </span>
+                <span className="text-[10px] sm:text-sm whitespace-nowrap">
+                     +91 9927611780
+                 </span>
               </a>
 
               {/* Mobile + Desktop Separator */}
@@ -44,14 +44,14 @@ const TopBar: React.FC = () => {
                   className="w-4 h-4 sm:w-5 sm:h-5 text-black"
                   aria-hidden="true"
                 />
-                <span className="text-xs sm:text-sm">
-                  +91 8077973797
-                </span>
+                <span className="text-[10px] sm:text-sm whitespace-nowrap"> 
+                      +91 8077973797
+                  </span>
               </a>
             </div>
 
-            {/* Mobile & Desktop Divider */}
-<div className="w-px h-5 bg-gray-300 mx-2 sm:mx-3 shrink-0"></div>
+           {/* Mobile Only Divider */}
+              <div className="block md:hidden w-px h-5 bg-gray-300 mx-2 shrink-0"></div>
 
 {/* Right Side - Email */}
 <a

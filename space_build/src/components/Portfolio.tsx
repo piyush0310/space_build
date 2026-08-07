@@ -98,6 +98,7 @@ interface LazyImageProps {
 }
 
 const LazyImage: React.FC<LazyImageProps> = ({ image, className, onClick }) => {
+  const isMobile = useIsMobile();
   const { elementRef, hasIntersected } = useIntersectionObserver();
   const [isLoaded, setIsLoaded] = useState(false);
   const [hasError, setHasError] = useState(false);
@@ -128,7 +129,9 @@ const LazyImage: React.FC<LazyImageProps> = ({ image, className, onClick }) => {
           onLoad={handleLoad}
           onError={handleError}
           className={cn(
-            "object-cover w-full h-full transition-all duration-300 ease-out rounded-lg",
+    isMobile
+    ? "object-cover w-full h-auto rounded-lg"
+    : "object-cover w-full h-full transition-all duration-300 ease-out rounded-lg",
             "will-change-transform group-hover:scale-105",
             isLoaded ? "opacity-100" : "opacity-0",
             hasError && "bg-gray-800 flex items-center justify-center"
@@ -283,26 +286,32 @@ const PortfolioCarousel: React.FC = () => {
   
   // Portfolio Image Component
   const PortfolioImage: React.FC<{ image: ImageData }> = ({ image }) => {
-    const imageClasses = cn(
-      "portfolio-item group overflow-hidden cursor-pointer relative will-change-transform",
-      "transition-transform duration-300 hover:z-10 hover:-translate-y-1",
-      image.layout === "horizontal" ? "col-span-2" : "col-span-1"
-    );
+  const imageClasses = cn(
+  "portfolio-item group overflow-hidden cursor-pointer relative will-change-transform",
+  "transition-transform duration-300 hover:z-10 hover:-translate-y-1",
+  image.layout === "horizontal"
+    ? "col-span-2"
+    : "col-span-1"
+);
 
-    return (
-      <div className={imageClasses}>
-        <AspectRatio
-          ratio={image.layout === "horizontal" ? 16 / 10.5 : 3 / 4}
-        >
-          <LazyImage 
-            image={image} 
-            className="w-full h-full" 
-            onClick={() => handleImageClick(0)}
-          />
-        </AspectRatio>
-      </div>
-    );
-  };
+  return (
+    <div className={imageClasses}>
+      <AspectRatio
+  ratio={
+    image.layout === "horizontal"
+      ? (isMobile ? 16 / 8 : 16 / 10.5)
+      : (isMobile ? 1 : 3 / 4)
+  }
+>
+        <LazyImage
+          image={image}
+          className="w-full h-full"
+          onClick={() => handleImageClick(0)}
+        />
+      </AspectRatio>
+    </div>
+  );
+};
 
   return (
     <>
@@ -313,22 +322,35 @@ const PortfolioCarousel: React.FC = () => {
         </h1>
       </section>
 
-      
-
-        
-
       {/* Grid Section */}
       <section className="relative pt-10 pb-16 bg-[#EDF4F8] overflow-hidden">
         <div ref={gridRef} className="relative z-10 container mx-auto px-4 sm:px-6">
-          <div className="max-w-full sm:max-w-[95%] lg:max-w-[90%] mx-auto"> 
-            <div className="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-6 lg:grid-cols-6 gap-1 sm:gap-2 will-change-contents">
-              {visibleImages.map((image, index) => (
-                <PortfolioImage 
-                  key={`${image.id}-${index}`}
-                  image={image}
-                />
-              ))}
-            </div>
+          <div className="w-full max-w-full sm:max-w-[95%] lg:max-w-[90%] mx-auto">
+{isMobile ? (
+  <div className="columns-2 gap-2 space-y-2">
+    {visibleImages.map((image, index) => (
+      <div
+        key={`${image.id}-${index}`}
+        className="mb-2 break-inside-avoid overflow-hidden rounded-lg"
+      >
+        <LazyImage
+          image={image}
+          className="w-full"
+          onClick={() => handleImageClick(index)}
+        />
+      </div>
+    ))}
+  </div>
+) : (
+  <div className="grid grid-cols-6 gap-2">
+    {visibleImages.map((image, index) => (
+      <PortfolioImage
+        key={`${image.id}-${index}`}
+        image={image}
+      />
+    ))}
+  </div>
+)}
           </div>
           
           {visibleImages.length < gridImages.length && (

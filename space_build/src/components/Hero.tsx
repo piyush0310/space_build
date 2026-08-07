@@ -68,7 +68,7 @@ const HeroSection: React.FC = () => {
               <img
                 src={slide.image}
                 alt={`Slide ${index + 1}`}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
                 style={{ 
                   objectFit: 'cover',
                   objectPosition: 'center center'
@@ -124,7 +124,8 @@ const HeroSection: React.FC = () => {
       </section>
 
       {/* MOBILE VERSION */}
-      <section className="block md:hidden hero-mobile relative w-full overflow-hidden" style={{ height: '20vh', minHeight: '20dvh' }}>
+      <section 
+      className="block md:hidden relative w-full overflow-hidden h-[370px]">
         {slides.map((slide, index) => (
           <div
             key={`mobile-${index}`}
@@ -136,15 +137,14 @@ const HeroSection: React.FC = () => {
           >
             {/* Mobile Background Image */}
             <div className="absolute inset-0 w-full h-full">
-              <img
-                src={slide.mobileImage || slide.image}
-                alt={`Slide ${index + 1}`}
-                className="w-full h-full object-cover"
-                style={{ 
-                  objectFit: 'cover',
-                  objectPosition: 'center center'
-                }}
-              />
+<img
+  src={slide.mobileImage || slide.image}
+  alt={`Slide ${index + 1}`}
+  className="w-full h-full object-cover"
+  style={{
+    objectPosition: 'center center'
+  }}
+/>
               <div className="absolute inset-0 bg-black/15"></div>
             </div>
 
