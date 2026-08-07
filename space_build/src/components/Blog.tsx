@@ -28,7 +28,7 @@ const BlogPreview: React.FC = () => {
               <article className="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2">
                 {/* Date Badge */}
                 <div className="relative">
-                  <div className="absolute top-4 left-4 z-10 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium text-white">
+                  <div className="absolute top-4 left-4 z-10 bg-[#28344B] backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium text-white">
                     {blog.date}
                   </div>
 

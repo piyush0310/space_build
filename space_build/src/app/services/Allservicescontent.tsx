@@ -6,7 +6,7 @@ export default function SpaceBuildServicesPage() {
   return (
     <div className="min-h-screen bg-[#EDF4F8]">
       {/* Hero Section */}
-      <section className="relative w-full h-[60vh] md:h-[50vh] overflow-hidden">
+      <section className="relative w-full h-[60vh] md:h-[80vh] overflow-hidden">
         <Image
           src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1920&auto=format&fit=crop&q=100"
           alt="SPACE BUILD SERVICES"

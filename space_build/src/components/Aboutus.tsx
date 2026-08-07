@@ -48,7 +48,7 @@ const teamMembers: TeamMember[] = [
     <section id="aboutus" className="py-8 sm:py-6 lg:py-8 px-4 bg-[#EDF4F8]">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
-        <div className="text-center mb-8 sm:mb-8 lg:mb-8">
+        <div className="text-center mb-8 sm:mb-8 lg:mb-8 pt-28">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif tracking-[0.2em] text-gray-800 mb-4 sm:mb-6 lg:mb-8">
             ABOUT US
           </h2>
@@ -79,15 +79,14 @@ const teamMembers: TeamMember[] = [
   alt={member.name}
   fill
   className={`object-cover transition-transform duration-500 group-hover:scale-110 ${
-    member.id === 2
-      ? "object-[center_25%]"
-      : member.id === 3
-      ? "object-[center_25%]"
-      : member.id === 4
-      ? "object-[center_25%]"
-      : "object-center"
-  }`}
-  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+  member.id === 2
+    ? "object-[center_25%]"
+    : member.id === 3
+    ? "object-[center_25%]"
+    : member.id === 4
+    ? "object-[center_25%]"
+    : "object-center"
+}`}
 />
                   {/* Overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />

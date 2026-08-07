@@ -552,7 +552,7 @@ const Portfolio: React.FC = () => {
       ref={portfolioRef}
       className="relative pt-10 bg-[#edf4f8] overflow-hidden min-h-screen"
     >
-      <div className="relative z-10 container mx-auto px-4 sm:px-6 pb-10 text-center">
+      <div className="relative z-10 container mx-auto px-4 sm:px-6 pb-10 text-center pt-28">
         <div className="mb-8">
           <h2 className="text-3xl md:text-5xl font-serif font-light text-black tracking-widest">
             P O R T F O L I O

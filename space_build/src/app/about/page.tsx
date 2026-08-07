@@ -1,12 +1,6 @@
 import type { Metadata } from "next";
-
-
 import Aboutus from "@/components/Aboutus";
 import Aboutcontent from "./Aboutcontent";
-
-
-
-
 
 export const metadata: Metadata = {
   title: "Space Build – About Us | Bespoke Interior Design & Spatial Flow Consultants",
@@ -58,13 +52,7 @@ export default function about() {
     <div className="min-h-screen bg-[#FFF1E0]">
       <Aboutus />
       <Aboutcontent />
-    
-      
-      
-      
-      
 
-      
     </div>
   );
 }
