@@ -1,5 +1,6 @@
-import React from "react";
 import LandingEnquiry from "@/components/LandingEnquiry";
+import React from "react";
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -7,375 +8,425 @@ const Content = () => {
         <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Pest Control Company: Protecting Your Home and Business with Expert Solutions
+              Pest Control Company
             </h2>
 
             <p>
-              A professional pest control company helps protect homes and businesses from
-              insects, rodents, and other unwanted pests. Effective pest control is not just
-              about removal, but also about long-term prevention, safety, and peace of mind.
+              Pests do not announce their arrival. A termite colony can spend
+              months quietly weakening wooden furniture before visible damage
+              appears. A few cockroaches can multiply into a serious
+              infestation within weeks, while rodents can chew through
+              electrical wiring and create property and safety hazards.
             </p>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>It helps identify, treat, and prevent pest infestations.</li>
-              <li>It focuses on long-term protection rather than temporary fixes.</li>
-              <li>Space Build offers safe and comprehensive pest control solutions.</li>
-            </ul>
+            <p>
+              This is why choosing the right pest control company matters far
+              more than selecting the first service that responds to an online
+              search. A reliable provider should have the right expertise,
+              approved products, trained technicians, and a thorough approach
+              to identifying and treating pest problems.
+            </p>
+
+            <p>
+              Space Build Moradabad operates as a dedicated pest control
+              company committed to protecting homes and businesses through
+              safe, science-based treatments and a customer-focused approach.
+              Instead of offering quick, surface-level fixes, our team focuses
+              on identifying the root cause of an infestation and providing
+              solutions designed for lasting results.
+            </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Introduction to Professional Pest Control Services
+              What Sets a Professional Pest Control Company Apart
             </h2>
 
             <p>
-              A pest control company specializes in identifying, treating, and preventing
-              infestations of insects, rodents, and other unwanted pests in residential and
-              commercial properties.
+              Not all pest control providers offer the same level of expertise
+              or service quality. A genuinely professional pest control company
+              stands out through the following qualities:
             </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Professional pest control goes beyond simple extermination.</li>
-              <li>It focuses on safety, prevention, and environmental responsibility.</li>
-              <li>Space Build provides solutions designed to protect property and occupants.</li>
+              <li>
+                <strong>Trained technicians:</strong> Professionals who
+                understand pest biology, behaviour, nesting patterns, and
+                suitable treatment methods.
+              </li>
+              <li>
+                <strong>Approved and safe products:</strong> Treatment products
+                applied in appropriate concentrations and using proper
+                techniques.
+              </li>
+              <li>
+                <strong>Thorough property inspection:</strong> A complete
+                inspection before treatment to understand the source and
+                extent of the infestation.
+              </li>
+              <li>
+                <strong>Customized treatment plans:</strong> Solutions
+                developed for the specific pest, property type, and
+                infestation level instead of a generic spray-and-leave
+                approach.
+              </li>
+              <li>
+                <strong>Transparent communication:</strong> Clear information
+                about the treatment process, safety measures, expected results,
+                and follow-up requirements.
+              </li>
+              <li>
+                <strong>Follow-up support:</strong> Continued monitoring and
+                repeat visits where required, especially for termites and
+                rodents.
+              </li>
+              <li>
+                <strong>Safety compliance:</strong> Proper handling of products
+                and treatment methods according to applicable safety
+                requirements.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Professional Pest Control Matters
+              Our Philosophy as a Pest Control Company
             </h2>
 
             <p>
-              Pest problems can affect health, hygiene, and property structure if left untreated.
-              Professional services help address the root cause and reduce the chance of
-              recurring infestations.
+              At Space Build Moradabad, our pest control services are guided
+              by principles that focus on safety, honesty, effective treatment,
+              and long-term prevention.
             </p>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Protects health by eliminating disease-carrying pests.</li>
-              <li>Prevents structural damage caused by termites and rodents.</li>
-              <li>Safeguards food storage areas from contamination.</li>
-              <li>Improves property value and hygiene standards.</li>
-              <li>Provides long-term prevention instead of short-term fixes.</li>
-              <li>Uses safe and effective professional-grade products.</li>
-            </ul>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Root-Cause Treatment
+            </h3>
+
+            <p>
+              Our technicians do not focus only on eliminating visible pests.
+              We also look for the conditions that allow infestations to
+              develop and continue, including moisture sources, entry points,
+              nesting areas, food sources, and structural gaps.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Safety First
+            </h3>
+
+            <p>
+              Pest control treatments are carried out in spaces where families
+              live, children play, and employees work. For this reason, every
+              product and application method is selected with safety as a
+              primary consideration alongside effectiveness.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Honest Recommendations
+            </h3>
+
+            <p>
+              We provide straightforward assessments without recommending
+              unnecessary treatments or exaggerating the seriousness of a pest
+              problem. Our team suggests only the services that are genuinely
+              required for the property.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Long-Term Prevention
+            </h3>
+
+            <p>
+              Our service does not end when visible pests disappear. We provide
+              practical prevention guidance and recommend scheduled follow-up
+              visits whenever ongoing monitoring is necessary.
+            </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Pests That Require Professional Treatment
-            </h2>
-
-            <h3 className="font-semibold text-gray-900">Termites</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>They silently damage wooden structures, furniture, and foundations.</li>
-              <li>They often require soil treatment, baiting systems, or chemical barriers.</li>
-              <li>Early inspection is important to prevent major damage.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Cockroaches</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>They thrive in kitchens, bathrooms, and moist areas.</li>
-              <li>They can carry bacteria and allergens.</li>
-              <li>Targeted baiting, spraying, and sanitation help control them.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Rodents</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Rats and mice damage wiring, furniture, and food supplies.</li>
-              <li>They multiply quickly if not addressed early.</li>
-              <li>Trapping, baiting, and sealing entry points are commonly used.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Mosquitoes</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>They breed in stagnant water and spread disease.</li>
-              <li>Control may include indoor fogging and outdoor breeding-site removal.</li>
-              <li>Seasonal treatments help reduce population spikes.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Bed Bugs</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>They infest mattresses, furniture, and fabric.</li>
-              <li>They often require heat treatment or chemical application.</li>
-              <li>Thorough inspection is needed for full eradication.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Ants</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>They enter homes in search of food and moisture.</li>
-              <li>Some species can sting or cause damage.</li>
-              <li>Baiting and sealing entry points help prevent recurrence.</li>
-            </ul>
-
-            <h3 className="font-semibold text-gray-900">Spiders</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Most are harmless, but some species can pose health risks.</li>
-              <li>Treatment includes web removal and targeted spraying.</li>
-              <li>Reducing clutter and lighting attractants helps prevent them.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Signs Your Property Needs Pest Control
+              Pest Categories We Manage
             </h2>
 
             <p>
-              Early warning signs can help you act before an infestation becomes severe. If you
-              notice these issues, professional inspection is usually the best next step.
+              As a full-service pest control company, Space Build Moradabad
+              manages a wide range of common and specialized pest concerns.
             </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Visible pests during daytime hours.</li>
-              <li>Droppings, gnaw marks, or damaged packaging.</li>
-              <li>Unpleasant odors from hidden areas.</li>
-              <li>Sounds inside walls or ceilings.</li>
-              <li>Termite mud tubes, discarded wings, or shed skins.</li>
-              <li>Unexplained bites or allergic reactions.</li>
+              <li>
+                <strong>Termites:</strong> Subterranean and drywood termites
+                require specialized treatment to help prevent structural
+                damage.
+              </li>
+              <li>
+                <strong>Cockroaches:</strong> Targeted gel baiting and residual
+                treatments can be used to address cockroach activity in homes
+                and commercial spaces.
+              </li>
+              <li>
+                <strong>Rodents:</strong> Rats and mice are managed through
+                inspection, safe trapping, baiting, and entry-point sealing.
+              </li>
+              <li>
+                <strong>Mosquitoes:</strong> Fogging, larvicide treatment, and
+                breeding-site management can help reduce mosquito activity.
+              </li>
+              <li>
+                <strong>Bed bugs:</strong> Targeted treatments are used to
+                address bed bug infestations in bedrooms, furniture, and
+                hospitality properties.
+              </li>
+              <li>
+                <strong>Ants:</strong> Bait-based treatment approaches can
+                target colonies instead of only visible worker ants.
+              </li>
+              <li>
+                <strong>Wood borers and beetles:</strong> Injection and surface
+                treatments can help protect wooden furniture and structural
+                elements.
+              </li>
+              <li>
+                <strong>Flies and household pests:</strong> Treatment is
+                combined with sanitation recommendations and preventive
+                measures.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Professional Pest Control Process
+              Our Pest Control Service Categories
             </h2>
 
-            <h3 className="font-semibold text-gray-900">Inspection</h3>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              General Pest Control
+            </h3>
+
+            <p>
+              Our general pest control service covers common residential and
+              commercial pests. Depending on the property and risk level,
+              periodic treatment may be recommended for continued protection.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Termite Control and Prevention
+            </h3>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Technicians assess the property to identify pest type and source.</li>
-              <li>Entry points, moisture zones, and storage areas are examined carefully.</li>
+              <li>
+                Pre-construction soil treatment for new buildings to create a
+                chemical barrier against termite entry.
+              </li>
+              <li>
+                Post-construction treatment for existing structures showing
+                signs of termite activity.
+              </li>
+              <li>
+                Periodic monitoring and additional treatment when required.
+              </li>
             </ul>
 
-            <h3 className="font-semibold text-gray-900">Customized Treatment Plan</h3>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Rodent Management
+            </h3>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>A tailored plan is created based on the inspection results.</li>
-              <li>The method depends on property type, infestation severity, and safety needs.</li>
+              <li>
+                Property-wide inspection to identify entry points and nesting
+                areas.
+              </li>
+              <li>
+                Safe trapping and baiting solutions suitable for homes and
+                commercial properties.
+              </li>
+              <li>
+                Structural recommendations to help prevent future rodent
+                entry.
+              </li>
             </ul>
 
-            <h3 className="font-semibold text-gray-900">Treatment Application</h3>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Mosquito and Vector Control
+            </h3>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Professional-grade products are applied using specialized equipment.</li>
-              <li>Methods may include spraying, fogging, baiting, dusting, or heat treatment.</li>
+              <li>
+                Fogging treatments for outdoor and semi-outdoor areas.
+              </li>
+              <li>
+                Larvicide application in suitable stagnant water sources.
+              </li>
+              <li>
+                Seasonal treatment plans aligned with periods of increased
+                mosquito activity.
+              </li>
             </ul>
 
-            <h3 className="font-semibold text-gray-900">Follow-Up and Monitoring</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Follow-up visits help ensure treatments remain effective.</li>
-              <li>Monitoring stations may be used to track pest activity over time.</li>
-            </ul>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Specialized Commercial Pest Management
+            </h3>
 
-            <h3 className="font-semibold text-gray-900">Preventive Recommendations</h3>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Technicians recommend sanitation and structural improvements.</li>
-              <li>Maintenance plans help keep properties pest-free long term.</li>
-            </ul>
+            <p>
+              We provide tailored pest management programs for restaurants,
+              hotels, warehouses, offices, and other commercial properties.
+              These programs address hygiene requirements, property usage, and
+              industry-specific pest risks.
+            </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Residential Pest Control Solutions
+              The Pest Control Process We Follow
+            </h2>
+
+            <ol className="list-decimal pl-6 space-y-2">
+              <li>
+                <strong>Inspection and assessment:</strong> Every service
+                begins with a detailed inspection to identify the pest type,
+                infestation source, and severity.
+              </li>
+              <li>
+                <strong>Treatment plan proposal:</strong> Based on the
+                inspection findings, we explain the recommended products,
+                application method, treatment stages, and expected timeline.
+              </li>
+              <li>
+                <strong>Professional treatment application:</strong> Trained
+                technicians carry out spray application, gel baiting,
+                dusting, fumigation, soil treatment, or another suitable
+                method.
+              </li>
+              <li>
+                <strong>Post-treatment guidance:</strong> Clients receive
+                instructions about ventilation, cleaning, food storage,
+                temporary vacate periods, and other precautions.
+              </li>
+              <li>
+                <strong>Follow-up and monitoring:</strong> For infestations
+                requiring continued management, follow-up visits are scheduled
+                to monitor results and address residual activity.
+              </li>
+            </ol>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Benefits of Combining Pest Control with Construction Expertise
             </h2>
 
             <p>
-              Homes need protection from common pests across kitchens, bathrooms, bedrooms,
-              and outdoor areas. Residential solutions are designed to be effective while
-              remaining safe for families and pets.
+              One advantage of choosing Space Build Moradabad is our combined
+              experience in construction, interior design, and pest management.
+              This is particularly useful in the following situations:
             </p>
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Comprehensive treatments for living areas and kitchens.</li>
-              <li>Specialized termite protection for new and existing homes.</li>
-              <li>Seasonal mosquito control for gardens and outdoor spaces.</li>
-              <li>Child- and pet-safe treatment options.</li>
-              <li>Regular maintenance plans for year-round protection.</li>
+              <li>
+                <strong>New construction projects:</strong> Pre-construction
+                termite treatment can be integrated into the construction
+                schedule instead of being coordinated separately.
+              </li>
+              <li>
+                <strong>Renovation projects:</strong> Pest-related structural
+                concerns, such as termite-damaged wood, can be identified and
+                addressed as part of the renovation work.
+              </li>
+              <li>
+                <strong>Recurring pest problems:</strong> Structural issues
+                such as poor drainage, moisture entry, cracks, and hidden
+                access points can be identified and addressed at the source.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Commercial Pest Control Solutions
+              Factors to Consider When Choosing a Pest Control Company
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Experience and track record:</strong> Consider how long
+                the company has operated and whether it understands local pest
+                patterns.
+              </li>
+              <li>
+                <strong>Range of services:</strong> Check whether the company
+                can manage multiple pest categories or provides only limited
+                services.
+              </li>
+              <li>
+                <strong>Safety standards:</strong> Ask about the products,
+                application methods, and precautions used to protect residents,
+                employees, and pets.
+              </li>
+              <li>
+                <strong>Pricing transparency:</strong> Look for clear,
+                upfront quotations without hidden charges.
+              </li>
+              <li>
+                <strong>Follow-up service:</strong> Confirm whether monitoring
+                and repeat visits are available for treatments such as
+                termite and rodent control.
+              </li>
+              <li>
+                <strong>Customer feedback:</strong> Reviews and references can
+                provide useful information about treatment effectiveness and
+                service quality.
+              </li>
+            </ul>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Who We Serve
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                Homeowners seeking safe and effective protection against
+                common household pests.
+              </li>
+              <li>
+                Families dealing with active infestations that require
+                professional intervention.
+              </li>
+              <li>
+                Restaurants, hotels, and food businesses requiring hygiene-
+                focused pest management.
+              </li>
+              <li>
+                Warehouses and commercial storage facilities managing rodents
+                and stored-product pests.
+              </li>
+              <li>
+                Property developers and builders requiring pre-construction
+                termite treatment.
+              </li>
+              <li>
+                Property owners seeking preventive and scheduled pest control
+                services.
+              </li>
+            </ul>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Reliable Pest Management for Every Property
             </h2>
 
             <p>
-              Businesses require discreet and effective pest control to protect operations,
-              customers, and compliance standards. Commercial plans are often customized for
-              industry-specific needs.
+              Every property is different, and our approach reflects that.
+              Space Build Moradabad combines careful inspection, targeted
+              treatment, safety-focused application, and honest guidance to
+              help clients maintain pest-free homes and workplaces over the
+              long term.
             </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Customized treatments for offices, retail stores, warehouses, and factories.</li>
-              <li>Food safety pest control for restaurants, hotels, and processing units.</li>
-              <li>Compliance with health and safety regulations.</li>
-              <li>Scheduling that minimizes disruption to business operations.</li>
-              <li>Documentation for audits and inspections.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Eco-Friendly and Safe Pest Control Practices
-            </h2>
 
             <p>
-              Modern pest control often emphasizes methods that reduce environmental impact
-              while still delivering strong results. Integrated Pest Management is a common
-              approach because it combines prevention, monitoring, and targeted treatment.
+              Visit{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>{" "}
+              to learn more about our pest control services or schedule an
+              inspection with our team.
             </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Use of Integrated Pest Management techniques.</li>
-              <li>Application of low-toxicity, environmentally responsible products.</li>
-              <li>Targeted treatments that minimize chemical usage.</li>
-              <li>Prevention through sanitation and structural improvements.</li>
-              <li>Methods that protect indoor air quality and occupant health.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Seasonal Pest Control Considerations
-            </h2>
 
             <p>
-              Pest activity changes throughout the year, so seasonal planning can improve
-              prevention and response. Different pests become more active in different weather
-              conditions.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Monsoon season increases mosquito breeding and dampness-related activity.</li>
-              <li>Summer months bring more ants, cockroaches, and termites.</li>
-              <li>Winter often pushes rodents indoors.</li>
-              <li>Termites and bed bugs can remain active year-round.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Choosing a Professional Pest Control Company
-            </h2>
-
-            <p>
-              Professional pest control provides more than immediate pest removal. It gives
-              property owners confidence that the problem has been treated properly and with
-              long-term prevention in mind.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Access to trained technicians.</li>
-              <li>Professional-grade equipment and products.</li>
-              <li>Customized treatment plans.</li>
-              <li>Long-term prevention strategies.</li>
-              <li>Better safety through proper handling and application.</li>
-              <li>Time and cost savings compared to repeated DIY attempts.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Common Myths About Pest Control
-            </h2>
-
-            <p>
-              Pest control is often misunderstood, especially when people rely only on store-bought
-              products or delay treatment until the problem becomes severe.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Myth: DIY products are just as effective as professional treatments.</li>
-              <li>Fact: Professional-grade products and techniques are more thorough and long-lasting.</li>
-              <li>Myth: Pest control is harmful to children and pets.</li>
-              <li>Fact: Professional companies use regulated products with proper precautions.</li>
-              <li>Myth: One treatment solves the problem permanently.</li>
-              <li>Fact: Follow-up and maintenance are often needed.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Tips for Preventing Pest Infestations
-            </h2>
-
-            <p>
-              Prevention is one of the most effective ways to reduce pest problems. A clean,
-              sealed, and well-maintained property is much less attractive to common pests.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Maintain proper sanitation in kitchens and storage areas.</li>
-              <li>Seal cracks, gaps, and entry points.</li>
-              <li>Store food in airtight containers.</li>
-              <li>Eliminate standing water sources.</li>
-              <li>Schedule regular professional inspections.</li>
-              <li>Keep outdoor areas free from debris and stagnant water.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Delivers Reliable Pest Control Services
-            </h2>
-
-            <p>
-              Space Build focuses on practical pest control solutions that protect both the
-              property and the people inside it. Their approach combines expert inspection,
-              safe treatment, and ongoing support.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Certified pest control professionals handle the treatments.</li>
-              <li>Inspection and treatment plans are customized for each property.</li>
-              <li>Safe, eco-conscious products are prioritized.</li>
-              <li>Clients receive clear communication about the process and results.</li>
-              <li>Ongoing support and maintenance plans help maintain protection.</li>
-              <li>Customer support is available for follow-up needs and scheduling.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  1. How often should professional pest control treatments be scheduled?
-                </h3>
-                <p>
-                  Most properties benefit from quarterly treatments, though frequency can vary
-                  depending on pest severity and location.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  2. Are pest control treatments safe for homes with children and pets?
-                </h3>
-                <p>
-                  Yes, professional companies use regulated, low-toxicity products with proper
-                  safety precautions.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  3. How long does a typical pest control treatment take?
-                </h3>
-                <p>
-                  Treatment duration usually ranges from 1 to 3 hours depending on property size
-                  and pest type.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  4. Can pest control prevent termite damage completely?
-                </h3>
-                <p>
-                  Regular termite treatments and inspections reduce the risk significantly, but
-                  ongoing monitoring is still important.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  5. Is professional pest control more effective than store-bought products?
-                </h3>
-                <p>
-                  Yes, professional-grade products and techniques usually provide stronger and
-                  longer-lasting results.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  6. How soon can I return home after a pest control treatment?
-                </h3>
-                <p>
-                  Most treatments allow re-entry within a few hours, though the exact timing
-                  depends on the treatment type used.
-                </p>
-              </div>
-              
-                <p>
               📞 <strong>WhatsApp / Call:</strong>{" "}
-              <a href="tel:+919927611780" className="text-blue-600 hover:underline">
-                +919927611780
+              <a
+                href="tel:+919927611780"
+                className="text-blue-600 hover:underline"
+              >
+                +91 9927611780
               </a>
               <br />
               📧 <strong>Email:</strong>{" "}
@@ -383,7 +434,7 @@ const Content = () => {
                 href="mailto:spacebuild.india@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                [spacebuild.india@gmail.com]
+                spacebuild.india@gmail.com
               </a>
               <br />
               🌐 <strong>Website:</strong>{" "}
@@ -393,11 +444,9 @@ const Content = () => {
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:underline"
               >
-                [www.spacebuild.co.in]
+                www.spacebuild.co.in
               </a>
             </p>
-
-            </div>
           </div>
         </div>
 

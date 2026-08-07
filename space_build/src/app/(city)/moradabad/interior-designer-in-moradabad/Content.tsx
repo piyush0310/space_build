@@ -1,5 +1,6 @@
-import React from "react";
 import LandingEnquiry from "@/components/LandingEnquiry";
+import React from "react";
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -7,294 +8,416 @@ const Content = () => {
         <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
           <div className="space-y-8 text-gray-700">
             <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Interior Designer in Moradabad – Space Build
+              Interior Designer in Moradabad
             </h2>
 
             <p>
-              A well-designed interior does more than just look attractive — it shapes how comfortable, functional, and personal a space feels for the people living or working in it. Whether it&apos;s a cozy family home, a modern apartment, or a professional office, the right interior design can transform an ordinary space into something truly special. Space Build offers professional interior design services in Moradabad, combining creativity, functionality, and practical planning to bring clients&apos; visions to life.
+              Choosing the right interior designer is one of the most
+              important decisions you will make when building or renovating
+              your home or workplace. Unlike simply buying furniture or
+              selecting a paint colour, hiring an interior designer means
+              trusting someone with your vision, budget, and the coordination
+              of multiple trades and vendors.
+            </p>
+
+            <p>
+              In a city like Moradabad, where residential and commercial
+              development continues to grow, finding an interior designer who
+              understands both aesthetics and execution can make the
+              difference between a smooth project and a stressful experience.
+              Space Build Moradabad helps homeowners, business owners, and
+              property developers transform ideas into spaces that are
+              functional, durable, and visually appealing.
+            </p>
+
+            <p>
+              This guide explains what an interior designer actually does, the
+              qualities you should look for, and how Space Build Moradabad
+              manages every project from the initial consultation to the final
+              handover.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Professional Interior Design Matters
+              What Does an Interior Designer Actually Do?
             </h2>
 
+            <p>
+              Many people assume that an interior designer&apos;s work begins
+              and ends with choosing colours and furniture. In reality, a
+              skilled interior designer manages a much broader range of
+              responsibilities, including:
+            </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Interior design directly affects how comfortable and functional a space feels.</li>
-              <li>Professional planning helps avoid costly design mistakes later.</li>
-              <li>Thoughtful layouts make better use of available space, big or small.</li>
-              <li>Good design balances aesthetics with practicality and daily convenience.</li>
-              <li>A well-designed interior can significantly increase a property&apos;s overall value.</li>
+              <li>
+                <strong>Space planning:</strong> Determining the most
+                comfortable and efficient layout for a room or entire property
+                based on its dimensions and intended use.
+              </li>
+              <li>
+                <strong>Material and finish selection:</strong> Recommending
+                flooring, wall finishes, fabrics, fixtures, and other
+                materials according to style, durability, and maintenance
+                requirements.
+              </li>
+              <li>
+                <strong>Lighting design:</strong> Planning ambient, task, and
+                accent lighting to improve both the mood and functionality of
+                the space.
+              </li>
+              <li>
+                <strong>Furniture design and sourcing:</strong> Custom-designing
+                furniture pieces or sourcing ready-made options that suit the
+                available space and budget.
+              </li>
+              <li>
+                <strong>Vendor and contractor coordination:</strong> Managing
+                carpenters, electricians, painters, and other tradespeople
+                during execution.
+              </li>
+              <li>
+                <strong>Budget management:</strong> Providing accurate cost
+                estimates and helping clients make informed decisions between
+                different materials and design options.
+              </li>
+              <li>
+                <strong>Project supervision:</strong> Visiting the site
+                regularly to monitor quality and resolve issues during
+                execution.
+              </li>
+            </ul>
+
+            <p>
+              A good interior designer acts as a bridge between your ideas and
+              the finished, livable result while handling the technical and
+              logistical details on your behalf.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Qualities to Look for in an Interior Designer in Moradabad
+            </h2>
+
+            <p>
+              Not every designer offers the same level of expertise,
+              communication, or reliability. When evaluating interior designers
+              in Moradabad, consider the following qualities:
+            </p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Portfolio diversity:</strong> A strong portfolio
+                covering different styles, room types, property sizes, and
+                budgets.
+              </li>
+              <li>
+                <strong>Transparent pricing:</strong> Clear and itemized
+                quotations without vague estimates or hidden costs.
+              </li>
+              <li>
+                <strong>Strong communication:</strong> A designer who listens
+                carefully to your requirements instead of imposing personal
+                preferences.
+              </li>
+              <li>
+                <strong>On-ground execution capability:</strong> An on-site
+                team or reliable execution partners who can deliver the design
+                accurately.
+              </li>
+              <li>
+                <strong>Realistic timelines:</strong> Honest project schedules
+                that account for design, procurement, and execution
+                requirements.
+              </li>
+              <li>
+                <strong>Post-project support:</strong> Assistance with minor
+                adjustments or concerns after project completion.
+              </li>
+              <li>
+                <strong>Local knowledge:</strong> Familiarity with Moradabad
+                vendors, materials, availability, and local climate
+                considerations.
+              </li>
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Growing Demand for Interior Designers in Moradabad
+              Why Space Build Moradabad Stands Out
             </h2>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Rapid growth in residential and commercial construction across the city.</li>
-              <li>Increasing awareness of the value professional design adds to a property.</li>
-              <li>Growing preference for personalized, unique interiors over generic layouts.</li>
-              <li>Rising demand for space-efficient designs in smaller apartments.</li>
-              <li>More businesses investing in professional office design to improve brand image.</li>
-            </ul>
+            <p>
+              Space Build Moradabad follows a structured and client-focused
+              approach to interior design. Our work is guided by design
+              quality, practical planning, transparent communication, and
+              dependable execution.
+            </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Space Build&apos;s Approach to Interior Design
-            </h2>
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Design and Execution Integration
+            </h3>
 
-            <ul className="list-disc pl-6 space-y-2">
-              <li>In-depth consultation to understand client needs and preferences.</li>
-              <li>Customized design plans tailored to each client&apos;s lifestyle and budget.</li>
-              <li>Collaborative process with regular client input throughout the project.</li>
-              <li>Attention to both aesthetic appeal and everyday functionality.</li>
-              <li>End-to-end support from initial concept to final execution.</li>
-            </ul>
+            <p>
+              Unlike design-only firms that leave execution to external
+              contractors, our team manages both the design and on-ground
+              implementation. This reduces miscommunication, helps preserve
+              the original design intent, and gives clients a single point of
+              accountability throughout the project.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Personalized Design Process
+            </h3>
+
+            <p>
+              We do not rely on template-based designs. Every project begins
+              with a detailed discussion about the client&apos;s lifestyle,
+              family structure, daily routines, functional needs, and personal
+              aesthetic preferences. This helps ensure that the final design
+              genuinely suits the way the space will be used.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Transparent and Detailed Costing
+            </h3>
+
+            <p>
+              Clients receive a clear, itemized cost breakdown before work
+              begins. The estimate covers materials, labour, finishes, and
+              other important project requirements, helping avoid unexpected
+              expenses during execution.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              3D Visualization Before Execution
+            </h3>
+
+            <p>
+              Every design concept is presented through detailed 3D
+              visualizations. These renderings allow clients to understand the
+              proposed layout, colours, materials, furniture, and lighting
+              before construction or carpentry work begins.
+            </p>
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
+              Local Expertise and Broad Design Range
+            </h3>
+
+            <p>
+              Our team understands Moradabad&apos;s local vendor and material
+              landscape while working across modern, traditional, minimalist,
+              contemporary, and fusion design styles. This gives clients the
+              flexibility to choose a design direction that reflects their
+              personality and requirements.
+            </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Interior Design Services We Offer
             </h2>
 
-            <h3 className="font-semibold text-gray-900">Residential Interior Design</h3>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                Full home interior design, from single-room makeovers to
+                complete house interiors.
+              </li>
+              <li>
+                Modular kitchen design tailored to cooking habits and
+                available space.
+              </li>
+              <li>
+                Wardrobe and storage solutions, including walk-in closets and
+                space-saving modular units.
+              </li>
+              <li>
+                Living and dining room design that balances comfort with
+                visual appeal.
+              </li>
+              <li>
+                Bedroom interior design for master bedrooms, children&apos;s
+                rooms, and guest bedrooms.
+              </li>
+              <li>
+                False ceiling and lighting design with ambient and accent
+                lighting.
+              </li>
+              <li>
+                Office and commercial interior design, including workstations,
+                cabins, and reception areas.
+              </li>
+              <li>
+                Retail and showroom interiors designed to improve product
+                display and customer movement.
+              </li>
+              <li>
+                Vastu-integrated design for clients who wish to combine
+                aesthetics with traditional Vastu Shastra principles.
+              </li>
+            </ul>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Our Interior Design Process
+            </h2>
+
+            <ol className="list-decimal pl-6 space-y-2">
+              <li>
+                <strong>Initial meeting and requirement understanding:</strong>{" "}
+                We discuss your goals, preferences, budget, and functional
+                requirements, often supported by a site visit.
+              </li>
+              <li>
+                <strong>Concept development:</strong> Our team prepares initial
+                design concepts, mood boards, and material palettes based on
+                your preferences and the character of the space.
+              </li>
+              <li>
+                <strong>3D design presentation:</strong> Detailed 3D
+                renderings provide a realistic preview of the proposed
+                interiors and allow changes before execution.
+              </li>
+              <li>
+                <strong>Detailed planning and costing:</strong> After the
+                design is finalized, we prepare an execution plan, itemized
+                quotation, and realistic project timeline.
+              </li>
+              <li>
+                <strong>On-site execution:</strong> Our execution team manages
+                carpentry, electrical work, painting, installation, and
+                regular quality checks.
+              </li>
+              <li>
+                <strong>Styling and final handover:</strong> We add soft
+                furnishings, décor accessories, and finishing touches before
+                delivering the completed space.
+              </li>
+            </ol>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Questions to Ask Before Hiring an Interior Designer
+            </h2>
+
             <p>
-              Homes are deeply personal spaces, and our residential design services focus on creating interiors that reflect each family&apos;s unique lifestyle and preferences.
+              Before finalizing an interior designer, asking the right
+              questions can help establish a smooth and professional working
+              relationship.
             </p>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Complete home interior design for new and existing properties.</li>
-              <li>Living room, bedroom, and kitchen design planning.</li>
-              <li>Space optimization solutions for smaller homes and apartments.</li>
-              <li>Personalized colour schemes and material selection.</li>
+              <li>
+                Can you share examples of projects similar to mine in scope
+                and budget?
+              </li>
+              <li>
+                Will you manage the execution personally, or only provide the
+                design concept?
+              </li>
+              <li>
+                What is included in the quoted price, and what may be charged
+                separately?
+              </li>
+              <li>
+                How do you handle design changes requested during the project?
+              </li>
+              <li>
+                What is the expected project timeline, and how are delays
+                managed?
+              </li>
+              <li>
+                Do you provide support or warranty after project completion?
+              </li>
             </ul>
 
-            <h3 className="font-semibold text-gray-900">Commercial Interior Design</h3>
             <p>
-              A well-designed commercial space can enhance brand image, improve employee productivity, and create a positive impression on clients and customers.
+              A designer who answers these questions clearly and confidently
+              is more likely to provide a reliable and professional experience
+              throughout the project.
             </p>
+
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Who We Work With
+            </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Office interior design focused on functionality and brand identity.</li>
-              <li>Retail and showroom design to enhance customer experience.</li>
-              <li>Restaurant and hospitality space design for ambiance and flow.</li>
-              <li>Reception and common area design for professional appeal.</li>
+              <li>
+                First-time homeowners looking for guided and stress-free
+                interior planning.
+              </li>
+              <li>
+                Families renovating existing homes with updated layouts and
+                modern finishes.
+              </li>
+              <li>
+                Business owners setting up offices, retail spaces, or
+                showrooms.
+              </li>
+              <li>
+                Property developers and builders requiring interiors for
+                sample flats or multiple units.
+              </li>
+              <li>
+                Clients relocating to Moradabad and looking for local
+                expertise to set up a new home.
+              </li>
+              <li>
+                Clients interested in Vastu-aligned interiors that respect
+                traditional principles of energy and space.
+              </li>
             </ul>
 
-            <h3 className="font-semibold text-gray-900">Modular Kitchen Design</h3>
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
+              Bringing Ideas to Life, One Space at a Time
+            </h2>
+
             <p>
-              The kitchen is often considered the heart of the home, and our modular kitchen design services focus on combining style with everyday practicality.
+              Every project we take on, whether it is a single-bedroom
+              makeover or a complete home interior, receives the same
+              attention to detail, transparent communication, and commitment
+              to quality execution. Our goal as interior designers in
+              Moradabad is not only to create visually appealing spaces but
+              also to design environments that improve how our clients live
+              and work every day.
             </p>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Space-efficient modular kitchen layouts and cabinetry.</li>
-              <li>Selection of durable, easy-to-maintain materials and finishes.</li>
-              <li>Smart storage solutions for compact kitchen spaces.</li>
-              <li>Integration of modern appliances into the overall design.</li>
-            </ul>
 
-            <h3 className="font-semibold text-gray-900">Wardrobe and Storage Solutions</h3>
             <p>
-              Effective storage design helps keep spaces organized and clutter-free, contributing significantly to a home&apos;s overall functionality.
+              Visit{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>{" "}
+              to explore our portfolio, learn more about our design approach,
+              or schedule a consultation with our team in Moradabad.
             </p>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Custom-built wardrobes designed to fit specific room dimensions.</li>
-              <li>Smart storage solutions for bedrooms, hallways, and utility areas.</li>
-              <li>Sliding and hinged wardrobe options based on space availability.</li>
-              <li>Interior organization systems for maximizing storage capacity.</li>
-            </ul>
 
-            <h3 className="font-semibold text-gray-900">False Ceiling and Lighting Design</h3>
             <p>
-              Lighting and ceiling design play a major role in setting the mood and functionality of a space, often making a significant visual difference.
+              📞 <strong>WhatsApp / Call:</strong>{" "}
+              <a
+                href="tel:+919927611780"
+                className="text-blue-600 hover:underline"
+              >
+                +91 9927611780
+              </a>
+              <br />
+              📧 <strong>Email:</strong>{" "}
+              <a
+                href="mailto:spacebuild.india@gmail.com"
+                className="text-blue-600 hover:underline"
+              >
+                spacebuild.india@gmail.com
+              </a>
+              <br />
+              🌐 <strong>Website:</strong>{" "}
+              <a
+                href="https://www.spacebuild.co.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                www.spacebuild.co.in
+              </a>
             </p>
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Custom false ceiling designs suited to different room types.</li>
-              <li>Layered lighting plans combining ambient, task, and accent lighting.</li>
-              <li>Energy-efficient lighting solutions for both homes and offices.</li>
-              <li>Integration of lighting with overall interior themes and colour schemes.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Interior Design Process at Space Build
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Step 1: Initial consultation to understand client requirements and budget.</li>
-              <li>Step 2: Site visit and measurement of the space to be designed.</li>
-              <li>Step 3: Development of design concepts and mood boards for client review.</li>
-              <li>Step 4: Finalization of design plans, materials, and colour schemes.</li>
-              <li>Step 5: Execution and on-site supervision during the implementation phase.</li>
-              <li>Step 6: Final walkthrough and handover of the completed space.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Key Factors to Consider When Choosing an Interior Designer
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Portfolio of previous projects similar to your requirements.</li>
-              <li>Clear communication and willingness to understand your specific needs.</li>
-              <li>Transparent pricing and detailed cost breakdowns.</li>
-              <li>Ability to balance your personal style with practical functionality.</li>
-              <li>Reliable project timelines and on-site supervision during execution.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Popular Interior Design Styles We Work With
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Modern Contemporary: Clean lines, neutral colours, and minimal clutter.</li>
-              <li>Traditional Indian: Rich colours, intricate detailing, and classic furniture.</li>
-              <li>Minimalist: Simple, functional designs with a focus on open space.</li>
-              <li>Industrial: Exposed materials, raw finishes, and an urban aesthetic.</li>
-              <li>Fusion: A blend of traditional and modern elements for a unique look.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Benefits of Hiring a Professional Interior Designer
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Efficient use of available space, especially in smaller homes.</li>
-              <li>Access to professional guidance on materials, colours, and layouts.</li>
-              <li>Avoidance of costly design mistakes through proper planning.</li>
-              <li>A cohesive, well-thought-out design rather than a mismatched look.</li>
-              <li>Increased property value through thoughtful, quality design work.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Budget-Friendly Interior Design Tips
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Prioritize key rooms like the living room and kitchen for initial investment.</li>
-              <li>Choose versatile furniture that can adapt to changing needs over time.</li>
-              <li>Use paint and lighting to create impact without major structural changes.</li>
-              <li>Opt for modular solutions that offer flexibility and durability.</li>
-              <li>Phase larger projects over time to manage costs more comfortably.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Who Can Benefit From Professional Interior Design Services
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Homeowners moving into a new house or apartment.</li>
-              <li>Families looking to renovate or refresh an existing home.</li>
-              <li>Business owners setting up new offices, shops, or showrooms.</li>
-              <li>Property investors wanting to increase resale value through design.</li>
-              <li>Anyone seeking a more functional, organized, and visually appealing space.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Why Choose Space Build as Your Interior Designer in Moradabad
-            </h2>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>Experienced team handling both residential and commercial projects.</li>
-              <li>Personalized design plans tailored to each client&apos;s needs and budget.</li>
-              <li>Transparent pricing with clear, detailed cost breakdowns.</li>
-              <li>End-to-end support from concept development to final execution.</li>
-              <li>A strong portfolio of successful interior design projects across Moradabad.</li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
-            <div className="space-y-6 mt-6">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  1. What does an interior designer actually do?
-                </h3>
-                <p>
-                  An interior designer plans the layout, materials, colours, and overall functionality of a space to make it both attractive and practical.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  2. Does Space Build offer both residential and commercial interior design?
-                </h3>
-                <p>
-                  Yes, we provide design services for homes, offices, retail spaces, and other commercial properties.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  3. How long does a typical interior design project take?
-                </h3>
-                <p>
-                  Timelines vary based on project size and scope, but our team provides a clear schedule after the initial consultation.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  4. Can interior design work within a limited budget?
-                </h3>
-                <p>
-                  Yes, our team offers budget-friendly solutions and can prioritize key areas to fit different financial plans.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  5. Do I need to provide my own furniture and materials?
-                </h3>
-                <p>
-                  Not necessarily. Our team can guide material and furniture selection as part of the overall design process.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  6. What design styles does Space Build specialize in?
-                </h3>
-                <p>
-                  We work across various styles, including modern, traditional, minimalist, industrial, and fusion designs.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  7. Is on-site supervision included during the design execution?
-                </h3>
-                <p>
-                  Yes, our team provides on-site supervision throughout the implementation phase to ensure quality execution.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  8. How can I start an interior design project with Space Build?
-                </h3>
-                <p>
-                  Simply contact our team to schedule an initial consultation and discuss your requirements and budget.
-                </p>
-              </div>
-
-              <p>
-                📞 <strong>WhatsApp / Call:</strong>{" "}
-                <a href="tel:+919927611780" className="text-blue-600 hover:underline">
-                  +919927611780
-                </a>
-                <br />
-                📧 <strong>Email:</strong>{" "}
-                <a href="mailto:spacebuild.india@gmail.com" className="text-blue-600 hover:underline">
-                  spacebuild.india@gmail.com
-                </a>
-                <br />
-                🌐 <strong>Website:</strong>{" "}
-                <a
-                  href="https://www.spacebuild.co.in/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline"
-                >
-                  www.spacebuild.co.in
-                </a>
-              </p>
-            </div>
           </div>
         </div>
+
         <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
           <div className="lg:sticky lg:top-28">
             <LandingEnquiry />
