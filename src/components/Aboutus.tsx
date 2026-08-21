@@ -1,13 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
-
 interface TeamMember {
   id: number;
   name: string;
   image: string;
   description: string;
 }
-
 const AboutUs: React.FC = () => {
 const teamMembers: TeamMember[] = [
   {
@@ -43,7 +41,6 @@ const teamMembers: TeamMember[] = [
       "Senior Interior Designer",
   },
 ];
-
   return (
     <section id="aboutus" className="py-8 sm:py-6 lg:py-8 px-4 bg-[#EDF4F8]">
       <div className="max-w-7xl mx-auto">
@@ -103,7 +100,6 @@ const teamMembers: TeamMember[] = [
   <h3 className="text-sm sm:text-base lg:text-lg font-semibold text-gray-800">
     {member.name}
   </h3>
-
   {/* Mobile Description */}
   <p className="block lg:hidden mt-2 text-xs text-gray-600 leading-relaxed">
     {member.description}
