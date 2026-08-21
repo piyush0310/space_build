@@ -10,7 +10,6 @@ const BlogPreview: React.FC = () => {
   const previewBlogs = blogPosts
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
-
   return (
     <section className="py-16 px-4 bg-[#EDF4F8]">
       <div className="max-w-7xl mx-auto">
@@ -44,7 +43,6 @@ const BlogPreview: React.FC = () => {
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
                   </div>
                 </div>
-
                 {/* Content */}
                 <div className="p-6 bg-[#28344B] h-27 flex flex-col justify-between">
                   <div>
@@ -59,12 +57,10 @@ const BlogPreview: React.FC = () => {
                     </p>
                   </div>
                 </div>
-
               </article>
             </Link>
           ))}
         </div>
-
         {/* More Blogs Button */}
         <div className="text-center">
           <Link
@@ -86,5 +82,4 @@ const BlogPreview: React.FC = () => {
     </section>
   );
 };
-
 export default BlogPreview;
