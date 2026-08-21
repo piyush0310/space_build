@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
                 <FaFacebook size={24} />
               </a>
               <a
-                href="https://www.instagram.com/spacebuildindia"
+                href="https://www.instagram.com/spacebuildindia?igsi=MWY4c3JvMTB5OGRjNA=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-pink-500 transition"

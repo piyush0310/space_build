@@ -36,15 +36,15 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   return (
     <div className="min-h-screen bg-[#EDF4F8]">
       {/* Banner */}
-      <div className="w-[100%] md:w-full h-[30vh] md:h-[120vh] overflow-hidden mt-0 relative">
+      <div className="w-full h-[35vh] md:h-[60vh] max-h-[600px] overflow-hidden mt-0 relative">
         <Image
           src={post.image}
           alt={post.title}
           width={1920}
           height={1080}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-center"
           priority
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
+          sizes="100vw"
         />
       </div>
 
@@ -343,7 +343,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                   Pinterest
                 </a>
                 <a
-                  href="www.instagram.com/spacebuildindia?igsh=MWY4c3JvMTB5OGRjNA=="
+                  href="https://www.instagram.com/spacebuildindia?igsi=MWY4c3JvMTB5OGRjNA=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 border text-black border-black rounded-md hover:bg-gray-100 transition-colors"
