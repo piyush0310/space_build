@@ -47,7 +47,7 @@ const teamMembers: TeamMember[] = [
         {/* Header */}
         <div className="text-center mb-8 sm:mb-8 lg:mb-8 pt-28">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif tracking-[0.2em] text-gray-800 mb-4 sm:mb-6 lg:mb-8">
-            ABOUT US
+            ABOUT Us
           </h2>
 <p className="w-full text-sm sm:text-base lg:text-lg text-gray-600 leading-relaxed text-center">
   At Space Build, we believe every space has the potential to inspire. We are a passionate team of architects, interior designers, and construction professionals dedicated to creating modern, functional, and timeless spaces that reflect our clients' vision and lifestyle.
