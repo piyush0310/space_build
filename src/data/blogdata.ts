@@ -45,7 +45,7 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
-    id: 178,
+    id: 1,
     slug: "top-10-vastu-tips-every-homeowner-should-know",
     title: "Top 10 Vastu Tips Every Homeowner Should Know",
     subtitle: "A Comprehensive Guide to Spatial Planning, Energy Flow, and Harmonious Living for Modern Homes by spacebuild",
@@ -268,6 +268,139 @@ At <strong>spacebuild</strong>, we specialize in bridging traditional spatial wi
       },
       icons: {
         icon: "/favicon.ico"
+      }
+    }
+  },
+  {
+    id: 2,
+    slug: "why-your-business-isnt-growing-vastu-factors",
+    title: "Why Your Business Isn't Growing — Check These Vastu Factors First",
+    subtitle: "A practical Vastu checklist for business owners who want a more focused, welcoming and growth-ready workplace.",
+    image: "/images/blog/vastu-living-center.jpg",
+    date: "August 22, 2026",
+    content: "",
+    fullContent: {
+      introduction: `When sales feel stuck, teams lose momentum, or the right opportunities seem slow to arrive, it is natural to look at strategy, marketing, finance and operations. Those fundamentals always matter. But the physical environment in which your people work also shapes focus, movement, client confidence and day-to-day decision-making.<br><br>
+In Vastu Shastra, a business space is planned as a balanced system of entry, light, circulation, work zones and weight distribution. This guide explains the most common <strong>Vastu factors for business growth</strong> and the practical workplace changes you can review before considering major renovation.<br><br>
+At <strong>spacebuild</strong>, we combine Vastu-aware spatial planning with modern commercial interiors so a workplace remains functional, brand-aligned and comfortable for the people using it.` ,
+      sections: [
+        {
+          heading: "Start With the Business Entrance",
+          content: "Your entrance is the first physical touchpoint for clients, visitors and staff. It should be easy to find, well lit, clean and free of barriers. In Vastu planning, North, East and North-East entries are commonly preferred for commercial spaces because they support openness and movement.",
+          bullets: [
+            "Remove broken signage, unused display stands, overflowing bins and visual clutter from the entry path.",
+            "Keep the reception approach bright, welcoming and clearly branded.",
+            "Avoid positioning a large obstruction directly in front of the main door."
+          ]
+        },
+        {
+          heading: "Check the Owner's or Decision-Maker's Seating",
+          content: "The person leading the business needs a position that supports concentration, privacy and confident decision-making. A South-West cabin is traditionally considered stable for an owner or senior leader; if that is not possible, focus on the practical essentials: a solid wall behind the chair, a clear view of the room and minimal disruption from foot traffic.",
+          bullets: [
+            "Avoid sitting directly under a beam or with your back to an open doorway.",
+            "Keep important documents and long-term records in sturdy, organised storage.",
+            "Position the desk to face North or East where the floor plan permits."
+          ]
+        },
+        {
+          heading: "Do Not Block the North and North-East Zones",
+          content: "The North and North-East are generally kept lighter, cleaner and more open in Vastu-based business planning. In practical design terms, these areas benefit from daylight, circulation and low visual clutter—qualities that make a workplace feel more accessible and alert.",
+          bullets: [
+            "Do not use these zones for heavy storage, scrap material or unused furniture.",
+            "Repair leaks, peeling paint and dark corners promptly.",
+            "Use light finishes, organised surfaces and thoughtful lighting to keep the space visually open."
+          ]
+        },
+        {
+          heading: "Balance Cash, Accounts and Financial Records",
+          content: "Cash handling, accounts and financial documentation require security as well as order. Traditional Vastu guidance often places a cash locker or important financial storage in the South-West, opening towards North or East. More importantly, the area should be controlled, secure and free from unnecessary clutter.",
+          bullets: [
+            "Keep bills, invoices and payment records in a single documented system.",
+            "Separate active financial work from pantry, washroom and waste zones.",
+            "Choose secure storage that is easy for authorised staff to access and maintain."
+          ]
+        },
+        {
+          heading: "Review Fire, Electrical and Kitchen Placement",
+          content: "The South-East is associated with the fire element and is a natural planning zone for electrical panels, server equipment, pantry cooking and heat-producing appliances. Good placement also makes operational sense: it keeps technical and service functions organised without interrupting client-facing areas.",
+          bullets: [
+            "Do not let exposed wires, faulty switches or overheated equipment become a normal part of the workplace.",
+            "Keep fire equipment accessible and compliant with local safety requirements.",
+            "Plan pantry and electrical areas with ventilation, safe clearances and easy maintenance access."
+          ]
+        },
+        {
+          heading: "Fix Clutter, Dead Stock and Broken Things",
+          content: "A cluttered office does not automatically cause business problems, but it can create daily friction: slower retrieval, reduced focus, safety risks and an unprofessional client experience. Vastu views stagnant, unused items as a disruption to flow; modern workplace design reaches the same conclusion through efficiency and wellbeing.",
+          bullets: [
+            "Audit dead stock, damaged furniture, obsolete files and unused electronics every month.",
+            "Create labelled storage zones instead of filling corridors, corners or reception areas.",
+            "Repair or responsibly remove broken mirrors, lights, doors, chairs and signage."
+          ]
+        },
+        {
+          heading: "Make the Centre of the Office Easy to Move Through",
+          content: "The central area, often called the Brahmasthan, is ideally kept comparatively open. A clear centre improves circulation, sightlines and collaboration in modern office layouts. Avoid making it a dumping ground for heavy cabinets, stacked cartons or permanent obstacles.",
+          contents: [
+            "For compact offices, this does not mean leaving valuable area empty. It means planning furniture so people can move naturally, receive visitors comfortably and reach key work zones without congestion."
+          ]
+        },
+        {
+          heading: "Use Vastu as a Planning Lens, Not a Substitute for Business Strategy",
+          content: "Vastu can help you evaluate the environment around your business, but growth also depends on a strong offer, customer service, pricing, sales process, financial discipline and capable people. The best result comes from treating spatial planning as one practical part of a wider growth plan.",
+          contents: [
+            "Before making costly changes, review the floor plan, business workflow, customer journey and functional needs together. Many improvements—decluttering, better lighting, furniture repositioning and clearer zoning—can be made without structural demolition."
+          ]
+        },
+        {
+          heading: "Business Vastu Checklist: What to Review First",
+          table: {
+            headers: ["Area", "What to Check", "Practical Priority"],
+            rows: [
+              ["Entrance & reception", "Clear access, lighting, signage and a welcoming first impression", "High"],
+              ["Owner's cabin", "Supportive seat placement, privacy and a solid wall behind the chair", "High"],
+              ["North / North-East", "Light, clean and free from heavy storage or waste", "High"],
+              ["Finance & records", "Secure, organised and separate from service or waste zones", "Medium"],
+              ["Electrical / pantry", "Safe, ventilated and logically located service functions", "High"],
+              ["Centre of office", "Unblocked circulation and no unnecessary heavy obstacles", "Medium"]
+            ]
+          }
+        },
+        {
+          heading: "Frequently Asked Questions",
+          contents: [
+            "<strong>Can Vastu really help a business grow?</strong><br>Vastu should not be treated as a guarantee of revenue or a replacement for business strategy. It can help create a more organised, functional and confidence-building environment when paired with sound operations and customer service.",
+            "<strong>Which direction is best for a business entrance?</strong><br>North, East and North-East are commonly preferred in Vastu. The best decision also depends on the site, floor plan, customer access, safety and local building requirements.",
+            "<strong>Can I correct office Vastu without renovation?</strong><br>Often, yes. Furniture placement, lighting, decluttering, storage planning, colour balance and workflow zoning can improve a space without major civil work.",
+            "<strong>Where should the owner sit in an office?</strong><br>A South-West cabin is traditionally preferred. Wherever the cabin is located, prioritise a solid backing wall, a clear view of the space and an uncluttered work zone."
+          ]
+        }
+      ]
+    },
+    metaTags: {
+      title: "Why Your Business Isn't Growing: Vastu Factors to Check | spacebuild",
+      description: "Discover the key Vastu factors for business growth—from office entrance and owner seating to cash storage, clutter and workplace layout. Get practical business Vastu guidance from spacebuild.",
+      keywords: "Vastu for business growth, business Vastu tips, office Vastu, Vastu factors for business, office entrance Vastu, owner cabin Vastu, commercial Vastu consultant, business Vastu Moradabad, spacebuild",
+      alternates: {
+        canonical: "https://www.spacebuild.co.in/blog/why-your-business-isnt-growing-vastu-factors"
+      },
+      openGraph: {
+        type: "article",
+        url: "https://www.spacebuild.co.in/blog/why-your-business-isnt-growing-vastu-factors",
+        title: "Why Your Business Isn't Growing — Check These Vastu Factors First | spacebuild",
+        description: "A practical Vastu checklist for a more focused, welcoming and growth-ready business space.",
+        images: [{
+          url: "/images/blog/vastu-living-center.jpg",
+          width: 1200,
+          height: 800,
+          alt: "Vastu factors to review for business growth"
+        }]
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: "Why Your Business Isn't Growing — Check These Vastu Factors First | spacebuild",
+        description: "A practical Vastu checklist for business owners.",
+        images: ["/images/blog/vastu-living-center.jpg"]
       }
     }
   }
