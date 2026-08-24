@@ -403,5 +403,102 @@ At <strong>spacebuild</strong>, we combine Vastu-aware spatial planning with mod
         images: ["/images/blog/vastu-living-center.jpg"]
       }
     }
+  },
+  {
+    id: 3,
+    slug: "modular-kitchen-cost-complete-price-guide-2026",
+    title: "Modular Kitchen Cost — Complete Price Guide 2026",
+    subtitle: "A practical 2026 guide to kitchen prices, materials, layouts and quote comparisons for Indian homes.",
+    // Temporary banner until the requested AI-generated visual can be produced.
+    image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1787568431/vastu-kitchen_j7fgiz.jpg",
+    date: "August 24, 2026",
+    content: "",
+    fullContent: {
+      introduction: `A modular kitchen price can look simple until you receive quotations that use different measurement methods and include different specifications. One may include only cabinets, another may bundle hardware and fitting, while countertop, appliances, taxes or civil work remain extra.<br><br>This <strong>Modular Kitchen Cost 2026</strong> guide helps Indian homeowners plan a realistic budget before finalising a design. It explains what changes the price, how to compare proposals fairly and which items should be written into a detailed BOQ (bill of quantities).<br><br>At <strong>Space Build</strong>, we plan kitchens around workflow, available space and long-term usability—not only a headline price.`,
+      sections: [
+        {
+          heading: "Modular Kitchen Cost in India: 2026 Quick Answer",
+          content: "A compact, functional modular kitchen in 2026 commonly starts around <strong>₹1.5 lakh to ₹3 lakh</strong>. A mid-range kitchen often falls around <strong>₹3 lakh to ₹7 lakh</strong>, while a large or premium kitchen with high-end finishes, branded hardware, tall units, premium countertop and appliances can exceed <strong>₹8 lakh to ₹12 lakh+</strong>.",
+          contents: ["These are planning ranges, not fixed rates. The final cost changes with city, layout, cabinet quantity, material, shutter finish, hardware, countertop, appliance scope and site conditions.", "For an accurate figure, request a measured layout and an itemised BOQ. Compare the same specifications—not only the final total."],
+          table: { headers: ["Kitchen level", "Indicative 2026 project budget", "Typical scope"], rows: [["Essential", "₹1.5 lakh–₹3 lakh", "Compact layout, practical storage, laminate shutters and standard hardware"], ["Mid-range", "₹3 lakh–₹7 lakh", "Upgraded board specification, organised drawers, selected accessories and improved finishes"], ["Premium", "₹7 lakh–₹12 lakh+", "Large or complex layout, premium shutters, high-end hardware, tall units and customised details"]] }
+        },
+        {
+          heading: "Why There Is No Single ‘Per Sq Ft’ Kitchen Price",
+          content: "Per-square-foot pricing is useful only when the vendor defines the measurement. Some calculate floor area; others use front elevation, running feet or cabinet-module area. Two kitchens with the same floor size can need very different quantities of drawers, wall cabinets, tall storage and corner mechanisms.",
+          bullets: ["Ask whether the rate is based on floor area, front elevation, running feet or actual cabinet area.", "Confirm whether base units, wall units, lofts, tall units and utility storage are included.", "Compare the same board thickness, moisture resistance, finish, hardware brand and internal accessories.", "Treat an unusually low rate carefully when taxes, installation, countertop or fittings are not written into the scope."]
+        },
+        {
+          heading: "What Decides Your Modular Kitchen Budget?",
+          content: "Cabinet specification is the biggest cost driver. The carcass is the internal box structure, while shutters are the visible doors and drawer fronts. Their material, thickness, edge sealing and finish affect durability, appearance and price. Hardware is another major variable: hinges, drawer channels, tandem boxes, pantry pull-outs and corner solutions add convenience but increase the budget.",
+          table: { headers: ["Cost factor", "How it affects the quote"], rows: [["Layout and cabinet quantity", "Parallel, U-shaped and island kitchens usually need more cabinetry and worktop than a straight kitchen."], ["Carcass material", "Moisture-resistant boards and BWP plywood usually cost more than entry-level boards."], ["Shutter finish", "Laminate is generally value-focused; acrylic, PU, veneer, glass and premium membranes raise the finish budget."], ["Hardware and organisers", "Branded soft-close fittings, drawers, pantries and corner units add daily convenience and cost."], ["Countertop and backsplash", "Granite, quartz, solid surface and sintered stone differ widely in material, fabrication and fitting cost."], ["Site work", "Electrical, plumbing, civil alterations, wall preparation and appliance fitting may be charged separately."]] }
+        },
+        {
+          heading: "Cabinet Materials: Which One Should You Choose?",
+          content: "The right cabinet material depends on moisture exposure, budget, expected life and construction quality. Ask for the exact product, thickness and grade—not simply ‘waterproof board’. Protecting cut edges, sink areas and joints is just as important as the board itself.",
+          table: { headers: ["Material", "Best for", "What to verify"], rows: [["Particle board", "Dry, budget-conscious kitchens", "Board density, edge banding and protection near sink areas"], ["MDF / HDHMR", "Smooth factory-finished shutters and selected cabinet applications", "Moisture rating, thickness and suitability for wet zones"], ["BWP plywood", "Longer-term kitchens and moisture-prone zones", "BWP grade, thickness, laminate coverage and sealed cut edges"], ["WPC / PVC systems", "High-moisture areas where the system design suits the project", "Load capacity, fastening method, finish options and heat exposure"]] }
+        },
+        {
+          heading: "Shutter Finishes and Their Price Impact",
+          contents: ["Your shutter finish creates most of the visible look, but it should fit your maintenance routine. Matte laminates generally hide fingerprints well; gloss acrylic creates a sharp contemporary look but needs more careful cleaning. PU and veneer are premium options that require skilled fabrication and quality control.", "Choose from a full-size sample in your home lighting. Check edge treatment, colour consistency, scratch resistance and repair options before approving the finish."],
+          bullets: ["<strong>Laminate:</strong> versatile, durable and usually the most cost-effective finished look.", "<strong>Acrylic:</strong> premium high-gloss, contemporary appearance.", "<strong>Membrane:</strong> seamless-profiled look; performance depends on the base board and pressing process.", "<strong>PU, veneer or glass:</strong> premium visual choices that need careful detailing and a larger budget."]
+        },
+        {
+          heading: "Estimated Cost by Kitchen Layout",
+          content: "Layout affects cabinet quantity, countertop length and installation complexity. These planning ranges broadly cover cabinetry and standard hardware; countertop, appliances and site work can be extra depending on the scope.",
+          table: { headers: ["Layout", "Typical 2026 planning range", "Budget note"], rows: [["Straight kitchen", "₹1.5 lakh–₹4 lakh", "Usually the most efficient layout; tall units and premium drawers increase cost."], ["L-shaped kitchen", "₹2 lakh–₹5.5 lakh", "Corner planning, wall cabinets and storage accessories influence the final figure."], ["Parallel kitchen", "₹2.5 lakh–₹6.5 lakh", "Two working runs increase cabinetry, counter length and storage capacity."], ["U-shaped kitchen", "₹3.5 lakh–₹8 lakh+", "High storage and counter area; corner optimisation matters."], ["Island kitchen", "₹5 lakh–₹12 lakh+", "Needs adequate circulation, services planning and often a larger countertop/appliance budget."]] }
+        },
+        {
+          heading: "What Should Be Included in Your Kitchen Quote?",
+          content: "A transparent quote makes exclusions obvious. Before comparing vendors, make sure the following are included or separately budgeted:",
+          bullets: ["Cabinet-wise dimensions, carcass material, back-panel thickness, shutter finish and edge-band specification", "Hardware brand, model or series, soft-close mechanism, quantity and warranty", "Countertop material, sink, tap, backsplash, cut-outs and installation", "Chimney, hob, built-in appliances and required ventilation or electrical work", "Lofts, tall units, utility storage, skirting, filler panels and end panels", "Delivery, installation, site protection, debris removal, GST, project timeline and exclusions"]
+        },
+        {
+          heading: "How to Save Money Without Compromising Quality",
+          contents: ["The best savings come from simplifying the design, not from cutting essentials. Keep the hob, sink and refrigerator workflow efficient; use durable material where water exposure is highest; and invest selectively in drawers you will use every day.", "A reliable laminate finish, standard cabinet widths, practical accessories and a sensible countertop can control the budget while keeping the kitchen polished and easy to use."],
+          bullets: ["Prioritise moisture protection, edge sealing and quality hinges before cosmetic upgrades.", "Use organisers where they solve a real storage problem instead of adding every available mechanism.", "Finalise appliances before production so cabinet niches, service points and ventilation are correct.", "Keep a 10%–15% contingency for site changes, upgrades or unforeseen repairs."]
+        },
+        {
+          heading: "Kitchen Work Triangle and Storage Planning: Spend Where It Matters",
+          content: "A good modular kitchen is not defined by the number of accessories in it. It is defined by how naturally you can move between the refrigerator, sink and hob - the three points commonly called the kitchen work triangle. When these zones are planned well, cooking takes fewer steps and the kitchen stays easier to maintain.",
+          contents: ["Keep everyday cookware close to the hob, cleaning supplies near the sink and dry groceries in a dedicated pantry or tall unit. This simple zoning prevents overcrowded counters and helps every cabinet earn its place in the budget.", "For small kitchens, deep drawers often offer better access than multiple low shelves. In larger kitchens, tall pull-outs, appliance garages and utility units can be valuable when they suit the household's actual routine."],
+          bullets: ["Keep a practical landing area beside the refrigerator and on both sides of the hob where possible.", "Plan the sink, water purifier, dishwasher and waste bins as one easy-to-use cleaning zone.", "Reserve the most accessible drawers for daily utensils, spices and cookware; use upper cabinets for lighter or occasional items.", "Maintain comfortable passage space before adding an island, breakfast counter or oversized tall unit."]
+        },
+        {
+          heading: "Countertop, Sink and Backsplash Costs to Budget Separately",
+          content: "Countertops and fittings are frequently quoted outside the cabinet price, so they can change the total modular kitchen cost considerably. Granite remains a widely used practical option, while quartz, solid surface and sintered stone can add a more seamless or premium look at a higher material and fabrication cost.",
+          table: { headers: ["Component", "Budget questions to ask", "Why it matters"], rows: [["Countertop", "Material, thickness, edge profile, cut-outs and installation", "Fabrication and sink/hob cut-outs can materially change the final amount."], ["Sink and tap", "Brand, steel grade or material, bowl size, drain board and tap type", "The sink zone is used daily and needs reliable fitting and sealing."], ["Backsplash", "Tile, quartz, glass or stone scope; height and corner finishing", "A clear scope avoids gaps between cabinet, counter and wall work."], ["Accessories", "Bottle pull-out, cutlery tray, bin, corner unit and pantry requirements", "Choose accessories that improve your own storage routine, not just the showroom display."]] }
+        },
+        {
+          heading: "Common Modular Kitchen Mistakes That Increase Cost Later",
+          content: "Late changes are one of the most avoidable reasons a kitchen project goes over budget. Confirm the layout and every appliance before factory production begins. A visually attractive design can still become frustrating if it blocks ventilation, leaves insufficient counter space or makes drawers collide with handles and appliances.",
+          bullets: ["Ordering cabinets before finalising the hob, chimney, refrigerator, microwave and dishwasher models.", "Choosing material only by appearance without checking moisture protection around the sink and utility area.", "Ignoring electrical points, gas routing, chimney duct path, plumbing and appliance service clearances.", "Adding too many pull-outs or premium mechanisms while under-budgeting for essential hardware and installation.", "Approving a quotation without cabinet drawings, finish samples, warranty terms and written exclusions."]
+        },
+        {
+          heading: "From Design to Installation: A Clear Kitchen Project Process",
+          content: "Knowing the project sequence makes it easier to compare kitchen designers and prevent misunderstandings. A professional modular kitchen estimate should follow a measured site survey, a layout discussion and a detailed specification - not only a price shared from a reference image.",
+          bullets: ["<strong>1. Site measurement:</strong> verify wall lengths, ceiling height, beams, windows, plumbing and electrical points.", "<strong>2. Layout planning:</strong> select the best workflow, cabinet configuration, storage zones and appliance locations.", "<strong>3. Material and hardware selection:</strong> lock board grade, shutter finish, countertop, hardware series and accessories.", "<strong>4. Itemised BOQ approval:</strong> review dimensions, quantities, inclusions, exclusions, taxes, timeline and payment stages.", "<strong>5. Production and installation:</strong> coordinate civil readiness, delivery, fitting, appliance cut-outs and a final quality check."]
+        },
+        {
+          heading: "Modular Kitchen Quote Checklist",
+          bullets: ["Detailed 2D layout and cabinet-wise dimensions", "Board material, grade and thickness for carcasses, backs and shutters", "Finish brand, thickness, colour code and edge-banding detail", "Hardware brand, series, quantity and soft-close details", "Countertop, sink, appliances, accessories and installation inclusions", "Payment stages, project timeline, warranty, after-sales support and exclusions"]
+        },
+        {
+          heading: "Plan Your Kitchen With Space Build",
+          contents: ["A well-planned kitchen should be easy to cook in, easy to clean and tailored to the way your household uses it. Space Build helps homeowners plan layout, storage, finishes and material specifications so the budget is clear before work begins.", "For modular kitchen design in Moradabad and nearby areas, share your kitchen dimensions, inspiration images and appliance list for a layout-led estimate."]
+        },
+        {
+          heading: "Frequently Asked Questions About Modular Kitchen Cost",
+          contents: ["<strong>How much does a modular kitchen cost in 2026?</strong><br>Many compact kitchens start around ₹1.5 lakh to ₹3 lakh, while mid-range and premium kitchens cost more depending on cabinet quantity, materials, finish, hardware, countertop, appliances and site work.", "<strong>Is modular kitchen pricing calculated by square foot or running foot?</strong><br>Both methods are used, along with front-elevation and module-based pricing. Always ask for the measurement method and a cabinet-wise BOQ to compare quotations fairly.", "<strong>What is usually not included in a modular kitchen quote?</strong><br>Countertops, appliances, plumbing, electrical changes, tile work, transport, installation and GST may be excluded. Check each line before approving the order.", "<strong>Which material is best for kitchen cabinets?</strong><br>BWP plywood is commonly chosen for moisture-prone zones, but the right material depends on budget and site conditions. Verify the stated grade, thickness and edge sealing.", "<strong>How can I compare two kitchen quotations?</strong><br>Compare the same layout, material, thickness, finish, hardware series, accessories, countertop, installation, taxes and warranty—not just the final total."]
+        }
+      ]
+    },
+    metaTags: {
+      title: "Modular Kitchen Cost 2026: Complete Price Guide India | Space Build",
+      description: "Explore modular kitchen cost in India for 2026. Compare price ranges by layout, materials, shutter finishes, hardware and inclusions with a practical quote checklist.",
+      keywords: "modular kitchen cost 2026, modular kitchen price India 2026, modular kitchen cost per sq ft, modular kitchen price per running foot, modular kitchen budget, L shape modular kitchen cost, kitchen interior cost, modular kitchen quotation checklist, modular kitchen Moradabad",
+      alternates: { canonical: "https://www.spacebuild.co.in/blog/modular-kitchen-cost-complete-price-guide-2026" },
+      openGraph: { type: "article", url: "https://www.spacebuild.co.in/blog/modular-kitchen-cost-complete-price-guide-2026", title: "Modular Kitchen Cost — Complete Price Guide 2026 | Space Build", description: "A clear 2026 guide to modular kitchen costs, layouts, materials, hardware and quote comparisons in India.", images: [{ url: "/images/blog/vastu-kitchen.jpg", width: 1200, height: 800, alt: "Modern modular kitchen cost guide for 2026" }] },
+      twitter: { card: "summary_large_image", title: "Modular Kitchen Cost — Complete Price Guide 2026 | Space Build", description: "Plan a modular kitchen budget with 2026 price ranges, materials and a quote checklist.", images: ["/images/blog/vastu-kitchen.jpg"] }
+    }
   }
 ];

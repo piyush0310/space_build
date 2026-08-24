@@ -29,12 +29,29 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
   if (!post) return notFound();
 
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.subtitle,
+    image: [`https://www.spacebuild.co.in${post.image}`],
+    datePublished: new Date(post.date).toISOString(),
+    dateModified: new Date(post.date).toISOString(),
+    mainEntityOfPage: `https://www.spacebuild.co.in/blog/${post.slug}`,
+    author: { "@type": "Organization", name: "Space Build" },
+    publisher: { "@type": "Organization", name: "Space Build" }
+  };
+
   const currentIndex = blogPosts.findIndex((p) => p.id === post.id);
   const prevPost = blogPosts[currentIndex + 1];
   const nextPost = blogPosts[currentIndex - 1];
 
   return (
     <div className="min-h-screen bg-[#EDF4F8]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+      />
       {/* Banner */}
       <div className="w-full h-[35vh] md:h-[60vh] max-h-[600px] overflow-hidden mt-0 relative">
         <Image
