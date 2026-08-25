@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const BlogPreview: React.FC = () => {
   // Sort blogs by date (newest first) and take first 3
-  const previewBlogs = blogPosts
+  const previewBlogs = [...blogPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
   return (
@@ -21,9 +21,9 @@ const BlogPreview: React.FC = () => {
         </div>
 
         {/* Blog Grid */}
-        <div className="flex flex-wrap justify-center gap-8 mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-6">
           {previewBlogs.map((blog) => (
-            <Link key={blog.id} href={`/blog/${blog.slug}`} className="group block w-full max-w-md">
+            <Link key={blog.id} href={`/blog/${blog.slug}`} className="group block w-full">
               <article className="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2">
                 {/* Date Badge */}
                 <div className="relative">

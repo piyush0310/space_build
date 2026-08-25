@@ -500,5 +500,94 @@ At <strong>spacebuild</strong>, we combine Vastu-aware spatial planning with mod
       openGraph: { type: "article", url: "https://www.spacebuild.co.in/blog/modular-kitchen-cost-complete-price-guide-2026", title: "Modular Kitchen Cost — Complete Price Guide 2026 | Space Build", description: "A clear 2026 guide to modular kitchen costs, layouts, materials, hardware and quote comparisons in India.", images: [{ url: "/images/blog/vastu-kitchen.jpg", width: 1200, height: 800, alt: "Modern modular kitchen cost guide for 2026" }] },
       twitter: { card: "summary_large_image", title: "Modular Kitchen Cost — Complete Price Guide 2026 | Space Build", description: "Plan a modular kitchen budget with 2026 price ranges, materials and a quote checklist.", images: ["/images/blog/vastu-kitchen.jpg"] }
     }
+  },
+  {
+    id: 4,
+    slug: "signs-your-house-has-vastu-defects-and-how-to-fix-them",
+    title: "Signs Your House Has Vastu Defects (And How to Fix Them)",
+    subtitle: "Learn the common signs of Vastu defects at home and practical, non-invasive remedies to improve balance, comfort and energy flow.",
+    image: "/images/blog/vastu-living-center.jpg",
+    date: "August 25, 2026",
+    content: "A practical guide to identifying common Vastu defects in a house and correcting them with thoughtful space planning.",
+    fullContent: {
+      introduction: `A home can look beautiful and still feel uncomfortable, disorganised or unusually heavy. Poor daylight, blocked circulation, dampness, clutter and misplaced functions often affect how a family experiences a space. In Vastu Shastra, these concerns are described as <strong>Vastu defects</strong> or imbalances in the home's zones, elements and energy flow.<br><br>
+This does not mean every difficulty is caused by Vastu, or that costly demolition is the answer. A sensible Vastu review combines the floor plan with practical checks for ventilation, safety, maintenance, privacy and everyday movement. Many common defects can be improved through furniture repositioning, better lighting, decluttering, colour balance and functional zoning.<br><br>
+In this guide, Space Build explains the most common <strong>signs of Vastu defects in a house</strong>, what they may indicate, and how to fix Vastu defects without unnecessary structural changes.`,
+      sections: [
+        {
+          heading: "What Is a Vastu Defect in a House?",
+          content: "A Vastu defect is a planning imbalance associated with the direction, location, shape, weight, light or use of a space. Common examples include a blocked North-East, a dark entrance, a toilet in a sensitive zone, a cluttered centre, or a kitchen planned without regard to ventilation.",
+          contents: ["Vastu is best used as a planning lens rather than a guarantee of health, wealth or relationships. First address real issues such as leaks, electrical faults, poor ventilation, unsafe stairs and overcrowding. Then use Vastu principles to improve the arrangement and feel of the home."]
+        },
+        {
+          heading: "Sign 1: The Main Entrance Feels Dark or Blocked",
+          content: "The entrance is the first physical experience of your home and is traditionally treated as the point where energy and opportunities enter. A door that opens into clutter, has broken hardware or remains poorly lit can make the home feel closed and difficult to use.",
+          bullets: ["Keep the threshold, door swing and approach clear of shoes, cartons, bins and unused furniture.", "Repair the door, bell, lock, nameplate and lighting so the entry is functional and welcoming.", "Use warm, even lighting and a clean, well-maintained surface.", "Avoid placing a mirror directly opposite the main entrance if it makes the foyer feel cramped."]
+        },
+        {
+          heading: "Sign 2: The North-East Zone Is Heavy or Cluttered",
+          content: "The North-East is commonly associated with clarity, openness and the water element in Vastu. Heavy storage, discarded items, a dark corner or a crowded room in this zone can reduce daylight and make circulation feel stagnant.",
+          bullets: ["Remove unused furniture, scrap, bulky storage and broken items from the North-East where possible.", "Keep this zone clean, light and easy to access, with natural daylight or balanced illumination.", "Use a small meditation, reading or prayer area only when it suits the family's routine.", "Do not shift plumbing or demolish a room solely on a generic rule; assess the complete plan first."]
+        },
+        {
+          heading: "Sign 3: The Centre of the Home Is Overloaded",
+          content: "The central area, known as the Brahmasthan, works best when it supports movement and visual breathing room. Tall cabinets, stacked boxes, heavy partitions or constant congestion can make the home feel smaller and disrupt everyday circulation.",
+          bullets: ["Create a clear walking route between main rooms and remove storage that is not used regularly.", "Choose visually lighter furniture and maintain comfortable passage widths.", "Improve daylight and ventilation before adding decorative Vastu objects.", "In a compact flat, an open and functional centre is more useful than an impractical empty zone."]
+        },
+        {
+          heading: "Sign 4: Water Leaks, Damp Walls or Drainage Problems Return",
+          content: "Leaking taps, damp walls, blocked drains and recurring seepage are maintenance defects first. Vastu traditions also associate uncontrolled water loss with imbalance. Either way, ignoring these issues can damage finishes, air quality and the structure of the home.",
+          bullets: ["Repair leaking taps, concealed pipes, roof seepage and bathroom joints promptly.", "Check drainage slope, waterproofing, ventilation and the source of recurring dampness.", "Keep water storage and filtration areas clean, accessible and safely installed.", "Do not use paint, plants or crystals to hide dampness before fixing the actual plumbing problem."]
+        },
+        {
+          heading: "Sign 5: The Kitchen Has Heat, Water and Storage Conflicts",
+          content: "The kitchen combines fire, water, electrical appliances, gas, ventilation and daily movement. When the sink, hob and refrigerator are squeezed together, or the kitchen is dark and poorly ventilated, cooking becomes stressful regardless of its direction.",
+          bullets: ["Plan the hob and sink with separation, safe clearances and an efficient work triangle.", "Keep gas, electrical points, chimney ducting and water lines professionally installed and maintained.", "Store heavy appliances so they do not block windows, counters or the kitchen entrance.", "Use cleanable, durable finishes and adequate task lighting around the preparation area."]
+        },
+        {
+          heading: "Sign 6: Bedrooms Do Not Support Rest or Privacy",
+          content: "A bedroom can feel unsettled when the bed is placed in a busy passage, the headboard has no firm backing, glare enters directly into the eyes, or screens dominate the sleeping zone. Vastu commonly recommends the South-West for a master bedroom, but comfort, ventilation and privacy remain essential in every direction.",
+          bullets: ["Place the bed where the headboard has solid support and the door is visible.", "Reduce harsh light, screen glare, noise and unnecessary storage around the bed.", "Keep under-bed storage organised and avoid using the bedroom as a dumping ground.", "Choose calm, breathable finishes and colours that suit the occupants."]
+        },
+        {
+          heading: "Sign 7: Toilets, Stairs or Heavy Storage Dominate Sensitive Zones",
+          content: "Toilets, staircases and heavy storage influence plumbing, weight distribution, privacy and movement. Their position should be evaluated with the entire floor plan, structural system and existing services. A room label alone is not enough to diagnose a Vastu defect.",
+          contents: ["Where relocation is not practical, focus first on ventilation, waterproofing, cleanliness, door alignment, lighting and sensible storage. Non-structural corrections can improve the space without compromising safety or creating expensive new problems."]
+        },
+        {
+          heading: "Sign 8: Clutter and Broken Items Are Spreading",
+          content: "Clutter is one of the clearest practical signs that a home needs a reset. Broken lights, unused electronics, damaged furniture and overflowing storage create visual noise, reduce usable space and make maintenance harder.",
+          bullets: ["Create a simple monthly audit for broken, unused and duplicate items.", "Give everyday objects a defined storage location close to where they are used.", "Keep corridors, windows, balconies and emergency routes clear.", "Repair or responsibly remove cracked mirrors, faulty lights, broken doors and damaged furniture."]
+        },
+        {
+          heading: "How to Fix Vastu Defects Without Demolition",
+          content: "Most homeowners should begin with reversible, measurable changes. A professional Vastu and interior planning review can identify what is actually controlling the problem and prioritise improvements within the available budget.",
+          table: {
+            headers: ["Common concern", "Practical Vastu correction", "Priority"],
+            rows: [["Dark or blocked entrance", "Clear access, repair the door and improve layered lighting", "High"], ["Cluttered North-East", "Remove heavy storage and add useful openness", "Medium"], ["Overloaded centre", "Replan furniture and create a clear circulation route", "High"], ["Water leakage or dampness", "Fix plumbing, waterproofing, ventilation and drainage", "High"], ["Restless bedroom", "Reposition bed, reduce glare and improve privacy", "Medium"]]
+          }
+        },
+        {
+          heading: "A Simple Vastu Defect Checklist",
+          bullets: ["Is the main entrance clear, well lit and easy to open?", "Is the North-East clean, light and free from unnecessary heavy storage?", "Can people move comfortably through the centre of the home?", "Are all leaks, damp patches, drainage issues and electrical faults repaired?", "Does the kitchen have safe appliance clearances and useful task lighting?", "Does the bedroom support sleep, privacy and a stable bed position?", "Are broken, unused and duplicate items removed regularly?", "Have structural changes been checked by the right architect, engineer or specialist?"]
+        },
+        {
+          heading: "When Should You Consult a Vastu Expert?",
+          contents: ["Consultation is useful when you are buying land, planning a new home, renovating, combining rooms or facing a layout issue that cannot be solved through furniture and maintenance. Share an accurate floor plan, entrance direction, room uses, photographs and your practical concerns.", "At Space Build, we combine Vastu analysis with interior design, architectural planning and project execution. The goal is a home that feels balanced, safe and efficient, not a list of expensive remedies or fear-based claims."]
+        },
+        {
+          heading: "Frequently Asked Questions About Vastu Defects",
+          contents: ["<strong>What are the most common Vastu defects in a house?</strong><br>Common concerns include a blocked entrance, clutter in the North-East, an overloaded centre, persistent water leakage, poor bedroom placement, unsuitable kitchen planning and excessive unused storage.", "<strong>How can I check Vastu defects at home?</strong><br>Start with an accurate floor plan and mark the North direction. Review the entrance, centre, kitchen, bedrooms, toilets, water points, daylight, ventilation and clutter.", "<strong>Can Vastu defects be corrected without breaking walls?</strong><br>Often, yes. Decluttering, furniture repositioning, lighting, ventilation, colour balance, storage planning and repairing leaks can address many practical concerns without structural demolition.", "<strong>Does a Vastu defect always cause problems?</strong><br>No. Vastu is a traditional planning system, not a substitute for medical, financial, structural or professional advice.", "<strong>Which direction is best for the main entrance?</strong><br>North, East and North-East are commonly preferred, but the best entrance also depends on site access, structure, safety, daylight and the complete floor plan."]
+        }
+      ]
+    },
+    metaTags: {
+      title: "Signs Your House Has Vastu Defects and How to Fix Them | Space Build",
+      description: "Find common Vastu defects in a house, from blocked entrances and cluttered zones to leaks and poor room planning, with practical non-invasive Vastu remedies.",
+      keywords: "Vastu defects in house, signs of Vastu defects, how to fix Vastu defects, Vastu remedies for home, house Vastu correction, Vastu dosh remedies, home Vastu consultation, Vastu consultant India, Vastu consultant Moradabad",
+      alternates: { canonical: "https://www.spacebuild.co.in/blog/signs-your-house-has-vastu-defects-and-how-to-fix-them" },
+      openGraph: { type: "article", url: "https://www.spacebuild.co.in/blog/signs-your-house-has-vastu-defects-and-how-to-fix-them", title: "Signs Your House Has Vastu Defects (And How to Fix Them)", description: "A practical guide to identifying and correcting common Vastu defects at home without unnecessary demolition.", images: [{ url: "/images/blog/vastu-living-center.jpg", width: 1200, height: 800, alt: "Vastu planning and correction guide for a home" }] },
+      twitter: { card: "summary_large_image", title: "Signs Your House Has Vastu Defects and How to Fix Them", description: "Learn practical ways to identify and correct common home Vastu defects.", images: ["/images/blog/vastu-living-center.jpg"] }
+    }
   }
 ];

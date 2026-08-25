@@ -4,7 +4,7 @@ import { blogPosts } from "@/data/blogdata";
 
 export default function BlogPage() {
   // Sort blogs by date (newest first)
-  const sortedBlogs = blogPosts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const sortedBlogs = [...blogPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return (
     <section className="py-16 px-4 bg-[#EDF4F8]">
@@ -23,9 +23,9 @@ export default function BlogPage() {
         </div>
 
         {/* Blog Grid */}
-        <div className="flex flex-wrap justify-center gap-8 mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-6">
           {sortedBlogs.map((blog) => (
-            <Link key={blog.id} href={`/blog/${blog.slug}`} className="group block w-full max-w-md">
+            <Link key={blog.id} href={`/blog/${blog.slug}`} className="group block w-full">
               <article className="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-2">
                 {/* Date Badge */}
                 <div className="relative">
