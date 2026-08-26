@@ -1,22 +1,5 @@
-import type { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
-  // Keep development and production artifacts isolated. Running `next build`
-  // while `next dev` is open must never remove the dev server's manifests.
-  distDir: process.env.NODE_ENV === 'development' ? '.next-dev' : '.next-build',
-
-  webpack(config, { dev }) {
-    // Windows can fail Webpack's temporary-pack rename when a watcher,
-    // antivirus scanner, or another process briefly holds the file. The cache
-    // is only a development speed optimization, so keep it in memory instead
-    // of repeatedly emitting ENOENT rename warnings.
-    if (dev) {
-      config.cache = false;
-    }
-
-    return config;
-  },
-
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
     
     loader: 'custom',
