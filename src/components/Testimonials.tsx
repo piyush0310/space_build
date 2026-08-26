@@ -61,10 +61,10 @@ const Testimonials: React.FC = () => {
   }, [nextSlide]);
 
   return (
-    <section id="testimonials" className="py-28 bg-[#EDF4F8]">
+    <section id="testimonials" className="py-4 bg-[#EDF4F8]">
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-5xl font-serif text-center font-light text-black tracking-widest pt-24">
+          <h2 className="text-3xl md:text-5xl font-serif text-center font-light text-black tracking-widest pt-8">
             Testimonials
           </h2>
           <p className="text-black/80 max-w-2xl mx-auto mt-2">
