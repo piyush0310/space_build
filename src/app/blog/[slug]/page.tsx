@@ -29,18 +29,53 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
   if (!post) return notFound();
 
+  const absoluteImage = post.image.startsWith("http")
+    ? post.image
+    : `https://www.spacebuild.co.in${post.image}`;
+  const articleUrl = `https://www.spacebuild.co.in/blog/${post.slug}`;
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     headline: post.title,
     description: post.subtitle,
-    image: [`https://www.spacebuild.co.in${post.image}`],
+    image: [absoluteImage],
     datePublished: new Date(post.date).toISOString(),
     dateModified: new Date(post.date).toISOString(),
-    mainEntityOfPage: `https://www.spacebuild.co.in/blog/${post.slug}`,
+    mainEntityOfPage: articleUrl,
     author: { "@type": "Organization", name: "Space Build" },
-    publisher: { "@type": "Organization", name: "Space Build" }
+    publisher: { "@type": "Organization", name: "Space Build", url: "https://www.spacebuild.co.in" }
   };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.spacebuild.co.in" },
+      { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.spacebuild.co.in/blog" },
+      { "@type": "ListItem", position: 3, name: post.title, item: articleUrl }
+    ]
+  };
+
+  const faqSection = post.fullContent?.sections?.find((section) =>
+    section.heading.toLowerCase().includes("frequently asked questions")
+  );
+  const faqEntities = (faqSection?.contents || []).flatMap((entry) => {
+    const match = entry.match(/^<strong>(.*?)<\/strong><br>([\s\S]*)$/);
+    if (!match) return [];
+    return [{
+      "@type": "Question",
+      name: match[1].replace(/^\d+\.\s*/, ""),
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: match[2].replace(/<[^>]*>/g, "")
+      }
+    }];
+  });
+  const faqJsonLd = faqEntities.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqEntities
+  } : null;
 
   const currentIndex = blogPosts.findIndex((p) => p.id === post.id);
   const prevPost = blogPosts[currentIndex + 1];
@@ -52,6 +87,16 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
       {/* Banner */}
       <div className="w-full h-[35vh] md:h-[60vh] max-h-[600px] overflow-hidden mt-0 relative">
         <Image

@@ -8,6 +8,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.spacebuild.co.in"),
   title: "Space Build",
   description: "Space Build",
 
