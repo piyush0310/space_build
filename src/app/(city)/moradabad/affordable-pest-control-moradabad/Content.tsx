@@ -1,382 +1,262 @@
 import LandingEnquiry from "@/components/LandingEnquiry";
-import React from "react";
+
+const contentSections = [
+  {
+    heading: "Why Pest Control Is Essential in Moradabad",
+    paragraphs: [
+      `Moradabad's weather pattern — hot summers, humid monsoons, and mild winters — creates ideal conditions for pests to thrive throughout the year. The city's brassware industry, narrow lanes, older residential structures, and dense commercial markets add to the challenge, as pests find countless hiding spots in cracks, drainage systems, warehouses, and storage units.`,
+      `Left untreated, pests do not just cause discomfort; they can create serious health and structural risks. Cockroaches and rodents can contaminate food, mosquitoes can spread illnesses, and termites may silently damage wooden furniture, doors, window frames, and even structural elements of a building.`,
+      `Bed bugs can disrupt sleep and cause skin irritation, while ants and other crawling insects can contaminate stored goods, especially in kitchens, godowns, and shops. Given these risks, pest control is not a luxury — it is a practical necessity for households and businesses in Moradabad.`,
+      `Many residents avoid regular pest-control services because they are concerned about high costs. Space Build Moradabad aims to address this gap by making professional pest management more accessible and affordable.`,
+    ],
+  },
+  {
+    heading: "Space Build Moradabad – Your Trusted Local Pest Control Partner",
+    paragraphs: [
+      `Space Build has built a reputation in Moradabad as a dependable name for pest management solutions that combine effectiveness with affordability. Rather than taking a one-size-fits-all approach, the team considers the local environment, common pest patterns, property type, and the specific needs of homes, shops, industries, and offices.`,
+      `The company believes that protection from pests should not come at a premium price. Its service packages are designed for different budgets, ranging from single-home treatments to comprehensive annual maintenance arrangements for larger commercial establishments.`,
+      `This flexibility allows customers to choose a plan that fits their requirements and budget without compromising on treatment quality or safety.`,
+    ],
+  },
+  {
+    heading: "Comprehensive Pest Control Services Offered",
+    paragraphs: [
+      `Space Build Moradabad provides pest control solutions tailored to different pest problems and property types.`,
+    ],
+    subSections: [
+      {
+        heading: "Cockroach Control",
+        text: `Gel-based treatments and residual sprays are used to target cockroach activity at its source and provide lasting relief in kitchens, bathrooms, storage areas, and other affected spaces.`,
+      },
+      {
+        heading: "Termite Treatment",
+        text: `Pre-construction and post-construction anti-termite treatments help protect wooden structures, furniture, doors, fixtures, and building foundations from termite damage.`,
+      },
+      {
+        heading: "Mosquito Control",
+        text: `Fogging and larvicidal treatments can help reduce mosquito breeding areas around homes, terraces, gardens, drains, and stagnant-water locations.`,
+      },
+      {
+        heading: "Bed Bug Treatment",
+        text: `Specialized heat and chemical treatment methods are used to address bed bugs in mattresses, furniture, wall cracks, and other hiding places, helping restore hygienic sleeping spaces.`,
+      },
+      {
+        heading: "Rodent Control",
+        text: `Safe trapping and baiting techniques help control rat and mouse activity in homes, warehouses, commercial kitchens, and storage facilities, reducing property damage and contamination risks.`,
+      },
+      {
+        heading: "General Pest Control",
+        text: `Routine spraying and preventive treatments can address ants, spiders, silverfish, and other common household pests.`,
+      },
+      {
+        heading: "Pre-Construction Termite Treatment",
+        text: `For new homes and commercial projects, soil treatment can create a long-term protective barrier against termite entry from the ground.`,
+      },
+      {
+        heading: "Commercial and Industrial Pest Control",
+        text: `Customized pest management services are available for restaurants, hotels, warehouses, factories, offices, and other commercial premises that need to maintain hygiene and protect their business reputation.`,
+      },
+    ],
+  },
+  {
+    heading: "What Makes Space Build Pest Control Affordable",
+    paragraphs: [
+      `One of the main reasons people delay pest treatment is the belief that professional pest control is expensive. Space Build Moradabad works to make its services more affordable through practical and transparent service practices.`,
+    ],
+    list: [
+      `Transparent pricing: Customers receive a clear quotation after inspection, helping them understand the expected treatment cost before work begins.`,
+      `Customized packages: Targeted treatments are available for specific pest concerns, so customers can select services based on their actual requirements.`,
+      `Free inspection: A property inspection helps assess the infestation level and supports a more accurate treatment recommendation and cost estimate.`,
+      `Local expertise: As a Moradabad-based service provider, Space Build understands local pest conditions and can offer solutions suited to local homes and businesses.`,
+      `Long-lasting results: Quality products and proven treatment methods can reduce the need for frequent repeat services and help customers save money over time.`,
+      `Flexible payment options: Different package durations and payment options can make pest-control budgeting easier for households and small businesses.`,
+    ],
+  },
+  {
+    heading: "Safe and Eco-Friendly Approach",
+    paragraphs: [
+      `Households with children, elderly family members, or pets are often concerned about the safety of pest-control treatments. Space Build Moradabad prioritizes approved, low-toxicity products that are effective against pests while being used according to proper safety procedures.`,
+      `Trained technicians follow standard application and safety protocols. Customers also receive guidance about ventilation, post-treatment precautions, and appropriate re-entry timing for treated areas.`,
+      `The team also helps customers understand preventive steps that may reduce future infestations, including proper waste disposal, sealing cracks and crevices, and maintaining cleanliness around food-storage areas.`,
+    ],
+  },
+  {
+    heading: "Residential Pest Control Services",
+    paragraphs: [
+      `Space Build offers residential pest-control plans for apartments, independent houses, and gated communities across Moradabad. Whether a newly constructed house requires termite pre-treatment or an older property has ongoing cockroach, termite, mosquito, or rodent concerns, the treatment plan can be tailored to the property's layout and pest history.`,
+      `Seasonal treatment can be particularly useful in Moradabad because mosquito activity often increases during monsoons and termite activity may rise during humid months.`,
+      `Annual maintenance plans can help families schedule preventive pest-control visits throughout the year, providing ongoing protection instead of relying only on emergency service calls after infestations become severe.`,
+    ],
+  },
+  {
+    heading: "Commercial Pest Control Services",
+    paragraphs: [
+      `Moradabad's active brassware export industry, markets, restaurants, hotels, offices, and warehouses require dependable pest management to maintain hygiene standards and protect goods from contamination or damage.`,
+      `Space Build works with business owners to create pest-control schedules that suit operational hours and minimize disruption to customers, employees, sales activity, and daily operations.`,
+      `For export-oriented brass and handicraft businesses, proper pest control can help protect packaging materials, storage areas, raw materials, and finished products from pest-related damage during storage and transportation.`,
+      `Commercial service packages can include scheduled visits as well as on-call support, depending on the property's pest risk and business requirements.`,
+    ],
+  },
+  {
+    heading: "The Pest Control Process",
+    paragraphs: [
+      `Customers contacting Space Build Moradabad can expect a straightforward and professional process designed around the type and extent of the pest issue.`,
+    ],
+    list: [
+      `Property inspection: A representative assesses the premises, identifies pest activity, and checks the extent of infestation.`,
+      `Customized treatment plan: Based on the inspection, the customer receives a treatment recommendation and a transparent price quotation.`,
+      `Professional treatment: Once approved, trained technicians perform the treatment using equipment and products appropriate for the specific pest concern.`,
+      `Post-treatment guidance: Customers receive instructions on aftercare, safety precautions, ventilation, and measures that can help prevent future pest activity.`,
+      `Follow-up and maintenance: Depending on the property type and pest-risk level, periodic follow-up visits or annual maintenance plans may be recommended.`,
+    ],
+  },
+  {
+    heading: "Serving All Areas of Moradabad",
+    paragraphs: [
+      `Space Build Moradabad provides pest-control services across residential, commercial, and industrial areas of the city. Service coverage includes Civil Lines, Kanth Road, Delhi Road, Majhola, Line Par, Chowk Bazar, Katghar, and surrounding localities.`,
+      `This broad local coverage helps residents, shop owners, offices, and industrial establishments access professional pest-management support without unnecessary delays.`,
+    ],
+  },
+  {
+    heading: "Why Choose Space Build Moradabad",
+    paragraphs: [
+      `Choosing the right pest-control provider matters as much as choosing the treatment itself. Space Build Moradabad combines local knowledge, transparent pricing, trained technicians, safety-focused products, and a customer-oriented approach.`,
+      `Every home, office, shop, warehouse, and industrial property can have different pest-control requirements. The team works to provide practical solutions that are effective, suitable for the property, and easier on the budget.`,
+      `Whether you need one-time help for a sudden infestation or ongoing pest management for long-term protection, Space Build Moradabad offers a dependable local pest-control option.`,
+    ],
+  },
+];
 
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
-      <div className="flex flex-col lg:flex-row max-w-[1800px] mx-auto gap-8">
-        <div className="w-full lg:w-[60%] px-4 sm:px-8 py-0">
+      <div className="mx-auto flex max-w-[1800px] flex-col gap-8 lg:flex-row">
+        <div className="w-full px-4 py-0 sm:px-8 lg:w-[60%]">
           <div className="space-y-8 text-gray-700">
-            <h2 className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-900">
-              Affordable Pest Control in Moradabad – Quality Protection Without
-              Breaking the Bank
-            </h2>
+            <h1 className="mt-6 text-2xl font-semibold text-gray-900 sm:text-3xl">
+              Affordable Pest Control in Moradabad – Space Build Moradabad
+            </h1>
 
             <p>
-              For many households and small businesses in Moradabad, the idea of
-              professional pest control services often comes with an assumption that
-              quality treatment must come at a steep price. This misconception
-              sometimes leads property owners to delay necessary pest control measures
-              or resort to ineffective home remedies, ultimately allowing minor pest
-              issues to escalate into more significant and expensive problems. Space
-              Build, a well-regarded name in construction and pest management in
-              Moradabad, works to challenge this notion by offering affordable pest
-              control services that do not compromise on quality, effectiveness, or
-              safety.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Redefining Affordability in Pest Control
-            </h2>
-
-            <p>
-              Affordability in pest control does not simply mean the lowest possible
-              price; it means receiving genuine value for the money spent, where the
-              treatment effectively resolves the pest problem and provides lasting
-              protection rather than requiring repeated, costly interventions. Space
-              Build approaches affordability from this perspective, focusing on
-              delivering cost-efficient solutions that address the root cause of pest
-              infestations rather than offering superficial, short-term fixes that may
-              seem cheaper initially but end up costing more in the long run.
+              Moradabad, widely known as the Brass City of India, is a bustling
+              hub of trade, craftsmanship, and residential growth. Its humid
+              climate, dense population, and mix of old and new construction can
+              create suitable conditions for cockroaches, termites, mosquitoes,
+              bed bugs, ants, rodents, and other pests.
             </p>
 
             <p>
-              This approach is particularly relevant in a city like Moradabad, where
-              property owners range from individual homeowners with modest budgets to
-              small business owners and larger commercial enterprises, all of whom
-              deserve access to effective pest control solutions tailored to their
-              specific financial considerations.
+              Whether you live in Civil Lines, run a shop in Chowk Bazar, or
+              manage an office on Kanth Road, pest problems can arise at any
+              time. Space Build Moradabad offers affordable and reliable
+              pest-control services designed to help keep homes and workplaces
+              safe without putting unnecessary pressure on your budget.
             </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              How Space Build Keeps Pest Control Affordable
-            </h2>
+            {contentSections.map((section) => (
+              <section key={section.heading} className="space-y-5">
+                <h2 className="text-xl font-semibold text-gray-900 sm:text-2xl">
+                  {section.heading}
+                </h2>
 
-            <p>
-              Several strategic approaches allow Space Build to offer competitively
-              priced pest control services in Moradabad while maintaining high
-              standards of treatment quality.
-            </p>
+                {section.paragraphs?.map((paragraph, index) => (
+                  <p key={`${section.heading}-paragraph-${index}`}>
+                    {paragraph}
+                  </p>
+                ))}
 
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Efficient Resource Utilization
-            </h3>
+                {section.subSections?.map((subSection) => (
+                  <div key={subSection.heading} className="space-y-3">
+                    <h3 className="text-lg font-semibold text-gray-900 sm:text-xl">
+                      {subSection.heading}
+                    </h3>
+                    <p>{subSection.text}</p>
+                  </div>
+                ))}
 
-            <p>
-              By carefully assessing each property&apos;s specific needs through
-              thorough inspection, Space Build avoids unnecessary treatments or
-              oversized service packages that do not match the actual scope of the
-              pest problem. This targeted approach ensures that customers only pay for
-              the treatment that is genuinely required, rather than being charged for
-              generic, one-size-fits-all packages.
-            </p>
+                {section.list && (
+                  <ul className="list-disc space-y-2 pl-6">
+                    {section.list.map((item, index) => (
+                      <li key={`${section.heading}-list-${index}`}>{item}</li>
+                    ))}
+                  </ul>
+                )}
+              </section>
+            ))}
 
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Bulk Purchasing of Quality Materials
-            </h3>
+            <section className="space-y-5">
+              <h2 className="text-xl font-semibold text-gray-900 sm:text-2xl">
+                Get Affordable Pest Control in Moradabad
+              </h2>
 
-            <p>
-              Through established relationships with reliable suppliers of pest
-              control chemicals and materials, Space Build is able to source quality
-              termiticides and pest control products at favorable rates, allowing
-              these savings to be passed on to customers without compromising on the
-              effectiveness of the treatment.
-            </p>
+              <p>
+                To learn more about Space Build pest-control services, request a
+                free inspection, or receive a customized quotation for your
+                home, shop, office, warehouse, or commercial property, contact
+                the team today.
+              </p>
 
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Streamlined Service Processes
-            </h3>
+              <p>
+                Visit{" "}
+                <a
+                  href="https://www.spacebuild.co.in/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:underline"
+                >
+                  spacebuild.co.in
+                </a>{" "}
+                to discuss a pest-control plan tailored to your requirements.
+              </p>
 
-            <p>
-              Years of experience in the pest control industry have allowed Space
-              Build to develop efficient service delivery processes that minimize
-              wasted time and resources during treatment, contributing to more
-              competitive overall pricing for customers.
-            </p>
+              <div>
+                <p>
+                  📞 <strong>WhatsApp / Call:</strong>{" "}
+                  <a
+                    href="tel:+919927611780"
+                    className="text-blue-600 hover:underline"
+                  >
+                    +91 9927611780
+                  </a>
+                </p>
 
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Flexible Payment and Package Options
-            </h3>
+                <p>
+                  📞 <strong>Phone:</strong>{" "}
+                  <a
+                    href="tel:+918077973797"
+                    className="text-blue-600 hover:underline"
+                  >
+                    +91 8077973797
+                  </a>
+                </p>
 
-            <p>
-              Recognizing that different customers have different budget constraints,
-              Space Build offers various package options and payment structures,
-              allowing property owners to choose a plan that aligns with their
-              financial situation while still receiving effective pest control
-              coverage.
-            </p>
+                <p>
+                  📧 <strong>Email:</strong>{" "}
+                  <a
+                    href="mailto:spacebuild.india@gmail.com"
+                    className="text-blue-600 hover:underline"
+                  >
+                    spacebuild.india@gmail.com
+                  </a>
+                </p>
 
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Affordable Options for Different Pest Control Needs
-            </h2>
-
-            <p>
-              Space Build&apos;s commitment to affordability extends across the
-              various types of pest control services offered in Moradabad, ensuring
-              that budget-conscious customers have access to appropriate solutions for
-              their specific concerns.
-            </p>
-
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Budget-Friendly Termite Treatment
-            </h3>
-
-            <p>
-              While termite treatment is often perceived as one of the more expensive
-              pest control services due to its specialized nature, Space Build offers
-              tiered treatment options that allow customers to choose between basic
-              protective treatments and more comprehensive packages based on their
-              budget and the severity of their termite concerns. For those planning
-              new construction, opting for pre-construction termite treatment
-              represents one of the most cost-effective long-term investments, as it
-              is generally more affordable than addressing termite issues after
-              construction is complete.
-            </p>
-
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              General Pest Control Packages
-            </h3>
-
-            <p>
-              For common household pests like cockroaches, ants, and spiders, Space
-              Build offers general pest control packages that provide effective
-              treatment at accessible price points, making regular pest maintenance
-              achievable for households across various income levels in Moradabad.
-            </p>
-
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Seasonal and Preventive Packages
-            </h3>
-
-            <p>
-              Rather than waiting for severe infestations to develop, which often
-              require more extensive and costly treatment, Space Build encourages
-              preventive pest control measures that can be more affordable when
-              addressed proactively. Seasonal treatment packages, timed around
-              Moradabad&apos;s monsoon season and other periods of increased pest
-              activity, offer a cost-effective way to maintain year-round protection.
-            </p>
-
-            <h3 className="text-lg sm:text-xl font-semibold text-gray-900">
-              Combination Service Discounts
-            </h3>
-
-            <p>
-              For customers requiring multiple types of pest control services, such as
-              combined termite and general pest treatment, Space Build often provides
-              more favorable combined pricing compared to booking each service
-              separately, offering additional savings for comprehensive pest
-              management needs.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              The Cost of Ignoring Pest Problems
-            </h2>
-
-            <p>
-              While affordability is an important consideration, it is equally
-              important to understand the financial risks associated with delaying or
-              avoiding pest control treatment altogether due to budget concerns.
-              Untreated termite infestations, for example, can lead to significant
-              structural damage over time, potentially resulting in repair costs that
-              far exceed the price of timely preventive or corrective treatment.
-            </p>
-
-            <p>
-              Similarly, ignoring cockroach or rodent infestations can lead to health
-              and hygiene concerns, potential damage to stored goods or food supplies,
-              and in commercial settings, possible reputational damage if customers or
-              clients notice signs of pest activity on the premises. Viewing pest
-              control as a necessary investment rather than an optional expense helps
-              property owners in Moradabad make more financially sound decisions in
-              the long run.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Balancing Cost and Quality in Pest Control Decisions
-            </h2>
-
-            <p>
-              When searching for affordable pest control services, it is important for
-              property owners to avoid the temptation of choosing the absolute
-              cheapest option available without considering the quality and
-              reliability of the service provider. Extremely low-cost pest control
-              services may sometimes cut corners in terms of the chemicals used, the
-              thoroughness of treatment, or the level of follow-up support provided,
-              potentially leading to recurring pest problems that ultimately cost more
-              to resolve.
-            </p>
-
-            <p>
-              Space Build aims to strike a balance between affordability and quality,
-              ensuring that even budget-conscious service packages include proper
-              inspection, appropriate treatment methods, and reasonable follow-up
-              support to genuinely resolve pest issues rather than providing
-              superficial, temporary relief.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Tips for Getting the Most Affordable Pest Control Service
-            </h2>
-
-            <p>
-              Property owners in Moradabad looking to secure the most cost-effective
-              pest control solutions can consider several practical strategies when
-              engaging with service providers like Space Build.
-            </p>
-
-            <ul className="list-disc pl-6 space-y-2">
-              <li>
-                Request a free or low-cost initial inspection for an accurate
-                assessment of pest control needs and to avoid paying for unnecessary
-                treatment packages.
-              </li>
-              <li>
-                Compare package options and understand what each price point includes
-                before selecting the most suitable solution for your property.
-              </li>
-              <li>
-                Consider annual maintenance contracts instead of repeated one-time
-                treatments for better overall value, especially for recurring seasonal
-                pest issues.
-              </li>
-              <li>
-                Address pest problems early before they become severe infestations,
-                since extensive and long-standing pest issues generally cost more to
-                treat.
-              </li>
-              <li>
-                Bundle multiple requirements, such as termite treatment and general
-                pest control, to potentially receive combined service savings.
-              </li>
-            </ul>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Affordable Pest Control for Residential Properties
-            </h2>
-
-            <p>
-              For homeowners in Moradabad, affordable pest control does not mean
-              sacrificing the safety and comfort of the family for the sake of saving
-              money. Space Build offers residential pest control packages designed
-              specifically for individual homes and apartments, taking into account
-              the typical budget constraints faced by families while still delivering
-              effective protection against common household pests and termites.
-            </p>
-
-            <p>
-              These residential packages often include periodic inspection visits,
-              allowing early detection of developing pest issues before they require
-              more extensive and costly intervention. This helps families maintain a
-              pest-free home environment without straining their household budget.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Affordable Pest Control for Small Businesses
-            </h2>
-
-            <p>
-              Small business owners in Moradabad, including shop owners, small
-              offices, and local enterprises, often operate with tighter budgets
-              compared to larger commercial establishments. This makes affordable pest
-              control solutions particularly important for maintaining a clean and
-              professional business environment without significant financial strain.
-            </p>
-
-            <p>
-              Space Build recognizes these unique needs and offers scaled-down
-              commercial pest control packages appropriate for smaller business
-              premises, ensuring that even modest-sized enterprises in Moradabad can
-              maintain effective pest management practices without the higher costs
-              typically associated with larger commercial or industrial pest control
-              contracts.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Making Informed Choices for Long-Term Savings
-            </h2>
-
-            <p>
-              Ultimately, the most affordable pest control approach is one that
-              combines reasonable upfront costs with effective, lasting results,
-              preventing the need for repeated treatments that can accumulate into
-              significant expenses over time. By choosing a reliable service provider
-              like Space Build that offers transparent pricing, appropriate treatment
-              recommendations based on actual property needs, and quality materials
-              and methods, property owners in Moradabad can achieve genuine
-              affordability in their pest control investments.
-            </p>
-
-            <p>
-              This approach not only protects immediate budget considerations but also
-              contributes to long-term financial savings by preventing structural
-              damage, health concerns, and recurring treatment costs associated with
-              inadequately managed pest problems.
-            </p>
-
-            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Get Affordable Pest Control with Space Build
-            </h2>
-
-            <p>
-              For affordable and effective pest control solutions tailored to your
-              specific property and budget requirements in Moradabad, contact Space
-              Build through their official website to discuss available packages and
-              receive a personalized quotation.
-            </p>
-
-            <p>
-              Visit{" "}
-              <a
-                href="https://www.spacebuild.co.in/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:underline"
-              >
-                www.spacebuild.co.in
-              </a>{" "}
-              to learn more about their pest control services and request a quote.
-            </p>
-
-            <p>
-              📞 <strong>WhatsApp / Call:</strong>{" "}
-              <a
-                href="tel:+919927611780"
-                className="text-blue-600 hover:underline"
-              >
-                +91 9927611780
-              </a>
-              <br />
-              📞 <strong>Phone:</strong>{" "}
-              <a
-                href="tel:+918077973797"
-                className="text-blue-600 hover:underline"
-              >
-                +91 8077973797
-              </a>
-              <br />
-              📧 <strong>Email:</strong>{" "}
-              <a
-                href="mailto:spacebuild.india@gmail.com"
-                className="text-blue-600 hover:underline"
-              >
-                spacebuild.india@gmail.com
-              </a>
-              <br />
-              🌐 <strong>Website:</strong>{" "}
-              <a
-                href="https://www.spacebuild.co.in/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:underline"
-              >
-                www.spacebuild.co.in
-              </a>
-            </p>
+                <p>
+                  🌐 <strong>Website:</strong>{" "}
+                  <a
+                    href="https://www.spacebuild.co.in/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline"
+                  >
+                    spacebuild.co.in
+                  </a>
+                </p>
+              </div>
+            </section>
           </div>
         </div>
 
-        <div className="w-full lg:w-[42%] p-4 lg:pl-10 ml-auto">
+        <div className="ml-auto w-full p-4 lg:w-[42%] lg:pl-10">
           <div className="lg:sticky lg:top-28">
             <LandingEnquiry />
           </div>
