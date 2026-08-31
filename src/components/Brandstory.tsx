@@ -9,7 +9,7 @@ const AboutSection: React.FC = () => {
           {/* Left Content */}
           <div className="flex flex-col justify-center h-full lg:pr-8">
             <h3 className="text-center text-black font-serif uppercase tracking-[0.35em] text-3xl md:text-5xl mb-8">
-              BRAND STORY
+              DESIGNING YOUR STORY
             </h3>
             <h4 className="text-center text-black text-2xl md:text-3xl font-medium mb-10">
               Welcome To SPACE BUILD,
@@ -42,16 +42,6 @@ const AboutSection: React.FC = () => {
                 height={700}
                 priority
                 className="w-full h-[650px] lg:h-[700px] object-cover"
-              />
-            </div>
-            {/* Small Overlay Image */}
-            <div className="absolute -bottom-6 -left-6 w-36 h-36 rounded-xl overflow-hidden shadow-xl border-4 border-white">
-              <Image
-                src="https://res.cloudinary.com/dkpejqlby/image/upload/v1763232541/p21_rlpio9_bvaerk.png"
-                alt="Interior"
-                width={200}
-                height={200}
-                className="w-full h-full object-cover"
               />
             </div>
             {/* Decorative Blur */}

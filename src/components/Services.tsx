@@ -37,7 +37,7 @@ const Services: React.FC = () => {
   },
   {
   title: "PROJECT MANAGEMENT CONSULTATION (PMC)",
-  image: "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783508412/IMG_20260708_162906.jpg_atgdaa.jpg",
+  image: "/images/pmc-card.png",
   alt: "Professional project management consultation services",
   description: "Professional project management consultation by SPACE BUILD for efficient planning, execution, and delivery.",
   link: "/services/project-management-consultation",
@@ -95,7 +95,7 @@ const Services: React.FC = () => {
                     src={service.image}
                     alt={service.alt}
                     fill
-                    className="object-cover transition-transform duration-700 
+                    className="object-cover transition-transform duration-700
                              scale-100 group-hover:scale-105 rounded-lg"
                     sizes="(max-width: 768px) 50vw, (max-width: 1024px) 25vw, 25vw"
                   />

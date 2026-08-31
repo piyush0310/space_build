@@ -16,21 +16,44 @@ interface Testimonial {
 
 // Featured Testimonials Data
 export const featuredTestimonials: Testimonial[] = [
-  
+  {
+    id: 1,
+    name: "Mr. Amit & Mrs. Neha Agarwal",
+    location: "",
+    rating: 5,
+    text: "SPACE BUILD turned our ideas into a home that feels elegant, spacious, and truly personal. The team understood every requirement, guided us patiently, and delivered each detail with excellent finishing. We are delighted with the final result!",
+    image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
+  },
   {
     id: 2,
-    name: "Mr. Rakesh & Mrs. Reena Jain",
+    name: "Mrs. Pooja Sharma",
     location: "",
-    rating: 4,
-    text: "SPACE BUILD perfectly blended aesthetics and Vastu, transforming our space into a harmonious, positive environment. It feels balanced, beautiful, and filled with positive energy. Their expertise and creativity exceeded expectations. Truly exceptional!",
+    rating: 5,
+    text: "From the initial consultation to the final handover, the entire process was smooth and well managed. Their design choices made our home look modern while keeping it comfortable and practical for everyday living.",
     image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
   },
   {
     id: 3,
-    name: "Mr. Raja Jain",
+    name: "Mr. Rohit Verma",
     location: "",
-    rating: 4,
-    text: "The interior design completely transformed our space, making it more beautiful, comfortable, and perfectly styled. Every detail was thoughtfully designed, creating a warm and inviting atmosphere. Truly a wonderful and satisfying experience!",
+    rating: 5,
+    text: "The team made excellent use of every corner of our apartment. Their smart storage solutions, thoughtful colour combinations, and attention to detail gave us a beautiful home that feels much larger and more organised.",
+    image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
+  },
+  {
+    id: 4,
+    name: "Mr. Sandeep & Mrs. Kavita Gupta",
+    location: "",
+    rating: 5,
+    text: "We appreciated the team's professionalism, clear communication, and creative approach throughout the project. The final interiors reflect our taste perfectly, and the quality of workmanship is visible in every room.",
+    image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
+  },
+  {
+    id: 5,
+    name: "Mrs. Anjali Mehta",
+    location: "",
+    rating: 5,
+    text: "Our home now has the warm, refined, and welcoming atmosphere we always wanted. SPACE BUILD balanced style and functionality beautifully, completed the work with care, and made the entire experience completely stress-free.",
     image: "https://cdn-icons-png.flaticon.com/128/1647/1647179.png",
   },
 ];
@@ -140,22 +163,6 @@ const Testimonials: React.FC = () => {
             <ChevronRight size={16} className="text-gray-700 md:w-5 md:h-5" />
           </button>
         </div>
-
-        {/* Dot Indicators */}
-        <div className="flex justify-center mt-6 sm:mt-8 space-x-1.5 sm:space-x-2">
-          {featuredTestimonials.map((_, index) => (
-            <button
-              key={index}
-              onClick={() => goToSlide(index)}
-              className={`w-2.5 h-2.5 sm:w-3 sm:h-3 rounded-full transition-all ${
-                currentIndex === index
-                  ? "bg-gray-800"
-                  : "bg-gray-400 hover:bg-gray-600"
-              }`}
-            />
-          ))}
-        </div>
-
         
       </div>
     </section>
