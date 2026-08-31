@@ -8,7 +8,7 @@ export default function ProjectManagementConsultationPage() {
       {/* Hero Section */}
       <section className="relative w-full h-[28vh] md:h-[60vh] overflow-hidden">
         <Image
-          src="https://res.cloudinary.com/dkpejqlby/image/upload/v1769677935/PMC_i2bu0t.jpg"
+          src="/images/pmc-banner-v2.png"
           alt="Project Management Consultation by Space Build"
           fill
           className="object-full"
