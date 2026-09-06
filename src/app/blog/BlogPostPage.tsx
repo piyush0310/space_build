@@ -34,12 +34,15 @@ export default function BlogPage() {
                   </div>
                   
                   {/* Blog Image */}
-                  <div className="relative aspect-[5/3] overflow-hidden">
+                  <div
+                    className="relative aspect-[5/3] overflow-hidden"
+                    style={blog.imageWidth && blog.imageHeight ? { aspectRatio: `${blog.imageWidth} / ${blog.imageHeight}` } : undefined}
+                  >
                     <Image
                       src={blog.image}
-                      alt={blog.title}
+                      alt={blog.imageAlt || blog.title}
                       fill
-                      className="object-cover transition-transform duration-500 group-hover:scale-110"
+                      className={blog.imageWidth ? "object-contain" : "object-cover transition-transform duration-500 group-hover:scale-110"}
                       sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />

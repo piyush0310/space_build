@@ -1,5 +1,6 @@
 // src/data/blogdata.ts
 import type { Metadata } from "next";
+import { termiteTreatmentPost } from "./termiteTreatmentPost";
 
 export interface BlogTable {
   headers?: string[];       // Optional table headers
@@ -31,6 +32,9 @@ export interface BlogPost {
   title: string;
   subtitle: string; 
   image: string;
+  imageAlt?: string;
+  imageWidth?: number;
+  imageHeight?: number;
   url?: string;
   content: string;
   gallery?: string[];
@@ -44,6 +48,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  termiteTreatmentPost,
   {
     id: 1,
     slug: "top-10-vastu-tips-every-homeowner-should-know",

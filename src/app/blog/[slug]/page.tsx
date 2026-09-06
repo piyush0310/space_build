@@ -101,10 +101,10 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       <div className="w-full h-[35vh] md:h-[60vh] max-h-[600px] overflow-hidden mt-0 relative">
         <Image
           src={post.image}
-          alt={post.title}
-          width={1920}
-          height={1080}
-          className="w-full h-full object-cover object-center"
+          alt={post.imageAlt || post.title}
+          width={post.imageWidth || 1920}
+          height={post.imageHeight || 1080}
+          className="block w-full h-full object-cover object-center"
           priority
           sizes="100vw"
         />
