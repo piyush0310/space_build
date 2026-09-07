@@ -16,15 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Development writes generated files to `.next-dev`; `npm run build` and
-`npm run start` use `.next-build`. This prevents production builds from
-overwriting chunks used by a running development server.
-
-If the browser reports a Webpack error such as `Cannot read properties of
-undefined (reading 'call')`, restart the development server and hard-refresh
-the URL printed in its terminal. Check that the port belongs to this project,
-especially if the stack trace names components that are absent from `src`.
-
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
