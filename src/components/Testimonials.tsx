@@ -58,7 +58,11 @@ export const featuredTestimonials: Testimonial[] = [
   },
 ];
 
-const Testimonials: React.FC = () => {
+interface TestimonialsProps {
+  standalone?: boolean;
+}
+
+const Testimonials: React.FC<TestimonialsProps> = ({ standalone = false }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const nextSlide = useCallback(() => {
@@ -73,10 +77,6 @@ const Testimonials: React.FC = () => {
     );
   }, []);
 
-  const goToSlide = (index: number) => {
-    setCurrentIndex(index);
-  };
-
   // Auto slide effect
   useEffect(() => {
     const interval = setInterval(nextSlide, 4000);
@@ -84,10 +84,13 @@ const Testimonials: React.FC = () => {
   }, [nextSlide]);
 
   return (
-    <section id="testimonials" className="py-4 bg-[#EDF4F8]">
+    <section
+      id="testimonials"
+      className={`bg-[#EDF4F8] ${standalone ? "pt-[140px] pb-6" : "py-4"}`}
+    >
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-5xl font-serif text-center font-light text-black tracking-widest pt-8">
+          <h2 className={`text-3xl md:text-5xl font-serif text-center font-light text-black tracking-widest ${standalone ? "pt-0" : "pt-8"}`}>
             Testimonials
           </h2>
           <p className="text-black/80 max-w-2xl mx-auto mt-2">
@@ -108,7 +111,7 @@ const Testimonials: React.FC = () => {
                   key={testimonial.id}
                   className="w-full flex-shrink-0 px-2 sm:px-4"
                 >
-                  <div className="p-4 sm:p-6 md:p-8 bg-[#28344B] rounded-lg shadow-sm mx-auto max-w-4xl min-h-[300px] sm:min-h-[350px] flex flex-col justify-between">
+                  <div className="p-4 sm:p-6 md:p-8 bg-[#28344B] rounded-lg shadow-sm mx-auto max-w-4xl min-h-[300px] sm:min-h-[300px] flex flex-col justify-between">
                     {/* Star Rating */}
                     <div className="flex justify-center mb-4 sm:mb-6">
                       {[...Array(5)].map((_, i) => (
@@ -129,7 +132,7 @@ const Testimonials: React.FC = () => {
                     </div>
 
                     {/* Client Info */}
-                    <div className="flex items-center justify-center text-black mt-4 sm:mt-6">
+                    <div className="flex items-center justify-center text-white mt-4 sm:mt-6">
                       <Image
                         src={testimonial.image}
                         alt={testimonial.name}

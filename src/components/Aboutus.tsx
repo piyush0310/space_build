@@ -6,7 +6,11 @@ interface TeamMember {
   image: string;
   description: string;
 }
-const AboutUs: React.FC = () => {
+interface AboutUsProps {
+  standalone?: boolean;
+}
+
+const AboutUs: React.FC<AboutUsProps> = ({ standalone = false }) => {
 const teamMembers: TeamMember[] = [
   {
     id: 1,
@@ -42,15 +46,20 @@ const teamMembers: TeamMember[] = [
   },
 ];
   return (
-    <section id="aboutus" className="py-8 sm:py-6 lg:py-8 px-4 bg-[#EDF4F8]">
+    <section
+      id="aboutus"
+      className={`px-4 bg-[#EDF4F8] ${
+        standalone ? "pt-[140px] pb-8" : "py-8 sm:py-6 lg:py-8"
+      }`}
+    >
       <div className="max-w-7xl mx-auto">
         {/* Header */}
-        <div className="text-center mb-8 sm:mb-8 lg:mb-8 pt-14">
+        <div className={`text-center mb-8 sm:mb-8 lg:mb-8 ${standalone ? "pt-0" : "pt-14"}`}>
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif tracking-[0.2em] text-gray-800 mb-4 sm:mb-6 lg:mb-8">
             ABOUT US
           </h2>
 <p className="w-full text-sm sm:text-base lg:text-lg text-gray-600 leading-relaxed text-center">
-  At Space Build, we believe every space has the potential to inspire. We are a passionate team of architects, interior designers, and construction professionals dedicated to creating modern, functional, and timeless spaces that reflect our clients' vision and lifestyle.
+  At Space Build, we believe every space has the potential to inspire. We are a passionate team of architects, interior designers, and construction professionals dedicated to creating modern, functional, and timeless spaces that reflect our clients&apos; vision and lifestyle.
   <br /><br />
   From residential homes and luxury interiors to commercial spaces and complete construction solutions, we manage every project with precision, creativity, and attention to detail. Our approach combines innovative design, quality craftsmanship, and transparent communication to ensure a smooth experience from concept to completion.
   <br /><br />

@@ -12,11 +12,11 @@ const AboutSection: React.FC = () => {
               DESIGNING YOUR STORY
             </h3>
             <h4 className="text-center text-black text-2xl md:text-3xl font-medium mb-10">
-              Welcome To SPACE BUILD,
+              Welcome To Space Build,
             </h4>
             <div className="max-w-xl mx-auto">
               <p className="text-black text-base md:text-lg leading-9 text-left">
-                At <strong>SPACE BUILD</strong>, we are passionate about
+                At <strong>Space Build</strong>, we are passionate about
                 transforming spaces into extraordinary experiences. With a
                 commitment to innovation, craftsmanship, and personalized
                 design, we create interiors that reflect the unique tastes and

@@ -45,8 +45,8 @@ export const metadata: Metadata = {
 
 export default function TestimonialsPage() {
   return (
-    <div className="min-h-screen bg-[#FFF1E0]">
-      <Testimonials />
+    <div className="bg-[#EDF4F8]">
+      <Testimonials standalone />
     </div>
   );
 }

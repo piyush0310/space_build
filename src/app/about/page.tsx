@@ -49,8 +49,8 @@ export const metadata: Metadata = {
 
 export default function about() {
   return (
-    <div className="min-h-screen bg-[#FFF1E0]">
-      <Aboutus />
+    <div className="min-h-screen bg-[#EDF4F8]">
+      <Aboutus standalone />
       <Aboutcontent />
 
     </div>
