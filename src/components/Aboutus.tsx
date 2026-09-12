@@ -60,6 +60,8 @@ const teamMembers: TeamMember[] = [
           </h2>
 <p className="w-full text-sm sm:text-base lg:text-lg text-gray-600 leading-relaxed text-center">
   At Space Build, we believe every space has the potential to inspire. We are a passionate team of architects, interior designers, and construction professionals dedicated to creating modern, functional, and timeless spaces that reflect our clients&apos; vision and lifestyle.
+
+
   <br /><br />
   From residential homes and luxury interiors to commercial spaces and complete construction solutions, we manage every project with precision, creativity, and attention to detail. Our approach combines innovative design, quality craftsmanship, and transparent communication to ensure a smooth experience from concept to completion.
   <br /><br />
