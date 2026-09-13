@@ -24,7 +24,7 @@ const teamMembers: TeamMember[] = [
     id: 2,
     name: "",
     image:
-      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926148/IMG_20260713_122637.jpg_fh3n84.jpg",
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1789293217/ChatGPT_Image_Sep_11_2026_08_06_25_PM_bmnwhf.png",
     description:
       "Co-Founder • Director – Operations & Project Execution",
   },

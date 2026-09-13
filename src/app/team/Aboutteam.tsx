@@ -16,7 +16,7 @@ const founders = [
     role:
       "Co-Founder • Director – Operations & Project Execution • Interior Designer",
     image:
-      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1783926148/IMG_20260713_122637.jpg_fh3n84.jpg",
+      "https://res.cloudinary.com/dv9tivfvq/image/upload/v1789293217/ChatGPT_Image_Sep_11_2026_08_06_25_PM_bmnwhf.png",
     description:
       "Shane Alam manages the complete execution of Space Build projects, ensuring every design is delivered with precision, quality, and efficiency. From site supervision and vendor coordination to timeline management and client communication, he oversees every stage of project execution. His practical approach and leadership ensure every project is completed smoothly while maintaining the highest standards of workmanship.",
   },
