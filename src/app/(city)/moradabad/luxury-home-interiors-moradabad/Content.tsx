@@ -11,7 +11,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Moradabad is no longer just India&apos;s traditional &quot;Brass City.&quot; Over the past several years, the city has seen a rise in premium residential developments, independent luxury villas, and upscale apartments across areas like Civil Lines, Kanth Road, and the emerging colonies near Delhi Road. With this shift, there is a growing segment of homeowners in Moradabad who are looking for interiors that go beyond the ordinary — spaces that reflect refinement, exclusivity, and a truly personalized sense of luxury. At Space Build, we specialize in creating high-end, luxury home interiors that combine world-class design sensibilities with the practical needs of everyday living.
+              Moradabad is no longer just India&apos;s traditional &quot;Brass City.&quot; Over the past several years, the city has seen a rise in premium residential developments, independent luxury villas, and upscale apartments across areas like Civil Lines, kashipur Road, and the emerging colonies near Delhi Road. With this shift, there is a growing segment of homeowners in Moradabad who are looking for interiors that go beyond the ordinary — spaces that reflect refinement, exclusivity, and a truly personalized sense of luxury. At Space Build, we specialize in creating high-end, luxury home interiors that combine world-class design sensibilities with the practical needs of everyday living.
             </p>
 
             <p>

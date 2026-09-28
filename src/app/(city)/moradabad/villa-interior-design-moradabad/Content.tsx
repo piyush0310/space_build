@@ -11,7 +11,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Owning a villa or an independent house in Moradabad represents more than just additional square footage compared to an apartment — it represents freedom. Freedom to design multiple floors, dedicated outdoor spaces, larger family gathering areas, and a home that truly reflects the personality of everyone living in it. As more families in Moradabad invest in independent villas and duplex homes across areas like Civil Lines, Kanth Road, and the newer residential developments along Delhi Road, the demand for specialized villa interior design services has grown significantly. At Space Build, we bring together thoughtful space planning, premium craftsmanship, and design expertise to help villa owners across Moradabad create homes that are as functional as they are beautiful.
+              Owning a villa or an independent house in Moradabad represents more than just additional square footage compared to an apartment — it represents freedom. Freedom to design multiple floors, dedicated outdoor spaces, larger family gathering areas, and a home that truly reflects the personality of everyone living in it. As more families in Moradabad invest in independent villas and duplex homes across areas like Civil Lines, kashipur Road, and the newer residential developments along Delhi Road, the demand for specialized villa interior design services has grown significantly. At Space Build, we bring together thoughtful space planning, premium craftsmanship, and design expertise to help villa owners across Moradabad create homes that are as functional as they are beautiful.
             </p>
 
             <p>

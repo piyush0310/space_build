@@ -11,7 +11,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Moradabad, known as the "Brass City" of India, has grown rapidly over the last decade, with new residential colonies, commercial complexes, and modern apartments coming up across areas like Civil Lines, Kanth Road, Delhi Road, and Majhola. As the city expands, homeowners and business owners alike are becoming increasingly conscious of not just the aesthetics of their spaces but also the energy and harmony these spaces bring into their daily lives. This is where Vastu Shastra, the ancient Indian science of architecture and design, plays a crucial role. At Space Build, we combine the timeless wisdom of Vastu with contemporary interior design practices to create homes and offices in Moradabad that are beautiful, functional, and energetically balanced.
+              Moradabad, known as the "Brass City" of India, has grown rapidly over the last decade, with new residential colonies, commercial complexes, and modern apartments coming up across areas like Civil Lines, kashipur Road, Delhi Road, and Majhola. As the city expands, homeowners and business owners alike are becoming increasingly conscious of not just the aesthetics of their spaces but also the energy and harmony these spaces bring into their daily lives. This is where Vastu Shastra, the ancient Indian science of architecture and design, plays a crucial role. At Space Build, we combine the timeless wisdom of Vastu with contemporary interior design practices to create homes and offices in Moradabad that are beautiful, functional, and energetically balanced.
             </p>
 
             <p>

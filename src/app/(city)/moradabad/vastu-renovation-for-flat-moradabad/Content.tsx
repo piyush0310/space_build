@@ -14,7 +14,7 @@ const Content = () => {
             <p>
               Moradabad&apos;s skyline is changing rapidly, with more residents
               moving from traditional independent houses to modern flats and
-              apartment complexes in areas such as Kanth Road, Delhi Road,
+              apartment complexes in areas such as kashipur Road, Delhi Road,
               Ramganga Vihar, and newer developments around the outer areas of
               the city.
             </p>

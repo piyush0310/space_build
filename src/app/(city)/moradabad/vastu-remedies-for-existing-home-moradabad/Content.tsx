@@ -53,7 +53,7 @@ const Content = () => {
 
             <p>
               During residential assessments across Moradabad localities such as
-              Civil Lines, Ram Ganga Vihar, Majhola, Kanth Road, and Delhi Road,
+              Civil Lines, Ram Ganga Vihar, Majhola, kashipur Road, and Delhi Road,
               Space Build often finds a few recurring Vastu-related concerns:
             </p>
 

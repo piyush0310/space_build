@@ -313,7 +313,7 @@ const Content = () => {
             <p>
               Space Build provides renovation services designed to combine
               practical construction planning with Vastu-based requirements.
-              Homeowners across Civil Lines, Kanth Road, Delhi Road, Ramganga
+              Homeowners across Civil Lines, kashipur Road, Delhi Road, Ramganga
               Vihar, and nearby areas can request solutions based on their
               property type, budget, and renovation goals.
             </p>

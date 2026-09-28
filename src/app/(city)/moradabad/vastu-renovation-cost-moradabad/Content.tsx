@@ -131,7 +131,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>Project Location:</strong> Costs may vary between
-                localities such as Civil Lines, Kanth Road, Delhi Road, and
+                localities such as Civil Lines, kashipur Road, Delhi Road, and
                 Ramganga Vihar because of transportation and labor requirements.
               </li>
             </ul>
@@ -352,7 +352,7 @@ const Content = () => {
 
             <p>
               Space Build provides renovation and construction solutions for
-              homeowners across Moradabad, including Civil Lines, Kanth Road,
+              homeowners across Moradabad, including Civil Lines, kashipur Road,
               Delhi Road, Ramganga Vihar, and nearby areas.
             </p>
 
