@@ -351,7 +351,7 @@ const Content = () => {
             <p>
               Whether you are renovating an old family home in Chowk Bazar,
               upgrading a builder floor in Ram Ganga Vihar, or redesigning a
-              commercial showroom near Kanth Road, Space Build can help you plan
+              commercial showroom near kashipur Road, Space Build can help you plan
               every stage of the renovation process.
             </p>
 

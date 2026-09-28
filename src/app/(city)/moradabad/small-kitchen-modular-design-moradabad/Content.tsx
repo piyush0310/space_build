@@ -23,7 +23,7 @@ const Content = () => {
               Small kitchens present unique design challenges — limited counter space, reduced storage capacity, and often
               awkward layouts inherited from a building&apos;s original construction. However, these challenges also open
               the door to creative problem-solving. Our design team at Space Build has worked on numerous small kitchen
-              projects across areas like Majhola, Kanth Road, and Rampur Road, developing practical strategies that
+              projects across areas like Majhola, kashipur Road, and Rampur Road, developing practical strategies that
               maximize functionality while keeping the space feeling open, organized, and comfortable to work in.
             </p>
 

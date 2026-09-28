@@ -16,7 +16,7 @@ const Content = () => {
               Moradabad, widely known as the Brass City of India, has grown
               rapidly over the last two decades. This growth has brought new
               residential colonies, commercial complexes, showrooms, and
-              industrial units across Civil Lines, Ram Ganga Vihar, Kanth Road,
+              industrial units across Civil Lines, Ram Ganga Vihar, kashipur Road,
               Delhi Road, Majhola, and Chowk Bazar.
             </p>
 
@@ -325,7 +325,7 @@ const Content = () => {
 
             <p>
               Space Build provides Vastu correction and renovation services
-              across Civil Lines, Kanth Road, Delhi Road, Majhola, Ram Ganga
+              across Civil Lines, kashipur Road, Delhi Road, Majhola, Ram Ganga
               Vihar, Line Par, Chowk Bazar, Katghar, Mustafabad, and nearby
               residential and commercial areas of Moradabad.
             </p>

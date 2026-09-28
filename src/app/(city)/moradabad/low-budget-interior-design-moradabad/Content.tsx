@@ -15,7 +15,7 @@ const Content = () => {
             </p>
 
             <p>
-              Moradabad's growing middle-class population, along with an increasing number of young families and first-time homeowners, has created strong demand for interior design solutions that are practical, stylish, and affordable. Our team at Space Build has worked on numerous budget-conscious projects across areas like Kanth Road, Majhola, Civil Lines, and Rampur Road, helping clients achieve the look and functionality they want without unnecessary expenses.
+              Moradabad's growing middle-class population, along with an increasing number of young families and first-time homeowners, has created strong demand for interior design solutions that are practical, stylish, and affordable. Our team at Space Build has worked on numerous budget-conscious projects across areas like kashipur Road, Majhola, Civil Lines, and Rampur Road, helping clients achieve the look and functionality they want without unnecessary expenses.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">

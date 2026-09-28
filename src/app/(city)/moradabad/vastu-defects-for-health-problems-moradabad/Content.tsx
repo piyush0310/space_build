@@ -12,7 +12,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Health is one of the most fundamental aspects of life that Vastu Shastra addresses through its principles of directional energy, spatial harmony, and elemental balance. While modern medicine focuses on physical, biological, and environmental causes of illness, Vastu Shastra offers a complementary perspective, suggesting that the layout, orientation, and design of our living spaces can significantly influence our physical and mental well-being. In Moradabad, where residential construction continues to expand rapidly across areas like Ram Ganga Vihar, Kanth Road, Civil Lines, and Delhi Road, many families are increasingly attentive to how their home&apos;s design might be contributing to recurring health issues within the household.
+              Health is one of the most fundamental aspects of life that Vastu Shastra addresses through its principles of directional energy, spatial harmony, and elemental balance. While modern medicine focuses on physical, biological, and environmental causes of illness, Vastu Shastra offers a complementary perspective, suggesting that the layout, orientation, and design of our living spaces can significantly influence our physical and mental well-being. In Moradabad, where residential construction continues to expand rapidly across areas like Ram Ganga Vihar, kashipur Road, Civil Lines, and Delhi Road, many families are increasingly attentive to how their home&apos;s design might be contributing to recurring health issues within the household.
             </p>
 
             <p>

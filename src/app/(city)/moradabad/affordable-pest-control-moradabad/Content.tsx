@@ -113,7 +113,7 @@ const contentSections = [
   {
     heading: "Serving All Areas of Moradabad",
     paragraphs: [
-      `Space Build Moradabad provides pest-control services across residential, commercial, and industrial areas of the city. Service coverage includes Civil Lines, Kanth Road, Delhi Road, Majhola, Line Par, Chowk Bazar, Katghar, and surrounding localities.`,
+      `Space Build Moradabad provides pest-control services across residential, commercial, and industrial areas of the city. Service coverage includes Civil Lines, kashipur Road, Delhi Road, Majhola, Line Par, Chowk Bazar, Katghar, and surrounding localities.`,
       `This broad local coverage helps residents, shop owners, offices, and industrial establishments access professional pest-management support without unnecessary delays.`,
     ],
   },
@@ -147,7 +147,7 @@ const Content = () => {
 
             <p>
               Whether you live in Civil Lines, run a shop in Chowk Bazar, or
-              manage an office on Kanth Road, pest problems can arise at any
+              manage an office on kashipur Road, pest problems can arise at any
               time. Space Build Moradabad offers affordable and reliable
               pest-control services designed to help keep homes and workplaces
               safe without putting unnecessary pressure on your budget.

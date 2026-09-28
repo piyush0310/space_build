@@ -16,7 +16,7 @@ const Content = () => {
               structural renovation to improve the Vastu of their home. Many
               prefer practical, creative, and budget-friendly ideas that can be
               included in an ongoing renovation or a simple home refresh.
-              Whether you live in an independent house near Kanth Road, a flat
+              Whether you live in an independent house near kashipur Road, a flat
               in Ramganga Vihar, or an ancestral property in the old city,
               thoughtful renovation ideas can help improve the balance and
               functionality of your home.
