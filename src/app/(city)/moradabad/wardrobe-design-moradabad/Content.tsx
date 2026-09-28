@@ -15,7 +15,7 @@ const Content = () => {
             </p>
 
             <p>
-              A well-designed wardrobe does more than store clothes. It keeps a bedroom looking neat and uncluttered, saves time during the morning rush, protects clothing and accessories from damage, and adds significant value to the overall look of a room. Whether you&apos;re designing a wardrobe for a compact bedroom in an apartment near Kanth Road or planning a large walk-in closet for an independent house in Civil Lines, Space Build brings the right blend of design expertise and practical know-how to every project.
+              A well-designed wardrobe does more than store clothes. It keeps a bedroom looking neat and uncluttered, saves time during the morning rush, protects clothing and accessories from damage, and adds significant value to the overall look of a room. Whether you&apos;re designing a wardrobe for a compact bedroom in an apartment near kashipur Road or planning a large walk-in closet for an independent house in Civil Lines, Space Build brings the right blend of design expertise and practical know-how to every project.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">

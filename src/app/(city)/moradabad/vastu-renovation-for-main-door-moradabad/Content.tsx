@@ -88,7 +88,7 @@ const Content = () => {
 
             <p>
               In dense localities of Moradabad, including Chowk Bazar, Katghar,
-              Civil Lines, Majhola, Kanth Road, and Delhi Road, entrances are
+              Civil Lines, Majhola, kashipur Road, and Delhi Road, entrances are
               often influenced by narrow lanes, plot shape, shared walls, and
               available street access. Space Build offers solutions that work
               within these practical limitations.

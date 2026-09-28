@@ -15,7 +15,7 @@ const Content = () => {
             </p>
 
             <p>
-              Home renovation is no longer just about repainting a wall or replacing an old sofa. It has evolved into a holistic process that includes structural improvements, space planning, lighting design, material selection, and smart storage solutions. Whether it is a small apartment near Civil Lines, an independent house in Kanth Road, or a larger bungalow in the outskirts of the city, the renovation approach has to be tailored to the specific needs of the family living there.
+              Home renovation is no longer just about repainting a wall or replacing an old sofa. It has evolved into a holistic process that includes structural improvements, space planning, lighting design, material selection, and smart storage solutions. Whether it is a small apartment near Civil Lines, an independent house in kashipur Road, or a larger bungalow in the outskirts of the city, the renovation approach has to be tailored to the specific needs of the family living there.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">

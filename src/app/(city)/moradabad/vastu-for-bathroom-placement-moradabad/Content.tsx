@@ -11,7 +11,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Bathrooms are one of the most functionally essential spaces in any home, yet they are also considered one of the trickiest areas to design according to Vastu Shastra. Unlike the living room or bedroom, which are associated with positive, nurturing energy, bathrooms deal with waste removal and water drainage — elements that require careful directional placement to avoid disturbing the overall energy balance of a property. In Moradabad, where residential construction is rapidly expanding across areas like Ram Ganga Vihar, Kanth Road, Civil Lines, and Delhi Road, homeowners are increasingly consulting Vastu experts before finalizing bathroom locations in their floor plans.
+              Bathrooms are one of the most functionally essential spaces in any home, yet they are also considered one of the trickiest areas to design according to Vastu Shastra. Unlike the living room or bedroom, which are associated with positive, nurturing energy, bathrooms deal with waste removal and water drainage — elements that require careful directional placement to avoid disturbing the overall energy balance of a property. In Moradabad, where residential construction is rapidly expanding across areas like Ram Ganga Vihar, kashipur Road, Civil Lines, and Delhi Road, homeowners are increasingly consulting Vastu experts before finalizing bathroom locations in their floor plans.
             </p>
 
             <p>

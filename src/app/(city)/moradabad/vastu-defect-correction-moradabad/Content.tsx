@@ -60,7 +60,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Through assessments in Civil Lines, Kanth Road, Ram Ganga Vihar,
+              Through assessments in Civil Lines, kashipur Road, Ram Ganga Vihar,
               Majhola, Delhi Road, Chowk Bazar, and other areas of Moradabad,
               Space Build commonly reviews the following Vastu-related concerns.
             </p>
@@ -331,7 +331,7 @@ const Content = () => {
             </p>
 
             <p>
-              Services are available in Civil Lines, Kanth Road, Ram Ganga Vihar,
+              Services are available in Civil Lines, kashipur Road, Ram Ganga Vihar,
               Delhi Road, Majhola, Line Par, Chowk Bazar, Katghar, Mustafabad,
               and surrounding residential and commercial areas.
             </p>

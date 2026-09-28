@@ -16,7 +16,7 @@ const Content = () => {
               core, more affluent families and successful business owners,
               including many from the city&apos;s established brassware and
               export trade, are investing in independent villas and bungalows
-              in areas such as Kanth Road, Delhi Road, Civil Lines, and newer
+              in areas such as kashipur Road, Delhi Road, Civil Lines, and newer
               gated communities on the outskirts of the city. Unlike flats,
               villas offer complete control over the plot, structure, and
               layout, making them one of the most flexible property types for

@@ -26,7 +26,7 @@ const Content = () => {
               <li>According to Vastu Shastra, a staircase represents the movement of energy between different levels of a building.</li>
               <li>Just as a main gate controls the flow of energy into a property, a staircase governs how that energy moves and circulates vertically through the home.</li>
               <li>A poorly placed or badly designed staircase is believed to disrupt this flow, leading to financial instability, health issues, strained relationships, and a general sense of unease within the household.</li>
-              <li>Given that Moradabad&apos;s residential landscape includes a mix of independent houses, duplex villas, and multi-storey commercial complexes — especially in developing areas like Ram Ganga Vihar, Kanth Road, and Delhi Road — proper staircase placement has become an essential part of the design conversation.</li>
+              <li>Given that Moradabad&apos;s residential landscape includes a mix of independent houses, duplex villas, and multi-storey commercial complexes — especially in developing areas like Ram Ganga Vihar, kashipur Road, and Delhi Road — proper staircase placement has become an essential part of the design conversation.</li>
               <li>Space Build&apos;s architects and Vastu consultants collaborate closely to ensure that every staircase we design supports rather than disrupts the natural energy flow of the building.</li>
             </ul>
 
