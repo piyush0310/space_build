@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  outputFileTracingRoot: process.cwd(),
+  experimental: {
+    cpus: process.env.VERCEL ? 2 : undefined,
+  },
   images: {
     
     loader: 'custom',
