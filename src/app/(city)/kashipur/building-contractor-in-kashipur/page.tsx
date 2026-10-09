@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/building-contractor-in-kashipur-season-wise-work-calendar",
+      "https://www.spacebuild.co.in/kashipur/building-contractor-in-kashipur",
   },
 
   openGraph: {
     title: "Building Contractor in Kashipur | Season-Wise Work Calendar",
     description:
       "Hiring a building contractor in Kashipur? Use a season-wise calendar to plan monsoon, fog, heat and festival work, protect materials and avoid delays.",
-    url: "https://www.spacebuild.co.in/building-contractor-in-kashipur-season-wise-work-calendar",
+    url: "https://www.spacebuild.co.in/kashipur/building-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

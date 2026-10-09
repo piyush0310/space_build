@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2d-house-plan-cost-india",
+      "https://www.spacebuild.co.in/kashipur/how-much-does-a-2d-house-plan-cost-in-india",
   },
 
   openGraph: {
     title: "How Much Does a 2D House Plan Cost in India? | Space Build",
     description:
       "Wondering how much a 2D house plan costs in India? Learn about price ranges, cost factors, and what's included, and get a transparent 2D plan quotation from Space Build.",
-    url: "https://www.spacebuild.co.in/2d-house-plan-cost-india",
+    url: "https://www.spacebuild.co.in/kashipur/how-much-does-a-2d-house-plan-cost-in-india",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

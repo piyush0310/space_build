@@ -24,7 +24,7 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-architect-for-renovation",
   },
 
   openGraph: {
@@ -32,7 +32,7 @@ export const metadata = {
       "Kashipur Architect for Renovation | Spacebuild Home & Office Makeovers",
     description:
       "Planning a renovation in Kashipur? Spacebuild's expert architects help modernize homes, offices, and old buildings with safe, budget-friendly, and stylish renovation solutions.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-architect-for-renovation",
     siteName: "Spacebuild",
     type: "website",
     locale: "en_IN",

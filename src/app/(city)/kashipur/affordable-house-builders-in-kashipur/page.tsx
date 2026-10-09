@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-house-builders-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/affordable-house-builders-in-kashipur",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Affordable House Builders in Kashipur | Budget Home Construction Guide",
     description:
       "Find affordable house builders in Kashipur with practical cost ranges, money-saving ideas, contract tips and checks to get a strong, budget-friendly home built.",
-    url: "https://www.spacebuild.co.in/affordable-house-builders-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/affordable-house-builders-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -31,7 +31,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/construction-services-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/construction-services-kashipur",
   },
   robots: {
     index: true,
@@ -46,7 +46,7 @@ export const metadata = {
       "Construction Services in Kashipur | Pre, During and Post-Build Guide 2026",
     description:
       "Explore construction services in Kashipur across the full building lifecycle: surveys, design, approvals, equipment, quality checks, handover and long-term maintenance support.",
-    url: "https://www.spacebuild.co.in/kashipur/construction-services-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/construction-services-kashipur",
     siteName: "Space Build",
     type: "website",
     images: [

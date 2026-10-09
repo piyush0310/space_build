@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/civil-contractor-in-kashipur-near-me",
+      "https://www.spacebuild.co.in/kashipur/civil-contractor-in-kashipur-near-me",
   },
 
   openGraph: {

@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/civil-contractor-price-kashipur",
+      "https://www.spacebuild.co.in/kashipur/civil-contractor-price-kashipur",
   },
 
   openGraph: {
     title: "Civil Contractor Price Kashipur | Rate Build-Up Explained",
     description:
       "Wondering about civil contractor price in Kashipur? See how item rates are built, what drives them and how to compare bills without hidden extras.",
-    url: "https://www.spacebuild.co.in/civil-contractor-price-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/civil-contractor-price-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

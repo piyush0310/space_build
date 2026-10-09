@@ -10,14 +10,14 @@ export const metadata = {
   keywords:
     "kashipur architecture company, architecture firm kashipur, best architecture company kashipur, architect company near me, vastu architecture company kashipur, residential architecture kashipur, commercial architecture company kashipur, industrial architecture kashipur, space build kashipur, architecture and interior company kashipur, design build firm kashipur, top architecture company uttarakhand, house design company kashipur, vastu construction company kashipur, architecture consultancy kashipur, project management consultation kashipur, modular kitchen design kashipur, interior design company kashipur, architect and structural engineer kashipur, turnkey construction company kashipur, building design firm kashipur, vastu renovation company kashipur",
   alternates: {
-    canonical: "https://www.spacebuild.co.in/kashipur-architecture-company",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-architecture-company",
   },
   openGraph: {
     title:
       "Kashipur Architecture Company – Design, Vastu & Construction | Space Build",
     description:
       "Looking for a trusted architecture company in Kashipur? Space Build offers vastu-integrated design, interiors, and project management for residential, commercial and industrial projects.",
-    url: "https://www.spacebuild.co.in/kashipur-architecture-company",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-architecture-company",
     siteName: "Space Build",
     images: [
       {

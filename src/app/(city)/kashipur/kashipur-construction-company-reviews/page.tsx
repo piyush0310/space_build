@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur-construction-company-reviews",
+      "https://www.spacebuild.co.in/kashipur/kashipur-construction-company-reviews",
   },
 
   openGraph: {
     title: "Kashipur Construction Company Reviews | Decode Client Feedback",
     description:
       "Reading Kashipur construction company reviews? Learn to decode comments by theme, spot unreliable feedback and confirm opinions before you sign a contract.",
-    url: "https://www.spacebuild.co.in/kashipur-construction-company-reviews",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-construction-company-reviews",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

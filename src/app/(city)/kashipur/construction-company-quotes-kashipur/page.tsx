@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/construction-company-quotes-kashipur",
+      "https://www.spacebuild.co.in/kashipur/construction-company-quotes-kashipur",
   },
 
   openGraph: {
     title: "Construction Company Quotes Kashipur | How to Compare",
     description:
       "Collecting construction company quotes in Kashipur? Learn how to request, read, compare and negotiate quotations so you avoid hidden charges and weak deals.",
-    url: "https://www.spacebuild.co.in/construction-company-quotes-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/construction-company-quotes-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

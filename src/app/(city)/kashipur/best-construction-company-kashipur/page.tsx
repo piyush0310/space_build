@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-construction-company-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/best-construction-company-kashipur",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Best Construction Company in Kashipur | Match the Right Firm to Your Need 2026",
     description:
       "Find the best construction company in Kashipur by matching firm type to your profile: first-time owner, NRI, shop owner, factory unit or investor. Includes checks, rates and agreement tips.",
-    url: "https://www.spacebuild.co.in/best-construction-company-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best-construction-company-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

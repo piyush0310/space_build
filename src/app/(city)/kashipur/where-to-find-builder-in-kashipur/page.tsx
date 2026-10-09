@@ -10,14 +10,14 @@ export const metadata = {
     "where to find builder in Kashipur, builder in Kashipur, house construction Kashipur, villa projects Kashipur, shops construction Kashipur, renovation Kashipur, online platforms for builders Kashipur, local markets Kashipur, builder referrals Kashipur, live construction sites Kashipur, trusted contractors Kashipur, construction company Kashipur, home builder Kashipur, building contractor Kashipur, best builders Kashipur, affordable builders Kashipur, residential construction Kashipur, commercial construction Kashipur, house renovation Kashipur, builder near me Kashipur",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/where-to-find-builder-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/where-to-find-builder-in-kashipur",
   },
 
   openGraph: {
     title: "Where to Find Builder in Kashipur | Best Places to Look",
     description:
       "Where to find builder in Kashipur? Explore online listings, local markets, referrals and site visits to discover trusted contractors for your project.",
-    url: "https://www.spacebuild.co.in/where-to-find-builder-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/where-to-find-builder-in-kashipur",
     siteName: "Space Build",
     images: [
       {

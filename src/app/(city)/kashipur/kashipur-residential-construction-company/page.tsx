@@ -10,14 +10,14 @@ export const metadata = {
     "Choose a Kashipur residential construction company for independent houses, duplexes, villas and rental floors. Learn home planning, safety, budgeting and handover tips for comfortable, durable family living.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/kashipur-residential-construction-company",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-residential-construction-company",
   },
 
   openGraph: {
     title: "Kashipur Residential Construction Company | Home Building Guide",
     description:
       "Need a Kashipur residential construction company? Learn how to plan family-friendly homes, check teams, control costs and get a safe, comfortable handover.",
-    url: "https://www.spacebuild.co.in/kashipur-residential-construction-company",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-residential-construction-company",
     siteName: "Space Build",
     images: [
       {

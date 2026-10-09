@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/how-to-hire-architect-in-kashipur",
   },
 
   openGraph: {
     title: "How to Hire an Architect in Kashipur | Spacebuild Guide 2026",
     description:
       "Planning to hire an architect in Kashipur? Spacebuild shares a complete guide covering costs, qualifications, red flags, and tips to choose the right architect for your home or commercial project.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/how-to-hire-architect-in-kashipur",
     siteName: "Spacebuild",
     type: "website",
     locale: "en_IN",

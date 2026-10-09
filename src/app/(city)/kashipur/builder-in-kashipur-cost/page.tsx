@@ -10,14 +10,14 @@ export const metadata = {
     "Understand builder in Kashipur cost for house construction, villa building, shop projects, renovation and turnkey work. Compare rates, materials and hidden charges before hiring builders.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/builder-in-kashipur-cost",
+    canonical: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur-cost",
   },
 
   openGraph: {
     title: "Builder in Kashipur Cost | House Construction Price Guide",
     description:
       "Planning to build? Understand builder in Kashipur cost, what affects the price, hidden charges and smart ways to save money without losing quality.",
-    url: "https://www.spacebuild.co.in/builder-in-kashipur-cost",
+    url: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur-cost",
     siteName: "Space Build",
     images: [
       {

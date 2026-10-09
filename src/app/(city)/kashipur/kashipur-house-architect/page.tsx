@@ -10,7 +10,7 @@ export const metadata = {
     "house architect in Kashipur, best architect in Kashipur, home design Kashipur, residential architect Kashipur, house construction Kashipur, building design company Kashipur, Vastu architect Kashipur, house plan design Kashipur, 3D elevation design Kashipur, interior designer Kashipur, civil engineer Kashipur, duplex house design Kashipur, bungalow architect Kashipur, house map design Kashipur, front elevation design Kashipur, architect near me Kashipur, house construction company Uttarakhand, affordable house architect Kashipur, modern home design Kashipur, architect for house renovation Kashipur, structural design Kashipur, Spacebuild Kashipur architect, low budget house design Kashipur, architect consultation Kashipur",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/house-architect-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-house-architect",
   },
 
   openGraph: {
@@ -18,7 +18,7 @@ export const metadata = {
       "Best House Architect in Kashipur | Spacebuild – Residential Design Experts",
     description:
       "Looking for a trusted house architect in Kashipur? Spacebuild offers custom home design, Vastu-compliant planning & 3D elevation services. Get a free consultation today!",
-    url: "https://www.spacebuild.co.in/house-architect-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-house-architect",
     siteName: "Space Build",
     images: [
       {

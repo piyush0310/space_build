@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/top-rated-house-construction-contractors",
+      "https://www.spacebuild.co.in/kashipur/top-rated-house-construction-contractors-kashipur",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Top Rated House Construction Contractors in Kashipur | 2026 Buyer's Guide",
     description:
       "Discover how to find top rated house construction contractors in Kashipur, understand ratings, verify quality, compare costs and pick a builder who delivers on promises.",
-    url: "https://www.spacebuild.co.in/kashipur/top-rated-house-construction-contractors",
+    url: "https://www.spacebuild.co.in/kashipur/top-rated-house-construction-contractors-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

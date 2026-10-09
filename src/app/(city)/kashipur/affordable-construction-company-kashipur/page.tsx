@@ -14,8 +14,12 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/affordable-construction-company-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/affordable-construction-company-kashipur",
   },
+  openGraph: {
+    url: "https://www.spacebuild.co.in/kashipur/affordable-construction-company-kashipur",
+  },
+
 };
 
 export default function Page() {

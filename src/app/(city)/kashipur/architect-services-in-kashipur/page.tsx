@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/architect-services-in-kashipur",
   },
 
   openGraph: {
     title: "Architect Services in Kashipur | Spacebuild – Design, Build, Deliver",
     description:
       "Explore complete architect services in Kashipur with Spacebuild — residential, commercial, interior, and structural design solutions tailored to your needs and budget.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/architect-services-in-kashipur",
     siteName: "Spacebuild",
     type: "website",
     locale: "en_IN",

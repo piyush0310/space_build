@@ -10,13 +10,13 @@ export const metadata = {
     "residential architect near Kashipur, residential architect in Kashipur, architect near Kashipur, home architect Kashipur, house design architect Kashipur, Vastu architect Kashipur, Vastu based home design, residential architecture services, home construction guidance, house planning Kashipur, 3D elevation design, villa and bungalow design, duplex house design, farmhouse design Kashipur, home renovation architect, interior designer near Kashipur, modular kitchen Kashipur, Vastu consultant near Kashipur, Vastu construction services, custom home design, architect and interior designer, project management consultation, best architect near Kashipur, Space Build architects",
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/residential-architect-near-kashipur",
+      "https://www.spacebuild.co.in/kashipur/residential-architect-near-kashipur",
   },
   openGraph: {
     title: "Residential Architect Near Kashipur | Space Build",
     description:
       "Looking for a residential architect near Kashipur? Space Build offers Vastu-based home design, 3D elevation, interiors and construction guidance. Call today.",
-    url: "https://www.spacebuild.co.in/residential-architect-near-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/residential-architect-near-kashipur",
     siteName: "Space Build",
     images: [
       {

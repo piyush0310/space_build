@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/how-to-choose-construction-company-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/how-to-choose-construction-company-in-kashipur",
   },
 
   openGraph: {
     title: "How to Choose Construction Company in Kashipur | 14-Day Plan",
     description:
       "Learn how to choose construction company in Kashipur with a simple 14-day plan covering research, meetings, quotations, contracts and final checks.",
-    url: "https://www.spacebuild.co.in/how-to-choose-construction-company-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/how-to-choose-construction-company-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

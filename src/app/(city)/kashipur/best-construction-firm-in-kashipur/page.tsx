@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/best-construction-firm-in-kashipur",
   },
 
   openGraph: {
     title: "Best Construction Firm in Kashipur | Scorecard to Judge Quality",
     description:
       "Which is the best construction firm in Kashipur? Use this simple scorecard to test track record, finances, transparency and service before you commit.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/best-construction-firm-in-kashipur",
     siteName: "Space Build Moradabad",
     type: "website",
     locale: "en_IN",

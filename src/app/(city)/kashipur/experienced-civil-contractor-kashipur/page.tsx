@@ -31,7 +31,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/experienced-civil-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/experienced-civil-contractor-kashipur",
   },
   robots: {
     index: true,
@@ -46,7 +46,7 @@ export const metadata = {
       "Experienced Civil Contractor in Kashipur | How to Identify True Expertise",
     description:
       "Searching for an experienced civil contractor in Kashipur? Learn how to measure real expertise, check past work, compare rates and hire a skilled builder with confidence.",
-    url: "https://www.spacebuild.co.in/kashipur/experienced-civil-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/experienced-civil-contractor-kashipur",
     siteName: "Space Build",
     type: "website",
     images: [

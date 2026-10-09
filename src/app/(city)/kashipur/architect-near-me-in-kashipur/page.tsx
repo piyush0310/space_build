@@ -9,13 +9,13 @@ export const metadata = {
   keywords:
     "architect near me in Kashipur, architect near me, local architect Kashipur, best architect near Kashipur, architect nearby Kashipur, architecture firm near me, home architect near me, commercial architect near me Kashipur, Vastu architect near me, architect consultation near Kashipur, residential architect near Kashipur, architect office near me, nearby architecture services Kashipur, local architecture firm Uttarakhand, architect near Udham Singh Nagar, architect near Moradabad, house design architect near me, architect for renovation near Kashipur, project management consultant near Kashipur, interior designer near Kashipur, architecture and Vastu consultant near me, best architecture firm near me Kashipur",
   alternates: {
-    canonical: "https://www.spacebuild.co.in/architect-near-me-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/architect-near-me-in-kashipur",
   },
   openGraph: {
     title: "Architect Near Me in Kashipur | Space Build",
     description:
       "Searching for an architect near me in Kashipur? Space Build offers local architectural design, Vastu consultation, and interior solutions for homes and businesses in and around Kashipur.",
-    url: "https://www.spacebuild.co.in/architect-near-me-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/architect-near-me-in-kashipur",
     siteName: "Space Build",
     images: [
       {

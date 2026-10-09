@@ -33,7 +33,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/best-house-construction-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/kashipur-best-house-construction-contractor-rating",
   },
 
   robots: {
@@ -52,7 +52,7 @@ export const metadata = {
       "Best House Construction Contractor in Kashipur | 2026 Selection Guide",
     description:
       "Looking for the best house construction contractor in Kashipur? Learn what makes a builder reliable, typical costs, contract tips and how to compare options wisely.",
-    url: "https://www.spacebuild.co.in/kashipur/best-house-construction-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-best-house-construction-contractor-rating",
     siteName: "Space Build",
     type: "website",
     images: [

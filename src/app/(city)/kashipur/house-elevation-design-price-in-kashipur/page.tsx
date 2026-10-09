@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/house-elevation-design-price-kashipur",
+      "https://www.spacebuild.co.in/kashipur/house-elevation-design-price-in-kashipur",
   },
 
   openGraph: {
     title: "House Elevation Design Price in Kashipur | Space Build",
     description:
       "Wondering about house elevation design price in Kashipur? Space Build offers transparent, budget-friendly elevation design packages tailored to your home's size, style, and requirements.",
-    url: "https://www.spacebuild.co.in/house-elevation-design-price-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/house-elevation-design-price-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -17,7 +17,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/kashipur-house-construction-contractor-reviews",
+      "https://www.spacebuild.co.in/kashipur/kashipur-house-construction-companies",
   },
 
   openGraph: {
@@ -27,7 +27,7 @@ export const metadata = {
     description:
       "Reading Kashipur house construction contractor reviews? Match reviewers to your situation, mine feedback by house part and verify claims before hiring.",
 
-    url: "https://www.spacebuild.co.in/kashipur/kashipur-house-construction-contractor-reviews",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-house-construction-companies",
 
     siteName: "Space Build",
     type: "website",

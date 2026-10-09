@@ -9,13 +9,13 @@ export const metadata = {
   keywords:
     "architect services Kashipur, architect services near me, residential architect services Kashipur, commercial architect services Kashipur, Vastu architect services Kashipur, architecture design services Kashipur, renovation architect services Kashipur, interior design services Kashipur, project management consultation Kashipur, architect consultation services Kashipur, professional architect services Uttarakhand, architecture firm services Kashipur, building design services Kashipur, architectural planning services Kashipur, Vastu construction services Kashipur, home architect services Kashipur, office architect services Kashipur, architecture firm Udham Singh Nagar, custom architect services Kashipur, best architect services near Kashipur, full service architecture Kashipur",
   alternates: {
-    canonical: "https://www.spacebuild.co.in/architect-services-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/architect-services-kashipur",
   },
   openGraph: {
     title: "Architect Services in Kashipur | Space Build",
     description:
       "Get professional architect services in Kashipur from Space Build, including residential and commercial design, Vastu integration, renovation, interiors, and project management consultation.",
-    url: "https://www.spacebuild.co.in/architect-services-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/architect-services-kashipur",
     siteName: "Space Build",
     images: [
       {

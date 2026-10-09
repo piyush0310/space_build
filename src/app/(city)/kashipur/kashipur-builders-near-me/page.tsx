@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur-builders-near-me",
+      "https://www.spacebuild.co.in/kashipur/kashipur-builders-near-me",
   },
 
   openGraph: {
     title: "Kashipur Builders Near Me | Find Trusted Local Home Builders 2026",
     description:
       "Searching for Kashipur builders near me? Learn how to locate nearby home builders, compare services and costs, check quality and sign a safe construction agreement.",
-    url: "https://www.spacebuild.co.in/kashipur-builders-near-me",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-builders-near-me",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

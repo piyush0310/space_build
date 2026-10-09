@@ -30,7 +30,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/civil-construction-contractor-near-me-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/civil-construction-contractor-near-me-kashipur",
   },
 
 
@@ -38,7 +38,7 @@ export const metadata = {
     title: "Civil Construction Contractor Near Me in Kashipur | Find Trusted Builders",
     description:
       "Searching for a civil construction contractor near me in Kashipur? Learn how to find, compare and hire a reliable local builder with fair rates and quality work.",
-    url: "https://www.spacebuild.co.in/civil-construction-contractor-near-me-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/civil-construction-contractor-near-me-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

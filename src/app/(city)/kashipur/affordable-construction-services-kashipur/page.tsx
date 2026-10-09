@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/affordable-construction-services-kashipur",
   },
 
   openGraph: {
     title: "Affordable Construction Services Kashipur | Budget Build Guide",
     description:
       "Looking for affordable construction services in Kashipur? Learn smart planning, material choices and contract tips to build a strong home within your budget.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/affordable-construction-services-kashipur",
     siteName: "Space Build Moradabad",
     type: "website",
     locale: "en_IN",

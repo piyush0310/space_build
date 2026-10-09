@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/how-to-choose-building-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/how-to-choose-a-building-contractor-in-kashipur",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "How to Choose a Building Contractor in Kashipur | 7 Filters",
     description:
       "Learn how to choose a building contractor in Kashipur using seven simple filters that shrink a long list to one trusted, verified professional.",
-    url: "https://www.spacebuild.co.in/kashipur/how-to-choose-building-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/how-to-choose-a-building-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/residential-building-contractors-kashipur",
+      "https://www.spacebuild.co.in/kashipur/kashipur-residential-building-contractors",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Residential Building Contractors Kashipur | Stage-wise Guide",
     description:
       "Hiring residential building contractors in Kashipur? Follow a stage-wise home-building roadmap with owner checks, payments and handover tips.",
-    url: "https://www.spacebuild.co.in/kashipur/residential-building-contractors-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-residential-building-contractors",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

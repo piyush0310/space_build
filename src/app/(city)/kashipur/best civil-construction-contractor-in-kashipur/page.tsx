@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-civil-construction-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/best%20civil-construction-contractor-in-kashipur",
   },
 
   openGraph: {
     title: "Best Civil Construction Contractor in Kashipur | Proof Guide",
     description:
       "Who is the best civil construction contractor in Kashipur? Learn the proof to demand: method plans, test records, safety habits and references.",
-    url: "https://www.spacebuild.co.in/best-civil-construction-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best%20civil-construction-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

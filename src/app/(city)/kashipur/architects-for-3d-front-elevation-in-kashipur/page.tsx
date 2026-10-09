@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/architects-3d-front-elevation-moradabad",
+      "https://www.spacebuild.co.in/kashipur/architects-for-3d-front-elevation-in-kashipur",
   },
 
   openGraph: {
     title: "Architects for 3D Front Elevation in Moradabad | Space Build",
     description:
       "Looking for expert architects for 3D front elevation in Moradabad? Space Build creates realistic, Vastu-friendly front elevation designs that bring your dream home's exterior to life.",
-    url: "https://www.spacebuild.co.in/architects-3d-front-elevation-moradabad",
+    url: "https://www.spacebuild.co.in/kashipur/architects-for-3d-front-elevation-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

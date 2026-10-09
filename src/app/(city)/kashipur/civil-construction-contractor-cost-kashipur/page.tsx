@@ -30,7 +30,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/civil-construction-contractor-cost-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/civil-construction-contractor-cost-kashipur",
   },
 
 
@@ -38,7 +38,7 @@ export const metadata = {
     title: "Civil Construction Contractor Cost in Kashipur | 2026 Rates",
     description:
       "Know civil construction contractor cost in Kashipur: per sq ft rates, labour, material, key factors and smart tips to hire a reliable builder within budget.",
-    url: "https://www.spacebuild.co.in/civil-construction-contractor-cost-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/civil-construction-contractor-cost-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

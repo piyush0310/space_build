@@ -33,7 +33,7 @@ export const metadata = {
       "Affordable Building Contractor in Kashipur | Low Cost, Strong Quality 2026",
     description:
       "Looking for an affordable building contractor in Kashipur? Learn how to find a budget-friendly, reliable builder, compare rates, avoid hidden costs and protect quality.",
-    url: "https://www.spacebuild.co.in/affordable-building-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/affordable-building-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

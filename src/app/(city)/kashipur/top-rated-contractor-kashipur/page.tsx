@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/top-rated-contractor-kashipur",
+      "https://www.spacebuild.co.in/kashipur/top-rated-contractor-kashipur",
   },
 
   openGraph: {
     title: "Top Rated Contractor Kashipur | How Ratings Really Work",
     description:
       "Looking for a top rated contractor in Kashipur? Learn what ratings really measure, how to verify scores and which proof matters before you hire.",
-    url: "https://www.spacebuild.co.in/top-rated-contractor-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/top-rated-contractor-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -12,14 +12,14 @@ export const metadata = {
     "Kashipur builder price per sqft, builder price per square foot Kashipur, construction rate per sqft Kashipur, house construction cost Kashipur, builder rates Kashipur, construction cost per sqft Kashipur, villa construction cost Kashipur, shop construction cost Kashipur, renovation cost Kashipur, building rate Kashipur, civil construction rate Kashipur, material rate Kashipur, labour rate Kashipur, turnkey construction cost Kashipur, builder quotation Kashipur, construction estimate Kashipur, hidden construction costs Kashipur, compare builder quotes Kashipur, house construction budget Kashipur, reliable builders Kashipur, construction company Kashipur, building contractor Kashipur, sqft rate guide Kashipur",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/kashipur-builder-price-per-sqft",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-builder-price-per-sqft",
   },
 
   openGraph: {
     title: "Kashipur Builder Price Per Sqft | Rate Guide & Calculation",
     description:
       "Confused about Kashipur builder price per sqft? Learn what the rate covers, how to calculate your total cost and how to compare quotes without hidden extras.",
-    url: "https://www.spacebuild.co.in/kashipur-builder-price-per-sqft",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-builder-price-per-sqft",
     siteName: "Space Build",
     images: [
       {

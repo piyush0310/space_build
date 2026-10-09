@@ -10,14 +10,14 @@ export const metadata = {
     "Hire Kashipur building contractors for house construction, shops, renovation, finishing and structural work. Understand contractor types, trades, contracts and verification steps before choosing reliable local professionals.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/kashipur-building-contractors",
+    canonical: "https://www.spacebuild.co.in/kashipur/kashipur-builder-licensing",
   },
 
   openGraph: {
     title: "Kashipur Building Contractors | Types, Trades & Hiring Guide",
     description:
       "Searching for Kashipur building contractors? Learn the different contractor types, trades, rates, contracts and checks needed to hire the right professional.",
-    url: "https://www.spacebuild.co.in/kashipur-building-contractors",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-builder-licensing",
     siteName: "Space Build",
     images: [
       {

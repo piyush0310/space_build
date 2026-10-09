@@ -10,14 +10,14 @@ export const metadata = {
     "Check builder in Kashipur reviews for house construction, villa projects, shops and renovation. Learn to verify genuine client feedback, ratings and complaints before hiring local construction professionals.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/builder-in-kashipur-reviews",
+    canonical: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur-reviews",
   },
 
   openGraph: {
     title: "Builder in Kashipur Reviews | Read Feedback Before You Hire",
     description:
       "Reading builder in Kashipur reviews? Learn how to spot genuine feedback, avoid fake ratings and use client opinions to choose a dependable construction team.",
-    url: "https://www.spacebuild.co.in/builder-in-kashipur-reviews",
+    url: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur-reviews",
     siteName: "Space Build",
     images: [
       {

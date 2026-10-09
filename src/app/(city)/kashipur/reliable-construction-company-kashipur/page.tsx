@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/reliable-construction-company-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/reliable-construction-company-kashipur",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Reliable Construction Company in Kashipur | Trust Signals and Risk Checks 2026",
     description:
       "Find a reliable construction company in Kashipur by testing promise-keeping, delivery history, cash discipline, transparency and dispute handling before you commit your money.",
-    url: "https://www.spacebuild.co.in/kashipur/reliable-construction-company-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/reliable-construction-company-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

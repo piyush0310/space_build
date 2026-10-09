@@ -10,13 +10,13 @@ export const metadata = {
     "best house design architect near Moradabad, house design architect Kashipur, best architect Moradabad, home architect Kashipur, residential architect Moradabad, house design near me, best architect near Moradabad, home design consultant Kashipur, Vastu architect Moradabad, house architect Uttar Pradesh, home design services Moradabad, house plan architect Kashipur, best home designer Moradabad, residential architecture Uttarakhand, house construction architect Kashipur, home interior architect Moradabad, house renovation architect Kashipur, top house architects near me, custom home design Moradabad, architect for villa design Kashipur, house design and Vastu consultant Moradabad",
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-house-design-architect-near-moradabad-kashipur",
+      "https://www.spacebuild.co.in/kashipur/best-house-design-architect-near-moradabad-kashipur",
   },
   openGraph: {
     title: "Best House Design Architect Near Moradabad & Kashipur | Space Build",
     description:
       "Looking for the best house design architect near Moradabad and Kashipur? Space Build offers custom home design, Vastu integration, and interior solutions for your dream home.",
-    url: "https://www.spacebuild.co.in/best-house-design-architect-near-moradabad-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best-house-design-architect-near-moradabad-kashipur",
     siteName: "Space Build",
     images: [
       {

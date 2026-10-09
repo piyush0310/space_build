@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/2d-house-plan-designer-in-kashipur",
   },
 
   openGraph: {
     title: "2D House Plan Designer in Kashipur | Space Build",
     description:
       "Looking for a professional 2D house plan designer in Kashipur? Space Build offers Vastu-friendly, functional, and affordable 2D floor plans for homes, villas, duplexes, and commercial spaces.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/2d-house-plan-designer-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

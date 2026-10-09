@@ -10,14 +10,14 @@ export const metadata = {
     "Hire a Kashipur construction company for residential buildings, commercial complexes, industrial sheds, renovation and turnkey delivery. Learn services, process and selection tips for reliable construction in Kashipur, Uttarakhand.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/kashipur-construction-company",
+    canonical: "https://www.spacebuild.co.in/kashipur/construction-company-in-kashipur",
   },
 
   openGraph: {
     title: "Kashipur Construction Company | Services, Process & Guide",
     description:
       "Looking for a Kashipur construction company? Explore services, building stages, safety standards and tips to hire a dependable team for your next project.",
-    url: "https://www.spacebuild.co.in/kashipur-construction-company",
+    url: "https://www.spacebuild.co.in/kashipur/construction-company-in-kashipur",
     siteName: "Space Build",
     images: [
       {

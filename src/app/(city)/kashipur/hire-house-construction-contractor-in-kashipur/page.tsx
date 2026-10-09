@@ -33,7 +33,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/hire-house-construction-contractor-kashipur",
+      "https://www.spacebuild.co.in/kashipur/hire-house-construction-contractor-in-kashipur",
   },
 
   robots: {
@@ -51,7 +51,7 @@ export const metadata = {
     title: "Hire House Construction Contractor Kashipur | 5-Meeting Plan",
     description:
       "Want to hire house construction contractor in Kashipur? Use a five-meeting playbook with questions, listening cues and checks before you sign.",
-    url: "https://www.spacebuild.co.in/kashipur/hire-house-construction-contractor-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/hire-house-construction-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     images: [

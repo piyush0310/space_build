@@ -33,7 +33,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur/home-construction-cost-per-sq-ft-kashipur",
+      "https://www.spacebuild.co.in/kashipur/home-construction-cost-per-sq-ft-in-kashipur",
   },
 
   robots: {
@@ -51,7 +51,7 @@ export const metadata = {
     title: "Home Construction Cost per Sq Ft in Kashipur | 2026 Rate Breakdown",
     description:
       "Know the home construction cost per sq ft in Kashipur with grey structure, turnkey and premium rates, stage-wise split, material impact, hidden charges and saving tips.",
-    url: "https://www.spacebuild.co.in/kashipur/home-construction-cost-per-sq-ft-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/home-construction-cost-per-sq-ft-in-kashipur",
     siteName: "Space Build",
     type: "website",
     images: [

@@ -10,13 +10,13 @@ export const metadata = {
     "commercial building architect Kashipur, commercial architect Kashipur, architect in Kashipur, commercial construction Kashipur, office architect Kashipur, showroom design Kashipur, commercial interior design Kashipur, industrial building architect Kashipur, Vastu architect Kashipur, best architect in Kashipur, commercial building design Uttarakhand, architectural consultant Kashipur, commercial space planning Kashipur, warehouse design Kashipur, retail architecture Kashipur, commercial renovation Kashipur, Vastu construction Kashipur, project management consultation Kashipur, office interior design Kashipur, commercial building contractor Kashipur, architecture firm Udham Singh Nagar, commercial building architect Uttarakhand, industrial architect Rudrapur, commercial facade design Kashipur",
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/commercial-building-architect-kashipur",
+      "https://www.spacebuild.co.in/kashipur/commercial-building-architect-kashipur",
   },
   openGraph: {
     title: "Commercial Building Architect in Kashipur | Space Build",
     description:
       "Space Build offers expert commercial building architecture, Vastu-integrated design, and interior solutions in Kashipur. Get professional consultation for offices, showrooms, and industrial spaces.",
-    url: "https://www.spacebuild.co.in/commercial-building-architect-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/commercial-building-architect-kashipur",
     siteName: "Space Build",
     images: [
       {

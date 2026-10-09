@@ -13,7 +13,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-architect-for-house-design-kashipur",
+      "https://www.spacebuild.co.in/kashipur/best-architect-for-house-design-in-kashipur",
   },
 
   openGraph: {
@@ -22,7 +22,7 @@ export const metadata = {
     description:
       "Searching for the best architect for house design in Kashipur? Spacebuild delivers custom floor plans, elevations & Vastu-friendly homes. Book a free design consultation now!",
 
-    url: "https://www.spacebuild.co.in/best-architect-for-house-design-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best-architect-for-house-design-in-kashipur",
 
     siteName: "Space Build",
 

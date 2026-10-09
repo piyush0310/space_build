@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/best-house-map-designer-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/best-house-map-designer-near-kashipur",
   },
 
   openGraph: {
     title: "Best House Map Designer Near Kashipur | Space Build",
     description:
       "Searching for the best house map designer near Kashipur? Space Build offers accurate, Vastu-friendly house map designs with expert consultation, affordable pricing, and quick delivery.",
-    url: "https://www.spacebuild.co.in/best-house-map-designer-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best-house-map-designer-near-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

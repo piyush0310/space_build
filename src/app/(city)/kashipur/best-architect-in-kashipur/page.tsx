@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/",
+    canonical: "https://www.spacebuild.co.in/kashipur/best-architect-in-kashipur",
   },
 
   openGraph: {
     title: "Best Architect in kashipur | Space Build – Vastu & Interiors",
     description:
       "Looking for the best architect in kashipur? Space Build offers Vastu-aligned design, construction, renovation and interiors. Call +91 9927611780 today.",
-    url: "https://www.spacebuild.co.in/",
+    url: "https://www.spacebuild.co.in/kashipur/best-architect-in-kashipur",
     siteName: "Space Build Moradabad",
     type: "website",
     locale: "en_IN",

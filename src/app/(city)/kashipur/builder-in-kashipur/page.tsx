@@ -10,14 +10,14 @@ export const metadata = {
     "Looking for best builder in Kashipur? Trusted construction company offering house construction, civil contractor, turnkey projects, renovation, villa and commercial building services in Kashipur, Uttarakhand.",
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/builder-in-kashipur",
+    canonical: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur",
   },
 
   openGraph: {
     title: "Builder in Kashipur | Trusted House & Construction Experts",
     description:
       "Looking for a builder in Kashipur? Compare costs, services, materials and timelines, and learn how to pick a reliable construction partner for your home.",
-    url: "https://www.spacebuild.co.in/builder-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/builder-in-kashipur",
     siteName: "Space Build",
     images: [
       {

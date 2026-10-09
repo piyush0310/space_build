@@ -13,14 +13,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/kashipur-civil-construction-services",
+      "https://www.spacebuild.co.in/kashipur/kashipur-construction-companies",
   },
 
   openGraph: {
     title: "Kashipur Civil Construction Services | Structure & Site Works",
     description:
       "Need Kashipur civil construction services? Learn about earthwork, foundations, RCC, drainage, roads and testing, plus how to hire a capable civil team.",
-    url: "https://www.spacebuild.co.in/kashipur-civil-construction-services",
+    url: "https://www.spacebuild.co.in/kashipur/kashipur-construction-companies",
     siteName: "Space Build",
     images: [
       {

@@ -10,13 +10,13 @@ export const metadata = {
     "house map designer in Kashipur, top house map designer in Kashipur, house map design Kashipur, home map designer Kashipur, house plan designer Kashipur, Vastu house map Kashipur, Vastu based house plan, house floor plan design, 2D floor plan design, 3D elevation design Kashipur, home design services Kashipur, residential house planning, architect in Kashipur, interior designer in Kashipur, Vastu consultant in Kashipur, Vastu construction services, modern house design, custom home plan, duplex house map design, villa and bungalow design, house renovation planning, modular kitchen Kashipur, house naksha design, ghar ka naksha Kashipur, Space Build Kashipur",
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/house-map-designer-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/top-house-map-designer-in-kashipur",
   },
   openGraph: {
     title: "Top House Map Designer in Kashipur | Space Build",
     description:
       "Looking for the top house map designer in Kashipur? Space Build offers Vastu-based house plans, 3D elevation and interiors. Book your consultation today.",
-    url: "https://www.spacebuild.co.in/house-map-designer-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/top-house-map-designer-in-kashipur",
     siteName: "Space Build",
     images: [
       {

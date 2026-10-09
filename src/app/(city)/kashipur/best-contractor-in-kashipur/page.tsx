@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/best-contractor-in-kashipur",
   },
 
   openGraph: {
     title: "Best Contractor in Kashipur | Find the Right Fit for Your Job",
     description:
       "Who is the best contractor in Kashipur? Learn to match skills to your job, run a smart interview, test work quality and choose a dependable professional.",
-    url: "https://www.spacebuild.co.in/best-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/best-contractor-in-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-contractor-in-kashipur",
+      "https://www.spacebuild.co.in/kashipur/affordable-contractor-kashipur",
   },
 
   openGraph: {
     title: "Affordable Contractor Kashipur | Hire Smart on a Budget",
     description:
       "Need an affordable contractor in Kashipur? Learn how to find fair rates, negotiate safely, split work smartly and avoid cheap deals that cost more later.",
-    url: "https://www.spacebuild.co.in/affordable-contractor-in-kashipur",
+    url: "https://www.spacebuild.co.in/kashipur/affordable-contractor-kashipur",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",
