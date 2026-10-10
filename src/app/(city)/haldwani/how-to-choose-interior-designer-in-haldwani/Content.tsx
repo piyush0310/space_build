@@ -9,207 +9,258 @@ const Content = () => {
           <div className="space-y-8 text-gray-700">
             <header className="space-y-4">
               <h1 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">
-                How to Choose an Interior Designer in Haldwani: A Three-Meeting
-                Question Guide
+                How to Choose an Interior Designer in Haldwani: Ten Decision
+                Traps and How to Avoid Them
               </h1>
-              <p>
-                Most owners pick a designer after one friendly chat and a
-                portfolio scroll. A better way is to use three short meetings,
-                each with a different purpose, and to ask questions that reveal
-                how a studio really works. Good answers are specific and calm,
-                while weak ones are vague or pushy. This guide gives you the
-                questions, the answers to look for and the warning signs for
-                each meeting.
-              </p>
-              <p className="rounded-lg border-l-4 border-gray-300 bg-gray-50 p-4 text-sm italic text-gray-600">
-                Note: all figures are approximate and change with design,
-                material and season. Confirm everything through written
-                quotations.
+              <p className="text-base leading-7">
+                Most bad interior experiences do not come from villains. They
+                come from ordinary decisions made under pressure: a lovely
+                photo, a friendly meeting, or a limited-time discount. Knowing
+                the traps in advance is the easiest protection. This guide
+                lists ten common traps in Haldwani, explains why each one works
+                on us, and gives a practical counter-move you can use today.
               </p>
             </header>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                1. Why Meetings Work Better Than Brochures
-              </h2>
-              <p>Brochures show the best moments. Meetings show habits.</p>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>You hear how the designer explains problems.</li>
-                <li>You see whether questions are welcomed or avoided.</li>
-                <li>You notice who actually attends and who is missing.</li>
-                <li>You compare several studios on the same questions.</li>
-                <li>You build a written record of promises.</li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                2. Prepare One Page Before Meeting Anyone
-              </h2>
-              <p>Give every designer the same starting information.</p>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Plot or flat size and floor plan, if available.</li>
-                <li>Rooms to be done and rooms to leave.</li>
-                <li>Total budget range and payment comfort.</li>
-                <li>Move-in or deadline date.</li>
-                <li>Style references, three or four pictures.</li>
-                <li>Family needs, such as elderly members, kids or home office.</li>
-                <li>Vastu preferences, if any.</li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                3. The Three-Meeting Plan
+                1. Why Decisions Go Wrong
               </h2>
               <ul className="list-disc space-y-2 pl-6">
                 <li>
-                  <strong>Meeting one:</strong> fit and process, at the studio
-                  or by video.
+                  Interior work is emotional, so charm can outweigh checking.
                 </li>
                 <li>
-                  <strong>Meeting two:</strong> proof, at a finished or running
-                  site.
+                  Quotes are hard to compare, so people often choose by
+                  feeling.
                 </li>
-                <li>
-                  <strong>Meeting three:</strong> numbers and terms, with the
-                  written quotation.
-                </li>
+                <li>Deadlines like festivals create pressure.</li>
+                <li>Family opinions can pull in different directions.</li>
+                <li>Few owners have chosen an interior designer before.</li>
               </ul>
-              <p>
-                Do not skip to meeting three early, even if the price looks
-                attractive.
-              </p>
+              <p>A simple routine beats instinct here.</p>
             </section>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                4. Meeting One Goal: Fit and Process
+                2. Trap One: The Pretty Portfolio
               </h2>
               <p>
-                The first meeting tests whether the designer understands you
-                and works in an organised way.
+                <strong>What happens:</strong> Stunning photos create trust
+                before any proof of execution.
               </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
               <ul className="list-disc space-y-2 pl-6">
-                <li>Do they ask about your routine before suggesting styles?</li>
-                <li>Do they explain their steps from brief to handover?</li>
                 <li>
-                  Do they mention drawings and schedules without being asked?
+                  Ask which photos show finished sites and which are renders.
                 </li>
-                <li>Do they speak plainly or hide behind jargon?</li>
-                <li>Do they respect your budget limit?</li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                5. Meeting One Questions
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Who will design my project and who will supervise it?</li>
-                <li>How many projects are you handling now?</li>
-                <li>What documents will I receive before work starts?</li>
-                <li>How do you handle changes after approval?</li>
+                <li>Visit one finished project in person.</li>
                 <li>
-                  Which services do you offer: design only, execution or both?
+                  Open drawers, check edges, and ask about performance during
+                  the first monsoon.
                 </li>
-                <li>How long does a project like mine usually take?</li>
-                <li>Can you share two addresses of finished homes?</li>
               </ul>
             </section>
 
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                6. How to Read the Answers
-              </h2>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Strong Answers
-                </h3>
-                <p>
-                  Names of roles, a step-by-step process, mention of drawings,
-                  schedules and written approvals.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Weak Answers
-                </h3>
-                <p>
-                  &quot;We handle everything&quot;, &quot;don&apos;t worry
-                  about it&quot; or promises with no steps.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Warning Answers
-                </h3>
-                <p>
-                  Refusal to share addresses, pressure to decide quickly or
-                  blame on earlier clients.
-                </p>
-              </div>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                7. Meeting Two Goal: Proof on Site
-              </h2>
-              <p>The second meeting tests quality with your own eyes.</p>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Visit one finished project and one running site.</li>
-                <li>
-                  Go with the designer, then speak to the owner alone for a few
-                  minutes.
-                </li>
-                <li>Take photos for later comparison.</li>
-                <li>Ask what went wrong and how it was fixed.</li>
-                <li>
-                  Notice how the team behaves with workers and neighbours.
-                </li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                8. Meeting Two Questions on Site
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Which part of this project was most difficult?</li>
-                <li>Did the final cost match the first quote?</li>
-                <li>Was the timeline met, and if not, why?</li>
-                <li>
-                  Which materials were used in the kitchen and wardrobes?
-                </li>
-                <li>How has the work looked after one monsoon?</li>
-                <li>What repairs were needed and how fast were they done?</li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                9. What to Check Physically
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Drawers and doors close smoothly.</li>
-                <li>Edges and joints are clean.</li>
-                <li>
-                  Paint lines are straight near ceilings and switchboards.
-                </li>
-                <li>Wardrobe backs and corners are dry.</li>
-                <li>Kitchen units show no swelling near the sink.</li>
-                <li>Lighting spreads evenly without harsh patches.</li>
-                <li>Hardware feels solid and quiet.</li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                10. Approximate Cost Reference
+                3. Trap Two: The Friendly Meeting
               </h2>
               <p>
-                Know market ranges before meeting three. These figures are
-                indicative.
+                <strong>What happens:</strong> A warm, confident designer feels
+                reliable, even without a clear process.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Ask for the steps from brief to handover.</li>
+                <li>Ask what documents you will receive and when.</li>
+                <li>Note who will supervise the site daily.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                4. Trap Three: The First Quote Anchor
+              </h2>
+              <p>
+                <strong>What happens:</strong> The first number you hear
+                becomes your reference, so later quotes can look high or low
+                unfairly.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Collect three quotes before judging any of them.</li>
+                <li>Rebuild all quotes on one common comparison sheet.</li>
+                <li>Compare scope and brands before comparing totals.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                5. Trap Four: The Limited-Time Discount
+              </h2>
+              <p>
+                <strong>What happens:</strong> A claim such as “this rate is
+                valid only today” pushes you toward signing quickly.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Ask for the offer in writing with a validity date.</li>
+                <li>Take at least two days to review it.</li>
+                <li>Check what was removed to create the discount.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                6. Trap Five: The Free Design Offer
+              </h2>
+              <p>
+                <strong>What happens:</strong> Free design feels like a gift,
+                but its cost may be included in inflated execution rates.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Ask what happens if you take the design elsewhere.</li>
+                <li>Request item-wise execution rates.</li>
+                <li>Compare the offer with a paid design-only quote.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                7. Trap Six: The Relative&apos;s Recommendation
+              </h2>
+              <p>
+                <strong>What happens:</strong> Trust in a relative becomes
+                trust in the designer, even when your needs differ.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>
+                  Ask what the relative&apos;s project size and budget were.
+                </li>
+                <li>Visit the relative&apos;s home and inspect the finish.</li>
+                <li>Compare at least two other studios as well.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                8. Trap Seven: The Impressive 3D View
+              </h2>
+              <p>
+                <strong>What happens:</strong> Polished renders look like
+                finished reality.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>
+                  Ask for site photos of similar finished kitchens and
+                  wardrobes.
+                </li>
+                <li>Request material samples in your own lighting.</li>
+                <li>
+                  Confirm that the rendered materials match the quoted brands.
+                </li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                9. Trap Eight: The &quot;Everything Included&quot; Package
+              </h2>
+              <p>
+                <strong>What happens:</strong> A broad promise hides
+                exclusions.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>
+                  Ask for a written inclusion list and a written exclusion
+                  list.
+                </li>
+                <li>Check civil work, electrical work, appliances, and permissions.</li>
+                <li>Compare matching items in other quotations.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                10. Trap Nine: The Big Brand or Big Office
+              </h2>
+              <p>
+                <strong>What happens:</strong> A smart office or famous name
+                suggests safety, yet your project may be assigned to a junior
+                team.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Ask who will actually design and supervise your project.</li>
+                <li>Meet that person before signing.</li>
+                <li>Check recent projects handled by that team.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                11. Trap Ten: The Rush to Start
+              </h2>
+              <p>
+                <strong>What happens:</strong> Festival or move-in pressure
+                makes you skip important checks.
+              </p>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Counter-move
+              </h3>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Work backward from your target date and add a buffer.</li>
+                <li>Never skip drawings, the schedule, or the agreement.</li>
+                <li>Phase the work if the deadline is too tight.</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                12. A Simple Decision Routine
+              </h2>
+              <ol className="list-decimal space-y-2 pl-6">
+                <li>Write a one-page brief.</li>
+                <li>Shortlist four studios.</li>
+                <li>Hold first meetings and note the answers.</li>
+                <li>Visit finished and running sites.</li>
+                <li>Collect itemised quotations.</li>
+                <li>Rebuild them on one comparison sheet.</li>
+                <li>Read the agreement line by line.</li>
+                <li>Decide after a two-day pause.</li>
+              </ol>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                13. Approximate Cost Reference
+              </h2>
+              <p>
+                Know market ranges before comparing. These figures are
+                indicative and can vary by materials, scope, and specifications.
               </p>
               <ul className="list-disc space-y-2 pl-6">
                 <li>
@@ -225,75 +276,67 @@ const Content = () => {
                   above.
                 </li>
                 <li>
-                  <strong>Modular kitchen:</strong> priced per running foot, by
-                  material and hardware.
+                  <strong>Modular kitchen:</strong> priced per running foot
+                  according to material and hardware.
                 </li>
               </ul>
               <p>
-                <strong>Example:</strong> a 1,000 sq ft flat at ₹1,600 per sq
-                ft would cost near ₹16 lakh, excluding appliances and loose
-                furniture.
+                <strong>Example:</strong> A 1,000 sq ft flat at ₹1,600 per sq
+                ft would cost approximately ₹16 lakh, excluding appliances and
+                loose furniture.
               </p>
             </section>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                11. Meeting Three Goal: Numbers and Terms
+                14. Questions That Cut Through Charm
               </h2>
-              <p>
-                The third meeting tests honesty in pricing and clarity in
-                paperwork.
-              </p>
               <ul className="list-disc space-y-2 pl-6">
-                <li>Bring the quotations from all shortlisted studios.</li>
-                <li>Ask each designer to explain every line.</li>
+                <li>Who designs and who supervises my project?</li>
+                <li>How many projects are running right now?</li>
+                <li>Which board and hardware brands are included in this rate?</li>
+                <li>What is excluded from this quotation?</li>
+                <li>How are changes priced?</li>
+                <li>What warranty applies, and who handles complaints?</li>
+                <li>Can I speak to a client from a year ago?</li>
+              </ul>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                15. Haldwani-Specific Checks
+              </h2>
+              <ul className="list-disc space-y-2 pl-6">
                 <li>
-                  Compare board grades, hardware brands and exclusions.
+                  Which boards will be used near kitchens and bathrooms to
+                  handle humidity?
                 </li>
-                <li>Ask what is not included.</li>
-                <li>Review payment stages and timeline.</li>
-                <li>Read the draft agreement before any payment.</li>
+                <li>How will wardrobes be protected during the monsoon?</li>
+                <li>How is ventilation handled in closed storage?</li>
+                <li>What lighting suits cool, cloudy evenings?</li>
+                <li>Who is available locally for repairs?</li>
+                <li>How will materials reach narrow or hilly roads?</li>
               </ul>
             </section>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                12. Meeting Three Questions
+                16. Verification Checklist
               </h2>
               <ul className="list-disc space-y-2 pl-6">
-                <li>Is this a room-wise quotation with sizes and rates?</li>
-                <li>Which board and hardware brands are included?</li>
-                <li>
-                  What is excluded, such as civil, electrical or appliances?
-                </li>
-                <li>How are extra works priced and approved?</li>
-                <li>What is the warranty and who handles complaints?</li>
-                <li>What happens if there is a delay on your side?</li>
-                <li>How are payments linked to stages?</li>
+                <li>Registered business or firm details.</li>
+                <li>GST registration, where applicable.</li>
+                <li>Verified studio address.</li>
+                <li>Names and backgrounds of designers.</li>
+                <li>Addresses of completed projects.</li>
+                <li>Contact numbers for past clients.</li>
+                <li>A sample agreement.</li>
               </ul>
             </section>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                13. Reading the Quotation
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Room-wise breakup with sizes.</li>
-                <li>Unit rate and quantity for each item.</li>
-                <li>Brand and grade of key materials.</li>
-                <li>Inclusions and exclusions written plainly.</li>
-                <li>Taxes and extra charges visible.</li>
-                <li>Payment stages listed.</li>
-                <li>Validity period stated.</li>
-              </ul>
-              <p>
-                A single lump sum with no breakup is a reason to pause.
-              </p>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                14. Agreement Points to Confirm
+                17. Agreement Essentials
               </h2>
               <ul className="list-disc space-y-2 pl-6">
                 <li>Room-wise scope of work.</li>
@@ -307,150 +350,61 @@ const Content = () => {
                 <li>Dispute resolution method.</li>
               </ul>
               <p>
-                <strong>Payment advice:</strong> link instalments to completed
+                <strong>Payment advice:</strong> Link instalments to completed
                 stages and avoid heavy advances.
               </p>
             </section>
 
-            <section className="space-y-3">
+            <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                15. Questions Specific to Haldwani
+                18. Hidden Costs and Reserve
               </h2>
-              <p>Local weather and supply affect results.</p>
               <ul className="list-disc space-y-2 pl-6">
-                <li>
-                  Which boards do you use near kitchens and bathrooms for
-                  humidity?
-                </li>
-                <li>How will you protect wardrobes during the monsoon?</li>
-                <li>How do you plan ventilation in closed storage?</li>
-                <li>What lighting suits cool, cloudy evenings?</li>
-                <li>How do you handle delivery on narrow or hilly roads?</li>
-                <li>Who is available locally for repairs?</li>
+                <li>Wall breaking and re-plastering.</li>
+                <li>Extra electrical points.</li>
+                <li>Plumbing changes.</li>
+                <li>Appliances and loose furniture.</li>
+                <li>Curtains, blinds, and decor.</li>
+                <li>Debris removal and deep cleaning.</li>
+                <li>Society or approval charges.</li>
+              </ul>
+              <p>
+                Keep eight to ten percent of your budget as a safety reserve.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-gray-900">
+                19. Red Flags That Signal a Trap
+              </h2>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Pressure to sign or pay quickly.</li>
+                <li>A heavy advance demanded early.</li>
+                <li>No drawings or schedule.</li>
+                <li>One lump-sum quote without a breakup.</li>
+                <li>Reluctance to show finished projects.</li>
+                <li>Vague answers about warranty.</li>
+                <li>Frequent changes of staff or contact numbers.</li>
               </ul>
             </section>
 
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-gray-900">
-                16. Meeting Scenarios by Owner Type
-              </h2>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  First-Time Owner
-                </h3>
-                <p>
-                  Ask for simple explanations and sample documents. Prefer
-                  studios that guide patiently.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Working Couple
-                </h3>
-                <p>
-                  Ask about weekly photo updates and a single contact person.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Joint Family
-                </h3>
-                <p>
-                  Ask how the studio balances different needs and manages
-                  approvals.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Owner Living Outside Haldwani
-                </h3>
-                <p>
-                  Ask about local supervision, remote reporting and payment tied
-                  to proof.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900">
-                  Shop or Clinic Owner
-                </h3>
-                <p>
-                  Ask about phased work, night shifts and delay penalties.
-                </p>
-              </div>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                17. Hidden Costs to Raise in Any Meeting
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Wall breaking and re-plastering.</li>
-                <li>Electrical rewiring and extra points.</li>
-                <li>Plumbing changes.</li>
-                <li>Appliances and loose furniture.</li>
-                <li>Curtains, blinds and decor.</li>
-                <li>Debris removal and deep cleaning.</li>
-                <li>Transport and fitting of special items.</li>
-              </ul>
-              <p>Keep eight to ten percent as a safety reserve.</p>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                18. Red Flags Across All Three Meetings
-              </h2>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>
-                  Different people attending each meeting with no continuity.
-                </li>
-                <li>Reluctance to show finished projects.</li>
-                <li>Heavy advance demanded early.</li>
-                <li>Rates far below every competitor.</li>
-                <li>No written quotation or drawings.</li>
-                <li>Vague answers on timeline and warranty.</li>
-                <li>Pressure to sign immediately.</li>
-                <li>
-                  Photos on the website that the team cannot explain.
-                </li>
-              </ul>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                19. Decide with a Simple Record
-              </h2>
-              <p>After each meeting, write short notes.</p>
-              <ul className="list-disc space-y-2 pl-6">
-                <li>Clarity of answers.</li>
-                <li>Honesty about limits.</li>
-                <li>Quality seen on site.</li>
-                <li>Fairness of the quotation.</li>
-                <li>Comfort in working together.</li>
-                <li>Open concerns to resolve before signing.</li>
-              </ul>
-              <p>
-                Choose the studio with the clearest answers and the fewest
-                unresolved concerns.
-              </p>
-            </section>
-
-            <section className="space-y-3">
-              <h2 className="text-2xl font-bold text-gray-900">
-                20. Meeting a Studio Based in Another City
+                20. Studios in Nearby Cities
               </h2>
               <p>
-                Some studios serve several towns. Space Build, an interior
-                design and Vastu studio based in Moradabad, is one example (see{" "}
+                Some studios serve several towns.{" "}
                 <a
                   href="https://www.spacebuild.co.in/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="font-medium text-blue-700 underline underline-offset-2"
+                  className="font-semibold text-rose-700 underline decoration-rose-300 underline-offset-4 hover:text-rose-900"
                 >
-                  https://www.spacebuild.co.in/
+                  Space Build
                 </a>
-                ). If you meet an outside studio for Haldwani, add these
-                questions.
+                , an interior design and Vastu studio based in Moradabad, is
+                one example. If you consider an outside studio for Haldwani,
+                apply the same counter-moves and ask additional questions.
               </p>
               <ul className="list-disc space-y-2 pl-6">
                 <li>Is a site supervisor available near you?</li>
@@ -458,11 +412,10 @@ const Content = () => {
                 <li>Who manages local vendors and deliveries?</li>
                 <li>Are there travel or coordination charges?</li>
                 <li>How are repairs handled after handover?</li>
-                <li>
-                  Can meeting two take place at a nearby finished project?
-                </li>
               </ul>
-              <p>Distance is acceptable when systems and reporting are clear.</p>
+              <p>
+                Distance is acceptable when systems and reporting are clear.
+              </p>
             </section>
 
             <section className="space-y-5">
@@ -470,85 +423,86 @@ const Content = () => {
                 Frequently Asked Questions (FAQ)
               </h2>
 
-              <div className="space-y-5">
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    1. How many meetings should I have before choosing?
-                  </h3>
-                  <p>
-                    Three: one for fit and process, one for proof on site, and
-                    one for numbers and terms.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  1. What is the most common mistake when choosing a designer?
+                </h3>
+                <p className="leading-7">
+                  Choosing based on photos and a friendly meeting without
+                  visiting finished work or checking the designer&apos;s
+                  process.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    2. What should I bring to the first meeting?
-                  </h3>
-                  <p>
-                    A one-page brief with rooms, budget, dates, style pictures
-                    and your floor plan.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  2. How many designers should I compare?
+                </h3>
+                <p className="leading-7">
+                  Shortlist four, then collect at least three itemised
+                  quotations with an identical scope of work.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    3. What is the most important question to ask?
-                  </h3>
-                  <p>
-                    Who will design my project, and who will supervise it
-                    daily.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  3. Is a limited-time discount a red flag?
+                </h3>
+                <p className="leading-7">
+                  Often, yes. Ask for the offer in writing with a validity
+                  date, and take time to review what was reduced.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    4. What is the interior cost per sq ft?
-                  </h3>
-                  <p>
-                    Basic work starts near ₹900 per sq ft, mid-range runs about
-                    ₹1,400 to ₹2,200 and premium goes above ₹2,500.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  4. Is free design really free?
+                </h3>
+                <p className="leading-7">
+                  Not always. Its cost may be included in execution rates, so
+                  compare the offer with a design-only quote.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    5. Why visit a site with the designer?
-                  </h3>
-                  <p>
-                    It shows finish quality, team behaviour and how the studio
-                    handles real problems.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  5. What is the interior cost per sq ft?
+                </h3>
+                <p className="leading-7">
+                  Basic work starts near ₹900 per sq ft, mid-range work runs
+                  about ₹1,400 to ₹2,200, and premium work can exceed ₹2,500
+                  per sq ft. These are indicative figures.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    6. How many quotations should I compare?
-                  </h3>
-                  <p>
-                    Collect at least three, with identical scope and matching
-                    material grades.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  6. Should I trust a relative&apos;s recommendation?
+                </h3>
+                <p className="leading-7">
+                  Use it as a lead, then visit the completed project and
+                  compare at least two other studios.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    7. How much advance should I pay?
-                  </h3>
-                  <p>
-                    Keep it small and pay by stages after verified progress.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  7. How much advance should I pay?
+                </h3>
+                <p className="leading-7">
+                  Keep the advance limited and link subsequent payments to
+                  verified progress at each agreed stage.
+                </p>
+              </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">
-                    8. How much reserve should I keep?
-                  </h3>
-                  <p>
-                    Eight to ten percent for civil changes, electrical work,
-                    appliances and price changes.
-                  </p>
-                </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-semibold text-gray-900">
+                  8. How much reserve should I keep?
+                </h3>
+                <p className="leading-7">
+                  Keep eight to ten percent for possible civil changes,
+                  electrical work, appliances, and price changes.
+                </p>
               </div>
             </section>
           </div>

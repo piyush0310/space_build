@@ -1,25 +1,36 @@
+
+import type { Metadata } from "next";
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
-
-export const metadata = {
-  title: "Best Interior Designer Haldwani | 6 Tests Before You Hire",
-
+export const metadata: Metadata = {
+  title:
+    "Best Interior Designer Haldwani | 6 Tests Before You Hire",
 
   description:
     "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
 
-
-  keywords:
-    "Find the best interior designer in Haldwani for homes, kitchens and offices. Test briefs, drawings, materials, sites, budgets and references before choosing trustworthy design professionals.",
-
+  keywords: [
+    "best interior designer in Haldwani",
+    "best interior designer Haldwani",
+    "interior designers in Haldwani",
+    "home interior designer Haldwani",
+    "kitchen interior designer Haldwani",
+    "office interior designer Haldwani",
+    "interior design professionals",
+    "interior designer hiring checklist",
+    "interior design brief",
+    "interior design drawings",
+    "interior materials comparison",
+    "interior design budget",
+    "interior designer references",
+  ],
 
   robots: {
     index: true,
     follow: true,
   },
-
 
   authors: [
     {
@@ -27,20 +38,19 @@ export const metadata = {
     },
   ],
 
-
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/best-interior-designer-haldwani",
+      "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
   },
 
-
   openGraph: {
-    title: "Best Interior Designer Haldwani | 6 Tests Before You Hire",
+    title:
+      "Best Interior Designer Haldwani | 6 Tests Before You Hire",
     description:
       "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
-    url: "https://www.spacebuild.co.in/haldwani/best-interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
     siteName: "Space Build",
-    type: "website",
+    type: "article",
     locale: "en_IN",
     images: [
       {
@@ -52,27 +62,25 @@ export const metadata = {
     ],
   },
 
-
   twitter: {
     card: "summary_large_image",
-    title: "Best Interior Designer Haldwani | 6 Tests Before You Hire",
+    title:
+      "Best Interior Designer Haldwani | 6 Tests Before You Hire",
     description:
       "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
-
   icons: {
     icon: "/favicon.ico",
   },
 
-
   other: {
     "geo.placename": "Haldwani, Uttarakhand",
     "geo.region": "IN-UT",
+    "content-language": "en-IN",
   },
 };
-
 
 export default function Page() {
   return (
