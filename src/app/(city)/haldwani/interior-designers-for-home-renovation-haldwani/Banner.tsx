@@ -1,50 +1,41 @@
-import { Phone } from "lucide-react";
+﻿import { Phone } from "lucide-react";
 
-export default function ThreeBHKInteriorDesignkashipur() {
+export default function Banner() {
   return (
     <main className="bg-white">
-      {/* Hero Section */}
       <section
-        className="relative text-white py-20 px-6 bg-cover bg-center"
+        className="relative px-6 py-20 text-white bg-center bg-cover"
         style={{
           backgroundImage:
-            "url('https://res.cloudinary.com/dv9tivfvq/image/upload/v1782554112/IMG_20260627_141923.jpg_kqocgv.jpg')",
+            "url('https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1600&q=80')",
         }}
       >
-        {/* Overlay */}
-        <div className="absolute inset-0 bg-black/60"></div>
+        <div className="absolute inset-0 bg-black/60" />
 
-        <div className="relative max-w-7xl mx-auto text-center">
-          {/* Heading */}
-          <h1 className="text-3xl md:text-4xl font-serif mb-4 mt-18 md:mt-30">
-          Interior Designers For Home Renovation Haldwani
+        <div className="relative mx-auto max-w-7xl text-center">
+          <h1 className="mb-4 mt-18 text-3xl font-serif md:mt-30 md:text-4xl">
+            Interior Designers For Home Renovation Haldwani
           </h1>
 
-          {/* Subheading */}
-          <p className="text-xl mb-6 max-w-4xl mx-auto">
-            Upgrade your dream home with professional{" "}
-            <strong>3BHK Interior Design In kashipur</strong> by Space Build.
-            We create luxurious, functional, and personalized interiors that
-            maximize space while enhancing comfort and aesthetics.
+          <p className="mx-auto mb-6 max-w-4xl text-xl">
+            Upgrade your dream home with professional <strong>3BHK Interior Design In kashipur</strong> by Space Build.
+            We create luxurious, functional, and personalized interiors that maximize space while enhancing comfort and aesthetics.
             <br />
-            Our expert designers provide complete solutions for living rooms,
-            bedrooms, modular kitchens, dining areas, wardrobes, false
-            ceilings, lighting, and turnkey interior execution. Every design is
-            carefully crafted to match your lifestyle, family needs, and budget
-            while delivering a premium living experience.
+            Our expert designers provide complete solutions for living rooms, bedrooms, modular kitchens, dining areas, wardrobes,
+            false ceilings, lighting, and turnkey interior execution. Every design is carefully crafted to match your lifestyle,
+            family needs, and budget while delivering a premium living experience.
           </p>
 
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a href="tel:+919927611780">
-              <button className="bg-gradient-to-r from-[#2eaad4] to-[#2c67f2] px-5 py-3 rounded-xl font-semibold border-2 border-white hover:opacity-90 transition flex items-center justify-center gap-2 shadow-lg">
+              <button className="flex items-center justify-center gap-2 rounded-xl border-2 border-white bg-gradient-to-r from-[#2eaad4] to-[#2c67f2] px-5 py-3 font-semibold shadow-lg transition hover:opacity-90">
                 <Phone size={18} />
                 <span className="text-base">+91 9927611780</span>
               </button>
             </a>
 
             <a href="mailto:spacebuild.india@gmail.com">
-              <button className="bg-transparent px-5 py-3 rounded-xl font-semibold border-2 border-white hover:bg-white hover:text-gray-800 transition">
+              <button className="rounded-xl border-2 border-white bg-transparent px-5 py-3 font-semibold transition hover:bg-white hover:text-gray-800">
                 Book Free Consultation
               </button>
             </a>

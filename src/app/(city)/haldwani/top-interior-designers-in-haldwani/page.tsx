@@ -21,7 +21,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/top-interior-designers-haldwani",
+      "https://www.spacebuild.co.in/haldwani/top-interior-designers-in-haldwani",
   },
   robots: {
     index: true,
@@ -36,7 +36,7 @@ export const metadata = {
       "Top Interior Designers in Haldwani | How to Find the Best for Your Need 2026",
     description:
       'Find the top interior designers in Haldwani by learning what "top" really means, which categories suit your project, how to verify claims and how to shortlist with confidence.',
-    url: "https://www.spacebuild.co.in/haldwani/top-interior-designers-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/top-interior-designers-in-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [
